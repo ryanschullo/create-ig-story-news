@@ -80,9 +80,41 @@ Georgia without fallback. Do not silently substitute a missing font. Image
 generation alone cannot prove which font files were used; do not claim exact
 font verification solely from visual similarity.
 
-Use `MARKET BRIEF` as the neutral label unless the user supplies a brand. Do not
-copy the examples' personal branding by default. Do not fabricate publisher
-logos or present an original summary as a screenshot of a publisher's article.
+## Moneyberg background branding
+
+The user explicitly requested Moneyberg imagery in backgrounds and supplied a
+gold circular Moneyberg coin/emblem reference. Use that supplied design as the
+default decorative background motif: an oversized, subtle emblem watermark
+over the near-black and dark green background, with muted gold or green tones
+and low contrast. It must support the news panel without competing with the
+headline, photograph, chart, or source line.
+
+Preserve the supplied logo's proportions and recognizable artwork. Preserve its
+existing lettering faithfully; do not invent, misspell, or redraw replacement
+emblem text. Lettering integral to the supplied logo is part of that artwork,
+not an authored-text font fallback. All newly added text still uses the required
+Lato Black and Georgia assignments.
+
+The decorative emblem may extend beyond the marked content area or canvas
+edges. All authored text and news content, including any added brand label,
+remain inside the required content bounds. Keep `MARKET BRIEF` as the added
+label unless the user requests different wording; the request for background
+imagery does not by itself change that text.
+
+Use the supplied logo reference when generating or editing the background.
+Its original upload is currently a conversation reference; do not claim that
+the original logo asset has been archived in the repository unless that has
+actually been done. The generated background treatment is saved as
+`assets/moneyberg-story-background.png`; a completed layout example is
+`exports/barclays-job-cuts-2026-10-22-moneyberg.png`. Inspect and use these as
+visual references for future graphics. They are derived artwork, not the
+original logo file or a guarantee of exact logo reproduction. If exact logo
+reproduction is needed and the original is unavailable, obtain it again rather
+than inventing a replacement emblem.
+
+Treat brand imagery as decoration, never as evidence for news claims. Keep the
+main article photograph or illustration relevant to the story. Do not fabricate
+publisher logos or present an original summary as a publisher's screenshot.
 
 ## News selection and sourcing
 
@@ -105,7 +137,8 @@ market timestamps.
 
 Use the image generation tool for creation and editing, supplying the content
 area and required Lato Black/Georgia assignments explicitly in the prompt.
-Inspect local reference images before editing.
+Include the supplied Moneyberg reference and its low-contrast background
+treatment in the prompt. Inspect local reference images before editing.
 Do not claim the exact canvas dimensions unless the resulting file was checked.
 Do not change the original source chart's data or labels for layout convenience.
 
