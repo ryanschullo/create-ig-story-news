@@ -54,10 +54,31 @@ the area. Do not reproduce the red rectangle in finished exports.
 ## Visual style
 
 Use the uploaded examples as references: near-black background, subtle dark
-green geometric outlines, white editorial panels, black serif headlines and
-body text, and restrained red underlines for key facts. A black text panel with
-white sans-serif copy is also supported. Use blue highlights sparingly for
-tickers or links. Keep the decorative background quiet.
+green geometric outlines, white editorial panels, and restrained red underlines
+for key facts. A black text panel with white copy is also supported. Follow the
+required font assignments below in every layout, even when an uploaded example
+uses another font. Use blue highlights sparingly for tickers or links. Keep the
+decorative background quiet.
+
+## Required fonts
+
+Always use **Lato Black** and **Georgia**. This requirement supersedes the
+earlier generic serif-headline and sans-serif-copy guidance.
+
+- **Lato Black** (Lato, weight 900): headlines, headings, brand labels, dates,
+  chart labels, axes, and legends. Use the actual Black weight, not Lato Regular
+  or another sans-serif font.
+- **Georgia**: body text, summaries, captions, source attribution, and estimate
+  qualifiers. Use Georgia rather than a generic serif substitute.
+
+Use only these two fonts for authored text. Include these exact font names and
+assignments in every generation or editing prompt. Keep both legible within
+the required content area; shorten or reflow copy instead of switching fonts.
+
+For a renderer that selects font files, verify that it resolves Lato Black and
+Georgia without fallback. Do not silently substitute a missing font. Image
+generation alone cannot prove which font files were used; do not claim exact
+font verification solely from visual similarity.
 
 Use `MARKET BRIEF` as the neutral label unless the user supplies a brand. Do not
 copy the examples' personal branding by default. Do not fabricate publisher
@@ -83,7 +104,8 @@ market timestamps.
 ## Generation and delivery
 
 Use the image generation tool for creation and editing, supplying the content
-area explicitly in the prompt. Inspect local reference images before editing.
+area and required Lato Black/Georgia assignments explicitly in the prompt.
+Inspect local reference images before editing.
 Do not claim the exact canvas dimensions unless the resulting file was checked.
 Do not change the original source chart's data or labels for layout convenience.
 
