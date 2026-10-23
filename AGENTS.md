@@ -22,7 +22,11 @@ Give each subject a distinct design, palette, layout, and relevant background
 imagery. Oil stories use a petroleum/charcoal/amber industrial treatment; other
 subjects need their own visual approach. Power and infrastructure stories use
 charcoal, steel blue, restrained electric yellow, and relevant grid imagery.
-Integrate the reauthorized Moneyberg coin as a subtle, low-contrast background
-brand accent, preferably near an edge or in the lower background. Preserve its
-circular proportions; subject-specific imagery remains primary. Decorative
-backgrounds may extend outside the content area, but all added text stays inside.
+Always use the user's original uploaded gold Moneyberg coin as the only approved
+coin artwork. Preserve its exact portrait, rim lettering, and circular
+proportions; do not redraw it or use generated variants as substitutes. Integrate
+it subtly near an edge or in the lower background while subject-specific imagery
+remains primary. The original is currently a conversation reference, not an
+archived repository asset. If it is inaccessible in a future task, obtain the
+original file or source URL before adding the coin. Decorative backgrounds may
+extend outside the content area, but all added text stays inside.

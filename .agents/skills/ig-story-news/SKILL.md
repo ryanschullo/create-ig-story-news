@@ -95,17 +95,33 @@ to update their label.
 
 ## Subtle Moneyberg background accent
 
-The user explicitly reauthorized the Moneyberg coin in the background. Integrate
-it as a subtle, low-contrast brand watermark, preferably near an edge or in the
-lower background. Subject-specific imagery, palette, and layout remain primary;
-the coin must not turn every story into the same generic template or compete
-with the text, visual, or chart. Preserve its circular proportions.
+The user's most recently uploaded original gold coin is the **only approved coin
+artwork**. It is a circular gold medallion with the supplied stylized portrait,
+`DEREK MONEYBERG` on the upper rim, and the supplied Latin inscription around the
+lower rim. Always use that actual uploaded artwork, preserving its exact face,
+hair, lettering, rim, and circular proportions. Do not generate a different
+portrait, redraw the coin, retype its inscription, or substitute a similar coin.
 
-`assets/moneyberg-story-background.png` may be used as a reference for the
-derived coin artwork only. Do not carry over its entire green geometric
-background into every subject. That file is generated artwork, not an archived
-original logo. Preserve integral artwork lettering rather than fabricating
-replacement text; the Lato Black/Georgia rules apply to newly authored text.
+Use the original upload as the reference for image generation or editing. Scale
+it uniformly and blend it subtly into the background, preferably near an edge
+or in the lower background. Subject-specific imagery, palette, and layout remain
+primary; the coin must not turn every story into the same generic template or
+compete with the text, visual, or chart. Preserve integral logo lettering as
+artwork; Lato Black and Georgia apply to newly authored text.
+
+`assets/moneyberg-story-background.png` and coins appearing in earlier generated
+exports are **not approved substitutes** for the original. They remain historical
+work only. Existing subject examples may guide layout and imagery, not coin
+artwork selection. Do not use a generated variant as a master for another image.
+
+The original currently exists as a conversation image reference; it has not been
+archived as a local repository asset. Do not claim otherwise. If the actual
+original becomes accessible as a file, preserve an unmodified master and record
+its location. If it cannot be accessed in a future task, obtain the original file
+or a direct source URL before adding the coin rather than inventing a substitute.
+Inspect each finished image against the original, including the portrait and
+lettering. A generation request alone does not prove exact logo reproduction.
+
 The decorative watermark may extend outside the content area, while all added
 text remains inside it. Branding is decoration, not evidence for news claims.
 
@@ -179,9 +195,9 @@ Use the image generation tool for creation and editing, supplying the content
 area and required Lato Black/Georgia assignments explicitly in the prompt.
 Include the exact recurring label `MONEYBERG NEWS BRIEF` in the prompt.
 Specify that it is small, secondary, and on one line. Include the subject-specific
-design and subtle Moneyberg coin watermark in the prompt. Inspect relevant local
-references before editing; use the derived coin artwork without reusing its
-entire historical background template.
+design and the user's original approved Moneyberg coin as a subtle watermark.
+Inspect relevant references before editing; never substitute a coin from a
+generated background or prior export for the original artwork.
 Do not claim the exact canvas dimensions unless the resulting file was checked.
 Do not change the original source chart's data or labels for layout convenience.
 
