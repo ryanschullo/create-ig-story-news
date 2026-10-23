@@ -12,9 +12,10 @@ Always use Lato Black (weight 900) for headlines and labels, and Georgia for
 body text, captions, and source attribution. Follow the skill's full font
 assignments; do not silently substitute other fonts.
 
-Use `HEADLINES THAT MATTER` as the recurring brand label for new graphics and
-requested revisions. Set it in Lato Black; it may wrap onto two lines to stay
-inside the content bounds. Leave historical exports unchanged unless requested.
+Use `MONEYBERG NEWS BRIEF` as the recurring brand label for new graphics and
+requested revisions. Set it in Lato Black (weight 900), preferably on two lines:
+`MONEYBERG` / `NEWS BRIEF`. Keep it inside the content bounds. Leave historical
+exports unchanged unless requested.
 
 Give each subject a distinct design, palette, layout, and relevant background
 imagery. Oil stories use a petroleum/charcoal/amber industrial treatment; other

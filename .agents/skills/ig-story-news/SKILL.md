@@ -83,12 +83,12 @@ font verification solely from visual similarity.
 
 ## Recurring brand label
 
-Use the exact label **HEADLINES THAT MATTER** for new graphics and requested
-revisions. This replaces the previous `MARKET BRIEF` default. Set it in Lato
-Black (weight 900), wrapping onto two lines if necessary without changing the
-wording. Keep it inside the required content bounds with the other authored
-text. Historical exports stay unchanged unless the user requests revisions;
-do not rewrite them merely to update their label.
+Use the exact label **MONEYBERG NEWS BRIEF** for new graphics and requested
+revisions. This supersedes earlier labels. Set it in Lato Black (weight 900),
+preferably with `MONEYBERG` on the first line and `NEWS BRIEF` on the second;
+keep `NEWS BRIEF` as two words. Keep the full label inside the required content
+bounds with the other authored text. Historical exports stay unchanged unless
+the user requests revisions; do not rewrite them merely to update their label.
 
 ## Subject-specific designs
 
@@ -121,14 +121,14 @@ exchange LED architecture, restrained red loss figures, and modular statistic
 panels. Use this treatment for Nasdaq stories only, not as a universal template.
 
 For a power-and-infrastructure example, use
-`exports/electricity-prices-2026-10-22.png`. Keep its grid imagery and
-charcoal/steel-blue/electric-yellow treatment distinct from oil and Nasdaq
+`exports/electricity-prices-2026-10-22-moneyberg-news-brief.png`. Keep its grid
+imagery and charcoal/steel-blue/electric-yellow treatment distinct from oil and Nasdaq
 designs. Do not invent project locations, grid maps, demand or generation
 figures, or explanations for price changes that the reporting does not support.
 
 Decorative backgrounds may extend beyond the marked content area or canvas
 edges. All authored text and news content, including any brand label, remain
-inside the required content bounds. Use `HEADLINES THAT MATTER` as the added
+inside the required content bounds. Use `MONEYBERG NEWS BRIEF` as the added
 label unless the user requests different wording.
 
 Treat generated backgrounds as editorial illustration, never as evidence of an
@@ -159,7 +159,7 @@ market timestamps.
 
 Use the image generation tool for creation and editing, supplying the content
 area and required Lato Black/Georgia assignments explicitly in the prompt.
-Include the exact recurring label `HEADLINES THAT MATTER` in the prompt.
+Include the exact recurring label `MONEYBERG NEWS BRIEF` in the prompt.
 Specify the subject-specific design direction and the absence of coin/emblem
 backgrounds in the prompt. Inspect relevant local reference images before
 editing; do not reuse historical coin designs as default references.
