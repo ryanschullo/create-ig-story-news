@@ -13,14 +13,16 @@ body text, captions, and source attribution. Follow the skill's full font
 assignments; do not silently substitute other fonts.
 
 Use `MONEYBERG NEWS BRIEF` as the recurring brand label for new graphics and
-requested revisions. Set it in Lato Black (weight 900), preferably on two lines:
-`MONEYBERG` / `NEWS BRIEF`. Keep it inside the content bounds. Leave historical
-exports unchanged unless requested.
+requested revisions. Keep all three words on one compact line in Lato Black
+(weight 900), secondary to the story headline, around 28–34 px at 1080 px canvas
+width. Adjust spacing and size to fit rather than wrapping. Keep it inside the
+content bounds. Leave historical exports unchanged unless requested.
 
 Give each subject a distinct design, palette, layout, and relevant background
 imagery. Oil stories use a petroleum/charcoal/amber industrial treatment; other
 subjects need their own visual approach. Power and infrastructure stories use
 charcoal, steel blue, restrained electric yellow, and relevant grid imagery.
-Do not use Moneyberg coins or emblems
-unless the user explicitly requests them again. Decorative backgrounds may
-extend outside the content area, but all added text must stay inside it.
+Integrate the reauthorized Moneyberg coin as a subtle, low-contrast background
+brand accent, preferably near an edge or in the lower background. Preserve its
+circular proportions; subject-specific imagery remains primary. Decorative
+backgrounds may extend outside the content area, but all added text stays inside.

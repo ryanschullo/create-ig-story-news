@@ -54,8 +54,8 @@ the area. Do not reproduce the red rectangle in finished exports.
 ## Visual style
 
 Give each subject its own visual identity through a relevant background,
-palette, composition, and panel treatment. Do not apply one reusable coin,
-green geometric background, or article-card layout to every story. Earlier
+palette, composition, and panel treatment. Do not apply one fixed coin-dominated
+background, green geometric template, or article-card layout to every story. Earlier
 examples remain references for editorial clarity and emphasis, not mandatory
 templates. White editorial panels and dark panels with light copy are both
 supported. Follow the required font assignments and content bounds in every
@@ -84,18 +84,36 @@ font verification solely from visual similarity.
 ## Recurring brand label
 
 Use the exact label **MONEYBERG NEWS BRIEF** for new graphics and requested
-revisions. This supersedes earlier labels. Set it in Lato Black (weight 900),
-preferably with `MONEYBERG` on the first line and `NEWS BRIEF` on the second;
-keep `NEWS BRIEF` as two words. Keep the full label inside the required content
-bounds with the other authored text. Historical exports stay unchanged unless
-the user requests revisions; do not rewrite them merely to update their label.
+revisions. Set all three words on one compact line in Lato Black (weight 900),
+approximately 28–34 px on a 1080 px wide canvas, scaled with the output. The
+label is secondary to the story headline, not a large masthead. Adjust its
+spacing or size to fit without wrapping, cropping, or changing the wording.
+Keep it inside the required content bounds with the other authored text.
+This supersedes earlier large or two-line label directions. Historical exports
+stay unchanged unless the user requests revisions; do not rewrite them merely
+to update their label.
+
+## Subtle Moneyberg background accent
+
+The user explicitly reauthorized the Moneyberg coin in the background. Integrate
+it as a subtle, low-contrast brand watermark, preferably near an edge or in the
+lower background. Subject-specific imagery, palette, and layout remain primary;
+the coin must not turn every story into the same generic template or compete
+with the text, visual, or chart. Preserve its circular proportions.
+
+`assets/moneyberg-story-background.png` may be used as a reference for the
+derived coin artwork only. Do not carry over its entire green geometric
+background into every subject. That file is generated artwork, not an archived
+original logo. Preserve integral artwork lettering rather than fabricating
+replacement text; the Lato Black/Georgia rules apply to newly authored text.
+The decorative watermark may extend outside the content area, while all added
+text remains inside it. Branding is decoration, not evidence for news claims.
 
 ## Subject-specific designs
 
-The user withdrew the Moneyberg coin background direction. Do not use coins,
-Moneyberg emblems, or that watermark treatment in future graphics unless the
-user explicitly requests them again. Retain older assets and exports as
-historical work, not default references for new designs.
+Use a distinct subject-specific design together with the compact one-line label
+and subtle Moneyberg coin accent. The prior blanket coin ban no longer applies.
+Retain historical exports unchanged unless the user requests revisions.
 
 Choose a design appropriate to the story's subject. These are starting points,
 not rigid templates; vary composition and hierarchy to suit the news:
@@ -121,7 +139,7 @@ exchange LED architecture, restrained red loss figures, and modular statistic
 panels. Use this treatment for Nasdaq stories only, not as a universal template.
 
 For a power-and-infrastructure example, use
-`exports/electricity-prices-2026-10-22-moneyberg-news-brief.png`. Keep its grid
+`exports/electricity-prices-2026-10-22-compact-brand.png`. Keep its grid
 imagery and charcoal/steel-blue/electric-yellow treatment distinct from oil and Nasdaq
 designs. Do not invent project locations, grid maps, demand or generation
 figures, or explanations for price changes that the reporting does not support.
@@ -160,9 +178,10 @@ market timestamps.
 Use the image generation tool for creation and editing, supplying the content
 area and required Lato Black/Georgia assignments explicitly in the prompt.
 Include the exact recurring label `MONEYBERG NEWS BRIEF` in the prompt.
-Specify the subject-specific design direction and the absence of coin/emblem
-backgrounds in the prompt. Inspect relevant local reference images before
-editing; do not reuse historical coin designs as default references.
+Specify that it is small, secondary, and on one line. Include the subject-specific
+design and subtle Moneyberg coin watermark in the prompt. Inspect relevant local
+references before editing; use the derived coin artwork without reusing its
+entire historical background template.
 Do not claim the exact canvas dimensions unless the resulting file was checked.
 Do not change the original source chart's data or labels for layout convenience.
 
