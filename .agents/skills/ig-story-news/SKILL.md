@@ -105,6 +105,11 @@ For an oil-specific design reference, use
 amber treatment belongs to oil stories; do not make it the default palette or
 layout for unrelated subjects.
 
+For a Nasdaq-specific example, use
+`exports/nasdaq100-selloff-2026-10-22.png`: cool navy and electric blue,
+exchange LED architecture, restrained red loss figures, and modular statistic
+panels. Use this treatment for Nasdaq stories only, not as a universal template.
+
 Decorative backgrounds may extend beyond the marked content area or canvas
 edges. All authored text and news content, including any brand label, remain
 inside the required content bounds. Keep `MARKET BRIEF` as the added label
