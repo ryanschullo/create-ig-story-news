@@ -1,6 +1,6 @@
 ---
 name: ig-story-news
-description: Create sourced Instagram Story news graphics in the user's black-and-green editorial style, with all news content inside their marked content area.
+description: Create sourced Instagram Story news graphics with distinct subject-specific designs, Lato Black and Georgia, and all news content inside the user's marked content area.
 ---
 
 # Instagram Story news graphics
@@ -53,12 +53,13 @@ the area. Do not reproduce the red rectangle in finished exports.
 
 ## Visual style
 
-Use the uploaded examples as references: near-black background, subtle dark
-green geometric outlines, white editorial panels, and restrained red underlines
-for key facts. A black text panel with white copy is also supported. Follow the
-required font assignments below in every layout, even when an uploaded example
-uses another font. Use blue highlights sparingly for tickers or links. Keep the
-decorative background quiet.
+Give each subject its own visual identity through a relevant background,
+palette, composition, and panel treatment. Do not apply one reusable coin,
+green geometric background, or article-card layout to every story. Earlier
+examples remain references for editorial clarity and emphasis, not mandatory
+templates. White editorial panels and dark panels with light copy are both
+supported. Follow the required font assignments and content bounds in every
+layout. Keep backgrounds subordinate to legible news content.
 
 ## Required fonts
 
@@ -80,41 +81,41 @@ Georgia without fallback. Do not silently substitute a missing font. Image
 generation alone cannot prove which font files were used; do not claim exact
 font verification solely from visual similarity.
 
-## Moneyberg background branding
+## Subject-specific designs
 
-The user explicitly requested Moneyberg imagery in backgrounds and supplied a
-gold circular Moneyberg coin/emblem reference. Use that supplied design as the
-default decorative background motif: an oversized, subtle emblem watermark
-over the near-black and dark green background, with muted gold or green tones
-and low contrast. It must support the news panel without competing with the
-headline, photograph, chart, or source line.
+The user withdrew the Moneyberg coin background direction. Do not use coins,
+Moneyberg emblems, or that watermark treatment in future graphics unless the
+user explicitly requests them again. Retain older assets and exports as
+historical work, not default references for new designs.
 
-Preserve the supplied logo's proportions and recognizable artwork. Preserve its
-existing lettering faithfully; do not invent, misspell, or redraw replacement
-emblem text. Lettering integral to the supplied logo is part of that artwork,
-not an authored-text font fallback. All newly added text still uses the required
-Lato Black and Georgia assignments.
+Choose a design appropriate to the story's subject. These are starting points,
+not rigid templates; vary composition and hierarchy to suit the news:
 
-The decorative emblem may extend beyond the marked content area or canvas
-edges. All authored text and news content, including any added brand label,
-remain inside the required content bounds. Keep `MARKET BRIEF` as the added
-label unless the user requests different wording; the request for background
-imagery does not by itself change that text.
+| Subject | Background and design direction |
+| --- | --- |
+| Oil and energy | Petroleum black, charcoal, and amber; tanker, refinery, pipeline, or storage-tank illustrations; industrial lines and strong energy-focused composition. |
+| AI investing and technology | Cool navy, cyan, or violet; chips, data-center structures, or circuitry; a clean technical composition. |
+| Federal Reserve and U.S. economy | Slate, ink, or restrained cream; institutional architecture and macroeconomic motifs; a clear policy-brief hierarchy. |
+| Layoffs and business employment | Muted office or workplace imagery; distinct company or employment framing with a sober editorial palette. |
+| Stocks and finance | A market-focused layout and palette; trading screens or financial motifs with concise market summaries. |
+| Geopolitics and wars | A geographically relevant map or clearly illustrative regional imagery; a restrained map-led composition. |
 
-Use the supplied logo reference when generating or editing the background.
-Its original upload is currently a conversation reference; do not claim that
-the original logo asset has been archived in the repository unless that has
-actually been done. The generated background treatment is saved as
-`assets/moneyberg-story-background.png`; a completed layout example is
-`exports/barclays-job-cuts-2026-10-22-moneyberg.png`. Inspect and use these as
-visual references for future graphics. They are derived artwork, not the
-original logo file or a guarantee of exact logo reproduction. If exact logo
-reproduction is needed and the original is unavailable, obtain it again rather
-than inventing a replacement emblem.
+For an oil-specific design reference, use
+`exports/oil-five-month-high-2026-10-22-oil-design.png`. Its petroleum/charcoal/
+amber treatment belongs to oil stories; do not make it the default palette or
+layout for unrelated subjects.
 
-Treat brand imagery as decoration, never as evidence for news claims. Keep the
-main article photograph or illustration relevant to the story. Do not fabricate
-publisher logos or present an original summary as a publisher's screenshot.
+Decorative backgrounds may extend beyond the marked content area or canvas
+edges. All authored text and news content, including any brand label, remain
+inside the required content bounds. Keep `MARKET BRIEF` as the added label
+unless the user requests different wording.
+
+Treat generated backgrounds as editorial illustration, never as evidence of an
+actual event. Keep the main photograph or illustration relevant to the story.
+Do not invent map boundaries, quantitative chart data, price labels, or event
+details for decoration. Charts with numbers must use sourced data. Do not
+fabricate publisher logos or present an original summary as a publisher's
+screenshot.
 
 ## News selection and sourcing
 
@@ -137,8 +138,9 @@ market timestamps.
 
 Use the image generation tool for creation and editing, supplying the content
 area and required Lato Black/Georgia assignments explicitly in the prompt.
-Include the supplied Moneyberg reference and its low-contrast background
-treatment in the prompt. Inspect local reference images before editing.
+Specify the subject-specific design direction and the absence of coin/emblem
+backgrounds in the prompt. Inspect relevant local reference images before
+editing; do not reuse historical coin designs as default references.
 Do not claim the exact canvas dimensions unless the resulting file was checked.
 Do not change the original source chart's data or labels for layout convenience.
 

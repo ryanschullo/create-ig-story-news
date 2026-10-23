@@ -12,7 +12,8 @@ Always use Lato Black (weight 900) for headlines and labels, and Georgia for
 body text, captions, and source attribution. Follow the skill's full font
 assignments; do not silently substitute other fonts.
 
-Use the user's supplied Moneyberg coin/emblem as subtle decorative background
-branding. Preserve its proportions and integral artwork lettering; keep it low
-contrast so the news remains readable. Decorative emblem imagery may extend
-outside the content area, but all added text must stay inside it.
+Give each subject a distinct design, palette, layout, and relevant background
+imagery. Oil stories use a petroleum/charcoal/amber industrial treatment; other
+subjects need their own visual approach. Do not use Moneyberg coins or emblems
+unless the user explicitly requests them again. Decorative backgrounds may
+extend outside the content area, but all added text must stay inside it.
