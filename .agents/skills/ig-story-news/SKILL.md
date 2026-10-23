@@ -81,6 +81,15 @@ Georgia without fallback. Do not silently substitute a missing font. Image
 generation alone cannot prove which font files were used; do not claim exact
 font verification solely from visual similarity.
 
+## Recurring brand label
+
+Use the exact label **HEADLINES THAT MATTER** for new graphics and requested
+revisions. This replaces the previous `MARKET BRIEF` default. Set it in Lato
+Black (weight 900), wrapping onto two lines if necessary without changing the
+wording. Keep it inside the required content bounds with the other authored
+text. Historical exports stay unchanged unless the user requests revisions;
+do not rewrite them merely to update their label.
+
 ## Subject-specific designs
 
 The user withdrew the Moneyberg coin background direction. Do not use coins,
@@ -94,6 +103,7 @@ not rigid templates; vary composition and hierarchy to suit the news:
 | Subject | Background and design direction |
 | --- | --- |
 | Oil and energy | Petroleum black, charcoal, and amber; tanker, refinery, pipeline, or storage-tank illustrations; industrial lines and strong energy-focused composition. |
+| Power and infrastructure | Charcoal, steel blue, and restrained electric yellow; transmission towers, substations, power lines, utility meters, or an illustrative electricity grid; a distinct infrastructure-focused composition. |
 | AI investing and technology | Cool navy, cyan, or violet; chips, data-center structures, or circuitry; a clean technical composition. |
 | Federal Reserve and U.S. economy | Slate, ink, or restrained cream; institutional architecture and macroeconomic motifs; a clear policy-brief hierarchy. |
 | Layoffs and business employment | Muted office or workplace imagery; distinct company or employment framing with a sober editorial palette. |
@@ -110,10 +120,16 @@ For a Nasdaq-specific example, use
 exchange LED architecture, restrained red loss figures, and modular statistic
 panels. Use this treatment for Nasdaq stories only, not as a universal template.
 
+For a power-and-infrastructure example, use
+`exports/electricity-prices-2026-10-22.png`. Keep its grid imagery and
+charcoal/steel-blue/electric-yellow treatment distinct from oil and Nasdaq
+designs. Do not invent project locations, grid maps, demand or generation
+figures, or explanations for price changes that the reporting does not support.
+
 Decorative backgrounds may extend beyond the marked content area or canvas
 edges. All authored text and news content, including any brand label, remain
-inside the required content bounds. Keep `MARKET BRIEF` as the added label
-unless the user requests different wording.
+inside the required content bounds. Use `HEADLINES THAT MATTER` as the added
+label unless the user requests different wording.
 
 Treat generated backgrounds as editorial illustration, never as evidence of an
 actual event. Keep the main photograph or illustration relevant to the story.
@@ -143,6 +159,7 @@ market timestamps.
 
 Use the image generation tool for creation and editing, supplying the content
 area and required Lato Black/Georgia assignments explicitly in the prompt.
+Include the exact recurring label `HEADLINES THAT MATTER` in the prompt.
 Specify the subject-specific design direction and the absence of coin/emblem
 backgrounds in the prompt. Inspect relevant local reference images before
 editing; do not reuse historical coin designs as default references.

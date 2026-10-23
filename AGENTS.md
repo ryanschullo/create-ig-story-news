@@ -12,8 +12,14 @@ Always use Lato Black (weight 900) for headlines and labels, and Georgia for
 body text, captions, and source attribution. Follow the skill's full font
 assignments; do not silently substitute other fonts.
 
+Use `HEADLINES THAT MATTER` as the recurring brand label for new graphics and
+requested revisions. Set it in Lato Black; it may wrap onto two lines to stay
+inside the content bounds. Leave historical exports unchanged unless requested.
+
 Give each subject a distinct design, palette, layout, and relevant background
 imagery. Oil stories use a petroleum/charcoal/amber industrial treatment; other
-subjects need their own visual approach. Do not use Moneyberg coins or emblems
+subjects need their own visual approach. Power and infrastructure stories use
+charcoal, steel blue, restrained electric yellow, and relevant grid imagery.
+Do not use Moneyberg coins or emblems
 unless the user explicitly requests them again. Decorative backgrounds may
 extend outside the content area, but all added text must stay inside it.
