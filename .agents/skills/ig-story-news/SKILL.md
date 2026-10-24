@@ -155,6 +155,10 @@ For a Nasdaq-specific example, use
 exchange LED architecture, restrained red loss figures, and modular statistic
 panels. Use this treatment for Nasdaq stories only, not as a universal template.
 
+For a daily U.S. market-close example, use
+`exports/us-market-close-2026-10-23.png`, following the three-index reporting
+requirements below rather than copying its historical figures into new work.
+
 For a power-and-infrastructure example, use
 `exports/electricity-prices-2026-10-22-compact-brand.png`. Keep its grid
 imagery and charcoal/steel-blue/electric-yellow treatment distinct from oil and Nasdaq
@@ -177,6 +181,24 @@ Do not invent map boundaries, quantitative chart data, price labels, or event
 details for decoration. Charts with numbers must use sourced data. Do not
 fabricate publisher logos or present an original summary as a publisher's
 screenshot.
+
+## Daily U.S. market wraps
+
+Always include results for all three major indices on broad daily U.S. market
+wraps: **Nasdaq Composite**, **S&P 500**, and **Dow Jones Industrial Average**.
+Use the Nasdaq Composite by default; do not silently replace it with Nasdaq-100.
+Use a different Nasdaq index only when the user explicitly requests it and label
+it accurately. This requirement does not add an index panel to unrelated news
+stories.
+
+Verify all three results for the same trading date and show each index's daily
+percentage change and closing level when verified. Include point changes only
+when independently verified; never calculate them from rounded percentages or
+rounded index levels. Do not invent missing levels or mix one index's intraday
+reading with another's final close. If the session is not final, label the
+graphic **intraday** with a common observation time and date rather than calling
+it a market close. If required data remains unavailable, disclose that limitation
+and mark it unavailable instead of fabricating a complete closing report.
 
 ## News selection and sourcing
 

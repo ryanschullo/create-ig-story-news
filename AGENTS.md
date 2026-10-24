@@ -18,6 +18,13 @@ requested revisions. Keep all three words on one compact line in Lato Black
 width. Adjust spacing and size to fit rather than wrapping. Keep it inside the
 content bounds. Leave historical exports unchanged unless requested.
 
+Daily U.S. market wrap graphics must show the Nasdaq Composite, S&P 500, and
+Dow Jones Industrial Average results for the same trading date. Verify each
+daily percentage change and closing level; add point changes only when verified.
+Never substitute Nasdaq-100 silently, invent missing data, or derive point
+changes from rounded values. Label nonfinal snapshots as intraday. This rule
+applies to broad market wraps, not every unrelated news graphic.
+
 Give each subject a distinct design, palette, layout, and relevant background
 imagery. Oil stories use a petroleum/charcoal/amber industrial treatment; other
 subjects need their own visual approach. Power and infrastructure stories use
