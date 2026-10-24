@@ -2,8 +2,12 @@
 
 Status: the two requested graphics have been generated, inspected, and exported:
 
-- `exports/family-health-premiums-2026-10-24.png`
-- `exports/family-net-worth-by-age-2026-10-24.png`
+- `exports/family-health-premiums-2026-10-24-expanded.png`
+- `exports/family-net-worth-by-age-2026-10-24-expanded.png`
+
+These are the latest revisions using the enlarged red-box layout. The earlier
+exports are retained as historical versions. Headlines, charts, table entries,
+and source copy were enlarged/repositioned, with key figures and layout checked.
 
 The user reattached the original coin as an inline image and that original was
 included in the generation references. It still has not been exposed as a local
@@ -101,7 +105,8 @@ https://apnews.com/article/halloween-candy-sales-chocolate-prices-treats-0b1126f
 
 Author: Dee-Ann Durbin, Associated Press. Published October 24, 2026.
 
-Draft: `exports/halloween-candy-sales-2026-10-24-draft.png`.
+Latest resized draft:
+`exports/halloween-candy-sales-2026-10-24-expanded-draft.png`.
 The draft includes no substitute coin; final coin placement requires a reusable
 original file or direct URL. The inline source is outside the image tool's
 recent-reference window again after the preceding layout revisions.
