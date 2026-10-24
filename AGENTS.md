@@ -7,6 +7,9 @@ The user's marked content area is a required layout constraint. Fit every part o
 the news content inside it, including the full headline, image, body text, chart
 axes and legend, and source attribution. Never satisfy the constraint by clipping
 content or making text too small to read.
+The latest enlarged bounds are x=80–985 and y=140–1560 on a 1080 × 1920 canvas,
+scaled proportionally, with at least 24 px of inner padding. Use the enlarged
+space for readable content rather than retaining the older, tighter margins.
 
 Always use Lato Black (weight 900) for headlines and labels, and Georgia for
 body text, captions, and source attribution. Follow the skill's full font

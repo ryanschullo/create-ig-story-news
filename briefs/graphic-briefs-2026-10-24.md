@@ -18,7 +18,9 @@ available at the archived source-chart path below.
 
 Both graphics must use the small, single-line **MONEYBERG NEWS BRIEF** label,
 Lato Black headings/labels, Georgia body/source text, and the saved content
-bounds: x=140–980, y=210–1530 on a 1080 × 1920 canvas, scaled proportionally.
+bounds: x=80–985, y=140–1560 on a 1080 × 1920 canvas, scaled proportionally,
+with at least 24 px inner padding. These are the user's latest enlarged bounds
+for requested revisions; historical exports retain their rendering until revised.
 
 ## Family health-insurance premiums — include the chart
 

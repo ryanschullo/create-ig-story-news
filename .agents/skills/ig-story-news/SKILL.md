@@ -7,31 +7,35 @@ description: Create sourced Instagram Story news graphics with distinct subject-
 
 ## Required content area
 
-The user supplied an annotated example with a red rectangle and asked that all
-content stay inside that rectangle. Treat the rectangle as a layout guide, not
-an element to render. This preference supersedes the earlier, larger white-panel
-layout.
+The user's latest annotated example expands the content area. Treat its red
+rectangle as a layout guide, not an element to render. These bounds supersede
+the earlier tighter rectangle and any narrower placements in historical examples
+or generation prompts.
 
 Create a 1080 × 1920 portrait canvas. The marked area, estimated from the user's
 reference screenshot, is approximately:
 
 | Boundary | Canvas proportion | 1080 × 1920 coordinate |
 | --- | --- | --- |
-| Left | 13% | x = 140 |
-| Right | 91% | x = 980 |
-| Top | 11% | y = 210 |
-| Bottom | 80% | y = 1530 |
+| Left | 7.4% | x = 80 |
+| Right | 91.2% | x = 985 |
+| Top | 7.3% | y = 140 |
+| Bottom | 81.25% | y = 1560 |
 
 Use the pixel coordinates above as the working bounds. For another output size,
 scale the coordinates proportionally from 1080 × 1920. Keep an additional inset
 of at least 24 px, scaled proportionally, between these bounds and visible content.
+The usable inner area is therefore x=104–961, y=164–1536 at 1080 × 1920.
+Use the expanded area to make headlines, charts, and body text comfortably
+readable; do not keep the obsolete tighter margins simply because an older
+example used them. Enlarge and reflow content without distorting charts or text.
 
 All news content must fit completely inside this area: the entire headline,
 date, photograph or illustration, body, highlights, chart title, axes, tick
 labels, legend, source attribution, and any necessary estimate qualifiers.
-Move the full headline into the area; do not reproduce the partial overlap in
-the annotated example. A card or white panel containing news content must also
-fit inside the area. Leave ample background visible below it.
+Keep the full headline inside the area. A card or white panel containing news
+content must also fit inside the area. Background remains visible around the
+news content, especially below the enlarged content box.
 
 Only decorative background elements may sit outside the area. Keep any brand
 label inside too, unless the user explicitly requests a separate header outside
