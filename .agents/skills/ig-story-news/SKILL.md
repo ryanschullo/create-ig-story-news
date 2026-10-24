@@ -146,7 +146,7 @@ not rigid templates; vary composition and hierarchy to suit the news:
 | Geopolitics and wars | A geographically relevant map or clearly illustrative regional imagery; a restrained map-led composition. |
 
 For an oil-specific design reference, use
-`exports/oil-five-month-high-2026-10-22-oil-design.png`. Its petroleum/charcoal/
+`exports/oil-iran-fears-2026-10-23.png`. Its petroleum/charcoal/
 amber treatment belongs to oil stories; do not make it the default palette or
 layout for unrelated subjects.
 
