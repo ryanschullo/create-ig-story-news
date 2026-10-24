@@ -140,6 +140,7 @@ not rigid templates; vary composition and hierarchy to suit the news:
 | Power and infrastructure | Charcoal, steel blue, and restrained electric yellow; transmission towers, substations, power lines, utility meters, or an illustrative electricity grid; a distinct infrastructure-focused composition. |
 | AI investing and technology | Cool navy, cyan, or violet; chips, data-center structures, or circuitry; a clean technical composition. |
 | Federal Reserve and U.S. economy | Slate, ink, or restrained cream; institutional architecture and macroeconomic motifs; a clear policy-brief hierarchy. |
+| Consumer sentiment and cost of living | Warm neutral paper, ink, and burgundy; everyday retail, grocery, receipt, or household-budget illustrations; preserve the survey context and avoid unsupported economic-collapse framing. |
 | Layoffs and business employment | Muted office or workplace imagery; distinct company or employment framing with a sober editorial palette. |
 | Stocks and finance | A market-focused layout and palette; trading screens or financial motifs with concise market summaries. |
 | Geopolitics and wars | A geographically relevant map or clearly illustrative regional imagery; a restrained map-led composition. |
@@ -159,6 +160,11 @@ For a power-and-infrastructure example, use
 imagery and charcoal/steel-blue/electric-yellow treatment distinct from oil and Nasdaq
 designs. Do not invent project locations, grid maps, demand or generation
 figures, or explanations for price changes that the reporting does not support.
+
+For a consumer-sentiment example, use
+`exports/consumer-sentiment-2026-10-23.png`: warm cream, ink, burgundy, and
+grocery/receipt imagery. Present survey findings as sentiment, not proof of an
+economic collapse; distinguish attitudes from measured spending or inflation.
 
 Decorative backgrounds may extend beyond the marked content area or canvas
 edges. All authored text and news content, including any brand label, remain
