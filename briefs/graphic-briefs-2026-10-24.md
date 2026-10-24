@@ -1,10 +1,20 @@
 # Two requested graphics — October 24, 2026
 
-Status: copy and sources prepared. The approved original coin is required before
-final generation. It is not available as a local file, and the earlier inline
-upload is outside the image tool’s five-image reference limit. Do not substitute
-a coin from a generated export. Preserve the original master if a source file
-or direct URL becomes available.
+Status: the two requested graphics have been generated, inspected, and exported:
+
+- `exports/family-health-premiums-2026-10-24.png`
+- `exports/family-net-worth-by-age-2026-10-24.png`
+
+The user reattached the original coin as an inline image and that original was
+included in the generation references. It still has not been exposed as a local
+PNG file, so no byte-identical original master has been archived. Preserve such
+a master when a source file or direct image URL becomes available. Do not label
+a generated copy as the original.
+
+The healthcare chart was generated using the archived source chart as a
+reference. Its visible values and year labels were checked; the rendered chart
+is not certified as a byte-identical embedding. The unmodified original remains
+available at the archived source-chart path below.
 
 Both graphics must use the small, single-line **MONEYBERG NEWS BRIEF** label,
 Lato Black headings/labels, Georgia body/source text, and the saved content
@@ -81,3 +91,28 @@ Design: a distinct personal-finance composition with clear six-row age/value
 table, restrained navy/cream/brass, household assets and budgeting imagery.
 Keep data and source readable; no fabricated portfolio-return charts. Use the
 approved original coin only, subtly in the background.
+
+## Halloween candy sales — requested next
+
+Source:
+https://apnews.com/article/halloween-candy-sales-chocolate-prices-treats-0b1126f30969a21710ba995416c5b905
+
+Author: Dee-Ann Durbin, Associated Press. Published October 24, 2026.
+
+Draft: `exports/halloween-candy-sales-2026-10-24-draft.png`.
+The draft includes no substitute coin; final coin placement requires a reusable
+original file or direct URL. The inline source is outside the image tool's
+recent-reference window again after the preceding layout revisions.
+
+Verified copy:
+
+- **Halloween candy sales start slow**
+- **−6.7%** sales in the month ending October 17 versus a year earlier,
+  according to NielsenIQ.
+- Candy and gum prices increased **44% over five years**; this is not annual
+  inflation.
+- Peak buying is still ahead. These are early-season sales, not final
+  Halloween results. The article does not specify dollars versus volume, so
+  preserve the word “sales.”
+
+Design: autumn plum/charcoal, pumpkin orange, cream, candy and retail imagery.
