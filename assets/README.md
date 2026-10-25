@@ -12,10 +12,33 @@ circular proportions. Integrate it subtly while the subject-specific background
 remains primary. Earlier exports remain historical work and need no automatic
 revisions.
 
-The original is currently an image in the conversation, not an archived file in
-this repository. If a future task cannot access it, obtain the original file or
-a direct source URL before adding the coin. Do not label a generated copy as the
-original. Preserve an unmodified master if the source file becomes accessible.
+## Permanent original coin master — pending file
+
+Canonical path: `assets/moneyberg-coin-original.png` at the repository root.
+
+Intended direct source:
+https://raw.githubusercontent.com/ryanschullo/create-ig-story-news/main/assets/moneyberg-coin-original.png
+
+**PENDING:** the original currently exists only as a conversation image. Its
+original bytes have not been archived in this repository or uploaded at this
+path. These instructions reserve the permanent location; they do not mean the
+file exists or the raw URL currently works.
+Check actual availability even if this pending note has not yet been updated;
+update the status after verifying the original file.
+
+Before asking for another upload, check the local master and repository first.
+If absent locally, fetch the raw URL with normal TLS verification. Verify it is
+a valid image of the approved portrait, rim lettering, and circular design, not
+an error page or generated substitute. Preserve the actual source file
+unmodified and reuse it without asking again whenever it is valid. Never label
+a generated revision as the original master.
+
+If the original remains missing, upload it once through
+https://github.com/ryanschullo/create-ig-story-news/upload/main/assets
+using filename `moneyberg-coin-original.png`, then commit the upload. Verify
+the saved image and raw URL before claiming the master is permanently stored.
+
+## Subject-specific examples
 
 Future graphics use distinct subject-specific palettes, layouts, and relevant
 background imagery. For an oil design example, see
