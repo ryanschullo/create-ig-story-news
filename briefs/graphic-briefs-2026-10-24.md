@@ -1,13 +1,22 @@
 # Two requested graphics — October 24, 2026
 
-Status: the two requested graphics have been generated, inspected, and exported:
+Status: the latest coin-placement revisions are:
 
-- `exports/family-health-premiums-2026-10-24-expanded.png`
-- `exports/family-net-worth-by-age-2026-10-24-expanded.png`
+- `exports/family-health-premiums-2026-10-24-expanded-coin-revised.png`
+- `exports/family-net-worth-by-age-2026-10-24-expanded-coin-revised.png`
 
-These are the latest revisions using the enlarged red-box layout. The earlier
-exports are retained as historical versions. Headlines, charts, table entries,
-and source copy were enlarged/repositioned, with key figures and layout checked.
+The user reattached the original coin after reporting distortion in the expanded
+exports. Both were edited with that upload as the source reference, using a
+rounder, front-facing treatment. Headline figures, chart/table values, source
+copy, and the enlarged layouts were checked for preservation; the coins do not
+obscure the news content. Earlier exports are retained as historical versions.
+
+Limitation: image generation still re-renders portrait and lettering details.
+These revisions are not exact pasted reproductions of the supplied artwork and
+must not be archived or used as an original coin master. An unmodified source
+file remains necessary for a literal artwork-preserving composite. The health
+chart also retains its pre-existing slight shortfall against the extra left
+padding, while remaining inside the outer content box.
 
 The user reattached the original coin as an inline image and that original was
 included in the generation references. It still has not been exposed as a local
