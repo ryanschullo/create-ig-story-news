@@ -37,14 +37,12 @@ coin artwork. Preserve its exact portrait, rim lettering, and circular
 proportions; do not redraw it or use generated variants as substitutes. Integrate
 it subtly near an edge or in the lower background while subject-specific imagery
 remains primary. The canonical permanent master is
-`assets/moneyberg-coin-original.png` (**PENDING**: actual original file has not
-yet been archived). Before requesting another upload, check that local path and
-the repository, then fetch the direct raw source if absent locally:
+`assets/moneyberg-coin-original.png`, verified and permanently archived from
+the user's GitHub upload. It is the original 2084 × 2084 PNG, not a generated
+copy. Reuse it without requesting another upload. If it is absent locally,
+retrieve it from the repository or this direct raw source:
 https://raw.githubusercontent.com/ryanschullo/create-ig-story-news/main/assets/moneyberg-coin-original.png
-Verify that it is a valid image of the approved original. Reuse it without
-asking the user again when valid; never promote a generated variant to master.
-If the original is still missing, the one-time upload location is
-https://github.com/ryanschullo/create-ig-story-news/upload/main/assets
-with filename `moneyberg-coin-original.png`. Do not claim it exists or was
-uploaded until verified. Decorative backgrounds may extend outside the content
-area, but all added text stays inside.
+Verify source integrity using the dimensions and SHA-256 in `assets/README.md`.
+Preserve the master unmodified; never replace it with generated artwork.
+Decorative backgrounds may extend outside the content area, but all added text
+stays inside.

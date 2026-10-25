@@ -13,16 +13,18 @@ obscure the news content. Earlier exports are retained as historical versions.
 
 Limitation: image generation still re-renders portrait and lettering details.
 These revisions are not exact pasted reproductions of the supplied artwork and
-must not be archived or used as an original coin master. An unmodified source
-file remains necessary for a literal artwork-preserving composite. The health
+must not be archived or used as an original coin master. Use the now-archived
+original below for further revisions; archiving it does not retroactively make
+these generated coins exact reproductions. The health
 chart also retains its pre-existing slight shortfall against the extra left
 padding, while remaining inside the outer content box.
 
-The user reattached the original coin as an inline image and that original was
-included in the generation references. It still has not been exposed as a local
-PNG file, so no byte-identical original master has been archived. Preserve such
-a master when a source file or direct image URL becomes available. Do not label
-a generated copy as the original.
+The original was an inline reference when these revisions were generated. The
+user has since committed the actual original PNG to GitHub. It is now verified
+and archived unchanged at `assets/moneyberg-coin-original.png` (2084 × 2084;
+SHA-256 `4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716`).
+Reuse that master for future work without requesting another upload. Do not
+label any generated copy as the original.
 
 The healthcare chart was generated using the archived source chart as a
 reference. Its visible values and year labels were checked; the rendered chart
@@ -116,9 +118,9 @@ Author: Dee-Ann Durbin, Associated Press. Published October 24, 2026.
 
 Latest resized draft:
 `exports/halloween-candy-sales-2026-10-24-expanded-draft.png`.
-The draft includes no substitute coin; final coin placement requires a reusable
-original file or direct URL. The inline source is outside the image tool's
-recent-reference window again after the preceding layout revisions.
+The draft includes no coin. Coin placement remains outstanding, but the original
+source is now available at `assets/moneyberg-coin-original.png`; a further user
+upload is not needed.
 
 Verified copy:
 

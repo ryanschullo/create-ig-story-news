@@ -125,27 +125,25 @@ Canonical repository path: `assets/moneyberg-coin-original.png`.
 Direct raw source:
 https://raw.githubusercontent.com/ryanschullo/create-ig-story-news/main/assets/moneyberg-coin-original.png
 
-**Current status: PENDING original file.** The original is visible only as a
-conversation image; its original bytes have not been archived locally or
-uploaded under this path. The path and URL designate the intended permanent
-master, not an already available asset. Do not claim otherwise.
-Check actual availability even if this pending note has not yet been updated;
-update the status after verifying the original file.
+**Status: VERIFIED original master.** The user's committed GitHub upload is
+archived unchanged at the canonical path. The local file and direct raw download
+were compared byte for byte and visually checked against the approved original.
+The PNG is 2084 × 2084 pixels, 1,538,597 bytes. Its SHA-256 is:
 
-Before every request for the coin, check the canonical local path and the
-repository. If it is absent locally, try the raw source above with normal TLS
-verification. Check that the response is a valid image, not an HTML/error page,
-and verify the portrait, lettering, rim, and proportions against the approved
-original. Once the actual original is available, preserve the source file
-unmodified as the master; do not overwrite it with generated or edited artwork.
-Reuse a valid original without asking the user to upload it again. Never use
-an earlier generated export or derived background as the master.
+`4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716`
 
-Only if those checks confirm the original is still unavailable, use the
-one-time GitHub upload route:
-https://github.com/ryanschullo/create-ig-story-news/upload/main/assets
-Upload the original as `moneyberg-coin-original.png` and commit it. Verify the
-saved file and raw source before reporting that permanent storage is complete.
+Use this file for every coin reference. Do not request another upload when the
+master is available. If missing locally, restore it from the repository or the
+raw source above with normal TLS verification. Verify the PNG dimensions and
+hash before use; reject HTML/error responses or generated substitutes. Check
+repository history and the verified source before asking the user for help if
+a download fails.
+
+Preserve this original master unmodified. Do not overwrite it with generated,
+resized, cropped, background-removed, or edited artwork. Any working derivative
+must have a separate filename and must not be presented as the original.
+Using the original as a generation reference does not guarantee that the
+finished graphic reproduces every logo detail exactly.
 
 Inspect each finished image against the original, including the portrait and
 lettering. A generation request alone does not prove exact logo reproduction.

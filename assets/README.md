@@ -12,31 +12,31 @@ circular proportions. Integrate it subtly while the subject-specific background
 remains primary. Earlier exports remain historical work and need no automatic
 revisions.
 
-## Permanent original coin master — pending file
+## Permanent original coin master — verified
 
 Canonical path: `assets/moneyberg-coin-original.png` at the repository root.
 
-Intended direct source:
+Direct source:
 https://raw.githubusercontent.com/ryanschullo/create-ig-story-news/main/assets/moneyberg-coin-original.png
 
-**PENDING:** the original currently exists only as a conversation image. Its
-original bytes have not been archived in this repository or uploaded at this
-path. These instructions reserve the permanent location; they do not mean the
-file exists or the raw URL currently works.
-Check actual availability even if this pending note has not yet been updated;
-update the status after verifying the original file.
+The actual original was uploaded and committed by the user in
+`29326334dd57ec2fdb26b6564231e35b8deeffe7`. It is now archived unchanged. The
+local file and raw download were compared byte for byte and visually verified.
 
-Before asking for another upload, check the local master and repository first.
-If absent locally, fetch the raw URL with normal TLS verification. Verify it is
-a valid image of the approved portrait, rim lettering, and circular design, not
-an error page or generated substitute. Preserve the actual source file
-unmodified and reuse it without asking again whenever it is valid. Never label
-a generated revision as the original master.
+- Format: PNG (RGBA)
+- Dimensions: 2084 × 2084 pixels
+- File size: 1,538,597 bytes
+- SHA-256: `4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716`
 
-If the original remains missing, upload it once through
-https://github.com/ryanschullo/create-ig-story-news/upload/main/assets
-using filename `moneyberg-coin-original.png`, then commit the upload. Verify
-the saved image and raw URL before claiming the master is permanently stored.
+Reuse this master without asking the user for another upload. If missing
+locally, restore it from the repository or direct source with normal TLS
+verification, then check its dimensions and hash. Check history and the verified
+source before requesting help if a download fails. Never use generated exports
+or a similar-looking coin as the master.
+
+Preserve the master unmodified. Keep any resized, cropped, background-removed,
+or edited working derivatives under separate filenames. A generation reference
+does not guarantee an exact reproduction in the finished graphic.
 
 ## Subject-specific examples
 
