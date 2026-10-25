@@ -1,4 +1,4 @@
-# Two requested graphics — October 24, 2026
+# News graphics — October 24, 2026
 
 Status: the latest coin-placement revisions are:
 
@@ -109,18 +109,24 @@ table, restrained navy/cream/brass, household assets and budgeting imagery.
 Keep data and source readable; no fabricated portfolio-return charts. Use the
 approved original coin only, subtly in the background.
 
-## Halloween candy sales — requested next
+## Halloween candy sales — background coin revision
 
 Source:
 https://apnews.com/article/halloween-candy-sales-chocolate-prices-treats-0b1126f30969a21710ba995416c5b905
 
 Author: Dee-Ann Durbin, Associated Press. Published October 24, 2026.
 
-Latest resized draft:
-`exports/halloween-candy-sales-2026-10-24-expanded-draft.png`.
-The draft includes no coin. Coin placement remains outstanding, but the original
-source is now available at `assets/moneyberg-coin-original.png`; a further user
-upload is not needed.
+Latest export:
+`exports/halloween-candy-sales-2026-10-24-expanded-moneyberg.png`.
+
+The archived original `assets/moneyberg-coin-original.png` was supplied as the
+coin reference for this requested background edit. A subdued circular gold coin
+sits behind the lower-right pumpkins and candy. The original master remains
+unmodified. All figures, periods, attribution, and early-season qualifiers were
+checked against the prior enlarged draft and remain readable inside the content
+bounds. The coin rim extends behind the end of the footer but does not obscure
+its text. Image generation re-renders logo details; this is not certified as a
+pixel-identical placement of the master. The earlier draft remains historical.
 
 Verified copy:
 
