@@ -1,5 +1,17 @@
 # Design assets and references
 
+## Fed prediction-market data figure
+
+`fed-rate-decision-background.png` is generated editorial background imagery.
+The quantitative chart at `charts/polymarket-fed-october-2026-month.png` is
+rendered from actual archived Polymarket observations in
+`data/polymarket-fed-october-2026/`, with explicit gaps for missing observations.
+It is not an image-model reconstruction. The final Story places that actual
+chart and the original coin as annotations, using explicit Lato Black and
+Georgia font files. See `../briefs/polymarket-fed-decision-2026-10-28.md`.
+
+## Earlier background reference
+
 `moneyberg-story-background.png` is a generated background treatment based on
 the user's supplied gold Moneyberg coin reference. It combines a subdued
 antique-gold emblem with near-black and green geometric lines. It is derived

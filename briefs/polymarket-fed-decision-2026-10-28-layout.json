@@ -1,0 +1,143 @@
+{
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "inner_bounds": [
+    104,
+    164,
+    961,
+    1536
+  ],
+  "chart_panel_bounds": [
+    120,
+    782,
+    958,
+    1370.388888888889
+  ],
+  "authored_text": [
+    {
+      "text": "MONEYBERG NEWS BRIEF",
+      "bounds": [
+        130.0,
+        185.0,
+        506.875,
+        213.0
+      ],
+      "font_family": "Lato"
+    },
+    {
+      "text": "FED DECISION  \u2022  WEDNESDAY, OCT. 28, 2026",
+      "bounds": [
+        130.0,
+        258.0,
+        696.125,
+        282.0
+      ],
+      "font_family": "Lato"
+    },
+    {
+      "text": "Fed hold odds",
+      "bounds": [
+        130.0,
+        325.0,
+        619.75,
+        396.0
+      ],
+      "font_family": "Lato"
+    },
+    {
+      "text": "surge over a month",
+      "bounds": [
+        130.0,
+        415.0,
+        803.875,
+        487.0
+      ],
+      "font_family": "Lato"
+    },
+    {
+      "text": "93.5%",
+      "bounds": [
+        125.0,
+        534.9999999999998,
+        531.875,
+        666.9999999999998
+      ],
+      "font_family": "Lato"
+    },
+    {
+      "text": "NO CHANGE",
+      "bounds": [
+        634.9999999999999,
+        564.9999999999998,
+        876.1249999999999,
+        601.9999999999998
+      ],
+      "font_family": "Lato"
+    },
+    {
+      "text": "Polymarket",
+      "bounds": [
+        634.9999999999999,
+        620.0000000000002,
+        777.3749999999999,
+        647.0000000000002
+      ],
+      "font_family": "Georgia"
+    },
+    {
+      "text": "From 32.5% on Sep. 25 to 93.5% on Oct. 25",
+      "bounds": [
+        130.0,
+        708.0,
+        682.75,
+        735.0
+      ],
+      "font_family": "Georgia"
+    },
+    {
+      "text": "Market-implied probabilities, not a Fed forecast.",
+      "bounds": [
+        130.0,
+        1390.0,
+        728.75,
+        1417.0
+      ],
+      "font_family": "Georgia"
+    },
+    {
+      "text": "Hourly history  \u2022  Last points: Oct. 25, 10 p.m. CDT",
+      "bounds": [
+        130.0,
+        1430.0,
+        690.25,
+        1456.0
+      ],
+      "font_family": "Georgia"
+    },
+    {
+      "text": "Source: Polymarket  \u2022  Gaps reflect missing observations",
+      "bounds": [
+        130.0,
+        1466.0,
+        724.25,
+        1489.0
+      ],
+      "font_family": "Georgia"
+    },
+    {
+      "text": "Prices may not total 100%  \u2022  Editorial illustration",
+      "bounds": [
+        130.0,
+        1500.0,
+        612.625,
+        1522.0
+      ],
+      "font_family": "Georgia"
+    }
+  ],
+  "chart_sha256": "6c71f1c0d4ae8b942e738bce3eea7d9a975208c602693a5e1b7ca8d12a625f79",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "snapshot": "2026-10-25 22:00 America/Chicago"
+}

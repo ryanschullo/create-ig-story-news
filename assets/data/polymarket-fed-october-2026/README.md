@@ -1,0 +1,4 @@
+Polymarket October 2026 Fed market price history
+
+Source event: https://polymarket.com/event/fed-decision-in-october-20260617190323537
+Official Gamma metadata and CLOB prices-history API. Source URLs/retrieval times/request bounds/raw filenames recorded in manifest.json. CLOB requests made by curl, with 7-day chunks and fidelity=60 minutes. Every raw response archived unchanged. Normalized CSVs are long-form observations, not normalized probability distributions. Five Yes tokens are five mutually-exclusive outcome markets. No fabricated observations or interpolation. Returned live observations outside request bounds were excluded. Time window Sep25 00:00 CDT through Oct25 22:31 CDT. Gaps >90minutes marked; plot breaks rather than connecting across missing observations. Latest Gamma snapshot differs from latest hourly history timestamps and must be labeled separately. Current prices across outcomes need not sum to100%.
