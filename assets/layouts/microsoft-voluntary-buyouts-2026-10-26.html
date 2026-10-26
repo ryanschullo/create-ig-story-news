@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=1080, initial-scale=1">
+  <base href="__ASSET_BASE_URI__">
+  <title>Microsoft voluntary buyouts — October 26, 2026</title>
+  <style>
+    /* Georgia is supplied from a runtime file by the renderer, never embedded. */
+    @font-face {
+      font-family: "Moneyberg Lato Black";
+      src: url("fonts/lato/Lato-Black.ttf") format("truetype");
+      font-weight: 900;
+      font-style: normal;
+      font-display: block;
+    }
+    @font-face {
+      font-family: "Moneyberg Georgia";
+      src: url("__GEORGIA_FONT_URI__") format("truetype");
+      font-weight: 400;
+      font-style: normal;
+      font-display: block;
+    }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; width: 1080px; height: 1920px; }
+    body { background: #082b49; }
+    #stage { position: relative; width: 1080px; height: 1920px; overflow: hidden; }
+    #background {
+      position: absolute; inset: 0; width: 1080px; height: 1920px;
+      object-fit: cover; z-index: 0;
+    }
+    #light-wash {
+      position: absolute; inset: 0; z-index: 1;
+      background: linear-gradient(180deg, rgba(226,240,252,.80) 0%,
+        rgba(226,240,252,.60) 24%, rgba(221,238,251,.18) 55%,
+        rgba(1,24,43,.10) 100%);
+    }
+    .text {
+      position: absolute; z-index: 4; margin: 0; white-space: nowrap;
+      font-synthesis: none; text-rendering: geometricPrecision;
+      -webkit-font-smoothing: antialiased;
+    }
+    .lato { font-family: "Moneyberg Lato Black"; font-weight: 900; color: #082d4c; }
+    .georgia { font-family: "Moneyberg Georgia"; font-weight: 400; }
+    .panel { position: absolute; z-index: 2; border-radius: 24px; }
+    #brand { left: 130px; top: 176px; font-size: 30px; line-height: 38px; letter-spacing: .5px; }
+    #brand-rule { position: absolute; left: 130px; top: 223px; width: 800px; height: 3px;
+      z-index: 3; background: #388cbd; opacity: .72; }
+    #date { left: 130px; top: 244px; font-size: 26px; line-height: 34px; color: #194c75; }
+    #headline-one { left: 124px; top: 309px; font-size: 78px; line-height: 88px; letter-spacing: -1.4px; }
+    #headline-two { left: 124px; top: 398px; font-size: 78px; line-height: 88px; letter-spacing: -1.4px; }
+    #hero {
+      left: 112px; top: 535px; width: 841px; height: 360px;
+      background: rgba(244,250,255,.97); border: 2px solid rgba(93,151,189,.75);
+      box-shadow: 0 15px 35px rgba(0,31,55,.13);
+    }
+    #hero-accent { position: absolute; left: 148px; top: 565px; width: 7px; height: 170px;
+      background: #348bbd; z-index: 3; border-radius: 4px; }
+    #eligible-count { left: 169px; top: 558px; font-size: 155px; line-height: 174px; letter-spacing: -4px; }
+    #eligible-label { left: 153px; top: 735px; font-size: 32px; line-height: 40px; color: #1a5a84; }
+    #voluntary { left: 153px; top: 790px; font-size: 32px; line-height: 40px; color: #163a56; }
+    #unknown { left: 153px; top: 834px; font-size: 32px; line-height: 40px; color: #163a56; }
+    #details {
+      left: 112px; top: 945px; width: 841px; height: 400px;
+      background: rgba(5,37,65,.96); border: 1px solid rgba(153,200,229,.65);
+      box-shadow: 0 18px 35px rgba(0,20,38,.18);
+    }
+    #teams-label { left: 150px; top: 978px; font-size: 30px; line-height: 38px; color: #8dd3ff; }
+    #teams { left: 150px; top: 1031px; font-size: 34px; line-height: 43px; color: #f4f9ff; }
+    #details-rule { position: absolute; left: 150px; top: 1106px; width: 765px;
+      height: 1px; z-index: 3; background: rgba(154,204,232,.40); }
+    #window-label { left: 150px; top: 1130px; font-size: 30px; line-height: 38px; color: #8dd3ff; }
+    #window-one { left: 150px; top: 1184px; font-size: 34px; line-height: 43px; color: #f4f9ff; }
+    #window-two { left: 150px; top: 1230px; font-size: 34px; line-height: 43px; color: #f4f9ff; }
+    #source-panel { left: 112px; top: 1390px; width: 841px; height: 130px;
+      border-radius: 15px; background: rgba(4,29,50,.90); }
+    #source-one, #source-two, #source-three {
+      left: 136px; font-size: 24px; line-height: 31px; color: #edf5fc;
+    }
+    #source-one { top: 1403px; }
+    #source-two { top: 1438px; }
+    #source-three { top: 1473px; }
+    #coin {
+      position: absolute; left: 770px; top: 1650px; width: 230px; height: 230px;
+      object-fit: contain; opacity: .70; z-index: 3;
+    }
+  </style>
+</head>
+<body>
+  <main id="stage" aria-label="Microsoft voluntary buyouts news graphic">
+    <img id="background" src="microsoft-voluntary-buyouts-background.png" alt="">
+    <div id="light-wash" aria-hidden="true"></div>
+    <div id="brand" class="text lato" data-news-text>MONEYBERG NEWS BRIEF</div>
+    <div id="brand-rule" data-news-panel aria-hidden="true"></div>
+    <div id="date" class="text lato" data-news-text>OCTOBER 26, 2026 • TECH WORKFORCE</div>
+    <div id="headline-one" class="text lato" data-news-text>Microsoft offers</div>
+    <div id="headline-two" class="text lato" data-news-text>voluntary buyouts</div>
+
+    <div id="hero" class="panel" data-news-panel aria-hidden="true"></div>
+    <div id="hero-accent" data-news-panel aria-hidden="true"></div>
+    <div id="eligible-count" class="text lato" data-news-text>~60,000</div>
+    <div id="eligible-label" class="text lato" data-news-text>EMPLOYEES ELIGIBLE</div>
+    <div id="voluntary" class="text georgia" data-news-text>Participation is voluntary.</div>
+    <div id="unknown" class="text georgia" data-news-text>The eventual departure count is unknown.</div>
+
+    <div id="details" class="panel" data-news-panel aria-hidden="true"></div>
+    <div id="teams-label" class="text lato" data-news-text>SELECTED TEAMS</div>
+    <div id="teams" class="text georgia" data-news-text>U.S., Canada, the U.K. and India.</div>
+    <div id="details-rule" data-news-panel aria-hidden="true"></div>
+    <div id="window-label" class="text lato" data-news-text>DECISION WINDOW</div>
+    <div id="window-one" class="text georgia" data-news-text>Early December to decide;</div>
+    <div id="window-two" class="text georgia" data-news-text>exits planned for year-end.</div>
+
+    <div id="source-panel" class="panel" data-news-panel aria-hidden="true"></div>
+    <div id="source-one" class="text georgia" data-news-text>Sources: Business Insider (company memo),</div>
+    <div id="source-two" class="text georgia" data-news-text>Fox Business • Oct. 26, 2026</div>
+    <div id="source-three" class="text georgia" data-news-text>Background: editorial illustration</div>
+    <img id="coin" src="moneyberg-coin-original.png" alt="Moneyberg coin decoration">
+  </main>
+</body>
+</html>

@@ -1,5 +1,16 @@
 # Design assets and references
 
+## Microsoft voluntary buyouts
+
+`microsoft-voluntary-buyouts-background.png` is a generated editorial office
+illustration, not a photograph of an identified Microsoft building. The layout
+at `layouts/microsoft-voluntary-buyouts-2026-10-26.html` is rendered in a browser
+with actual Lato Black and Georgia font files. The original coin PNG is placed
+directly, with equal width and height; it is not redrawn by the image model.
+Georgia is provided locally at render time and is not redistributed here.
+See `../briefs/microsoft-voluntary-buyouts-2026-10-26.md` for sourcing and
+`../scripts/render_microsoft_buyouts_story.py` for the reproducible renderer.
+
 ## Fed prediction-market data figure
 
 `fed-rate-decision-background.png` is generated editorial background imagery.
