@@ -25,9 +25,11 @@ announcements. No Sunday U.S. stock-market closing results are implied.
 [Business Insider](https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10)
 
 - Published October 25 at 16:02:08 UTC: 11:02 a.m. Chicago.
-- Apollo's Torsten Slok points to technology revenue per employee rising from
-  roughly $550,000 to nearly $800,000 since 2022, while other S&P 500 companies
-  remain near $550,000 after seven years.
+- Apollo's primary chart compares the Magnificent Seven with the other 493
+  S&P 500 companies, using inflation-adjusted Q4 2019 dollars. Revenue per
+  employee climbed toward $800,000 for the former since 2022; the latter was
+  broadly flat over seven years. See `apollo-ai-payoff-2026-10-25.md` for the
+  checked primary source and the article's approximate rounding.
 - This is an economist's interpretation of aggregate metrics. Do not claim
   that every individual company outside technology receives zero AI benefit.
 
