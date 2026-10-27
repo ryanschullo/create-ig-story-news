@@ -170,6 +170,10 @@ proposed transaction rather than an event completed today.
   (-1.5%); the same-date AP equities wrap instead reports Brent $110.74
   (-0.9%) without a contract month. Do not invent a reconciliation or mix
   those prices. The article option and final shortlist omit numerical quotes.
+- A [full Reuters settlement report via AOL](https://www.aol.com/articles/oil-prices-down-almost-1-232445000.html)
+  subsequently corroborated $115.81 Brent and $101.76 WTI. The AP difference
+  remains unexplained; confirm the contract with exchange data if a numerical
+  graphic is selected, rather than claiming an established contract explanation.
 - Angle: Diplomacy versus supply risk in the oil market.
 
 ## 13. Russian refiners ramp up diesel output for a U.S. supply deal
