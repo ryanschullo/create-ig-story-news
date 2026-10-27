@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=1080, initial-scale=1">
+<base href="__ASSET_BASE_URI__">
+<title>Anthropic files for IPO — Moneyberg News Brief</title>
+<style>
+@font-face {font-family:"Moneyberg Lato Black";src:url("fonts/lato/Lato-Black.ttf") format("truetype");font-weight:900;font-display:block;}
+@font-face {font-family:"Moneyberg Georgia";src:url("__GEORGIA_FONT_URI__") format("truetype");font-weight:400;font-display:block;}
+*{box-sizing:border-box}html,body{width:1080px;height:1920px;margin:0}body{background:#f2e8d7}
+#stage{position:relative;width:1080px;height:1920px;overflow:hidden;isolation:isolate}
+#background{position:absolute;inset:0;width:1080px;height:1920px;object-fit:cover;z-index:0}
+#paper-light{position:absolute;inset:0;z-index:1;background:linear-gradient(90deg,rgba(255,251,242,.2),transparent 80%)}
+.text{position:absolute;z-index:4;margin:0;white-space:nowrap;font-synthesis:none;text-rendering:geometricPrecision;-webkit-font-smoothing:antialiased}
+.lato{font-family:"Moneyberg Lato Black";font-weight:900;color:#24221e}
+.georgia{font-family:"Moneyberg Georgia";font-weight:400;color:#342c25}
+#brand{left:114px;top:179px;font-size:30px;line-height:39px;letter-spacing:.8px}
+#top-rule{position:absolute;left:114px;top:229px;width:748px;height:2px;background:#8e4936;z-index:3}
+#category{left:114px;top:248px;font-size:25px;line-height:32px;letter-spacing:1.4px;color:#92513d}
+#date{left:574px;top:250px;font-size:23px;line-height:30px;color:#665446;letter-spacing:.5px}
+#anthropic-logo{position:absolute;left:114px;top:334px;width:746px;height:auto;object-fit:contain;z-index:4}
+#headline{left:109px;top:438px;font-size:96px;line-height:112px;letter-spacing:-2.6px}
+#deck-one{left:114px;top:579px;font-size:34px;line-height:44px}
+#deck-two{left:114px;top:624px;font-size:34px;line-height:44px}
+#valuation-rule{position:absolute;left:114px;top:713px;width:563px;height:2px;background:rgba(119,74,50,.62);z-index:3}
+#valuation-label{left:114px;top:741px;font-size:25px;line-height:34px;letter-spacing:1.1px;color:#87503b}
+#valuation-value{left:106px;top:775px;font-size:181px;line-height:197px;letter-spacing:-7px;color:#a6472e}
+#valuation-note-one{left:114px;top:991px;font-size:32px;line-height:42px}
+#valuation-note-two{left:114px;top:1033px;font-size:32px;line-height:42px}
+#valuation-note-three{left:114px;top:1075px;font-size:32px;line-height:42px}
+#revenue-rule{position:absolute;left:114px;top:1152px;width:540px;height:2px;background:rgba(119,74,50,.62);z-index:3}
+#revenue-value{left:110px;top:1171px;font-size:83px;line-height:99px;letter-spacing:-2.1px}
+#revenue-label{left:114px;top:1275px;font-size:24px;line-height:32px;letter-spacing:.6px;color:#87503b}
+#revenue-comparison{left:114px;top:1324px;font-size:30px;line-height:40px}
+#source-paper{position:absolute;left:104px;top:1436px;width:591px;height:92px;background:rgba(247,239,222,.94);z-index:2;box-shadow:0 2px 3px rgba(88,57,32,.08)}
+#source-one{left:119px;top:1450px;font-size:24px;line-height:32px;color:#302720}
+#source-two{left:119px;top:1487px;font-size:23px;line-height:31px;color:#4b3c31}
+/* Exact original art sits in a shallow bronze recess in the generated clay pier. */
+#coin-seat{position:absolute;left:842px;top:1162px;width:196px;height:196px;border-radius:50%;z-index:2;background:radial-gradient(circle at 28% 20%,#dfc18b,#a7834c 53%,#634120 85%,#c89b5c 94%,#e3bc7f 100%);border:2px solid #87603b;box-shadow:inset 4px 6px 8px rgba(62,35,13,.5),inset -3px -3px 4px rgba(255,227,174,.65),1px 2px 2px rgba(76,38,18,.28),-1px -1px 1px rgba(255,232,196,.68)}
+#coin-seat-reveal{position:absolute;left:3px;top:3px;width:186px;height:186px;border-radius:50%;border:3px solid rgba(75,44,19,.39);box-shadow:inset 1px 2px 4px rgba(56,31,10,.5)}
+#coin{position:absolute;left:6px;top:6px;width:180px;height:180px;object-fit:contain;clip-path:circle(50% at 50% 50%);opacity:1;mix-blend-mode:multiply;z-index:1}
+#coin-contact{position:absolute;left:6px;top:6px;width:180px;height:180px;border-radius:50%;z-index:2;pointer-events:none;box-shadow:inset 3px 4px 5px rgba(66,35,12,.24),inset -1px -1px 2px rgba(255,239,192,.33)}
+#coin-surface-glaze{position:absolute;left:4px;top:4px;width:184px;height:184px;border-radius:50%;z-index:3;pointer-events:none;background:linear-gradient(136deg,rgba(255,233,182,.25),rgba(255,221,172,.05) 32%,transparent 48%,rgba(149,69,27,.1) 90%);mix-blend-mode:soft-light}
+</style></head>
+<body><main id="stage" aria-label="Anthropic IPO filing news graphic">
+<img id="background" src="anthropic-ipo-background-astra.png" alt="">
+<div id="paper-light" aria-hidden="true"></div>
+<div id="brand" class="text lato" data-news-text>MONEYBERG NEWS BRIEF</div>
+<div id="top-rule" data-news-panel aria-hidden="true"></div>
+<div id="category" class="text lato" data-news-text>AI INVESTING</div>
+<div id="date" class="text lato" data-news-text>OCTOBER 26, 2026</div>
+<img id="anthropic-logo" src="logos/anthropic-wordmark-original.svg" alt="ANTHROPIC" data-news-image>
+<div id="headline" class="text lato" data-news-text>files for IPO.</div>
+<div id="deck-one" class="text georgia" data-news-text>Applied to list on Nasdaq.</div>
+<div id="deck-two" class="text georgia" data-news-text>Proposed ticker: ANT.</div>
+<div id="valuation-rule" data-news-panel aria-hidden="true"></div>
+<div id="valuation-label" class="text lato" data-news-text>REPORTED INVESTOR VALUATION</div>
+<div id="valuation-value" class="text lato" data-news-text>$1.5T</div>
+<div id="valuation-note-one" class="text georgia" data-news-text>Estimate from some current and</div>
+<div id="valuation-note-two" class="text georgia" data-news-text>prospective investors.</div>
+<div id="valuation-note-three" class="text georgia" data-news-text>IPO price unset.</div>
+<div id="revenue-rule" data-news-panel aria-hidden="true"></div>
+<div id="revenue-value" class="text lato" data-news-text>$16.3B</div>
+<div id="revenue-label" class="text lato" data-news-text>FIRST-HALF 2026 REVENUE</div>
+<div id="revenue-comparison" class="text georgia" data-news-text>vs. $1.16B in first-half 2025.</div>
+<div id="source-paper" data-news-panel aria-hidden="true"></div>
+<div id="source-one" class="text georgia" data-news-text>Sources: SEC S-1; Reuters; The Guardian</div>
+<div id="source-two" class="text georgia" data-news-text>Reported October 26, 2026</div>
+<div id="coin-seat" data-scene-element aria-label="Original gold seal inlaid into terracotta architecture">
+<div id="coin-seat-reveal" data-scene-element aria-hidden="true"></div>
+<img id="coin" src="moneyberg-coin-original.png" alt="Original Moneyberg coin artwork">
+<div id="coin-contact" data-scene-element aria-hidden="true"></div>
+<div id="coin-surface-glaze" data-scene-element aria-hidden="true"></div>
+</div>
+</main></body></html>

@@ -1,0 +1,775 @@
+{
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "inner_bounds": [
+    104,
+    164,
+    961,
+    1536
+  ],
+  "renderer": "Chromium via Playwright; HTML/CSS screenshot",
+  "background_sha256": "f930e74449a758e20e7b3ca1c722f4879e9c3b8c7e504551bcb3f1d8de046136",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "background_provenance": {
+    "tool": "image_gen.imagegen",
+    "operation": "generate new Anthropic editorial architecture background",
+    "generated_source": "/workspace/generated_images/exec-5372fab9-fa34-451c-a1c2-8037ccff7359.png",
+    "subject": "tactile warm ivory paper, terracotta and copper AI architecture with front-facing clay pier at mid-right",
+    "contains_generated_coin": false
+  },
+  "coin_actual_bounds": {
+    "left": 850,
+    "top": 1170,
+    "right": 1030,
+    "bottom": 1350,
+    "width": 180,
+    "height": 180
+  },
+  "coin_whole_upper_75_percent": true,
+  "coin_integration_method": "Exact original PNG scaled uniformly inside a shallow bronze recess in the generated terracotta pier; multiply blending, scene-matched copper bevel and inset contact shadow with a non-destructive warm soft-light glaze. No generated coin, portrait or lettering.",
+  "production_footer_removed": true,
+  "original_logo_sha256": "eb0f063a7a66a42ca0b1db7696555030d1afe80c63896a594ecdbb90e980cb7d",
+  "logo_natural_dimensions": [
+    570,
+    64
+  ],
+  "logo_rendered_aspect_ratio": 8.907462686567165,
+  "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
+  "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
+  "georgia_redistributed": false,
+  "layout": {
+    "text": [
+      {
+        "id": "brand",
+        "text": "MONEYBERG NEWS BRIEF",
+        "bounds": {
+          "left": 114,
+          "top": 180,
+          "right": 506.390625,
+          "bottom": 216,
+          "width": 392.390625,
+          "height": 36
+        },
+        "element_bounds": {
+          "left": 114,
+          "top": 179,
+          "right": 506.390625,
+          "bottom": 218,
+          "width": 392.390625,
+          "height": 39
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "30px"
+      },
+      {
+        "id": "category",
+        "text": "AI INVESTING",
+        "bounds": {
+          "left": 114,
+          "top": 249,
+          "right": 294.578125,
+          "bottom": 279,
+          "width": 180.578125,
+          "height": 30
+        },
+        "element_bounds": {
+          "left": 114,
+          "top": 248,
+          "right": 294.578125,
+          "bottom": 280,
+          "width": 180.578125,
+          "height": 32
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "25px"
+      },
+      {
+        "id": "date",
+        "text": "OCTOBER 26, 2026",
+        "bounds": {
+          "left": 574,
+          "top": 251,
+          "right": 787.6875,
+          "bottom": 279,
+          "width": 213.6875,
+          "height": 28
+        },
+        "element_bounds": {
+          "left": 574,
+          "top": 250,
+          "right": 787.6875,
+          "bottom": 280,
+          "width": 213.6875,
+          "height": 30
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "23px"
+      },
+      {
+        "id": "headline",
+        "text": "files for IPO.",
+        "bounds": {
+          "left": 109,
+          "top": 436,
+          "right": 607.71875,
+          "bottom": 551,
+          "width": 498.71875,
+          "height": 115
+        },
+        "element_bounds": {
+          "left": 109,
+          "top": 438,
+          "right": 607.71875,
+          "bottom": 550,
+          "width": 498.71875,
+          "height": 112
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "96px"
+      },
+      {
+        "id": "deck-one",
+        "text": "Applied to list on Nasdaq.",
+        "bounds": {
+          "left": 114,
+          "top": 582,
+          "right": 501.46875,
+          "bottom": 620,
+          "width": 387.46875,
+          "height": 38
+        },
+        "element_bounds": {
+          "left": 114,
+          "top": 579,
+          "right": 501.46875,
+          "bottom": 623,
+          "width": 387.46875,
+          "height": 44
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "34px"
+      },
+      {
+        "id": "deck-two",
+        "text": "Proposed ticker: ANT.",
+        "bounds": {
+          "left": 114,
+          "top": 627,
+          "right": 447.234375,
+          "bottom": 665,
+          "width": 333.234375,
+          "height": 38
+        },
+        "element_bounds": {
+          "left": 114,
+          "top": 624,
+          "right": 447.234375,
+          "bottom": 668,
+          "width": 333.234375,
+          "height": 44
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "34px"
+      },
+      {
+        "id": "valuation-label",
+        "text": "REPORTED INVESTOR VALUATION",
+        "bounds": {
+          "left": 114,
+          "top": 743,
+          "right": 551.59375,
+          "bottom": 773,
+          "width": 437.59375,
+          "height": 30
+        },
+        "element_bounds": {
+          "left": 114,
+          "top": 741,
+          "right": 551.59375,
+          "bottom": 775,
+          "width": 437.59375,
+          "height": 34
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "25px"
+      },
+      {
+        "id": "valuation-value",
+        "text": "$1.5T",
+        "bounds": {
+          "left": 106,
+          "top": 764,
+          "right": 538.34375,
+          "bottom": 982,
+          "width": 432.34375,
+          "height": 218
+        },
+        "element_bounds": {
+          "left": 106,
+          "top": 775,
+          "right": 538.34375,
+          "bottom": 972,
+          "width": 432.34375,
+          "height": 197
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "181px"
+      },
+      {
+        "id": "valuation-note-one",
+        "text": "Estimate from some current and",
+        "bounds": {
+          "left": 114,
+          "top": 994,
+          "right": 572.53125,
+          "bottom": 1030,
+          "width": 458.53125,
+          "height": 36
+        },
+        "element_bounds": {
+          "left": 114,
+          "top": 991,
+          "right": 572.53125,
+          "bottom": 1033,
+          "width": 458.53125,
+          "height": 42
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "32px"
+      },
+      {
+        "id": "valuation-note-two",
+        "text": "prospective investors.",
+        "bounds": {
+          "left": 114,
+          "top": 1036,
+          "right": 421.578125,
+          "bottom": 1072,
+          "width": 307.578125,
+          "height": 36
+        },
+        "element_bounds": {
+          "left": 114,
+          "top": 1033,
+          "right": 421.578125,
+          "bottom": 1075,
+          "width": 307.578125,
+          "height": 42
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "32px"
+      },
+      {
+        "id": "valuation-note-three",
+        "text": "IPO price unset.",
+        "bounds": {
+          "left": 114,
+          "top": 1078,
+          "right": 342.28125,
+          "bottom": 1114,
+          "width": 228.28125,
+          "height": 36
+        },
+        "element_bounds": {
+          "left": 114,
+          "top": 1075,
+          "right": 342.28125,
+          "bottom": 1117,
+          "width": 228.28125,
+          "height": 42
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "32px"
+      },
+      {
+        "id": "revenue-value",
+        "text": "$16.3B",
+        "bounds": {
+          "left": 110,
+          "top": 1170,
+          "right": 364.796875,
+          "bottom": 1270,
+          "width": 254.796875,
+          "height": 100
+        },
+        "element_bounds": {
+          "left": 110,
+          "top": 1171,
+          "right": 364.796875,
+          "bottom": 1270,
+          "width": 254.796875,
+          "height": 99
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "83px"
+      },
+      {
+        "id": "revenue-label",
+        "text": "FIRST-HALF 2026 REVENUE",
+        "bounds": {
+          "left": 114,
+          "top": 1276,
+          "right": 437.703125,
+          "bottom": 1305,
+          "width": 323.703125,
+          "height": 29
+        },
+        "element_bounds": {
+          "left": 114,
+          "top": 1275,
+          "right": 437.703125,
+          "bottom": 1307,
+          "width": 323.703125,
+          "height": 32
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "24px"
+      },
+      {
+        "id": "revenue-comparison",
+        "text": "vs. $1.16B in first-half 2025.",
+        "bounds": {
+          "left": 114,
+          "top": 1326,
+          "right": 486.328125,
+          "bottom": 1361,
+          "width": 372.328125,
+          "height": 35
+        },
+        "element_bounds": {
+          "left": 114,
+          "top": 1324,
+          "right": 486.328125,
+          "bottom": 1364,
+          "width": 372.328125,
+          "height": 40
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "30px"
+      },
+      {
+        "id": "source-one",
+        "text": "Sources: SEC S-1; Reuters; The Guardian",
+        "bounds": {
+          "left": 119,
+          "top": 1452,
+          "right": 553.640625,
+          "bottom": 1479,
+          "width": 434.640625,
+          "height": 27
+        },
+        "element_bounds": {
+          "left": 119,
+          "top": 1450,
+          "right": 553.640625,
+          "bottom": 1482,
+          "width": 434.640625,
+          "height": 32
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "24px"
+      },
+      {
+        "id": "source-two",
+        "text": "Reported October 26, 2026",
+        "bounds": {
+          "left": 119,
+          "top": 1489,
+          "right": 396.34375,
+          "bottom": 1515,
+          "width": 277.34375,
+          "height": 26
+        },
+        "element_bounds": {
+          "left": 119,
+          "top": 1487,
+          "right": 396.34375,
+          "bottom": 1518,
+          "width": 277.34375,
+          "height": 31
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "23px"
+      }
+    ],
+    "panels": [
+      {
+        "id": "top-rule",
+        "bounds": {
+          "left": 114,
+          "top": 229,
+          "right": 862,
+          "bottom": 231,
+          "width": 748,
+          "height": 2
+        }
+      },
+      {
+        "id": "valuation-rule",
+        "bounds": {
+          "left": 114,
+          "top": 713,
+          "right": 677,
+          "bottom": 715,
+          "width": 563,
+          "height": 2
+        }
+      },
+      {
+        "id": "revenue-rule",
+        "bounds": {
+          "left": 114,
+          "top": 1152,
+          "right": 654,
+          "bottom": 1154,
+          "width": 540,
+          "height": 2
+        }
+      },
+      {
+        "id": "source-paper",
+        "bounds": {
+          "left": 104,
+          "top": 1436,
+          "right": 695,
+          "bottom": 1528,
+          "width": 591,
+          "height": 92
+        }
+      }
+    ],
+    "news_images": [
+      {
+        "id": "anthropic-logo",
+        "bounds": {
+          "left": 114,
+          "top": 334,
+          "right": 860,
+          "bottom": 417.75,
+          "width": 746,
+          "height": 83.75
+        }
+      }
+    ],
+    "scene_elements": [
+      {
+        "id": "coin-seat",
+        "bounds": {
+          "left": 842,
+          "top": 1162,
+          "right": 1038,
+          "bottom": 1358,
+          "width": 196,
+          "height": 196
+        },
+        "background": "radial-gradient(circle at 28% 20%, rgb(223, 193, 139), rgb(167, 131, 76) 53%, rgb(99, 65, 32) 85%, rgb(200, 155, 92) 94%, rgb(227, 188, 127) 100%)",
+        "box_shadow": "rgba(62, 35, 13, 0.5) 4px 6px 8px 0px inset, rgba(255, 227, 174, 0.65) -3px -3px 4px 0px inset, rgba(76, 38, 18, 0.28) 1px 2px 2px 0px, rgba(255, 232, 196, 0.68) -1px -1px 1px 0px",
+        "mix_blend_mode": "normal",
+        "opacity": "1"
+      },
+      {
+        "id": "coin-seat-reveal",
+        "bounds": {
+          "left": 847,
+          "top": 1167,
+          "right": 1033,
+          "bottom": 1353,
+          "width": 186,
+          "height": 186
+        },
+        "background": "none",
+        "box_shadow": "rgba(56, 31, 10, 0.5) 1px 2px 4px 0px inset",
+        "mix_blend_mode": "normal",
+        "opacity": "1"
+      },
+      {
+        "id": "coin-contact",
+        "bounds": {
+          "left": 850,
+          "top": 1170,
+          "right": 1030,
+          "bottom": 1350,
+          "width": 180,
+          "height": 180
+        },
+        "background": "none",
+        "box_shadow": "rgba(66, 35, 12, 0.24) 3px 4px 5px 0px inset, rgba(255, 239, 192, 0.33) -1px -1px 2px 0px inset",
+        "mix_blend_mode": "normal",
+        "opacity": "1"
+      },
+      {
+        "id": "coin-surface-glaze",
+        "bounds": {
+          "left": 848,
+          "top": 1168,
+          "right": 1032,
+          "bottom": 1352,
+          "width": 184,
+          "height": 184
+        },
+        "background": "linear-gradient(136deg, rgba(255, 233, 182, 0.25), rgba(255, 221, 172, 0.05) 32%, rgba(0, 0, 0, 0) 48%, rgba(149, 69, 27, 0.1) 90%)",
+        "box_shadow": "none",
+        "mix_blend_mode": "soft-light",
+        "opacity": "1"
+      }
+    ],
+    "coin_style": {
+      "opacity": "1",
+      "mix_blend_mode": "multiply",
+      "object_fit": "contain",
+      "transform": "none"
+    },
+    "fonts": [
+      {
+        "family": "Moneyberg Lato Black",
+        "weight": "900",
+        "status": "loaded"
+      },
+      {
+        "family": "Moneyberg Georgia",
+        "weight": "400",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "id": "background",
+        "natural_width": 940,
+        "natural_height": 1672,
+        "bounds": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        }
+      },
+      {
+        "id": "anthropic-logo",
+        "natural_width": 570,
+        "natural_height": 64,
+        "bounds": {
+          "left": 114,
+          "top": 334,
+          "right": 860,
+          "bottom": 417.75,
+          "width": 746,
+          "height": 83.75
+        }
+      },
+      {
+        "id": "coin",
+        "natural_width": 2084,
+        "natural_height": 2084,
+        "bounds": {
+          "left": 850,
+          "top": 1170,
+          "right": 1030,
+          "bottom": 1350,
+          "width": 180,
+          "height": 180
+        }
+      }
+    ],
+    "document_width": 1080,
+    "document_height": 1920
+  },
+  "platform_fonts": [
+    {
+      "id": "brand",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "category",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 12
+        }
+      ]
+    },
+    {
+      "id": "date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "headline",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 14
+        }
+      ]
+    },
+    {
+      "id": "deck-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 26
+        }
+      ]
+    },
+    {
+      "id": "deck-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 21
+        }
+      ]
+    },
+    {
+      "id": "valuation-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 27
+        }
+      ]
+    },
+    {
+      "id": "valuation-value",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 5
+        }
+      ]
+    },
+    {
+      "id": "valuation-note-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 30
+        }
+      ]
+    },
+    {
+      "id": "valuation-note-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 22
+        }
+      ]
+    },
+    {
+      "id": "valuation-note-three",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "revenue-value",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 6
+        }
+      ]
+    },
+    {
+      "id": "revenue-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 23
+        }
+      ]
+    },
+    {
+      "id": "revenue-comparison",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 30
+        }
+      ]
+    },
+    {
+      "id": "source-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 39
+        }
+      ]
+    },
+    {
+      "id": "source-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 25
+        }
+      ]
+    }
+  ],
+  "output_sha256": "b82ac630cc1e7834e000c885b125dcb93bcfd8605166cbb226a644e11aed6429"
+}

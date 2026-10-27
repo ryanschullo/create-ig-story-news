@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=1080, initial-scale=1">
+  <base href="__ASSET_BASE_URI__">
+  <title>Retail options share — October 26, 2026 — Astra edition</title>
+  <style>
+    @font-face { font-family: "Moneyberg Lato Black"; src: url("fonts/lato/Lato-Black.ttf") format("truetype"); font-weight: 900; font-style: normal; font-display: block; }
+    @font-face { font-family: "Moneyberg Georgia"; src: url("__GEORGIA_FONT_URI__") format("truetype"); font-weight: 400; font-style: normal; font-display: block; }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; width: 1080px; height: 1920px; }
+    body { background: #171217; }
+    #stage { position: relative; width: 1080px; height: 1920px; overflow: hidden; }
+    #background { position: absolute; inset: 0; width: 1080px; height: 1920px; object-fit: cover; }
+    #wash { position: absolute; inset: 0; z-index: 1; background: linear-gradient(180deg, transparent 4%, rgba(13,8,18,.32) 18%, rgba(14,10,19,.2) 55%, transparent 79%); }
+    .text { position: absolute; z-index: 4; margin: 0; white-space: nowrap; font-synthesis: none; text-rendering: geometricPrecision; -webkit-font-smoothing: antialiased; }
+    .lato { font-family: "Moneyberg Lato Black"; font-weight: 900; color: #f6f0e7; }
+    .georgia { font-family: "Moneyberg Georgia"; font-weight: 400; color: #f0e9e0; }
+    .panel { position: absolute; z-index: 2; }
+    #brand { left: 112px; top: 188px; font-size: 29px; line-height: 37px; letter-spacing: .6px; }
+    #date { left: 749px; top: 194px; font-size: 23px; line-height: 30px; color: #c7bcb8; }
+    #brand-rule { left: 112px; top: 242px; width: 841px; height: 1px; background: #a7947e; }
+    #category-badge { left: 112px; top: 266px; width: 340px; height: 42px; background: #9de0cc; }
+    #category { left: 129px; top: 272px; font-size: 26px; line-height: 31px; letter-spacing: .6px; color: #132e29; }
+    #headline-one { left: 110px; top: 329px; font-size: 72px; line-height: 82px; letter-spacing: -1.4px; }
+    #headline-two { left: 110px; top: 409px; font-size: 72px; line-height: 82px; letter-spacing: -1.4px; }
+    #chart-frame { left: 104px; top: 523px; width: 857px; height: 582.0625px; border: 1px solid #827372; background: #080708; box-shadow: 0 16px 30px rgba(0,0,0,.4); }
+    #original-chart { position: absolute; left: 112px; top: 531px; width: 841px; height: auto; z-index: 3; object-fit: contain; }
+    #share { left: 112px; top: 1126px; font-size: 139px; line-height: 157px; color: #9de0cc; letter-spacing: -4px; }
+    #share-label { left: 120px; top: 1283px; font-size: 24px; line-height: 31px; letter-spacing: .6px; color: #d0e5dd; }
+    #platform-one { left: 432px; top: 1156px; font-size: 32px; line-height: 39px; }
+    #platform-two { left: 432px; top: 1196px; font-size: 32px; line-height: 39px; }
+    #platform-three { left: 432px; top: 1236px; font-size: 32px; line-height: 39px; }
+    #change-rule { left: 112px; top: 1327px; width: 633px; height: 1px; background: #6a626c; }
+    #change { left: 112px; top: 1340px; font-size: 58px; line-height: 68px; letter-spacing: -1px; color: #9de0cc; }
+    #change-label { left: 253px; top: 1343px; font-size: 32px; line-height: 37px; }
+    #source-rule { left: 112px; top: 1436px; width: 841px; height: 1px; background: #a7947e; }
+    #source-one { left: 112px; top: 1449px; font-size: 24px; line-height: 31px; color: #d7cfc7; }
+    #source-two { left: 112px; top: 1480px; font-size: 23px; line-height: 30px; color: #d7cfc7; }
+    /* Actual master seated in the background's leather-bound brass recess. */
+    #coin-contact { position: absolute; left: 777px; top: 1139px; width: 214px; height: 214px; border-radius: 50%; z-index: 2;
+      background: #4b3e27; box-shadow: inset 3px 5px 8px #080708, 3px 4px 7px rgba(0,0,0,.6); }
+    #coin { position: absolute; left: 780px; top: 1142px; width: 208px; height: 208px; object-fit: contain; z-index: 3;
+      filter: brightness(.74) saturate(.72); }
+    #coin-glass { position: absolute; left: 780px; top: 1142px; width: 208px; height: 208px; border-radius: 50%; z-index: 4; pointer-events: none;
+      background: linear-gradient(135deg, rgba(255,237,185,.20), transparent 40%, rgba(0,0,0,.37));
+      box-shadow: inset 2px 3px 7px rgba(255,229,179,.18), inset -3px -4px 6px rgba(0,0,0,.55); mix-blend-mode: soft-light; }
+  </style>
+</head>
+<body>
+  <main id="stage" aria-label="Retail options share news graphic">
+    <img id="background" src="options-investing-background-astra.png" alt="">
+    <div id="wash" aria-hidden="true"></div>
+    <div id="brand" class="text lato" data-news-text>MONEYBERG NEWS BRIEF</div>
+    <div id="date" class="text lato" data-news-text>OCT. 26, 2026</div>
+    <div id="brand-rule" class="panel" data-news-panel aria-hidden="true"></div>
+    <div id="category-badge" class="panel" data-news-panel aria-hidden="true"></div>
+    <div id="category" class="text lato" data-news-text>OPTIONS INVESTING</div>
+    <div id="headline-one" class="text lato" data-news-text>Retail options share</div>
+    <div id="headline-two" class="text lato" data-news-text>nears a record</div>
+    <div id="chart-frame" class="panel" data-news-panel aria-hidden="true"></div>
+    <img id="original-chart" src="charts/retail-options-share-kobeissi-2026-10-26-original.jpg" alt="Full original Kobeissi Letter chart, citing Citadel Securities" data-news-image>
+    <div id="share" class="text lato" data-news-text>61%</div>
+    <div id="share-label" class="text lato" data-news-text>RETAIL SHARE</div>
+    <div id="platform-one" class="text georgia" data-news-text>Of options volume</div>
+    <div id="platform-two" class="text georgia" data-news-text>on Citadel Securities’</div>
+    <div id="platform-three" class="text georgia" data-news-text>platform, last week.</div>
+    <div id="change-rule" class="panel" data-news-panel aria-hidden="true"></div>
+    <div id="change" class="text lato" data-news-text>+16</div>
+    <div id="change-label" class="text georgia" data-news-text>percentage points<br>in 12 months</div>
+    <div id="source-rule" class="panel" data-news-panel aria-hidden="true"></div>
+    <div id="source-one" class="text georgia" data-news-text>The Kobeissi Letter, citing Citadel Securities</div>
+    <div id="source-two" class="text georgia" data-news-text>Posted Oct. 26, 2026 • Original source chart</div>
+    <div id="coin-contact" aria-hidden="true"></div>
+    <img id="coin" src="moneyberg-coin-original.png" alt="Original Moneyberg coin recessed into the leather analyst desk pad">
+    <div id="coin-glass" aria-hidden="true"></div>
+  </main>
+</body>
+</html>

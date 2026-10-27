@@ -1,5 +1,21 @@
 # Design assets and references
 
+## October 26 design comparison
+
+The three exports ending in `-2026-10-26-astra.png` are fresh compositions of
+the Anthropic, Microsoft and Options Investing stories, created at the user's
+request after switching models. They use new generated backgrounds and retain
+the same sourced facts, original coin, official Anthropic logo and original
+options chart. The earlier `-integrated` exports remain available for comparison.
+
+Individual provenance and layout records are in
+`../briefs/anthropic-ipo-2026-10-26-astra.md`,
+`../briefs/microsoft-voluntary-buyouts-2026-10-26-astra.md` and
+`../briefs/retail-options-share-2026-10-26-astra.md`.
+`../scripts/render_astra_comparison.py` lays out the unchanged previous and new
+Story PNGs in `../exports/astra-redesign-comparison-2026-10-26.png`; the contact
+sheet is for comparing designs, while the individual exports are Story-sized.
+
 ## October 26 revisions with integrated coins
 
 The Anthropic, Microsoft and Options Investing exports ending in

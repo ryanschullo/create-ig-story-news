@@ -1,0 +1,758 @@
+{
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "inner_bounds": [
+    104,
+    164,
+    961,
+    1536
+  ],
+  "renderer": "Chromium via Playwright; HTML/CSS screenshot",
+  "background_sha256": "61726f2a9686e2f9784793f49d0a3b581a4612c76ec3287a76398877fbdc3ae6",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
+  "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
+  "georgia_redistributed": false,
+  "layout": {
+    "text": [
+      {
+        "id": "brand",
+        "text": "MONEYBERG NEWS BRIEF",
+        "bounds": {
+          "left": 112,
+          "top": 174,
+          "right": 482.84375,
+          "bottom": 209,
+          "width": 370.84375,
+          "height": 35
+        },
+        "element_bounds": {
+          "left": 112,
+          "top": 173,
+          "right": 482.84375,
+          "bottom": 210,
+          "width": 370.84375,
+          "height": 37
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "29px"
+      },
+      {
+        "id": "date",
+        "text": "OCT. 26, 2026",
+        "bounds": {
+          "left": 743,
+          "top": 181,
+          "right": 884.671875,
+          "bottom": 208,
+          "width": 141.671875,
+          "height": 27
+        },
+        "element_bounds": {
+          "left": 743,
+          "top": 181,
+          "right": 884.671875,
+          "bottom": 209,
+          "width": 141.671875,
+          "height": 28
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "22px"
+      },
+      {
+        "id": "category",
+        "text": "JOBS & EMPLOYMENT",
+        "bounds": {
+          "left": 112,
+          "top": 235,
+          "right": 412.03125,
+          "bottom": 265,
+          "width": 300.03125,
+          "height": 30
+        },
+        "element_bounds": {
+          "left": 112,
+          "top": 234,
+          "right": 412.03125,
+          "bottom": 266,
+          "width": 300.03125,
+          "height": 32
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "25px"
+      },
+      {
+        "id": "headline-one",
+        "text": "Microsoft offers",
+        "bounds": {
+          "left": 109,
+          "top": 329,
+          "right": 675.890625,
+          "bottom": 427,
+          "width": 566.890625,
+          "height": 98
+        },
+        "element_bounds": {
+          "left": 109,
+          "top": 331,
+          "right": 675.890625,
+          "bottom": 425,
+          "width": 566.890625,
+          "height": 94
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "82px"
+      },
+      {
+        "id": "headline-two",
+        "text": "voluntary buyouts",
+        "bounds": {
+          "left": 109,
+          "top": 421,
+          "right": 744.46875,
+          "bottom": 519,
+          "width": 635.46875,
+          "height": 98
+        },
+        "element_bounds": {
+          "left": 109,
+          "top": 423,
+          "right": 744.46875,
+          "bottom": 517,
+          "width": 635.46875,
+          "height": 94
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "82px"
+      },
+      {
+        "id": "eligible-count",
+        "text": "~60,000",
+        "bounds": {
+          "left": 105,
+          "top": 547,
+          "right": 717.109375,
+          "bottom": 758,
+          "width": 612.109375,
+          "height": 211
+        },
+        "element_bounds": {
+          "left": 105,
+          "top": 557,
+          "right": 717.109375,
+          "bottom": 748,
+          "width": 612.109375,
+          "height": 191
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "176px"
+      },
+      {
+        "id": "eligible-label",
+        "text": "EMPLOYEES ELIGIBLE",
+        "bounds": {
+          "left": 112,
+          "top": 758,
+          "right": 467.8125,
+          "bottom": 796,
+          "width": 355.8125,
+          "height": 38
+        },
+        "element_bounds": {
+          "left": 112,
+          "top": 758,
+          "right": 467.8125,
+          "bottom": 797,
+          "width": 355.8125,
+          "height": 39
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "31px"
+      },
+      {
+        "id": "voluntary",
+        "text": "Participation is voluntary.",
+        "bounds": {
+          "left": 112,
+          "top": 834,
+          "right": 501.90625,
+          "bottom": 872,
+          "width": 389.90625,
+          "height": 38
+        },
+        "element_bounds": {
+          "left": 112,
+          "top": 831,
+          "right": 501.90625,
+          "bottom": 875,
+          "width": 389.90625,
+          "height": 44
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "34px"
+      },
+      {
+        "id": "unknown",
+        "text": "The eventual departure count is unknown.",
+        "bounds": {
+          "left": 112,
+          "top": 880,
+          "right": 746.765625,
+          "bottom": 918,
+          "width": 634.765625,
+          "height": 38
+        },
+        "element_bounds": {
+          "left": 112,
+          "top": 877,
+          "right": 746.765625,
+          "bottom": 921,
+          "width": 634.765625,
+          "height": 44
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "34px"
+      },
+      {
+        "id": "teams-label",
+        "text": "SELECTED TEAMS",
+        "bounds": {
+          "left": 112,
+          "top": 1005,
+          "right": 344.25,
+          "bottom": 1035,
+          "width": 232.25,
+          "height": 30
+        },
+        "element_bounds": {
+          "left": 112,
+          "top": 1004,
+          "right": 344.25,
+          "bottom": 1036,
+          "width": 232.25,
+          "height": 32
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "25px"
+      },
+      {
+        "id": "teams-one",
+        "text": "U.S., Canada, the U.K.",
+        "bounds": {
+          "left": 112,
+          "top": 1054,
+          "right": 446.515625,
+          "bottom": 1092,
+          "width": 334.515625,
+          "height": 38
+        },
+        "element_bounds": {
+          "left": 112,
+          "top": 1051,
+          "right": 446.515625,
+          "bottom": 1095,
+          "width": 334.515625,
+          "height": 44
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "34px"
+      },
+      {
+        "id": "teams-two",
+        "text": "and India.",
+        "bounds": {
+          "left": 112,
+          "top": 1099,
+          "right": 266.0625,
+          "bottom": 1137,
+          "width": 154.0625,
+          "height": 38
+        },
+        "element_bounds": {
+          "left": 112,
+          "top": 1096,
+          "right": 266.0625,
+          "bottom": 1140,
+          "width": 154.0625,
+          "height": 44
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "34px"
+      },
+      {
+        "id": "window-label",
+        "text": "DECISION WINDOW",
+        "bounds": {
+          "left": 112,
+          "top": 1198,
+          "right": 378.546875,
+          "bottom": 1228,
+          "width": 266.546875,
+          "height": 30
+        },
+        "element_bounds": {
+          "left": 112,
+          "top": 1197,
+          "right": 378.546875,
+          "bottom": 1229,
+          "width": 266.546875,
+          "height": 32
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "25px"
+      },
+      {
+        "id": "window-one",
+        "text": "Early December to decide;",
+        "bounds": {
+          "left": 112,
+          "top": 1247,
+          "right": 507.484375,
+          "bottom": 1285,
+          "width": 395.484375,
+          "height": 38
+        },
+        "element_bounds": {
+          "left": 112,
+          "top": 1244,
+          "right": 507.484375,
+          "bottom": 1288,
+          "width": 395.484375,
+          "height": 44
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "34px"
+      },
+      {
+        "id": "window-two",
+        "text": "exits planned for year-end.",
+        "bounds": {
+          "left": 112,
+          "top": 1292,
+          "right": 514.5,
+          "bottom": 1330,
+          "width": 402.5,
+          "height": 38
+        },
+        "element_bounds": {
+          "left": 112,
+          "top": 1289,
+          "right": 514.5,
+          "bottom": 1333,
+          "width": 402.5,
+          "height": 44
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "34px"
+      },
+      {
+        "id": "source-one",
+        "text": "Sources: Business Insider (company memo),",
+        "bounds": {
+          "left": 112,
+          "top": 1442,
+          "right": 583.203125,
+          "bottom": 1469,
+          "width": 471.203125,
+          "height": 27
+        },
+        "element_bounds": {
+          "left": 112,
+          "top": 1440,
+          "right": 583.203125,
+          "bottom": 1472,
+          "width": 471.203125,
+          "height": 32
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "24px"
+      },
+      {
+        "id": "source-two",
+        "text": "Fox Business \u2022 October 26, 2026",
+        "bounds": {
+          "left": 112,
+          "top": 1476,
+          "right": 456.671875,
+          "bottom": 1503,
+          "width": 344.671875,
+          "height": 27
+        },
+        "element_bounds": {
+          "left": 112,
+          "top": 1474,
+          "right": 456.671875,
+          "bottom": 1506,
+          "width": 344.671875,
+          "height": 32
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "24px"
+      }
+    ],
+    "panels": [
+      {
+        "id": "header-rule",
+        "bounds": {
+          "left": 112,
+          "top": 287,
+          "right": 952,
+          "bottom": 288,
+          "width": 840,
+          "height": 1
+        }
+      },
+      {
+        "id": "body-rule",
+        "bounds": {
+          "left": 112,
+          "top": 967,
+          "right": 662,
+          "bottom": 968,
+          "width": 550,
+          "height": 1
+        }
+      },
+      {
+        "id": "source-rule",
+        "bounds": {
+          "left": 112,
+          "top": 1415,
+          "right": 952,
+          "bottom": 1416,
+          "width": 840,
+          "height": 1
+        }
+      },
+      {
+        "id": "source-wash",
+        "bounds": {
+          "left": 104,
+          "top": 1433,
+          "right": 819,
+          "bottom": 1514,
+          "width": 715,
+          "height": 81
+        }
+      }
+    ],
+    "scene_elements": [
+      {
+        "id": "coin-installation",
+        "bounds": {
+          "left": 743,
+          "top": 977,
+          "right": 977,
+          "bottom": 1211,
+          "width": 234,
+          "height": 234
+        },
+        "box_shadow": "rgb(6, 11, 16) 3px 4px 8px 0px inset, rgb(3, 7, 11) 1px 2px 2px 0px, rgb(170, 184, 190) -1px -1px 2px 0px",
+        "background": "linear-gradient(130deg, rgb(176, 185, 187), rgb(32, 43, 50) 35%, rgb(11, 18, 24) 67%, rgb(101, 119, 133))"
+      },
+      {
+        "id": "coin-contact",
+        "bounds": {
+          "left": 751,
+          "top": 985,
+          "right": 969,
+          "bottom": 1203,
+          "width": 218,
+          "height": 218
+        },
+        "box_shadow": "rgba(2, 9, 16, 0.76) 3px 5px 8px 0px inset, rgba(206, 227, 237, 0.34) -2px -2px 3px 0px inset",
+        "background": "linear-gradient(135deg, rgba(200, 223, 238, 0.12), rgba(0, 0, 0, 0) 48%, rgba(6, 21, 34, 0.14))"
+      },
+      {
+        "id": "coin-surface-light",
+        "bounds": {
+          "left": 730,
+          "top": 966,
+          "right": 992,
+          "bottom": 1228,
+          "width": 262,
+          "height": 262
+        },
+        "box_shadow": "none",
+        "background": "linear-gradient(115deg, rgba(221, 232, 231, 0.1), rgba(0, 0, 0, 0) 39%, rgba(0, 0, 0, 0) 63%, rgba(110, 157, 188, 0.08))"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Moneyberg Lato Black",
+        "weight": "900",
+        "status": "loaded"
+      },
+      {
+        "family": "Moneyberg Georgia",
+        "weight": "400",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "id": "background",
+        "natural_width": 941,
+        "natural_height": 1672,
+        "bounds": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        }
+      },
+      {
+        "id": "coin",
+        "natural_width": 2084,
+        "natural_height": 2084,
+        "bounds": {
+          "left": 753,
+          "top": 987,
+          "right": 967,
+          "bottom": 1201,
+          "width": 214,
+          "height": 214
+        }
+      }
+    ],
+    "document_width": 1080,
+    "document_height": 1920
+  },
+  "platform_fonts": [
+    {
+      "id": "brand",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 13
+        }
+      ]
+    },
+    {
+      "id": "category",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 17
+        }
+      ]
+    },
+    {
+      "id": "headline-one",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "headline-two",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 17
+        }
+      ]
+    },
+    {
+      "id": "eligible-count",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 7
+        }
+      ]
+    },
+    {
+      "id": "eligible-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 18
+        }
+      ]
+    },
+    {
+      "id": "voluntary",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 27
+        }
+      ]
+    },
+    {
+      "id": "unknown",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 40
+        }
+      ]
+    },
+    {
+      "id": "teams-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 14
+        }
+      ]
+    },
+    {
+      "id": "teams-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 22
+        }
+      ]
+    },
+    {
+      "id": "teams-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 10
+        }
+      ]
+    },
+    {
+      "id": "window-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 15
+        }
+      ]
+    },
+    {
+      "id": "window-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 25
+        }
+      ]
+    },
+    {
+      "id": "window-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 27
+        }
+      ]
+    },
+    {
+      "id": "source-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 41
+        }
+      ]
+    },
+    {
+      "id": "source-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 31
+        }
+      ]
+    }
+  ],
+  "coin_bounds": {
+    "left": 753,
+    "top": 987,
+    "right": 967,
+    "bottom": 1201,
+    "width": 214,
+    "height": 214
+  },
+  "whole_coin_upper_75_percent_verified": true,
+  "integration": {
+    "method": "Actual original PNG seated in a front-facing mid-scene graphite column recess; separate CSS contact shadow, metal rim, blue-hour tone and surface light layers",
+    "artwork": "Original PNG directly loaded by browser; uniformly scaled, never redrawn or warped",
+    "image_generation_role": "Created a new graphite office corridor and empty workstation with a reserved circular architectural setting; no coin supplied to or drawn by image generation",
+    "generated_source": "/workspace/generated_images/exec-17bba13a-f1d8-4fc7-bc63-1e94a2ce7ddf.png",
+    "effects": [
+      "recessed circular seat",
+      "contact shadow",
+      "inset edge light",
+      "non-destructive blue-hour tone",
+      "soft light across emblem and surrounding metal"
+    ],
+    "historical_export_changed": false,
+    "category": "JOBS & EMPLOYMENT",
+    "background_credit_on_graphic": false,
+    "background_provenance": "Generated editorial office scenery; not evidence of an identified facility or departures"
+  },
+  "output_sha256": "a60fd81c9436ae8690b244c375266b753f6bb1b75477b110ca8691d6ca84efd1"
+}

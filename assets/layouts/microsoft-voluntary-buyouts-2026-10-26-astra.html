@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<base href="__ASSET_BASE_URI__">
+<title>Microsoft voluntary buyouts — Astra design</title>
+<style>
+@font-face{font-family:"Moneyberg Lato Black";src:url("fonts/lato/Lato-Black.ttf") format("truetype");font-weight:900;font-style:normal}
+@font-face{font-family:"Moneyberg Georgia";src:url("__GEORGIA_FONT_URI__") format("truetype");font-weight:400;font-style:normal}
+*{box-sizing:border-box}html,body{margin:0;width:1080px;height:1920px;overflow:hidden;background:#10171e}
+#stage{position:relative;width:1080px;height:1920px;isolation:isolate;overflow:hidden}
+#background{position:absolute;inset:0;width:1080px;height:1920px;object-fit:fill}
+#reading-light{position:absolute;inset:0;pointer-events:none;background:linear-gradient(90deg,rgba(8,15,22,.6),rgba(8,15,22,.32) 57%,transparent 77%)}
+.text{position:absolute;margin:0;z-index:5;font-synthesis:none;text-rendering:geometricPrecision;-webkit-font-smoothing:antialiased}
+.lato{font-family:"Moneyberg Lato Black";font-weight:900;color:#f7f5ef}
+.georgia{font-family:"Moneyberg Georgia";font-weight:400;color:#edf0f1}
+.rule{position:absolute;height:1px;background:#8babbc;opacity:.48;z-index:3}
+#brand{left:112px;top:173px;font-size:29px;line-height:37px;letter-spacing:.35px}
+#date{left:743px;top:181px;font-size:22px;line-height:28px;color:#c6d5df}
+#category{left:112px;top:234px;font-size:25px;line-height:32px;letter-spacing:2px;color:#a4c4d7}
+#header-rule{left:112px;top:287px;width:840px}
+#headline-one{left:109px;top:331px;font-size:82px;line-height:94px;letter-spacing:-1.7px}
+#headline-two{left:109px;top:423px;font-size:82px;line-height:94px;letter-spacing:-1.7px}
+#eligible-count{left:105px;top:557px;font-size:176px;line-height:191px;letter-spacing:-6px;color:#b5dbeb}
+#eligible-label{left:112px;top:758px;font-size:31px;line-height:39px;letter-spacing:2.2px;color:#b5dbeb}
+#voluntary{left:112px;top:831px;font-size:34px;line-height:44px}
+#unknown{left:112px;top:877px;font-size:34px;line-height:44px}
+#body-rule{left:112px;top:967px;width:550px}
+#teams-label{left:112px;top:1004px;font-size:25px;line-height:32px;letter-spacing:1.6px;color:#aac8d7}
+#teams-one{left:112px;top:1051px;font-size:34px;line-height:44px}
+#teams-two{left:112px;top:1096px;font-size:34px;line-height:44px}
+#window-label{left:112px;top:1197px;font-size:25px;line-height:32px;letter-spacing:1.6px;color:#aac8d7}
+#window-one{left:112px;top:1244px;font-size:34px;line-height:44px}
+#window-two{left:112px;top:1289px;font-size:34px;line-height:44px}
+#source-rule{left:112px;top:1415px;width:840px}
+#source-wash{position:absolute;left:104px;top:1433px;width:715px;height:81px;z-index:4;background:linear-gradient(90deg,rgba(8,15,22,.88),rgba(8,15,22,.78) 78%,rgba(8,15,22,.06))}
+#source-one,#source-two{left:112px;font-size:24px;line-height:32px;color:#d6dfe5;text-shadow:0 1px 7px #08111b}
+#source-one{top:1440px}#source-two{top:1474px}
+/* The original PNG is seated in the office column, above the desk.
+   Metal rim, recessed contact shade, and surface reflection are separate layers. */
+#coin-installation{position:absolute;left:743px;top:977px;width:234px;height:234px;z-index:2;border-radius:50%;background:linear-gradient(130deg,#b0b9bb,#202b32 35%,#0b1218 67%,#657785);border:2px solid #56636d;box-shadow:inset 3px 4px 8px #060b10,1px 2px 2px #03070b,-1px -1px 2px #aab8be}
+#coin{position:absolute;left:8px;top:8px;width:214px;height:214px;object-fit:contain;opacity:1;mix-blend-mode:normal;filter:saturate(.70) brightness(.69)}
+#coin-contact{position:absolute;inset:6px;border-radius:50%;pointer-events:none;box-shadow:inset 3px 5px 8px rgba(2,9,16,.76),inset -2px -2px 3px rgba(206,227,237,.34);background:linear-gradient(135deg,rgba(200,223,238,.12),transparent 48%,rgba(6,21,34,.14))}
+#coin-surface-light{position:absolute;left:730px;top:966px;width:262px;height:262px;z-index:3;border-radius:50%;pointer-events:none;background:linear-gradient(115deg,rgba(221,232,231,.10),transparent 39%,transparent 63%,rgba(110,157,188,.08));mix-blend-mode:screen}
+</style>
+</head>
+<body>
+<main id="stage" aria-label="Microsoft voluntary buyouts news brief">
+<img id="background" src="microsoft-voluntary-buyouts-background-astra.png" alt="">
+<div id="reading-light" aria-hidden="true"></div>
+<div id="coin-installation" data-scene-element aria-hidden="true"><img id="coin" src="moneyberg-coin-original.png" alt=""><div id="coin-contact" data-scene-element></div></div>
+<div id="coin-surface-light" data-scene-element aria-hidden="true"></div>
+<div id="brand" class="text lato" data-news-text>MONEYBERG NEWS BRIEF</div>
+<div id="date" class="text lato" data-news-text>OCT. 26, 2026</div>
+<div id="category" class="text lato" data-news-text>JOBS &amp; EMPLOYMENT</div>
+<div id="header-rule" class="rule" data-news-panel aria-hidden="true"></div>
+<div id="headline-one" class="text lato" data-news-text>Microsoft offers</div>
+<div id="headline-two" class="text lato" data-news-text>voluntary buyouts</div>
+<div id="eligible-count" class="text lato" data-news-text>~60,000</div>
+<div id="eligible-label" class="text lato" data-news-text>EMPLOYEES ELIGIBLE</div>
+<div id="voluntary" class="text georgia" data-news-text>Participation is voluntary.</div>
+<div id="unknown" class="text georgia" data-news-text>The eventual departure count is unknown.</div>
+<div id="body-rule" class="rule" data-news-panel aria-hidden="true"></div>
+<div id="teams-label" class="text lato" data-news-text>SELECTED TEAMS</div>
+<div id="teams-one" class="text georgia" data-news-text>U.S., Canada, the U.K.</div>
+<div id="teams-two" class="text georgia" data-news-text>and India.</div>
+<div id="window-label" class="text lato" data-news-text>DECISION WINDOW</div>
+<div id="window-one" class="text georgia" data-news-text>Early December to decide;</div>
+<div id="window-two" class="text georgia" data-news-text>exits planned for year-end.</div>
+<div id="source-rule" class="rule" data-news-panel aria-hidden="true"></div>
+<div id="source-wash" data-news-panel aria-hidden="true"></div>
+<div id="source-one" class="text georgia" data-news-text>Sources: Business Insider (company memo),</div>
+<div id="source-two" class="text georgia" data-news-text>Fox Business • October 26, 2026</div>
+</main>
+</body>
+</html>
