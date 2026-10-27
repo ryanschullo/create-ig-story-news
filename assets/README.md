@@ -1,5 +1,16 @@
 # Design assets and references
 
+## October 26 revisions with integrated coins
+
+The Anthropic, Microsoft and Options Investing exports ending in
+`-2026-10-26-integrated.png` use edited backgrounds ending in `-integrated.png`.
+The original coin is seated within each environment's stone or glass surface,
+with matching material, contact shadow and reflected light. Every coin's full
+rim lies within the upper 75% of the canvas. The background-production footer
+is omitted, while sources, dates, facts and the original graph/logo are kept.
+See `../briefs/integrated-coin-revisions-2026-10-26.md` for background provenance,
+positions, renderers and validation. Earlier exports remain historical versions.
+
 ## Options investing — retail volume share
 
 `charts/retail-options-share-kobeissi-2026-10-26-original.jpg` is the unchanged
