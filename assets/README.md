@@ -90,6 +90,14 @@ Preserve the master unmodified. Keep any resized, cropped, background-removed,
 or edited working derivatives under separate filenames. A generation reference
 does not guarantee an exact reproduction in the finished graphic.
 
+For future graphics and requested revisions, integrate the original coin into
+the background scene using compatible lighting, tone, surface texture, shadow,
+or reflection. A detached corner badge or reduced opacity alone is insufficient.
+Preserve its portrait, lettering and circular proportions. Keep the entire coin
+within the upper 75% of the canvas: y=0–1440 at 1080 × 1920, scaled
+proportionally. Follow the skill's full integration and placement rules;
+historical examples retain their original placement unless revised on request.
+
 ## Subject-specific examples
 
 Future graphics use distinct subject-specific palettes, layouts, and relevant

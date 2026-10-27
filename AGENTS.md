@@ -66,9 +66,18 @@ subjects need their own visual approach. Power and infrastructure stories use
 charcoal, steel blue, restrained electric yellow, and relevant grid imagery.
 Always use the user's original uploaded gold Moneyberg coin as the only approved
 coin artwork. Preserve its exact portrait, rim lettering, and circular
-proportions; do not redraw it or use generated variants as substitutes. Integrate
-it subtly near an edge or in the lower background while subject-specific imagery
-remains primary. The canonical permanent master is
+proportions; do not redraw it or use generated variants as substitutes.
+Integrate the coin into the scene through compatible lighting, tone, surface
+texture, and appropriate shadow or reflection. Compose the background around
+it so it feels embedded in the environment; a detached badge or simply reducing
+the opacity of a coin placed over the scene does not satisfy this rule.
+Keep the entire coin, including its rim, within the top three-quarters of the
+canvas: y=0–1440 on a 1080 × 1920 graphic, scaled proportionally. Reserve space
+for it during composition and protect news text, charts, and source legibility.
+Subject-specific imagery remains primary. This supersedes earlier lower-corner
+or lower-background placement guidance for future graphics and requested
+revisions; historical exports stay unchanged unless requested.
+The canonical permanent master is
 `assets/moneyberg-coin-original.png`, verified and permanently archived from
 the user's GitHub upload. It is the original 2084 × 2084 PNG, not a generated
 copy. Reuse it without requesting another upload. If it is absent locally,

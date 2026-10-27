@@ -109,11 +109,36 @@ lower rim. Always use that actual uploaded artwork, preserving its exact face,
 hair, lettering, rim, and circular proportions. Do not generate a different
 portrait, redraw the coin, retype its inscription, or substitute a similar coin.
 
-Use the original upload as the reference for image generation or editing. Scale
-it uniformly and blend it subtly into the background, preferably near an edge
-or in the lower background. Subject-specific imagery, palette, and layout remain
-primary; the coin must not turn every story into the same generic template or
-compete with the text, visual, or chart. Preserve integral logo lettering as
+Integrate the actual original artwork into the background environment. Plan
+the scene, coin placement, and surrounding content together so the coin belongs
+to the composition, rather than adding a detached badge after the design is
+finished. Suitable treatments include an emblem on a glass or architectural
+surface, a seal within a background texture, or another scene-appropriate
+placement with compatible lighting, tone, texture, shadow, or reflection.
+Reducing opacity alone does not establish integration.
+
+Scale the original uniformly. Use non-destructive blending and surrounding
+environmental effects while preserving the recognizable original gold artwork,
+portrait, hair, lettering, rim, and circular proportions. Keep the master
+unchanged; do not redraw, retype, warp, or replace it to fit a surface. If image
+generation is used for the environment or integration, inspect the finished
+coin against the original and correct any altered portrait or lettering using
+the actual original artwork.
+
+### Required coin placement
+
+Keep the **entire coin within the top three-quarters of the graphic**, including
+its full rim. On a **1080 × 1920** canvas, its rendered vertical bounds must
+satisfy **y_top ≥ 0 and y_bottom ≤ 1440**. For any other canvas height, use
+**y_bottom ≤ 0.75 × canvas height**. Check the whole coin's bounds, not just its
+center. Reserve appropriate background space or reflow the composition to meet
+this rule while keeping all news content readable.
+
+This supersedes the earlier lower-background and standalone lower-corner coin
+placements for new graphics and requested revisions. Historical exports remain
+unchanged unless the user requests a revision. Subject-specific imagery,
+palette, and layout remain primary; the integrated coin must not compete with
+the headline, visual, chart, or source. Preserve integral logo lettering as
 artwork; Lato Black and Georgia apply to newly authored text.
 
 `assets/moneyberg-story-background.png` and coins appearing in earlier generated
@@ -151,8 +176,9 @@ finished graphic reproduces every logo detail exactly.
 Inspect each finished image against the original, including the portrait and
 lettering. A generation request alone does not prove exact logo reproduction.
 
-The decorative watermark may extend outside the content area, while all added
-text remains inside it. Branding is decoration, not evidence for news claims.
+The decorative coin may extend outside the marked news-content area, but must
+still satisfy the top-three-quarters placement rule. All added text remains
+inside the content area. Branding is decoration, not evidence for news claims.
 
 ## Subject-specific designs
 
@@ -345,7 +371,9 @@ Use the image generation tool for creation and editing, supplying the content
 area and required Lato Black/Georgia assignments explicitly in the prompt.
 Include the exact recurring label `MONEYBERG NEWS BRIEF` in the prompt.
 Specify that it is small, secondary, and on one line. Include the subject-specific
-design and the user's original approved Moneyberg coin as a subtle watermark.
+design and plan the user's original approved Moneyberg coin as an integrated
+part of the background, entirely within the upper 75% of the canvas. Inspect
+scene integration and verify the coin's complete rendered bounds before delivery.
 Inspect relevant references before editing; never substitute a coin from a
 generated background or prior export for the original artwork.
 Do not claim the exact canvas dimensions unless the resulting file was checked.
