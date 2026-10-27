@@ -32,6 +32,7 @@ The current, expandable news topics are:
 - `OPTIONS INVESTING`
 - `OIL & GAS`
 - `ENERGY & INFRASTRUCTURE`
+- `NUCLEAR ENERGY INVESTING`
 - `AI INVESTING`
 - `REAL ESTATE`
 - `CONSUMER SENTIMENT`
@@ -47,6 +48,10 @@ scope. Retain relevant coverage of the U.S. economy, business, finance, layoffs,
 Kevin Warsh, Trump's economic actions, Iran, and Russia–Ukraine within the
 applicable topics. The user welcomes useful suggestions for additional topics;
 identify suggestions clearly and expand the saved list as the user adds topics.
+
+Assign nuclear-power-focused stories primarily to `NUCLEAR ENERGY INVESTING`,
+counting each story once. Follow the skill's nuclear scope, project-milestone,
+capacity, financial, and subject-specific design guidance.
 
 For `OPTIONS INVESTING`, actively seek multiple fresh candidates and include
 strong options stories when available. Keep its category badge separate from

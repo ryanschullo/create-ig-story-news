@@ -193,6 +193,7 @@ not rigid templates; vary composition and hierarchy to suit the news:
 | --- | --- |
 | Oil and energy | Petroleum black, charcoal, and amber; tanker, refinery, pipeline, or storage-tank illustrations; industrial lines and strong energy-focused composition. |
 | Power and infrastructure | Charcoal, steel blue, and restrained electric yellow; transmission towers, substations, power lines, utility meters, or an illustrative electricity grid; a distinct infrastructure-focused composition. |
+| NUCLEAR ENERGY INVESTING | Industrial navy and graphite, with teal or restrained amber; appropriate power-plant, research-facility, SMR, or microreactor motifs. Use power-focused imagery rather than weapons or implosion imagery. |
 | AI investing and technology | Cool navy, cyan, or violet; chips, data-center structures, or circuitry; a clean technical composition. |
 | Federal Reserve and U.S. economy | Slate, ink, or restrained cream; institutional architecture and macroeconomic motifs; a clear policy-brief hierarchy. |
 | Consumer sentiment and cost of living | Warm neutral paper, ink, and burgundy; everyday retail, grocery, receipt, or household-budget illustrations; preserve the survey context and avoid unsupported economic-collapse framing. |
@@ -278,7 +279,8 @@ Keep `MONEYBERG NEWS BRIEF` as the compact one-line brand label.
 | --- | --- |
 | **OPTIONS INVESTING** | Retail and institutional options activity, index/ETF/single-stock options, 0DTE, volatility, hedging, expirations, and options-based investment products; follow the detailed rules below. |
 | **OIL & GAS** | Crude oil, natural gas, fuel prices, refining, LNG, producers, supply, demand, and relevant energy geopolitics. |
-| **ENERGY & INFRASTRUCTURE** | Electricity, utilities, the grid, generation, nuclear and renewables, data-center power needs, and infrastructure investment and construction. |
+| **ENERGY & INFRASTRUCTURE** | Electricity, utilities, the grid, generation and renewables, data-center power needs, and infrastructure investment and construction; use the dedicated nuclear category for nuclear-power-focused stories. |
+| **NUCLEAR ENERGY INVESTING** | Commercial and military nuclear-power deployments, utilities, uranium and the fuel cycle, enrichment and HALEU, advanced reactors, SMRs and microreactors, financing, companies, contracts, licensing, construction, restarts, and policy. |
 | **AI INVESTING** | AI companies, financing, valuations, IPOs, chips, cloud and data centers, adoption, spending, and business returns. |
 | **REAL ESTATE** | Housing and commercial property, mortgages, rents, sales, affordability, development, and institutional property investment. |
 | **CONSUMER SENTIMENT** | Confidence surveys, household finances, spending intentions, affordability and cost-of-living pressures; distinguish attitudes from measured spending and inflation. |
@@ -312,6 +314,21 @@ Distinguish estimates, commentary, and prediction-market odds from confirmed
 facts. Label intraday figures with their observation time. Use America/Chicago
 for deciding what the user means by today, preserving source time zones in
 market timestamps.
+
+### NUCLEAR ENERGY INVESTING
+
+Assign nuclear-power-focused stories primarily to **NUCLEAR ENERGY INVESTING**
+rather than the broader **ENERGY & INFRASTRUCTURE** category, and count each
+story once. Include relevant deployment, business, financing, and policy news
+without requiring a stock recommendation. Distinguish nuclear-energy uses,
+including military power applications, from nuclear weapons.
+
+Preserve project status: a plan, contract award, authorization, construction
+milestone, and operating reactor are different developments. Keep electric
+capacity (MWe) distinct from thermal capacity (MWth). Distinguish proposed
+investment from committed funding and recognized revenue; do not infer stock
+returns from policy announcements. Use the nuclear design starting point above
+with relevant power or research-facility imagery.
 
 ### OPTIONS INVESTING
 

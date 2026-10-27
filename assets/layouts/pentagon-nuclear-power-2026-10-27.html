@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<base href="__ASSET_BASE_URI__">
+<title>Pentagon portable nuclear power — October 27, 2026 edition</title>
+<style>
+@font-face{font-family:"Moneyberg Lato Black";src:url("fonts/lato/Lato-Black.ttf") format("truetype");font-weight:900;font-style:normal}
+@font-face{font-family:"Moneyberg Georgia";src:url("__GEORGIA_FONT_URI__") format("truetype");font-weight:400;font-style:normal}
+*{box-sizing:border-box}html,body{margin:0;width:1080px;height:1920px;overflow:hidden;background:#081b33}
+#stage{position:relative;width:1080px;height:1920px;isolation:isolate;overflow:hidden}
+#background{position:absolute;inset:0;width:1080px;height:1920px;object-fit:fill}
+#reading-light{position:absolute;inset:0;pointer-events:none;background:linear-gradient(90deg,rgba(4,15,29,.72),rgba(4,15,29,.38) 61%,transparent 83%)}
+.text{position:absolute;margin:0;z-index:5;font-synthesis:none;text-rendering:geometricPrecision;-webkit-font-smoothing:antialiased}
+.lato{font-family:"Moneyberg Lato Black";font-weight:900;color:#f6f6ee}
+.georgia{font-family:"Moneyberg Georgia";font-weight:400;color:#eaf0ee}
+.rule{position:absolute;height:1px;background:#e3be78;opacity:.52;z-index:3}
+#brand{left:112px;top:173px;font-size:29px;line-height:37px;letter-spacing:.35px}
+#date{left:743px;top:181px;font-size:22px;line-height:28px;color:#d3dcd9}
+#category{left:112px;top:238px;font-size:25px;line-height:32px;letter-spacing:1.7px;color:#e3c185}
+#header-rule{left:112px;top:292px;width:840px}
+#headline-one{left:108px;top:343px;font-size:76px;line-height:87px;letter-spacing:-1.1px}
+#headline-two{left:108px;top:430px;font-size:76px;line-height:87px;letter-spacing:-1.1px}
+#summary-one,#summary-two,#summary-three,#summary-four{left:112px;font-size:33px;line-height:44px}
+#summary-one{top:569px}#summary-two{top:614px}#summary-three{top:659px}#summary-four{top:704px}
+#at-least{left:112px;top:827px;font-size:28px;line-height:37px;letter-spacing:2.5px;color:#e3c185}
+#target-number{left:106px;top:869px;font-size:139px;line-height:162px;letter-spacing:-3px;color:#f0cb88}
+#target-label{left:112px;top:1061px;font-size:24px;line-height:33px;letter-spacing:.3px;color:#e3c185}
+#target-rule{left:112px;top:1117px;width:572px}
+#scope-one,#scope-two,#scope-three{left:112px;font-size:33px;line-height:44px}
+#scope-one{top:1151px}#scope-two{top:1196px}#scope-three{top:1241px}
+#scope-wash{position:absolute;left:104px;top:1138px;width:849px;height:161px;z-index:4;background:linear-gradient(90deg,rgba(4,15,29,.75),rgba(4,15,29,.68) 78%,rgba(4,15,29,.3))}
+#source-rule{left:112px;top:1408px;width:840px}
+#source-wash{position:absolute;left:104px;top:1426px;width:849px;height:89px;z-index:4;background:linear-gradient(90deg,rgba(4,15,29,.94),rgba(4,15,29,.84) 78%,rgba(4,15,29,.5))}
+#source-one,#source-two{left:112px;font-size:24px;line-height:32px;color:#e2e7e6}
+#source-one{top:1438px}#source-two{top:1472px}
+/* Uniform original coin seated in the scene's front-facing utility-building recess. */
+#coin-installation{position:absolute;left:781px;top:886px;width:226px;height:226px;z-index:2;border-radius:50%;background:linear-gradient(130deg,#b2aba0,#30363a 35%,#151e27 67%,#806b47);border:2px solid #7d786e;box-shadow:inset 3px 4px 8px #080e14,1px 2px 3px #080e14,-1px -1px 2px #c7ab7b}
+#coin{position:absolute;left:9px;top:9px;width:204px;height:204px;object-fit:contain;opacity:1;mix-blend-mode:normal;filter:saturate(.84) brightness(.81)}
+#coin-contact{position:absolute;inset:7px;border-radius:50%;pointer-events:none;box-shadow:inset 3px 5px 8px rgba(2,9,16,.76),inset -2px -2px 3px rgba(244,199,127,.4);background:linear-gradient(115deg,rgba(245,205,142,.19),transparent 38%,rgba(7,24,40,.17) 76%)}
+#coin-surface-light{position:absolute;left:770px;top:877px;width:248px;height:248px;z-index:3;border-radius:50%;pointer-events:none;background:linear-gradient(105deg,rgba(253,183,75,.13),transparent 28%,transparent 73%,rgba(248,183,77,.11));mix-blend-mode:screen}
+</style>
+</head>
+<body>
+<main id="stage" aria-label="Pentagon portable nuclear power news brief">
+<img id="background" src="pentagon-nuclear-power-background.png" alt="">
+<div id="reading-light" aria-hidden="true"></div>
+<div id="coin-installation" data-scene-element aria-hidden="true"><img id="coin" src="moneyberg-coin-original.png" alt=""><div id="coin-contact" data-scene-element></div></div>
+<div id="coin-surface-light" data-scene-element aria-hidden="true"></div>
+<div id="brand" class="text lato" data-news-text>MONEYBERG NEWS BRIEF</div>
+<div id="date" class="text lato" data-news-text>OCT. 27, 2026</div>
+<div id="category" class="text lato" data-news-text>NUCLEAR ENERGY INVESTING</div>
+<div id="header-rule" class="rule" data-news-panel aria-hidden="true"></div>
+<div id="headline-one" class="text lato" data-news-text>Pentagon eyes</div>
+<div id="headline-two" class="text lato" data-news-text>portable nuclear power</div>
+<div id="summary-one" class="text georgia" data-news-text>Fox News reports FORTRESS envisions</div>
+<div id="summary-two" class="text georgia" data-news-text>portable reactors, battery storage and</div>
+<div id="summary-three" class="text georgia" data-news-text>microgrids to help military bases endure</div>
+<div id="summary-four" class="text georgia" data-news-text>disruptions to civilian power grids.</div>
+<div id="at-least" class="text lato" data-news-text>AT LEAST</div>
+<div id="target-number" class="text lato" data-news-text>90 DAYS</div>
+<div id="target-label" class="text lato" data-news-text>REPORTED SELF-SUFFICIENCY TARGET</div>
+<div id="target-rule" class="rule" data-news-panel aria-hidden="true"></div>
+<div id="scope-wash" data-news-panel aria-hidden="true"></div>
+<div id="scope-one" class="text georgia" data-news-text>For essential operations at major bases</div>
+<div id="scope-two" class="text georgia" data-news-text>in the continental U.S., without outside support:</div>
+<div id="scope-three" class="text georgia" data-news-text>electricity, water, fuel and communications.</div>
+<div id="source-rule" class="rule" data-news-panel aria-hidden="true"></div>
+<div id="source-wash" data-news-panel aria-hidden="true"></div>
+<div id="source-one" class="text georgia" data-news-text>Source: Fox News • Morgan Phillips</div>
+<div id="source-two" class="text georgia" data-news-text>Reported October 25, 2026 • October 27 edition</div>
+</main>
+</body>
+</html>

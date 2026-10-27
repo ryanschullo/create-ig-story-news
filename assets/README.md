@@ -1,5 +1,15 @@
 # Design assets and references
 
+## Nuclear energy investing — FORTRESS
+
+`pentagon-nuclear-power-background.png` is generated conceptual power-facility
+scenery for the October 27 edition. It illustrates the nuclear-energy component
+of the reported FORTRESS plan, not a completed installation or an identified
+vendor's design. The original Moneyberg coin is placed directly into the scene.
+See `../briefs/pentagon-nuclear-power-2026-10-27.md` for source reporting, the
+October 25 publication date, the reported 90-day essential-operations target,
+background provenance and rendering checks.
+
 ## Anthropic's planned early IPO lockup releases
 
 `anthropic-ipo-lockup-background.png` is generated decorative architecture for

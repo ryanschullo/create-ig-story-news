@@ -1,0 +1,773 @@
+{
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "inner_bounds": [
+    104,
+    164,
+    961,
+    1536
+  ],
+  "renderer": "Chromium via Playwright; HTML/CSS screenshot",
+  "background_sha256": "91122662fe7c3675f2c6c9c54448743e5e28f062688255003f944fca753e6ce6",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
+  "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
+  "georgia_redistributed": false,
+  "layout": {
+    "text": [
+      {
+        "id": "brand",
+        "text": "MONEYBERG NEWS BRIEF",
+        "bounds": {
+          "left": 112,
+          "top": 174,
+          "right": 482.84375,
+          "bottom": 209,
+          "width": 370.84375,
+          "height": 35
+        },
+        "element_bounds": {
+          "left": 112,
+          "top": 173,
+          "right": 482.84375,
+          "bottom": 210,
+          "width": 370.84375,
+          "height": 37
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "29px"
+      },
+      {
+        "id": "date",
+        "text": "OCT. 27, 2026",
+        "bounds": {
+          "left": 743,
+          "top": 181,
+          "right": 884.671875,
+          "bottom": 208,
+          "width": 141.671875,
+          "height": 27
+        },
+        "element_bounds": {
+          "left": 743,
+          "top": 181,
+          "right": 884.671875,
+          "bottom": 209,
+          "width": 141.671875,
+          "height": 28
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "22px"
+      },
+      {
+        "id": "category",
+        "text": "NUCLEAR ENERGY INVESTING",
+        "bounds": {
+          "left": 112,
+          "top": 239,
+          "right": 510.046875,
+          "bottom": 269,
+          "width": 398.046875,
+          "height": 30
+        },
+        "element_bounds": {
+          "left": 112,
+          "top": 238,
+          "right": 510.046875,
+          "bottom": 270,
+          "width": 398.046875,
+          "height": 32
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "25px"
+      },
+      {
+        "id": "headline-one",
+        "text": "Pentagon eyes",
+        "bounds": {
+          "left": 108,
+          "top": 341,
+          "right": 588.359375,
+          "bottom": 432,
+          "width": 480.359375,
+          "height": 91
+        },
+        "element_bounds": {
+          "left": 108,
+          "top": 343,
+          "right": 588.359375,
+          "bottom": 430,
+          "width": 480.359375,
+          "height": 87
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "76px"
+      },
+      {
+        "id": "headline-two",
+        "text": "portable nuclear power",
+        "bounds": {
+          "left": 108,
+          "top": 428,
+          "right": 872.6875,
+          "bottom": 519,
+          "width": 764.6875,
+          "height": 91
+        },
+        "element_bounds": {
+          "left": 108,
+          "top": 430,
+          "right": 872.6875,
+          "bottom": 517,
+          "width": 764.6875,
+          "height": 87
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "76px"
+      },
+      {
+        "id": "summary-one",
+        "text": "Fox News reports FORTRESS envisions",
+        "bounds": {
+          "left": 112,
+          "top": 572,
+          "right": 689.828125,
+          "bottom": 609,
+          "width": 577.828125,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 112,
+          "top": 569,
+          "right": 689.828125,
+          "bottom": 613,
+          "width": 577.828125,
+          "height": 44
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      },
+      {
+        "id": "summary-two",
+        "text": "portable reactors, battery storage and",
+        "bounds": {
+          "left": 112,
+          "top": 617,
+          "right": 657.875,
+          "bottom": 654,
+          "width": 545.875,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 112,
+          "top": 614,
+          "right": 657.875,
+          "bottom": 658,
+          "width": 545.875,
+          "height": 44
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      },
+      {
+        "id": "summary-three",
+        "text": "microgrids to help military bases endure",
+        "bounds": {
+          "left": 112,
+          "top": 662,
+          "right": 700.734375,
+          "bottom": 699,
+          "width": 588.734375,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 112,
+          "top": 659,
+          "right": 700.734375,
+          "bottom": 703,
+          "width": 588.734375,
+          "height": 44
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      },
+      {
+        "id": "summary-four",
+        "text": "disruptions to civilian power grids.",
+        "bounds": {
+          "left": 112,
+          "top": 707,
+          "right": 618.34375,
+          "bottom": 744,
+          "width": 506.34375,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 112,
+          "top": 704,
+          "right": 618.34375,
+          "bottom": 748,
+          "width": 506.34375,
+          "height": 44
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      },
+      {
+        "id": "at-least",
+        "text": "AT LEAST",
+        "bounds": {
+          "left": 112,
+          "top": 828,
+          "right": 255.0625,
+          "bottom": 862,
+          "width": 143.0625,
+          "height": 34
+        },
+        "element_bounds": {
+          "left": 112,
+          "top": 827,
+          "right": 255.0625,
+          "bottom": 864,
+          "width": 143.0625,
+          "height": 37
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "28px"
+      },
+      {
+        "id": "target-number",
+        "text": "90 DAYS",
+        "bounds": {
+          "left": 106,
+          "top": 866,
+          "right": 632.875,
+          "bottom": 1033,
+          "width": 526.875,
+          "height": 167
+        },
+        "element_bounds": {
+          "left": 106,
+          "top": 869,
+          "right": 632.875,
+          "bottom": 1031,
+          "width": 526.875,
+          "height": 162
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "139px"
+      },
+      {
+        "id": "target-label",
+        "text": "REPORTED SELF-SUFFICIENCY TARGET",
+        "bounds": {
+          "left": 112,
+          "top": 1063,
+          "right": 561.8125,
+          "bottom": 1092,
+          "width": 449.8125,
+          "height": 29
+        },
+        "element_bounds": {
+          "left": 112,
+          "top": 1061,
+          "right": 561.8125,
+          "bottom": 1094,
+          "width": 449.8125,
+          "height": 33
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "24px"
+      },
+      {
+        "id": "scope-one",
+        "text": "For essential operations at major bases",
+        "bounds": {
+          "left": 112,
+          "top": 1154,
+          "right": 679.53125,
+          "bottom": 1191,
+          "width": 567.53125,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 112,
+          "top": 1151,
+          "right": 679.53125,
+          "bottom": 1195,
+          "width": 567.53125,
+          "height": 44
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      },
+      {
+        "id": "scope-two",
+        "text": "in the continental U.S., without outside support:",
+        "bounds": {
+          "left": 112,
+          "top": 1199,
+          "right": 815.09375,
+          "bottom": 1236,
+          "width": 703.09375,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 112,
+          "top": 1196,
+          "right": 815.09375,
+          "bottom": 1240,
+          "width": 703.09375,
+          "height": 44
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      },
+      {
+        "id": "scope-three",
+        "text": "electricity, water, fuel and communications.",
+        "bounds": {
+          "left": 112,
+          "top": 1244,
+          "right": 749.015625,
+          "bottom": 1281,
+          "width": 637.015625,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 112,
+          "top": 1241,
+          "right": 749.015625,
+          "bottom": 1285,
+          "width": 637.015625,
+          "height": 44
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      },
+      {
+        "id": "source-one",
+        "text": "Source: Fox News \u2022 Morgan Phillips",
+        "bounds": {
+          "left": 112,
+          "top": 1440,
+          "right": 491.921875,
+          "bottom": 1467,
+          "width": 379.921875,
+          "height": 27
+        },
+        "element_bounds": {
+          "left": 112,
+          "top": 1438,
+          "right": 491.921875,
+          "bottom": 1470,
+          "width": 379.921875,
+          "height": 32
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "24px"
+      },
+      {
+        "id": "source-two",
+        "text": "Reported October 25, 2026 \u2022 October 27 edition",
+        "bounds": {
+          "left": 112,
+          "top": 1474,
+          "right": 618.25,
+          "bottom": 1501,
+          "width": 506.25,
+          "height": 27
+        },
+        "element_bounds": {
+          "left": 112,
+          "top": 1472,
+          "right": 618.25,
+          "bottom": 1504,
+          "width": 506.25,
+          "height": 32
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "24px"
+      }
+    ],
+    "panels": [
+      {
+        "id": "header-rule",
+        "bounds": {
+          "left": 112,
+          "top": 292,
+          "right": 952,
+          "bottom": 293,
+          "width": 840,
+          "height": 1
+        }
+      },
+      {
+        "id": "target-rule",
+        "bounds": {
+          "left": 112,
+          "top": 1117,
+          "right": 684,
+          "bottom": 1118,
+          "width": 572,
+          "height": 1
+        }
+      },
+      {
+        "id": "scope-wash",
+        "bounds": {
+          "left": 104,
+          "top": 1138,
+          "right": 953,
+          "bottom": 1299,
+          "width": 849,
+          "height": 161
+        }
+      },
+      {
+        "id": "source-rule",
+        "bounds": {
+          "left": 112,
+          "top": 1408,
+          "right": 952,
+          "bottom": 1409,
+          "width": 840,
+          "height": 1
+        }
+      },
+      {
+        "id": "source-wash",
+        "bounds": {
+          "left": 104,
+          "top": 1426,
+          "right": 953,
+          "bottom": 1515,
+          "width": 849,
+          "height": 89
+        }
+      }
+    ],
+    "scene_elements": [
+      {
+        "id": "coin-installation",
+        "bounds": {
+          "left": 781,
+          "top": 886,
+          "right": 1007,
+          "bottom": 1112,
+          "width": 226,
+          "height": 226
+        },
+        "box_shadow": "rgb(8, 14, 20) 3px 4px 8px 0px inset, rgb(8, 14, 20) 1px 2px 3px 0px, rgb(199, 171, 123) -1px -1px 2px 0px",
+        "background": "linear-gradient(130deg, rgb(178, 171, 160), rgb(48, 54, 58) 35%, rgb(21, 30, 39) 67%, rgb(128, 107, 71))"
+      },
+      {
+        "id": "coin-contact",
+        "bounds": {
+          "left": 790,
+          "top": 895,
+          "right": 998,
+          "bottom": 1103,
+          "width": 208,
+          "height": 208
+        },
+        "box_shadow": "rgba(2, 9, 16, 0.76) 3px 5px 8px 0px inset, rgba(244, 199, 127, 0.4) -2px -2px 3px 0px inset",
+        "background": "linear-gradient(115deg, rgba(245, 205, 142, 0.19), rgba(0, 0, 0, 0) 38%, rgba(7, 24, 40, 0.17) 76%)"
+      },
+      {
+        "id": "coin-surface-light",
+        "bounds": {
+          "left": 770,
+          "top": 877,
+          "right": 1018,
+          "bottom": 1125,
+          "width": 248,
+          "height": 248
+        },
+        "box_shadow": "none",
+        "background": "linear-gradient(105deg, rgba(253, 183, 75, 0.13), rgba(0, 0, 0, 0) 28%, rgba(0, 0, 0, 0) 73%, rgba(248, 183, 77, 0.11))"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Moneyberg Lato Black",
+        "weight": "900",
+        "status": "loaded"
+      },
+      {
+        "family": "Moneyberg Georgia",
+        "weight": "400",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "id": "background",
+        "natural_width": 941,
+        "natural_height": 1671,
+        "bounds": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        }
+      },
+      {
+        "id": "coin",
+        "natural_width": 2084,
+        "natural_height": 2084,
+        "bounds": {
+          "left": 792,
+          "top": 897,
+          "right": 996,
+          "bottom": 1101,
+          "width": 204,
+          "height": 204
+        }
+      }
+    ],
+    "document_width": 1080,
+    "document_height": 1920
+  },
+  "platform_fonts": [
+    {
+      "id": "brand",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 13
+        }
+      ]
+    },
+    {
+      "id": "category",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 24
+        }
+      ]
+    },
+    {
+      "id": "headline-one",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 13
+        }
+      ]
+    },
+    {
+      "id": "headline-two",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 22
+        }
+      ]
+    },
+    {
+      "id": "summary-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 35
+        }
+      ]
+    },
+    {
+      "id": "summary-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 38
+        }
+      ]
+    },
+    {
+      "id": "summary-three",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 40
+        }
+      ]
+    },
+    {
+      "id": "summary-four",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 36
+        }
+      ]
+    },
+    {
+      "id": "at-least",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 8
+        }
+      ]
+    },
+    {
+      "id": "target-number",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 7
+        }
+      ]
+    },
+    {
+      "id": "target-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 32
+        }
+      ]
+    },
+    {
+      "id": "scope-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 39
+        }
+      ]
+    },
+    {
+      "id": "scope-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 49
+        }
+      ]
+    },
+    {
+      "id": "scope-three",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 44
+        }
+      ]
+    },
+    {
+      "id": "source-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 34
+        }
+      ]
+    },
+    {
+      "id": "source-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 46
+        }
+      ]
+    }
+  ],
+  "coin_bounds": {
+    "left": 792,
+    "top": 897,
+    "right": 996,
+    "bottom": 1101,
+    "width": 204,
+    "height": 204
+  },
+  "whole_coin_upper_75_percent_verified": true,
+  "integration": {
+    "method": "Actual original PNG seated in a front-facing utility-building recess; separate CSS contact shadow, metal rim, amber utility-light tone and surface light layers",
+    "artwork": "Original PNG directly loaded by browser; uniformly scaled, never redrawn or warped",
+    "image_generation_role": "Created generic modular energy campus imagery with a reserved empty architectural setting, then corrected setting perspective; no coin supplied to or drawn by image generation",
+    "generated_source": "/workspace/generated_images/exec-6d462c02-c794-46a4-b0a3-571b30c5f402.png",
+    "effects": [
+      "recessed circular seat",
+      "contact shadow",
+      "inset edge light",
+      "non-destructive amber utility-light tone",
+      "soft light across emblem and surrounding metal"
+    ],
+    "historical_export_changed": false,
+    "category": "NUCLEAR ENERGY INVESTING",
+    "background_credit_on_graphic": false,
+    "background_provenance": "Generated conceptual power campus; not evidence of an identified military facility, awarded contract or installed reactor"
+  },
+  "generation_prompts": [
+    "Generate a new text-free 9:16 portrait editorial background, art-directed for a 1080x1920 Instagram story about portable nuclear POWER for resilient infrastructure. Sophisticated industrial navy and graphite with restrained luminous teal and warm amber utility lighting. A generic compact modular energy campus at blue hour: robust enclosed portable power modules on a tidy service pad, cooling/ventilation housings and orderly electrical cabinets with limited pipework, a small clean control building; believable engineered exterior but no technical cutaway, no claim to be a real vendor or identified military facility. No giant hyperboloid cooling towers, no weapons, no soldiers, no flags, no explosions, no mushroom clouds, no danger/disaster imagery. Premium industrial architectural editorial photography. Composition: a smooth dark navy upper two-thirds with quiet clear negative space for large ivory typography, especially x=100..780 through y=1200. The strongest actual power-campus imagery should run through the lower third y=1400..1920 and along the rightmost margin. On the right, a front-facing vertical graphite equipment-building exterior panel at x=785..1080, extending from y=740..1390. Reserve a perfectly circular empty recessed fitting centered x=902,y=948 diameter208px, framed by narrow brushed metal and subtle amber side lighting. Center must be plain unmarked dark metal. Do NOT draw a coin, seal, portrait, logo or emblem in this fitting; we will place the exact original gold Moneyberg medallion there ourselves using unchanged artwork. It must look physically built into the panel, not floating. Entire medallion remains above y=1440 (upper 75%). No other round medallions. Leave left of this fitting clear for a large 90 DAYS news statistic to be composed later. Important final design requirements we will apply in layout: all authored news inside x104..961,y164..1536; Lato Black 900 for the small compact one-line brand MONEYBERG NEWS BRIEF, category NUCLEAR ENERGY INVESTING, headline/date/numbers; Georgia for body and sources. Do not generate any typography: no text, numerals, chart, labels, watermark, radiation symbol, insignia, or brand. Focus on elegant power-focused industrial scene, visually distinct from an office corridor or finance trading-room background.",
+    "Edit this text-free industrial power campus background. Preserve the navy/graphite/amber color, overall quiet sky, and modular power equipment. Correct the circular empty mounting recess in the right-side building: it must be a true circle seen STRAIGHT ON, with identical horizontal and vertical diameter, not the current oval in perspective. Make the building panel containing it a front-facing flat metal wall without oblique perspective; all panel seams horizontal/vertical. Make the fitting slightly smaller, approximately 200px diameter on a final1080x1920 canvas, with its center near x905,y1015, so its entirety is within y0..1440. Center is plain empty dark metal, narrow brushed-steel ring, subtle amber practical side light. Absolutely no coin, portrait, insignia, seal, text or logo in fitting. We place the original Moneyberg coin there separately. Keep left area of the scene clear and low contrast for actual Lato Black900 headline/labels and Georgia body/sources, all within x104..961,y164..1536. Final small-one-line brand MONEYBERG NEWS BRIEF, exact category NUCLEAR ENERGY INVESTING will be added separately. No generated typography or numbers at all. No weapons, flags, smoke, explosions or technical diagrams. Keep high-end industrial nuclear-power editorial mood and generic power-module imagery prominent at the bottom."
+  ],
+  "output_sha256": "d85e5216f1b39cc3e389f4b794eb20fc7c1accceb719c9fa420d04980b0d60cb"
+}
