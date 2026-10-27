@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=1080, initial-scale=1">
+<base href="__ASSET_BASE_URI__"><title>Anthropic’s planned early IPO lockup releases</title>
+<style>
+@font-face{font-family:"Moneyberg Lato Black";src:url("fonts/lato/Lato-Black.ttf") format("truetype");font-weight:900;font-display:block}
+@font-face{font-family:"Moneyberg Georgia";src:url("__GEORGIA_FONT_URI__") format("truetype");font-weight:400;font-display:block}
+*{box-sizing:border-box}html,body{width:1080px;height:1920px;margin:0}body{background:#efe2cf}
+#stage{position:relative;width:1080px;height:1920px;overflow:hidden;isolation:isolate}
+#background{position:absolute;inset:0;width:1080px;height:1920px;object-fit:cover;z-index:0}
+#paper-light{position:absolute;inset:0;z-index:1;background:linear-gradient(90deg,rgba(255,250,239,.3),transparent 85%)}
+.text{position:absolute;z-index:4;margin:0;white-space:nowrap;font-synthesis:none;text-rendering:geometricPrecision;-webkit-font-smoothing:antialiased}
+.lato{font-family:"Moneyberg Lato Black";font-weight:900;color:#28251f}
+.georgia{font-family:"Moneyberg Georgia";font-weight:400;color:#362d23}
+#brand{left:114px;top:174px;font-size:30px;line-height:39px;letter-spacing:.6px}
+#top-rule{position:absolute;left:114px;top:222px;width:706px;height:2px;background:#a15a3a;z-index:3}
+#category{left:114px;top:238px;font-size:24px;line-height:31px;letter-spacing:1px;color:#92513b}
+#date{left:578px;top:239px;font-size:23px;line-height:30px;color:#665040}
+#anthropic-logo{position:absolute;left:114px;top:299px;width:706px;height:auto;object-fit:contain;z-index:4}
+#headline-one{left:110px;top:402px;font-size:76px;line-height:90px;letter-spacing:-1.8px}
+#headline-two{left:110px;top:485px;font-size:76px;line-height:90px;letter-spacing:-1.8px}
+#deck-one{left:114px;top:596px;font-size:32px;line-height:42px}
+#deck-two{left:114px;top:638px;font-size:32px;line-height:42px}
+#deck-three{left:114px;top:680px;font-size:32px;line-height:42px}
+#releases-label{left:114px;top:758px;font-size:25px;line-height:33px;letter-spacing:1.3px;color:#894c34}
+#timeline-paper{position:absolute;left:104px;top:805px;width:728px;height:397px;background:rgba(255,249,236,.94);border-top:3px solid #a35b3d;border-bottom:1px solid rgba(143,92,64,.4);z-index:2;box-shadow:0 8px 30px rgba(91,53,28,.09)}
+#row-rule-one,#row-rule-two{position:absolute;left:126px;width:684px;height:1px;background:rgba(154,101,68,.31);z-index:3}
+#row-rule-one{top:934px}#row-rule-two{top:1068px}
+.day{left:126px;font-size:63px;line-height:78px;letter-spacing:-1.4px;color:#a54c2d}
+#day-one{top:827px}#day-27{top:961px}#day-48{top:1095px}
+.release{left:414px;font-size:32px;line-height:41px}
+#release-one-a{top:823px}#release-one-b{top:864px}
+#release-27-a{top:957px}#release-27-b{top:998px}
+#release-48-a{top:1091px}#release-48-b{top:1132px}
+#notes-paper{position:absolute;left:104px;top:1220px;width:728px;height:305px;background:rgba(255,248,235,.96);border-left:3px solid #ac7049;z-index:2;box-shadow:0 8px 26px rgba(91,53,28,.08)}
+.note{left:124px;font-size:27px;line-height:36px}
+#condition-one{top:1237px}#condition-two{top:1274px}
+.timing{left:124px;font-size:24px;line-height:32px;color:#514031}
+#timing-one{top:1331px}#timing-two{top:1363px}#timing-three{top:1395px}
+#source{left:124px;top:1466px;font-size:24px;line-height:31px;color:#5b422e}
+#coin-seat{position:absolute;left:866px;top:1042px;width:186px;height:186px;border-radius:50%;z-index:2;background:radial-gradient(circle at 27% 18%,#dfc38e,#b18b50 56%,#70502b 84%,#d3ab6c 95%,#c6985a 100%);border:2px solid #8a6036;box-shadow:inset 4px 5px 8px rgba(65,37,14,.43),inset -2px -2px 4px rgba(255,232,184,.65),1px 2px 2px rgba(83,43,20,.25),-1px -1px 1px rgba(255,229,182,.72)}
+#coin-seat-reveal{position:absolute;left:3px;top:3px;width:176px;height:176px;border-radius:50%;border:3px solid rgba(73,43,16,.38);box-shadow:inset 1px 2px 4px rgba(53,29,10,.5)}
+#coin{position:absolute;left:6px;top:6px;width:170px;height:170px;object-fit:contain;clip-path:circle(50% at 50% 50%);opacity:1;mix-blend-mode:multiply;z-index:1}
+#coin-contact{position:absolute;left:6px;top:6px;width:170px;height:170px;border-radius:50%;z-index:2;pointer-events:none;box-shadow:inset 2px 3px 5px rgba(72,39,13,.22),inset -1px -1px 2px rgba(255,239,191,.35)}
+#coin-surface-glaze{position:absolute;left:4px;top:4px;width:174px;height:174px;border-radius:50%;z-index:3;pointer-events:none;background:linear-gradient(136deg,rgba(255,234,184,.25),rgba(255,222,171,.05) 32%,transparent 48%,rgba(139,65,24,.1) 90%);mix-blend-mode:soft-light}
+</style></head><body><main id="stage" aria-label="Anthropic planned early IPO lockup release sequence">
+<img id="background" src="anthropic-ipo-lockup-background.png" alt=""><div id="paper-light" aria-hidden="true"></div>
+<div id="brand" class="text lato" data-news-text>MONEYBERG NEWS BRIEF</div>
+<div id="top-rule" data-news-panel aria-hidden="true"></div>
+<div id="category" class="text lato" data-news-text>AI INVESTING</div>
+<div id="date" class="text lato" data-news-text>OCTOBER 26, 2026</div>
+<img id="anthropic-logo" src="logos/anthropic-wordmark-original.svg" alt="ANTHROPIC" data-news-image>
+<div id="headline-one" class="text lato" data-news-text>An IPO lockup</div>
+<div id="headline-two" class="text lato" data-news-text>that opens early</div>
+<div id="deck-one" class="text georgia" data-news-text>Some early investors and employees</div>
+<div id="deck-two" class="text georgia" data-news-text>could sell before the typical</div>
+<div id="deck-three" class="text georgia" data-news-text>180-day lockup ends.</div>
+<div id="releases-label" class="text lato" data-news-text>PLANNED EARLY RELEASES</div>
+<div id="timeline-paper" data-news-panel aria-hidden="true"></div>
+<div id="row-rule-one" data-news-panel aria-hidden="true"></div><div id="row-rule-two" data-news-panel aria-hidden="true"></div>
+<div id="day-one" class="text lato day" data-news-text>DAY 1</div>
+<div id="release-one-a" class="text georgia release" data-news-text>Some shares eligible</div><div id="release-one-b" class="text georgia release" data-news-text>for sale</div>
+<div id="day-27" class="text lato day" data-news-text>DAY 27</div>
+<div id="release-27-a" class="text georgia release" data-news-text>More shares</div><div id="release-27-b" class="text georgia release" data-news-text>unlocked</div>
+<div id="day-48" class="text lato day" data-news-text>DAY 48</div>
+<div id="release-48-a" class="text georgia release" data-news-text>Further shares</div><div id="release-48-b" class="text georgia release" data-news-text>released</div>
+<div id="notes-paper" data-news-panel aria-hidden="true"></div>
+<div id="condition-one" class="text georgia note" data-news-text>Partial releases for eligible holders;</div><div id="condition-two" class="text georgia note" data-news-text>conditions apply.</div>
+<div id="timing-one" class="text georgia timing" data-news-text>Day 1: first trading day after the final prospectus.</div>
+<div id="timing-two" class="text georgia timing" data-news-text>Days 27/48: calendar days after its date;</div>
+<div id="timing-three" class="text georgia timing" data-news-text>next trading day if needed.</div>
+<div id="source" class="text georgia" data-news-text>Bloomberg; Anthropic S-1 • Oct. 26, 2026</div>
+<div id="coin-seat" data-scene-element aria-label="Original Moneyberg gold seal recessed in architectural door pier">
+<div id="coin-seat-reveal" data-scene-element aria-hidden="true"></div><img id="coin" src="moneyberg-coin-original.png" alt="Original Moneyberg coin artwork"><div id="coin-contact" data-scene-element aria-hidden="true"></div><div id="coin-surface-glaze" data-scene-element aria-hidden="true"></div>
+</main></body></html>

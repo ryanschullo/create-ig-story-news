@@ -1,5 +1,15 @@
 # Design assets and references
 
+## Anthropic's planned early IPO lockup releases
+
+`anthropic-ipo-lockup-background.png` is generated decorative architecture for
+the Day 1 / Day 27 / Day 48 story. The official Anthropic wordmark and original
+Moneyberg coin are placed directly using their unchanged source assets. The
+ordered milestone layout summarizes selected early releases; it is not a
+complete schedule or a scale representing the quantity of unlocked shares.
+See `../briefs/anthropic-ipo-lockup-2026-10-26.md` for the user-selected Bloomberg
+angle, primary SEC verification, timing definitions and background provenance.
+
 ## October 26 design comparison
 
 The three exports ending in `-2026-10-26-astra.png` are fresh compositions of
