@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=1080, initial-scale=1">
+  <base href="__ASSET_BASE_URI__">
+  <title>Anthropic files for IPO — October 26, 2026</title>
+  <style>
+    /* Runtime Georgia URL is never populated in this committed template. */
+    @font-face {
+      font-family: "Moneyberg Lato Black";
+      src: url("fonts/lato/Lato-Black.ttf") format("truetype");
+      font-weight: 900; font-style: normal; font-display: block;
+    }
+    @font-face {
+      font-family: "Moneyberg Georgia";
+      src: url("__GEORGIA_FONT_URI__") format("truetype");
+      font-weight: 400; font-style: normal; font-display: block;
+    }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; width: 1080px; height: 1920px; }
+    body { background: #f1e7d8; }
+    #stage { position: relative; width: 1080px; height: 1920px; overflow: hidden; }
+    #background { position: absolute; inset: 0; width: 1080px; height: 1920px;
+      object-fit: cover; z-index: 0; }
+    #wash { position: absolute; inset: 0; z-index: 1;
+      background: linear-gradient(180deg, rgba(248,242,231,.25) 0%,
+        rgba(248,242,231,.12) 50%, rgba(33,24,20,.05) 100%); }
+    .text { position: absolute; z-index: 4; margin: 0; white-space: nowrap;
+      font-synthesis: none; text-rendering: geometricPrecision;
+      -webkit-font-smoothing: antialiased; }
+    .lato { font-family: "Moneyberg Lato Black"; font-weight: 900; color: #27231f; }
+    .georgia { font-family: "Moneyberg Georgia"; font-weight: 400; color: #37302a; }
+    .panel { position: absolute; z-index: 2; border-radius: 12px; }
+    #brand { left: 130px; top: 176px; font-size: 30px; line-height: 38px; letter-spacing: .5px; }
+    #brand-rule { position: absolute; left: 130px; top: 225px; width: 800px; height: 3px;
+      background: #a55c40; z-index: 3; }
+    #date { left: 130px; top: 244px; font-size: 26px; line-height: 34px; color: #83513d; }
+    #anthropic-logo { position: absolute; left: 130px; top: 325px; width: 680px;
+      height: auto; object-fit: contain; z-index: 4; }
+    #headline { left: 124px; top: 426px; font-size: 92px; line-height: 108px; letter-spacing: -1.5px; }
+    #deck-one { left: 130px; top: 555px; font-size: 32px; line-height: 40px; }
+    #deck-two { left: 130px; top: 597px; font-size: 32px; line-height: 40px; }
+    #valuation { left: 112px; top: 650px; width: 841px; height: 360px;
+      background: rgba(162,79,51,.97); border: 1px solid #8e432d;
+      box-shadow: 0 14px 30px rgba(77,38,23,.12); }
+    #valuation-label { left: 150px; top: 679px; font-size: 28px; line-height: 36px; color: #fff4e8; letter-spacing: .4px; }
+    #valuation-value { left: 144px; top: 720px; font-size: 140px; line-height: 158px; letter-spacing: -3px; color: #fff8ee; }
+    #valuation-note-one { left: 150px; top: 900px; font-size: 28px; line-height: 36px; color: #fff5eb; }
+    #valuation-note-two { left: 150px; top: 940px; font-size: 28px; line-height: 36px; color: #fff5eb; }
+    #revenue { left: 112px; top: 1050px; width: 841px; height: 280px;
+      background: rgba(250,246,238,.96); border: 2px solid #ae8d73; }
+    #revenue-accent { position: absolute; left: 148px; top: 1080px; width: 6px;
+      height: 111px; background: #a55c40; z-index: 3; }
+    #revenue-value { left: 174px; top: 1073px; font-size: 100px; line-height: 117px; letter-spacing: -2px; }
+    #revenue-label { left: 150px; top: 1197px; font-size: 28px; line-height: 36px; color: #82513d; }
+    #revenue-comparison { left: 150px; top: 1252px; font-size: 32px; line-height: 42px; }
+    #source-panel { left: 112px; top: 1390px; width: 841px; height: 135px;
+      background: rgba(36,29,25,.91); }
+    #source-one, #source-two, #source-three { left: 136px; font-size: 24px;
+      line-height: 31px; color: #f8f0e6; }
+    #source-one { top: 1404px; }
+    #source-two { top: 1440px; }
+    #source-three { top: 1476px; }
+    #coin { position: absolute; left: 770px; top: 1650px; width: 230px;
+      height: 230px; object-fit: contain; opacity: .65; z-index: 3; }
+  </style>
+</head>
+<body>
+  <main id="stage" aria-label="Anthropic IPO filing news graphic">
+    <img id="background" src="anthropic-ipo-background.png" alt="">
+    <div id="wash" aria-hidden="true"></div>
+    <div id="brand" class="text lato" data-news-text>MONEYBERG NEWS BRIEF</div>
+    <div id="brand-rule" data-news-panel aria-hidden="true"></div>
+    <div id="date" class="text lato" data-news-text>OCTOBER 26, 2026 • AI INVESTING</div>
+    <img id="anthropic-logo" src="logos/anthropic-wordmark-original.svg" alt="ANTHROPIC" data-news-image>
+    <div id="headline" class="text lato" data-news-text>files for IPO</div>
+    <div id="deck-one" class="text georgia" data-news-text>Applied to list on Nasdaq</div>
+    <div id="deck-two" class="text georgia" data-news-text>under proposed ticker ANT.</div>
+
+    <div id="valuation" class="panel" data-news-panel aria-hidden="true"></div>
+    <div id="valuation-label" class="text lato" data-news-text>REPORTED INVESTOR VALUATION</div>
+    <div id="valuation-value" class="text lato" data-news-text>$1.5T</div>
+    <div id="valuation-note-one" class="text georgia" data-news-text>Estimate from some current and</div>
+    <div id="valuation-note-two" class="text georgia" data-news-text>prospective investors. IPO price unset.</div>
+
+    <div id="revenue" class="panel" data-news-panel aria-hidden="true"></div>
+    <div id="revenue-accent" data-news-panel aria-hidden="true"></div>
+    <div id="revenue-value" class="text lato" data-news-text>$16.3B</div>
+    <div id="revenue-label" class="text lato" data-news-text>FIRST-HALF 2026 REVENUE</div>
+    <div id="revenue-comparison" class="text georgia" data-news-text>vs. $1.16 billion in first-half 2025.</div>
+
+    <div id="source-panel" class="panel" data-news-panel aria-hidden="true"></div>
+    <div id="source-one" class="text georgia" data-news-text>Sources: SEC S-1; Reuters; The Guardian</div>
+    <div id="source-two" class="text georgia" data-news-text>October 26, 2026</div>
+    <div id="source-three" class="text georgia" data-news-text>Background: editorial illustration</div>
+    <img id="coin" src="moneyberg-coin-original.png" alt="Moneyberg coin decoration">
+  </main>
+</body>
+</html>

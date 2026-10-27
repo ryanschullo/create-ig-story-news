@@ -1,5 +1,20 @@
 # Design assets and references
 
+## Anthropic IPO
+
+`logos/anthropic-wordmark-original.svg` is the exact, unmodified wordmark
+extracted from the official Anthropic homepage header. Its nine vector paths
+preserve the original lettering without retyping or font substitution. Source,
+retrieval date, dimensions and hash are recorded alongside it in
+`logos/anthropic-wordmark-provenance.json`. Anthropic's wordmark identifies the
+company in editorial coverage; it is not a generated logo.
+
+`anthropic-ipo-background.png` is a generated editorial computing illustration
+in warm ivory, charcoal and terracotta, not an identified company facility.
+The browser layout places the official wordmark and original Moneyberg coin
+directly, with actual Lato Black and runtime-only Georgia typography. See
+`../briefs/anthropic-ipo-2026-10-26.md` for filing facts and valuation qualifiers.
+
 ## Microsoft voluntary buyouts
 
 `microsoft-voluntary-buyouts-background.png` is a generated editorial office

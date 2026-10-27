@@ -1,0 +1,12 @@
+{
+  "source_url": "https://www.anthropic.com/",
+  "source_location": "Homepage header inline SVG, aria-label Anthropic, LogoWordmark static variant",
+  "retrieved_at_utc": "2026-10-27T01:34:20.336545+00:00",
+  "file": "assets/logos/anthropic-wordmark-original.svg",
+  "sha256": "eb0f063a7a66a42ca0b1db7696555030d1afe80c63896a594ecdbb90e980cb7d",
+  "width": 570,
+  "height": 64,
+  "viewBox": "0 0 570 64",
+  "path_count": 9,
+  "preservation": "Exact unmodified inline SVG string extracted from official homepage. All lettering consists of vector paths, no font substitution. currentColor defaults to black."
+}
