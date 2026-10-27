@@ -170,7 +170,7 @@ not rigid templates; vary composition and hierarchy to suit the news:
 | AI investing and technology | Cool navy, cyan, or violet; chips, data-center structures, or circuitry; a clean technical composition. |
 | Federal Reserve and U.S. economy | Slate, ink, or restrained cream; institutional architecture and macroeconomic motifs; a clear policy-brief hierarchy. |
 | Consumer sentiment and cost of living | Warm neutral paper, ink, and burgundy; everyday retail, grocery, receipt, or household-budget illustrations; preserve the survey context and avoid unsupported economic-collapse framing. |
-| Layoffs and business employment | Muted office or workplace imagery; distinct company or employment framing with a sober editorial palette. |
+| JOBS & EMPLOYMENT | Muted office or workplace imagery; distinct company or employment framing with a sober editorial palette. |
 | Stocks and finance | A market-focused layout and palette; trading screens or financial motifs with concise market summaries. |
 | OPTIONS INVESTING | Ink, plum, or indigo with restrained teal accents; make the original source chart the primary visual when supplied, using a distinct options-focused composition. |
 | Geopolitics and wars | A geographically relevant map or clearly illustrative regional imagery; a restrained map-led composition. |
@@ -232,10 +232,44 @@ and mark it unavailable instead of fabricating a complete closing report.
 
 ## News selection and sourcing
 
-Focus on business, finance, stocks, the Federal Reserve, Kevin Warsh, the U.S.
-economy, layoffs, Iran-related developments, the Russia–Ukraine war, oil prices,
-Trump's economic and market-relevant actions, AI investing, and options
-investing. Prioritize the user's supplied article or post when one is provided.
+Use the current news topics below when researching daily article options and
+assigning categories to briefs. Prioritize the user's supplied article or post
+when one is provided.
+
+### Current news topics
+
+The user has established these topics and will add more over time. Use
+the exact labels when tagging a story or displaying its category on a graphic.
+Keep `MONEYBERG NEWS BRIEF` as the compact one-line brand label.
+
+| Topic | Coverage |
+| --- | --- |
+| **OPTIONS INVESTING** | Retail and institutional options activity, index/ETF/single-stock options, 0DTE, volatility, hedging, expirations, and options-based investment products; follow the detailed rules below. |
+| **OIL & GAS** | Crude oil, natural gas, fuel prices, refining, LNG, producers, supply, demand, and relevant energy geopolitics. |
+| **ENERGY & INFRASTRUCTURE** | Electricity, utilities, the grid, generation, nuclear and renewables, data-center power needs, and infrastructure investment and construction. |
+| **AI INVESTING** | AI companies, financing, valuations, IPOs, chips, cloud and data centers, adoption, spending, and business returns. |
+| **REAL ESTATE** | Housing and commercial property, mortgages, rents, sales, affordability, development, and institutional property investment. |
+| **CONSUMER SENTIMENT** | Confidence surveys, household finances, spending intentions, affordability and cost-of-living pressures; distinguish attitudes from measured spending and inflation. |
+| **STOCK MARKET** | Major indices, market moves, earnings, company news, valuations, fund flows, and market structure. |
+| **FEDERAL RESERVE WATCH** | Fed decisions and communication, Kevin Warsh, interest rates, inflation, employment, and U.S. macroeconomic or Treasury-market developments relevant to monetary policy. |
+| **ENTREPRENEURSHIP** | Founders, starting and scaling businesses, startups, small businesses, business ownership, financing, acquisitions, and policy affecting entrepreneurs. |
+| **JOBS & EMPLOYMENT** | Jobs reports and revisions, hiring, layoffs, unemployment, job openings, wages, compensation, labor-force participation, and workplace trends. |
+
+When the user asks for articles for the day, search across these topics and
+build a varied shortlist from the strongest fresh, relevant reporting within
+the requested count. Seek multiple options candidates as specified below.
+Coverage need not be evenly divided; freshness and relevance take priority
+over filling every category. Count a story once even when several topics fit,
+and choose its main category according to the story's focus.
+
+Earlier interests remain relevant: business and finance, the U.S. economy,
+layoffs, Kevin Warsh, Trump's economic and market-relevant actions, Iran-related
+developments, and the Russia–Ukraine war. Include them under the applicable
+current topics rather than dropping them because they lack a separate label.
+
+The user welcomes suggestions for new topics. Suggest useful additions when
+the reporting and the user's interests warrant them, distinguish suggestions
+from the current saved list, and update this registry as the user adds topics.
 
 Discovery accounts on X: `@KobeissiLetter`, `@unusual_whales`,
 `@dudewhoinvests`, `@zerohedge`, `@Kalshi_Finance`, and `@BillAckman`.

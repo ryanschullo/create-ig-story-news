@@ -21,13 +21,31 @@ requested revisions. Keep all three words on one compact line in Lato Black
 width. Adjust spacing and size to fit rather than wrapping. Keep it inside the
 content bounds. Leave historical exports unchanged unless requested.
 
-`OPTIONS INVESTING` is a persistent news category. Use that exact category badge
-separately from the compact `MONEYBERG NEWS BRIEF` brand label. For daily article
-requests, actively seek multiple fresh options stories and include strong,
-verified candidates within the requested total when available, alongside the
-existing news beats. Do not fill the list with stale or unverified options items.
-Follow the skill's options sourcing, metric, original-chart, and distinct
-ink/plum/indigo-and-teal design requirements.
+The current, expandable news topics are:
+
+- `OPTIONS INVESTING`
+- `OIL & GAS`
+- `ENERGY & INFRASTRUCTURE`
+- `AI INVESTING`
+- `REAL ESTATE`
+- `CONSUMER SENTIMENT`
+- `STOCK MARKET`
+- `FEDERAL RESERVE WATCH`
+- `ENTREPRENEURSHIP`
+- `JOBS & EMPLOYMENT`
+
+Use these exact names when assigning topics or displaying category labels.
+For daily article requests, search across this list and prioritize fresh,
+relevant reporting within the requested total. The skill defines each topic's
+scope. Retain relevant coverage of the U.S. economy, business, finance, layoffs,
+Kevin Warsh, Trump's economic actions, Iran, and Russia–Ukraine within the
+applicable topics. The user welcomes useful suggestions for additional topics;
+identify suggestions clearly and expand the saved list as the user adds topics.
+
+For `OPTIONS INVESTING`, actively seek multiple fresh candidates and include
+strong options stories when available. Keep its category badge separate from
+the compact `MONEYBERG NEWS BRIEF` brand label. Follow the skill's options
+sourcing, metric, original-chart, and ink/plum/indigo-and-teal design guidance.
 
 Daily U.S. market wrap graphics must show the Nasdaq Composite, S&P 500, and
 Dow Jones Industrial Average results for the same trading date. Verify each
