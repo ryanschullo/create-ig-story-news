@@ -15,6 +15,12 @@ Always use Lato Black (weight 900) for headlines and labels, and Georgia for
 body text, captions, and source attribution. Follow the skill's full font
 assignments; do not silently substitute other fonts.
 
+For new graphics and requested revisions, omit the footer
+`Background: editorial illustration` and equivalent background-production
+credits. Keep news-source attribution, dates, and necessary factual qualifiers.
+Record background provenance in briefs and asset documentation. Leave existing
+exports unchanged unless the user requests a revision.
+
 Use `MONEYBERG NEWS BRIEF` as the recurring brand label for new graphics and
 requested revisions. Keep all three words on one compact line in Lato Black
 (weight 900), secondary to the story headline, around 28–34 px at 1080 px canvas

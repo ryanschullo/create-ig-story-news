@@ -205,8 +205,14 @@ edges. All authored text and news content, including any brand label, remain
 inside the required content bounds. Use `MONEYBERG NEWS BRIEF` as the added
 label unless the user requests different wording.
 
-Treat generated backgrounds as editorial illustration, never as evidence of an
-actual event. Keep the main photograph or illustration relevant to the story.
+Treat generated backgrounds as decorative editorial illustration, never as
+evidence of an actual event. Keep the main photograph or illustration relevant
+to the story. For new graphics and requested revisions, **omit the footer
+`Background: editorial illustration`** and equivalent background-production
+credits. Keep background provenance in the brief and asset documentation.
+Retain news-source attribution, dates, and necessary factual or estimate
+qualifiers on the graphic. Leave historical exports unchanged unless the user
+requests a revision.
 Do not invent map boundaries, quantitative chart data, price labels, or event
 details for decoration. Charts with numbers must use sourced data. Do not
 fabricate publisher logos or present an original summary as a publisher's
