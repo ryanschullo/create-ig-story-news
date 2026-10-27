@@ -21,6 +21,14 @@ requested revisions. Keep all three words on one compact line in Lato Black
 width. Adjust spacing and size to fit rather than wrapping. Keep it inside the
 content bounds. Leave historical exports unchanged unless requested.
 
+`OPTIONS INVESTING` is a persistent news category. Use that exact category badge
+separately from the compact `MONEYBERG NEWS BRIEF` brand label. For daily article
+requests, actively seek multiple fresh options stories and include strong,
+verified candidates within the requested total when available, alongside the
+existing news beats. Do not fill the list with stale or unverified options items.
+Follow the skill's options sourcing, metric, original-chart, and distinct
+ink/plum/indigo-and-teal design requirements.
+
 Daily U.S. market wrap graphics must show the Nasdaq Composite, S&P 500, and
 Dow Jones Industrial Average results for the same trading date. Verify each
 daily percentage change and closing level; add point changes only when verified.

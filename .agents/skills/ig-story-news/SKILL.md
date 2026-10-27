@@ -79,6 +79,9 @@ earlier generic serif-headline and sans-serif-copy guidance.
 Use only these two fonts for authored text. Include these exact font names and
 assignments in every generation or editing prompt. Keep both legible within
 the required content area; shorten or reflow copy instead of switching fonts.
+An original source chart retains its embedded fonts as part of the artwork;
+do not retype its title, axes, legend, or credits to impose these font rules.
+Lato Black and Georgia apply to newly authored text around that chart.
 
 For a renderer that selects font files, verify that it resolves Lato Black and
 Georgia without fallback. Do not silently substitute a missing font. Image
@@ -169,6 +172,7 @@ not rigid templates; vary composition and hierarchy to suit the news:
 | Consumer sentiment and cost of living | Warm neutral paper, ink, and burgundy; everyday retail, grocery, receipt, or household-budget illustrations; preserve the survey context and avoid unsupported economic-collapse framing. |
 | Layoffs and business employment | Muted office or workplace imagery; distinct company or employment framing with a sober editorial palette. |
 | Stocks and finance | A market-focused layout and palette; trading screens or financial motifs with concise market summaries. |
+| OPTIONS INVESTING | Ink, plum, or indigo with restrained teal accents; make the original source chart the primary visual when supplied, using a distinct options-focused composition. |
 | Geopolitics and wars | A geographically relevant map or clearly illustrative regional imagery; a restrained map-led composition. |
 
 For an oil-specific design reference, use
@@ -230,8 +234,8 @@ and mark it unavailable instead of fabricating a complete closing report.
 
 Focus on business, finance, stocks, the Federal Reserve, Kevin Warsh, the U.S.
 economy, layoffs, Iran-related developments, the Russia–Ukraine war, oil prices,
-Trump's economic and market-relevant actions, and AI investing. Prioritize the
-user's supplied article or post when one is provided.
+Trump's economic and market-relevant actions, AI investing, and options
+investing. Prioritize the user's supplied article or post when one is provided.
 
 Discovery accounts on X: `@KobeissiLetter`, `@unusual_whales`,
 `@dudewhoinvests`, `@zerohedge`, `@Kalshi_Finance`, and `@BillAckman`.
@@ -242,6 +246,58 @@ Distinguish estimates, commentary, and prediction-market odds from confirmed
 facts. Label intraday figures with their observation time. Use America/Chicago
 for deciding what the user means by today, preserving source time zones in
 market timestamps.
+
+### OPTIONS INVESTING
+
+Treat **OPTIONS INVESTING** as a recurring category, retaining all other news
+beats above. When the user requests the day's articles, actively search for
+multiple fresh options candidates and include strong, verified options stories
+within the requested total when available. Do not assume a fixed quota, add
+extra articles beyond the requested count, or pad the list with stale or
+unverified stories to fill this category.
+
+Search for retail and institutional options activity; index, ETF, and
+single-stock options; 0DTE; put/call ratios; volume and open interest; implied
+volatility and skew; hedging; expirations; and options-based ETFs and covered
+calls. Prefer original reporting and relevant primary releases or research from
+Cboe, OCC, exchanges, and Citadel Securities. Verify each source's observation
+period, definitions, and coverage before generalizing its findings.
+
+Preserve the meaning of options metrics:
+
+- State the exact denominator and venue or platform. A broker's or market
+  maker's platform share is not automatically a share of the entire U.S. market.
+- Distinguish percent changes from percentage-point changes, contract volume
+  from dollar notional, and open interest from trading volume.
+- Keep survey findings, modeled estimates, and inferred activity distinct from
+  observed or confirmed flows. Preserve the source's definitions of retail and
+  institutional activity.
+- Describe 0DTE as options expiring that trading day; do not apply a 0DTE finding
+  to all options or to other expiration periods.
+
+The user's reference post is
+https://x.com/KobeissiLetter/status/2114881746621575597.
+It reports a **61% retail share on Citadel Securities' platform** during the
+post's stated "last week," **up 16 percentage points over 12 months**. Preserve
+that platform scope and the observation period when citing this example. Do not
+rewrite it as 61% of all U.S. options trading or as a 16% increase. These are
+the reference post's figures, not evergreen figures for future daily briefs.
+
+Use the exact separate category badge **OPTIONS INVESTING** in Lato Black
+(weight 900), while keeping **MONEYBERG NEWS BRIEF** as the small one-line brand
+label. Both remain inside the required content bounds. Give the category a
+distinct ink/plum/indigo palette with restrained teal accents; use the supplied
+chart as the primary visual and keep decorative trading imagery subordinate.
+Do not invent trading data, signals, or buy/sell recommendations to decorate
+or expand a factual news summary.
+
+When the user requests an original source chart, preserve the actual chart
+artwork without redrawing, retyping, or altering its data. Keep its full title,
+axes, tick labels, legend, and credits visible, retain its original aspect
+ratio and embedded fonts, and check legibility at the exported size. Reflow the
+surrounding summary or use another slide if necessary rather than clipping or
+distorting the chart. Newly authored headlines, badges, summaries, and source
+lines still use the required Lato Black and Georgia assignments.
 
 ## Generation and delivery
 

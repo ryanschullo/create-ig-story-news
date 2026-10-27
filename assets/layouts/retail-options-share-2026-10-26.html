@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=1080, initial-scale=1">
+  <base href="__ASSET_BASE_URI__">
+  <title>Retail options share — October 26, 2026</title>
+  <style>
+    @font-face {
+      font-family: "Moneyberg Lato Black";
+      src: url("fonts/lato/Lato-Black.ttf") format("truetype");
+      font-weight: 900; font-style: normal; font-display: block;
+    }
+    /* This URL is populated only in the temporary runtime document. */
+    @font-face {
+      font-family: "Moneyberg Georgia";
+      src: url("__GEORGIA_FONT_URI__") format("truetype");
+      font-weight: 400; font-style: normal; font-display: block;
+    }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; width: 1080px; height: 1920px; }
+    body { background: #0a0c1a; }
+    #stage { position: relative; width: 1080px; height: 1920px; overflow: hidden; }
+    #background { position: absolute; inset: 0; width: 1080px; height: 1920px;
+      object-fit: cover; z-index: 0; }
+    #wash { position: absolute; inset: 0; z-index: 1;
+      background: linear-gradient(180deg, rgba(7,8,20,.26) 0%,
+        rgba(13,10,28,.08) 58%, rgba(7,7,18,.12) 100%); }
+    .text { position: absolute; z-index: 4; margin: 0; white-space: nowrap;
+      font-synthesis: none; text-rendering: geometricPrecision;
+      -webkit-font-smoothing: antialiased; }
+    .lato { font-family: "Moneyberg Lato Black"; font-weight: 900; color: #f5f6fc; }
+    .georgia { font-family: "Moneyberg Georgia"; font-weight: 400; color: #edf1fa; }
+    .panel { position: absolute; z-index: 2; }
+    #brand { left: 130px; top: 176px; font-size: 30px; line-height: 38px; letter-spacing: .4px; }
+    #brand-rule { position: absolute; left: 130px; top: 224px; width: 800px;
+      height: 2px; background: #746eaa; z-index: 3; }
+    #date { left: 130px; top: 245px; font-size: 26px; line-height: 34px; color: #c5c4dc; }
+    #category-badge { left: 443px; top: 237px; width: 342px; height: 47px;
+      border: 1px solid rgba(115,225,214,.65); border-radius: 6px;
+      background: rgba(24,24,51,.82); }
+    #category { left: 463px; top: 244px; font-size: 26px; line-height: 34px; color: #a9eee6; }
+    #headline-one { left: 124px; top: 310px; font-size: 72px; line-height: 83px; letter-spacing: -1.0px; }
+    #headline-two { left: 124px; top: 395px; font-size: 72px; line-height: 83px; letter-spacing: -1.0px; }
+    #share { left: 124px; top: 494px; font-size: 135px; line-height: 160px;
+      color: #81e6d6; letter-spacing: -3px; }
+    #share-label { left: 533px; top: 530px; font-size: 34px; line-height: 43px; color: #c4f6ef; }
+    #share-denominator { left: 533px; top: 579px; font-size: 32px; line-height: 41px; }
+    #platform { left: 130px; top: 676px; font-size: 32px; line-height: 42px; }
+    #change { left: 130px; top: 734px; font-size: 32px; line-height: 42px; }
+    #chart-frame { left: 108px; top: 808px; width: 849px; height: 574.078125px;
+      background: #000; border: 1px solid #83809d; box-shadow: 0 10px 25px rgba(0,0,0,.18); }
+    #original-chart { position: absolute; left: 112px; top: 812px; width: 841px;
+      height: auto; object-fit: contain; z-index: 3; }
+    #source-panel { left: 112px; top: 1400px; width: 841px; height: 125px;
+      background: rgba(9,10,25,.90); border-radius: 10px; }
+    #source-one, #source-two, #source-three { left: 130px; font-size: 24px;
+      line-height: 31px; color: #e7e6f2; }
+    #source-one { top: 1408px; }
+    #source-two { top: 1443px; }
+    #source-three { top: 1478px; }
+    #coin { position: absolute; left: 770px; top: 1650px; width: 230px;
+      height: 230px; object-fit: contain; opacity: .65; z-index: 3; }
+  </style>
+</head>
+<body>
+  <main id="stage" aria-label="Retail options share news graphic">
+    <img id="background" src="options-investing-background.png" alt="">
+    <div id="wash" aria-hidden="true"></div>
+    <div id="brand" class="text lato" data-news-text>MONEYBERG NEWS BRIEF</div>
+    <div id="brand-rule" data-news-panel aria-hidden="true"></div>
+    <div id="date" class="text lato" data-news-text>OCTOBER 26, 2026</div>
+    <div id="category-badge" class="panel" data-news-panel aria-hidden="true"></div>
+    <div id="category" class="text lato" data-news-text>OPTIONS INVESTING</div>
+    <div id="headline-one" class="text lato" data-news-text>Retail options share</div>
+    <div id="headline-two" class="text lato" data-news-text>nears a record</div>
+    <div id="share" class="text lato" data-news-text>61%</div>
+    <div id="share-label" class="text lato" data-news-text>RETAIL SHARE</div>
+    <div id="share-denominator" class="text georgia" data-news-text>of options volume</div>
+    <div id="platform" class="text georgia" data-news-text>On Citadel Securities’ platform, last week.</div>
+    <div id="change" class="text georgia" data-news-text>Up 16 percentage points in 12 months.</div>
+
+    <div id="chart-frame" class="panel" data-news-panel aria-hidden="true"></div>
+    <img id="original-chart" src="charts/retail-options-share-kobeissi-2026-10-26-original.jpg"
+      alt="Original Kobeissi Letter chart, citing Citadel Securities" data-news-image>
+
+    <div id="source-panel" class="panel" data-news-panel aria-hidden="true"></div>
+    <div id="source-one" class="text georgia" data-news-text>The Kobeissi Letter, citing Citadel Securities</div>
+    <div id="source-two" class="text georgia" data-news-text>Posted Oct. 26, 2026 • Original chart reproduced</div>
+    <div id="source-three" class="text georgia" data-news-text>Background: editorial illustration</div>
+    <img id="coin" src="moneyberg-coin-original.png" alt="Moneyberg coin decoration">
+  </main>
+</body>
+</html>

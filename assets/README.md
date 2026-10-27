@@ -1,5 +1,19 @@
 # Design assets and references
 
+## Options investing — retail volume share
+
+`charts/retail-options-share-kobeissi-2026-10-26-original.jpg` is the unchanged
+1560 × 1050 source chart attached to the user's Kobeissi Letter post, citing
+Citadel Securities. Its provenance JSON records the original URL and hash.
+Preserve the entire image, including title, axes and credits, at its original
+aspect ratio. The platform-specific metric is not the share of the entire
+U.S. options market.
+
+`options-investing-background.png` is generated editorial trading-room scenery
+in ink, plum, indigo and teal. The original chart and Moneyberg coin are placed
+directly in the browser layout; the image model does not redraw them. See
+`../briefs/retail-options-share-2026-10-26.md` for definitions and sourcing.
+
 ## Anthropic IPO
 
 `logos/anthropic-wordmark-original.svg` is the exact, unmodified wordmark

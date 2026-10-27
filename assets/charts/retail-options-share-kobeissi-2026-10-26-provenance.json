@@ -1,0 +1,21 @@
+{
+  "post_url": "https://x.com/KobeissiLetter/status/2114881746621575597",
+  "chart_url": "https://pbs.twimg.com/media/HVj5WtgWoAAWVnS?format=jpg&name=orig",
+  "retrieved_at_utc": "2026-10-27T01:41:25.922250+00:00",
+  "original_file": "assets/charts/retail-options-share-kobeissi-2026-10-26-original.jpg",
+  "sha256": "bfb420948ae75d489a88fb50a17efb66f6ee5086160a4820d4e22b896c3f97ca",
+  "dimensions": [
+    1560,
+    1050
+  ],
+  "bytes": 104785,
+  "format": "JPEG",
+  "post_timestamp_ms": 1793062075000,
+  "post_timestamp_utc": "2026-10-27T00:47:55+00:00",
+  "post_timestamp_chicago": "2026-10-26T19:47:55-05:00",
+  "chart_printed_source": "Citadel Securities",
+  "chart_credit": "The Kobeissi Letter",
+  "scope": "Post specifies options volume on Citadel Securities\u2019 platform; not verified as the whole U.S. options market.",
+  "preservation": "Unchanged original JPEG. Place entire image at uniform scale; do not crop axes, title, credits, or redraw data.",
+  "methodology": "Underlying series and full Citadel methodology were not independently obtained."
+}
