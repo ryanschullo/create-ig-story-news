@@ -15,6 +15,16 @@ Always use Lato Black (weight 900) for headlines and labels, and Georgia for
 body text, captions, and source attribution. Follow the skill's full font
 assignments; do not silently substitute other fonts.
 
+At 1080 × 1920, use a hard minimum of 30 px for all newly authored text,
+including dates, chart labels, captions, qualifiers, and sources. Headlines
+remain at least 48 px and body copy at least 32 px. Scale proportionally for
+other canvas sizes. The 30 px floor supersedes the drinking graphic's former
+22–24 px small text and exceeds the user's requested four-point increase.
+Reflow or shorten content instead of shrinking below these minimums; check
+actual computed font sizes and final-image legibility. Preserve original
+source-chart artwork and enlarge the whole chart when its labels are too small.
+Apply this to new graphics and requested revisions.
+
 For new graphics and requested revisions, omit the footer
 `Background: editorial illustration` and equivalent background-production
 credits. Keep news-source attribution, dates, and necessary factual qualifiers.
@@ -23,7 +33,7 @@ exports unchanged unless the user requests a revision.
 
 Use `MONEYBERG NEWS BRIEF` as the recurring brand label for new graphics and
 requested revisions. Keep all three words on one compact line in Lato Black
-(weight 900), secondary to the story headline, around 28–34 px at 1080 px canvas
+(weight 900), secondary to the story headline, around 30–34 px at 1080 px canvas
 width. Adjust spacing and size to fit rather than wrapping. Keep it inside the
 content bounds. Leave historical exports unchanged unless requested.
 
