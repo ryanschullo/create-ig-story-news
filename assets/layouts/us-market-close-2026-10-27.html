@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<base href="__ASSET_BASE_URI__">
+<title>U.S. market close — October 27, 2026</title>
+<style>
+@font-face{font-family:"Moneyberg Lato Black";src:url("fonts/lato/Lato-Black.ttf") format("truetype");font-weight:900;font-style:normal}
+@font-face{font-family:"Moneyberg Georgia";src:url("__GEORGIA_FONT_URI__") format("truetype");font-weight:400;font-style:normal}
+*{box-sizing:border-box}html,body{margin:0;width:1080px;height:1920px;overflow:hidden;background:#07120f}
+#stage{position:relative;width:1080px;height:1920px;isolation:isolate;overflow:hidden}
+#background{position:absolute;inset:0;width:1080px;height:1920px;object-fit:fill}
+#reading-light{position:absolute;inset:0;pointer-events:none;background:linear-gradient(90deg,rgba(3,13,11,.50),rgba(3,13,11,.23) 69%,transparent 85%)}
+.text{position:absolute;margin:0;z-index:5;font-synthesis:none;text-rendering:geometricPrecision;-webkit-font-smoothing:antialiased}
+.lato{font-family:"Moneyberg Lato Black";font-weight:900;color:#f3f8f5}
+.georgia{font-family:"Moneyberg Georgia";font-weight:400;color:#d9e7e0}
+.rule{position:absolute;height:1px;background:#a2c7b4;opacity:.46;z-index:3}
+#brand{left:112px;top:173px;font-size:29px;line-height:37px;letter-spacing:.35px}
+#category{left:112px;top:238px;font-size:26px;line-height:34px;letter-spacing:1.7px;color:#95dbb9}
+#date{left:706px;top:243px;font-size:24px;line-height:31px;color:#c7ded1}
+#header-rule{left:112px;top:292px;width:840px}
+#headline-one{left:108px;top:329px;font-size:76px;line-height:88px;letter-spacing:-1.2px}
+#headline-two{left:108px;top:417px;font-size:76px;line-height:88px;letter-spacing:-1.2px}
+#deck-one,#deck-two{left:112px;font-size:33px;line-height:44px}
+#deck-one{top:544px}#deck-two{top:589px}
+#close-label{left:112px;top:691px;font-size:28px;line-height:36px;letter-spacing:2.1px;color:#95dbb9}
+#close-board{position:absolute;left:112px;top:751px;width:840px;height:583px;z-index:2;background:linear-gradient(115deg,rgba(12,33,26,.97),rgba(7,21,17,.95));border:1px solid rgba(146,200,168,.46);box-shadow:0 16px 45px rgba(0,0,0,.28)}
+.index-name{left:140px;font-size:28px;line-height:36px;letter-spacing:.6px;color:#c8e6d6}
+.close-level{left:138px;font-size:51px;line-height:61px;letter-spacing:-.8px}
+.points{left:140px;font-size:26px;line-height:34px;color:#a8cab8}
+.percent{right:153px;font-size:70px;line-height:84px;letter-spacing:-1.8px;color:#8de3b4;text-align:right}
+#nasdaq-name{top:774px}#nasdaq-level{top:817px}#nasdaq-points{top:887px}#nasdaq-percent{top:816px}
+#sp-name{top:966px}#sp-level{top:1009px}#sp-points{top:1079px}#sp-percent{top:1008px}
+#dow-name{top:1158px}#dow-level{top:1201px}#dow-points{top:1271px}#dow-percent{top:1200px}
+#row-rule-one{left:140px;top:943px;width:784px;background:#699c80;opacity:.4}
+#row-rule-two{left:140px;top:1135px;width:784px;background:#699c80;opacity:.4}
+#leaders{left:112px;top:1362px;font-size:28px;line-height:38px;color:#e4eee8;text-shadow:0 2px 7px #000}
+#leaders-wash{position:absolute;left:104px;top:1355px;width:849px;height:54px;z-index:4;background:linear-gradient(90deg,rgba(3,15,11,.89),rgba(3,15,11,.76) 72%,rgba(3,15,11,.24))}
+#source-wash{position:absolute;left:104px;top:1425px;width:849px;height:89px;z-index:4;background:linear-gradient(90deg,rgba(3,15,11,.94),rgba(3,15,11,.84) 78%,rgba(3,15,11,.50))}
+#source-one,#source-two{left:112px;font-size:24px;line-height:32px;color:#dbe8e0}
+#source-one{top:1437px}#source-two{top:1471px}
+/* Actual original Moneyberg coin seated in the exchange's metal architecture. */
+#coin-installation{position:absolute;left:847px;top:501px;width:228px;height:228px;z-index:2;border-radius:50%;background:linear-gradient(135deg,#b5c8b9,#253b31 31%,#071610 67%,#8ebea2);border:2px solid #5d7d6c;box-shadow:inset 3px 4px 9px #030d08,2px 3px 3px #04100a,-1px -1px 2px #c4dbce}
+#coin{position:absolute;left:8px;top:8px;width:208px;height:208px;object-fit:contain;opacity:1;mix-blend-mode:normal;filter:saturate(.78) brightness(.79)}
+#coin-contact{position:absolute;inset:6px;border-radius:50%;pointer-events:none;box-shadow:inset 3px 5px 8px rgba(2,14,8,.76),inset -2px -2px 3px rgba(169,233,193,.40);background:linear-gradient(130deg,rgba(192,234,207,.16),transparent 43%,rgba(2,29,15,.17))}
+#coin-surface-light{position:absolute;left:839px;top:493px;width:244px;height:244px;z-index:3;border-radius:50%;pointer-events:none;background:linear-gradient(115deg,rgba(157,241,198,.10),transparent 36%,transparent 70%,rgba(136,226,176,.12));mix-blend-mode:screen}
+</style>
+</head>
+<body>
+<main id="stage" aria-label="U.S. stock market close on October 27, 2026">
+<img id="background" src="us-market-close-background-2026-10-27.png" alt="">
+<div id="reading-light" aria-hidden="true"></div>
+<div id="coin-installation" data-scene-element aria-hidden="true"><img id="coin" src="moneyberg-coin-original.png" alt=""><div id="coin-contact" data-scene-element></div></div>
+<div id="coin-surface-light" data-scene-element aria-hidden="true"></div>
+<div id="brand" class="text lato" data-news-text>MONEYBERG NEWS BRIEF</div>
+<div id="category" class="text lato" data-news-text>STOCK MARKET</div>
+<div id="date" class="text lato" data-news-text>OCTOBER 27, 2026</div>
+<div id="header-rule" class="rule" data-news-panel aria-hidden="true"></div>
+<div id="headline-one" class="text lato" data-news-text>AI stocks pull</div>
+<div id="headline-two" class="text lato" data-news-text>Wall Street higher</div>
+<div id="deck-one" class="text georgia" data-news-text>Most S&amp;P 500 stocks declined.</div>
+<div id="deck-two" class="text georgia" data-news-text>AI leaders carried the index higher.</div>
+<div id="close-label" class="text lato" data-news-text>U.S. CASH CLOSE</div>
+<div id="close-board" data-news-panel aria-hidden="true"></div>
+<div id="nasdaq-name" class="text lato index-name" data-news-text>NASDAQ COMPOSITE</div>
+<div id="nasdaq-level" class="text lato close-level" data-news-text>26,477.81</div>
+<div id="nasdaq-points" class="text lato points" data-news-text>+308.43 POINTS</div>
+<div id="nasdaq-percent" class="text lato percent" data-news-text>+1.2%</div>
+<div id="row-rule-one" class="rule" data-news-panel aria-hidden="true"></div>
+<div id="sp-name" class="text lato index-name" data-news-text>S&amp;P 500</div>
+<div id="sp-level" class="text lato close-level" data-news-text>7,722.60</div>
+<div id="sp-points" class="text lato points" data-news-text>+45.83 POINTS</div>
+<div id="sp-percent" class="text lato percent" data-news-text>+0.6%</div>
+<div id="row-rule-two" class="rule" data-news-panel aria-hidden="true"></div>
+<div id="dow-name" class="text lato index-name" data-news-text>DOW JONES INDUSTRIAL AVERAGE</div>
+<div id="dow-level" class="text lato close-level" data-news-text>52,377.57</div>
+<div id="dow-points" class="text lato points" data-news-text>+15.99 POINTS</div>
+<div id="dow-percent" class="text lato percent" data-news-text>+0.03%</div>
+<div id="leaders-wash" data-news-panel aria-hidden="true"></div>
+<div id="leaders" class="text lato" data-news-text>Broadcom +4.0%   •   CoreWeave +7.9%</div>
+<div id="source-wash" data-news-panel aria-hidden="true"></div>
+<div id="source-one" class="text georgia" data-news-text>Sources: Associated Press; Kiplinger</div>
+<div id="source-two" class="text georgia" data-news-text>October 27, 2026 • Final U.S. closing results</div>
+</main>
+</body>
+</html>

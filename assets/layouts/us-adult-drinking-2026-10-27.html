@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<base href="__ASSET_BASE_URI__">
+<title>U.S. adult drinking holds at a record low — October 27, 2026 edition</title>
+<style>
+@font-face{font-family:"Moneyberg Lato Black";src:url("fonts/lato/Lato-Black.ttf") format("truetype");font-weight:900;font-style:normal}
+@font-face{font-family:"Moneyberg Georgia";src:url("__GEORGIA_FONT_URI__") format("truetype");font-weight:400;font-style:normal}
+*{box-sizing:border-box}html,body{margin:0;width:1080px;height:1920px;overflow:hidden;background:#e7d2b3}
+#stage{position:relative;width:1080px;height:1920px;isolation:isolate;overflow:hidden}
+#background{position:absolute;inset:0;width:1080px;height:1920px;object-fit:cover}
+.text{position:absolute;margin:0;z-index:5;font-synthesis:none;text-rendering:geometricPrecision;-webkit-font-smoothing:antialiased}
+.lato{font-family:"Moneyberg Lato Black";font-weight:900;color:#382324}
+.georgia{font-family:"Moneyberg Georgia";font-weight:400;color:#382c29}
+.rule{position:absolute;height:1px;background:#78564a;opacity:.55;z-index:3}
+#brand{left:118px;top:184px;font-size:29px;line-height:37px;letter-spacing:.5px}
+#category{left:118px;top:245px;font-size:24px;line-height:32px;letter-spacing:2.2px;color:#7e3e42}
+#date{left:118px;top:285px;font-size:22px;line-height:29px;letter-spacing:.7px;color:#6a5750}
+#header-rule{left:118px;top:331px;width:661px}
+#headline-one,#headline-two,#headline-three{left:114px;font-size:70px;line-height:79px;letter-spacing:-1.5px}
+#headline-one{top:361px}#headline-two{top:440px}#headline-three{top:519px}
+#main-number{left:109px;top:601px;font-size:180px;line-height:195px;letter-spacing:-5px;color:#742f3a}
+#summary-one,#summary-two{left:118px;font-size:36px;line-height:46px}
+#summary-one{top:804px}#summary-two{top:850px}
+#chart-title{left:118px;top:951px;font-size:24px;line-height:32px;letter-spacing:.6px}
+.bar{position:absolute;width:92px;bottom:695px;background:#b8957a;z-index:3;border-top:2px solid #98735f}
+#bar-2023{left:195px;height:186px}#bar-2024{left:350px;height:174px}#bar-2025{left:505px;height:162px;background:#9c6161;border-color:#79494f}#bar-2026{left:660px;height:162px;background:#742f3a;border-color:#5d2630}
+.value{font-size:33px;line-height:42px;letter-spacing:-.3px;transform:translateX(-50%)}
+#value-2023{left:241px;top:994px}#value-2024{left:396px;top:1006px}#value-2025{left:551px;top:1018px}#value-2026{left:706px;top:1018px;color:#742f3a}
+#baseline{left:177px;top:1225px;width:593px}
+#zero{left:121px;top:1206px;font-size:24px;line-height:31px;color:#6a5750}
+.year{top:1244px;font-size:27px;line-height:35px;transform:translateX(-50%)}
+#year-2023{left:241px}#year-2024{left:396px}#year-2025{left:551px}#year-2026{left:706px;color:#742f3a}
+#chart-note{left:118px;top:1317px;font-size:29px;line-height:39px}
+#source-rule{left:118px;top:1382px;width:661px}
+#source-one,#source-two,#source-three{left:118px;font-size:23px;line-height:31px;color:#59463f}
+#source-one{top:1405px}#source-two{top:1437px}#source-three{top:1469px}
+/* The original circular artwork is physically seated in the bar's wood inset. */
+#coin-installation{position:absolute;left:875px;top:1045px;width:166px;height:166px;z-index:2;border-radius:50%;background:linear-gradient(135deg,#d4aa62,#6e4a24 48%,#c6a061);border:2px solid #a77e41;box-shadow:inset 3px 5px 7px #26160d,2px 3px 5px #29150b,-1px -1px 2px #e1bd78}
+#coin{position:absolute;left:4px;top:4px;width:154px;height:154px;object-fit:contain;filter:saturate(.83) brightness(.87);opacity:1}
+#coin-contact{position:absolute;inset:3px;border-radius:50%;pointer-events:none;box-shadow:inset 3px 5px 6px rgba(36,18,8,.68),inset -2px -2px 3px rgba(255,225,174,.45);background:linear-gradient(128deg,rgba(255,224,181,.15),transparent 43%,rgba(77,31,16,.1))}
+#coin-surface-light{position:absolute;left:864px;top:1034px;width:188px;height:188px;z-index:3;border-radius:50%;pointer-events:none;background:linear-gradient(115deg,rgba(247,204,139,.15),transparent 49%,rgba(39,14,8,.05));mix-blend-mode:soft-light}
+</style>
+</head>
+<body>
+<main id="stage" aria-label="U.S. adult drinking rate, Gallup survey">
+<img id="background" src="us-adult-drinking-background.png" alt="">
+<div id="coin-installation" data-scene-element aria-hidden="true"><img id="coin" src="moneyberg-coin-original.png" alt=""><div id="coin-contact" data-scene-element></div></div>
+<div id="coin-surface-light" data-scene-element aria-hidden="true"></div>
+<div id="brand" class="text lato" data-news-text>MONEYBERG NEWS BRIEF</div>
+<div id="category" class="text lato" data-news-text>CONSUMER SENTIMENT</div>
+<div id="date" class="text lato" data-news-text>OCTOBER 27, 2026</div>
+<div id="header-rule" class="rule" data-news-panel aria-hidden="true"></div>
+<div id="headline-one" class="text lato" data-news-text>America’s drinking</div>
+<div id="headline-two" class="text lato" data-news-text>rate holds at a</div>
+<div id="headline-three" class="text lato" data-news-text>record low</div>
+<div id="main-number" class="text lato" data-news-text>54%</div>
+<div id="summary-one" class="text georgia" data-news-text>of U.S. adults say</div>
+<div id="summary-two" class="text georgia" data-news-text>they drink alcohol.</div>
+<div id="chart-title" class="text lato" data-news-text>SHARE OF U.S. ADULTS WHO DRINK</div>
+<div id="bar-2023" class="bar" data-news-panel data-chart-value="62" data-chart-year="2023"></div>
+<div id="bar-2024" class="bar" data-news-panel data-chart-value="58" data-chart-year="2024"></div>
+<div id="bar-2025" class="bar" data-news-panel data-chart-value="54" data-chart-year="2025"></div>
+<div id="bar-2026" class="bar" data-news-panel data-chart-value="54" data-chart-year="2026"></div>
+<div id="value-2023" class="text lato value" data-news-text>62%</div>
+<div id="value-2024" class="text lato value" data-news-text>58%</div>
+<div id="value-2025" class="text lato value" data-news-text>54%</div>
+<div id="value-2026" class="text lato value" data-news-text>54%</div>
+<div id="baseline" class="rule" data-news-panel></div>
+<div id="zero" class="text lato" data-news-text>0%</div>
+<div id="year-2023" class="text lato year" data-news-text>2023</div>
+<div id="year-2024" class="text lato year" data-news-text>2024</div>
+<div id="year-2025" class="text lato year" data-news-text>2025</div>
+<div id="year-2026" class="text lato year" data-news-text>2026</div>
+<div id="chart-note" class="text georgia" data-news-text>Matches 2025’s low in a series begun in 1939.</div>
+<div id="source-rule" class="rule" data-news-panel></div>
+<div id="source-one" class="text georgia" data-news-text>Source: Gallup • July 1–19, 2026 survey</div>
+<div id="source-two" class="text georgia" data-news-text>Adults 18+ • n = 1,200 • Margin of error: ±4 pts</div>
+<div id="source-three" class="text georgia" data-news-text>Released Aug. 20, 2026 • Self-reported drinking</div>
+</main>
+</body>
+</html>

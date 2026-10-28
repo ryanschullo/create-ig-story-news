@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=1080, initial-scale=1">
+<base href="__ASSET_BASE_URI__">
+<title>NYSE binary options — October 27, 2026</title>
+<style>
+@font-face{font-family:"Moneyberg Lato Black";src:url("fonts/lato/Lato-Black.ttf") format("truetype");font-weight:900;font-style:normal}
+@font-face{font-family:"Moneyberg Georgia";src:url("__GEORGIA_FONT_URI__") format("truetype");font-weight:400;font-style:normal}
+*{box-sizing:border-box}html,body{margin:0;width:1080px;height:1920px;overflow:hidden;background:#101220}
+#stage{position:relative;width:1080px;height:1920px;isolation:isolate;overflow:hidden}
+#background{position:absolute;inset:0;width:1080px;height:1920px;object-fit:cover}
+#reading-light{position:absolute;inset:0;pointer-events:none;background:linear-gradient(90deg,rgba(9,12,26,.50),rgba(12,12,27,.22) 63%,transparent 84%)}
+.text{position:absolute;margin:0;z-index:5;white-space:nowrap;font-synthesis:none;text-rendering:geometricPrecision;-webkit-font-smoothing:antialiased}
+.lato{font-family:"Moneyberg Lato Black";font-weight:900;color:#f6f3eb}
+.georgia{font-family:"Moneyberg Georgia";font-weight:400;color:#e9eeeb}
+.panel{position:absolute;z-index:2}.rule{position:absolute;height:1px;background:#9aaca7;opacity:.65;z-index:3}
+#brand{left:112px;top:174px;font-size:29px;line-height:37px;letter-spacing:.5px}
+#date{left:750px;top:181px;font-size:23px;line-height:29px;color:#d0d6d6}
+#category-panel{left:112px;top:239px;width:337px;height:42px;background:#a1d7c8}
+#category{left:128px;top:244px;font-size:26px;line-height:32px;letter-spacing:.6px;color:#152c2b}
+#header-rule{left:112px;top:303px;width:841px}
+#headline-one{left:108px;top:332px;font-size:80px;line-height:91px;letter-spacing:-1.1px}
+#headline-two{left:108px;top:420px;font-size:84px;line-height:95px;letter-spacing:-1.5px}
+#headline-three{left:108px;top:512px;font-size:84px;line-height:95px;letter-spacing:-1.5px;color:#b5e9da}
+#return-panel{left:112px;top:652px;width:621px;height:366px;background:rgba(18,31,41,.93);border-left:4px solid #a1d7c8;border-top:1px solid rgba(161,215,200,.3);border-bottom:1px solid rgba(161,215,200,.3)}
+#return-status{left:140px;top:676px;font-size:25px;line-height:32px;letter-spacing:1px;color:#b5e9da}
+#return-title{left:140px;top:719px;font-size:39px;line-height:47px;letter-spacing:-.4px}
+#return-one,#return-two,#return-three,#return-four{left:140px;font-size:32px;line-height:42px}
+#return-one{top:783px}#return-two{top:826px}#return-three{top:913px}#return-four{top:956px}
+#universe{left:140px;top:876px;font-size:25px;line-height:32px;letter-spacing:.7px;color:#b5e9da}
+#kpi-panel{left:112px;top:1056px;width:841px;height:330px;background:rgba(27,24,38,.95);border-left:4px solid #c9ad79;border-top:1px solid rgba(201,173,121,.4);border-bottom:1px solid rgba(201,173,121,.4)}
+#kpi-status{left:140px;top:1080px;font-size:25px;line-height:32px;letter-spacing:.45px;color:#e4c991}
+#kpi-title{left:140px;top:1126px;font-size:41px;line-height:50px;letter-spacing:-.4px}
+#kpi-one,#kpi-two{left:140px;font-size:32px;line-height:42px}
+#kpi-one{top:1187px}#kpi-two{top:1229px}
+#payoff{left:140px;top:1292px;font-size:48px;line-height:58px;color:#e4c991;letter-spacing:-.7px}
+#payoff-label{left:465px;top:1303px;font-size:32px;line-height:42px}
+#source-rule{left:112px;top:1436px;width:841px}
+#source-wash{left:104px;top:1450px;width:849px;height:77px;background:linear-gradient(90deg,rgba(8,14,24,.97),rgba(8,14,24,.9))}
+#source-one,#source-two{left:112px;font-size:24px;line-height:32px;color:#dce4e0}
+#source-one{top:1453px}#source-two{top:1487px}
+/* Actual original PNG, uniformly scaled, seated in generated architectural brass. */
+#coin-installation{position:absolute;left:767px;top:650px;width:256px;height:256px;border-radius:50%;z-index:2;background:#5e4b2b;box-shadow:inset 5px 6px 12px rgba(0,0,0,.9),3px 4px 8px rgba(0,0,0,.7)}
+#coin{position:absolute;left:4px;top:4px;width:248px;height:248px;object-fit:contain;opacity:1;filter:brightness(.82) saturate(.78)}
+#coin-contact{position:absolute;inset:4px;z-index:3;border-radius:50%;pointer-events:none;box-shadow:inset 4px 5px 9px rgba(0,0,0,.6),inset -3px -3px 5px rgba(245,210,151,.3);background:linear-gradient(145deg,rgba(218,230,236,.12),transparent 45%,rgba(28,13,4,.28));mix-blend-mode:soft-light}
+#coin-light{position:absolute;left:760px;top:643px;width:270px;height:270px;z-index:3;border-radius:50%;pointer-events:none;background:linear-gradient(135deg,transparent 50%,rgba(239,161,60,.12));mix-blend-mode:screen}
+</style>
+</head>
+<body>
+<main id="stage" aria-label="NYSE prepares all-or-nothing options">
+<img id="background" src="nyse-binary-options-background.png" alt="">
+<div id="reading-light" aria-hidden="true"></div>
+<div id="coin-installation" data-scene-element aria-hidden="true"><img id="coin" src="moneyberg-coin-original.png" alt=""><div id="coin-contact" data-scene-element></div></div>
+<div id="coin-light" data-scene-element aria-hidden="true"></div>
+<div id="brand" class="text lato" data-news-text>MONEYBERG NEWS BRIEF</div>
+<div id="date" class="text lato" data-news-text>OCT. 27, 2026</div>
+<div id="category-panel" class="panel" data-news-panel aria-hidden="true"></div>
+<div id="category" class="text lato" data-news-text>OPTIONS INVESTING</div>
+<div id="header-rule" class="rule" data-news-panel aria-hidden="true"></div>
+<div id="headline-one" class="text lato" data-news-text>NYSE prepares</div>
+<div id="headline-two" class="text lato" data-news-text>all-or-nothing</div>
+<div id="headline-three" class="text lato" data-news-text>stock options</div>
+<div id="return-panel" class="panel" data-news-panel aria-hidden="true"></div>
+<div id="return-status" class="text lato" data-news-text>EXPECTED WITHIN DAYS</div>
+<div id="return-title" class="text lato" data-news-text>Binary return options</div>
+<div id="return-one" class="text georgia" data-news-text>On a stock or ETF closing</div>
+<div id="return-two" class="text georgia" data-news-text>above or below a set price.</div>
+<div id="universe" class="text lato" data-news-text>12 UNDERLYING SECURITIES</div>
+<div id="return-three" class="text georgia" data-news-text>Includes Apple, Nvidia, Tesla</div>
+<div id="return-four" class="text georgia" data-news-text>and the SPDR S&amp;P 500 ETF.</div>
+<div id="kpi-panel" class="panel" data-news-panel aria-hidden="true"></div>
+<div id="kpi-status" class="text lato" data-news-text>SEPARATE PROPOSAL • AWAITING SEC APPROVAL</div>
+<div id="kpi-title" class="text lato" data-news-text>Earnings / KPI options</div>
+<div id="kpi-one" class="text georgia" data-news-text>Tied to metrics such as sales</div>
+<div id="kpi-two" class="text georgia" data-news-text>or earnings per share.</div>
+<div id="payoff" class="text lato" data-news-text>$1 or nothing</div>
+<div id="payoff-label" class="text georgia" data-news-text>at expiration</div>
+<div id="source-rule" class="rule" data-news-panel aria-hidden="true"></div>
+<div id="source-wash" class="panel" data-news-panel aria-hidden="true"></div>
+<div id="source-one" class="text georgia" data-news-text>Source: Reuters • Laura Matthews</div>
+<div id="source-two" class="text georgia" data-news-text>Reported October 27, 2026</div>
+</main>
+</body>
+</html>

@@ -1,0 +1,985 @@
+{
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "inner_bounds": [
+    104,
+    164,
+    961,
+    1536
+  ],
+  "renderer": "Chromium via Playwright; HTML/CSS screenshot",
+  "background_sha256": "6d0d344d61b9bea2eeccf6187165201f2c90041db9aec017e0eb513c65b5dc80",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
+  "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
+  "georgia_redistributed": false,
+  "layout": {
+    "text": [
+      {
+        "id": "brand",
+        "text": "MONEYBERG NEWS BRIEF",
+        "bounds": {
+          "left": 112,
+          "top": 174,
+          "right": 482.84375,
+          "bottom": 209,
+          "width": 370.84375,
+          "height": 35
+        },
+        "element_bounds": {
+          "left": 112,
+          "top": 173,
+          "right": 482.84375,
+          "bottom": 210,
+          "width": 370.84375,
+          "height": 37
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "29px"
+      },
+      {
+        "id": "category",
+        "text": "STOCK MARKET",
+        "bounds": {
+          "left": 112,
+          "top": 239,
+          "right": 332.9375,
+          "bottom": 271,
+          "width": 220.9375,
+          "height": 32
+        },
+        "element_bounds": {
+          "left": 112,
+          "top": 238,
+          "right": 332.9375,
+          "bottom": 272,
+          "width": 220.9375,
+          "height": 34
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "26px"
+      },
+      {
+        "id": "date",
+        "text": "OCTOBER 27, 2026",
+        "bounds": {
+          "left": 706,
+          "top": 244,
+          "right": 920.625,
+          "bottom": 273,
+          "width": 214.625,
+          "height": 29
+        },
+        "element_bounds": {
+          "left": 706,
+          "top": 243,
+          "right": 920.625,
+          "bottom": 274,
+          "width": 214.625,
+          "height": 31
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "24px"
+      },
+      {
+        "id": "headline-one",
+        "text": "AI stocks pull",
+        "bounds": {
+          "left": 108,
+          "top": 327,
+          "right": 546.484375,
+          "bottom": 418,
+          "width": 438.484375,
+          "height": 91
+        },
+        "element_bounds": {
+          "left": 108,
+          "top": 329,
+          "right": 546.484375,
+          "bottom": 417,
+          "width": 438.484375,
+          "height": 88
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "76px"
+      },
+      {
+        "id": "headline-two",
+        "text": "Wall Street higher",
+        "bounds": {
+          "left": 108,
+          "top": 415,
+          "right": 697.640625,
+          "bottom": 506,
+          "width": 589.640625,
+          "height": 91
+        },
+        "element_bounds": {
+          "left": 108,
+          "top": 417,
+          "right": 697.640625,
+          "bottom": 505,
+          "width": 589.640625,
+          "height": 88
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "76px"
+      },
+      {
+        "id": "deck-one",
+        "text": "Most S&P 500 stocks declined.",
+        "bounds": {
+          "left": 112,
+          "top": 547,
+          "right": 560.5625,
+          "bottom": 584,
+          "width": 448.5625,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 112,
+          "top": 544,
+          "right": 560.5625,
+          "bottom": 588,
+          "width": 448.5625,
+          "height": 44
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      },
+      {
+        "id": "deck-two",
+        "text": "AI leaders carried the index higher.",
+        "bounds": {
+          "left": 112,
+          "top": 592,
+          "right": 625.265625,
+          "bottom": 629,
+          "width": 513.265625,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 112,
+          "top": 589,
+          "right": 625.265625,
+          "bottom": 633,
+          "width": 513.265625,
+          "height": 44
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      },
+      {
+        "id": "close-label",
+        "text": "U.S. CASH CLOSE",
+        "bounds": {
+          "left": 112,
+          "top": 692,
+          "right": 367.828125,
+          "bottom": 726,
+          "width": 255.828125,
+          "height": 34
+        },
+        "element_bounds": {
+          "left": 112,
+          "top": 691,
+          "right": 367.828125,
+          "bottom": 727,
+          "width": 255.828125,
+          "height": 36
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "28px"
+      },
+      {
+        "id": "nasdaq-name",
+        "text": "NASDAQ COMPOSITE",
+        "bounds": {
+          "left": 140,
+          "top": 775,
+          "right": 439.90625,
+          "bottom": 809,
+          "width": 299.90625,
+          "height": 34
+        },
+        "element_bounds": {
+          "left": 140,
+          "top": 774,
+          "right": 439.90625,
+          "bottom": 810,
+          "width": 299.90625,
+          "height": 36
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "28px"
+      },
+      {
+        "id": "nasdaq-level",
+        "text": "26,477.81",
+        "bounds": {
+          "left": 138,
+          "top": 817,
+          "right": 362.0625,
+          "bottom": 878,
+          "width": 224.0625,
+          "height": 61
+        },
+        "element_bounds": {
+          "left": 138,
+          "top": 817,
+          "right": 362.0625,
+          "bottom": 878,
+          "width": 224.0625,
+          "height": 61
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "51px"
+      },
+      {
+        "id": "nasdaq-points",
+        "text": "+308.43 POINTS",
+        "bounds": {
+          "left": 140,
+          "top": 888,
+          "right": 338.25,
+          "bottom": 920,
+          "width": 198.25,
+          "height": 32
+        },
+        "element_bounds": {
+          "left": 140,
+          "top": 887,
+          "right": 338.25,
+          "bottom": 921,
+          "width": 198.25,
+          "height": 34
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "26px"
+      },
+      {
+        "id": "nasdaq-percent",
+        "text": "+1.2%",
+        "bounds": {
+          "left": 739.640625,
+          "top": 816,
+          "right": 927,
+          "bottom": 900,
+          "width": 187.359375,
+          "height": 84
+        },
+        "element_bounds": {
+          "left": 739.640625,
+          "top": 816,
+          "right": 927,
+          "bottom": 900,
+          "width": 187.359375,
+          "height": 84
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "70px"
+      },
+      {
+        "id": "sp-name",
+        "text": "S&P 500",
+        "bounds": {
+          "left": 140,
+          "top": 967,
+          "right": 252.15625,
+          "bottom": 1001,
+          "width": 112.15625,
+          "height": 34
+        },
+        "element_bounds": {
+          "left": 140,
+          "top": 966,
+          "right": 252.15625,
+          "bottom": 1002,
+          "width": 112.15625,
+          "height": 36
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "28px"
+      },
+      {
+        "id": "sp-level",
+        "text": "7,722.60",
+        "bounds": {
+          "left": 138,
+          "top": 1009,
+          "right": 333.28125,
+          "bottom": 1070,
+          "width": 195.28125,
+          "height": 61
+        },
+        "element_bounds": {
+          "left": 138,
+          "top": 1009,
+          "right": 333.28125,
+          "bottom": 1070,
+          "width": 195.28125,
+          "height": 61
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "51px"
+      },
+      {
+        "id": "sp-points",
+        "text": "+45.83 POINTS",
+        "bounds": {
+          "left": 140,
+          "top": 1080,
+          "right": 323.171875,
+          "bottom": 1112,
+          "width": 183.171875,
+          "height": 32
+        },
+        "element_bounds": {
+          "left": 140,
+          "top": 1079,
+          "right": 323.171875,
+          "bottom": 1113,
+          "width": 183.171875,
+          "height": 34
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "26px"
+      },
+      {
+        "id": "sp-percent",
+        "text": "+0.6%",
+        "bounds": {
+          "left": 739.640625,
+          "top": 1008,
+          "right": 927,
+          "bottom": 1092,
+          "width": 187.359375,
+          "height": 84
+        },
+        "element_bounds": {
+          "left": 739.640625,
+          "top": 1008,
+          "right": 927,
+          "bottom": 1092,
+          "width": 187.359375,
+          "height": 84
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "70px"
+      },
+      {
+        "id": "dow-name",
+        "text": "DOW JONES INDUSTRIAL AVERAGE",
+        "bounds": {
+          "left": 140,
+          "top": 1159,
+          "right": 628.09375,
+          "bottom": 1193,
+          "width": 488.09375,
+          "height": 34
+        },
+        "element_bounds": {
+          "left": 140,
+          "top": 1158,
+          "right": 628.09375,
+          "bottom": 1194,
+          "width": 488.09375,
+          "height": 36
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "28px"
+      },
+      {
+        "id": "dow-level",
+        "text": "52,377.57",
+        "bounds": {
+          "left": 138,
+          "top": 1201,
+          "right": 362.0625,
+          "bottom": 1262,
+          "width": 224.0625,
+          "height": 61
+        },
+        "element_bounds": {
+          "left": 138,
+          "top": 1201,
+          "right": 362.0625,
+          "bottom": 1262,
+          "width": 224.0625,
+          "height": 61
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "51px"
+      },
+      {
+        "id": "dow-points",
+        "text": "+15.99 POINTS",
+        "bounds": {
+          "left": 140,
+          "top": 1272,
+          "right": 323.171875,
+          "bottom": 1304,
+          "width": 183.171875,
+          "height": 32
+        },
+        "element_bounds": {
+          "left": 140,
+          "top": 1271,
+          "right": 323.171875,
+          "bottom": 1305,
+          "width": 183.171875,
+          "height": 34
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "26px"
+      },
+      {
+        "id": "dow-percent",
+        "text": "+0.03%",
+        "bounds": {
+          "left": 700.84375,
+          "top": 1200,
+          "right": 927,
+          "bottom": 1284,
+          "width": 226.15625,
+          "height": 84
+        },
+        "element_bounds": {
+          "left": 700.84375,
+          "top": 1200,
+          "right": 927,
+          "bottom": 1284,
+          "width": 226.15625,
+          "height": 84
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "70px"
+      },
+      {
+        "id": "leaders",
+        "text": "Broadcom +4.0%   \u2022   CoreWeave +7.9%",
+        "bounds": {
+          "left": 112,
+          "top": 1364,
+          "right": 584.078125,
+          "bottom": 1398,
+          "width": 472.078125,
+          "height": 34
+        },
+        "element_bounds": {
+          "left": 112,
+          "top": 1362,
+          "right": 584.078125,
+          "bottom": 1400,
+          "width": 472.078125,
+          "height": 38
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "28px"
+      },
+      {
+        "id": "source-one",
+        "text": "Sources: Associated Press; Kiplinger",
+        "bounds": {
+          "left": 112,
+          "top": 1439,
+          "right": 496.703125,
+          "bottom": 1466,
+          "width": 384.703125,
+          "height": 27
+        },
+        "element_bounds": {
+          "left": 112,
+          "top": 1437,
+          "right": 496.703125,
+          "bottom": 1469,
+          "width": 384.703125,
+          "height": 32
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "24px"
+      },
+      {
+        "id": "source-two",
+        "text": "October 27, 2026 \u2022 Final U.S. closing results",
+        "bounds": {
+          "left": 112,
+          "top": 1473,
+          "right": 578.609375,
+          "bottom": 1500,
+          "width": 466.609375,
+          "height": 27
+        },
+        "element_bounds": {
+          "left": 112,
+          "top": 1471,
+          "right": 578.609375,
+          "bottom": 1503,
+          "width": 466.609375,
+          "height": 32
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "24px"
+      }
+    ],
+    "panels": [
+      {
+        "id": "header-rule",
+        "bounds": {
+          "left": 112,
+          "top": 292,
+          "right": 952,
+          "bottom": 293,
+          "width": 840,
+          "height": 1
+        }
+      },
+      {
+        "id": "close-board",
+        "bounds": {
+          "left": 112,
+          "top": 751,
+          "right": 952,
+          "bottom": 1334,
+          "width": 840,
+          "height": 583
+        }
+      },
+      {
+        "id": "row-rule-one",
+        "bounds": {
+          "left": 140,
+          "top": 943,
+          "right": 924,
+          "bottom": 944,
+          "width": 784,
+          "height": 1
+        }
+      },
+      {
+        "id": "row-rule-two",
+        "bounds": {
+          "left": 140,
+          "top": 1135,
+          "right": 924,
+          "bottom": 1136,
+          "width": 784,
+          "height": 1
+        }
+      },
+      {
+        "id": "leaders-wash",
+        "bounds": {
+          "left": 104,
+          "top": 1355,
+          "right": 953,
+          "bottom": 1409,
+          "width": 849,
+          "height": 54
+        }
+      },
+      {
+        "id": "source-wash",
+        "bounds": {
+          "left": 104,
+          "top": 1425,
+          "right": 953,
+          "bottom": 1514,
+          "width": 849,
+          "height": 89
+        }
+      }
+    ],
+    "scene_elements": [
+      {
+        "id": "coin-installation",
+        "bounds": {
+          "left": 847,
+          "top": 501,
+          "right": 1075,
+          "bottom": 729,
+          "width": 228,
+          "height": 228
+        },
+        "box_shadow": "rgb(3, 13, 8) 3px 4px 9px 0px inset, rgb(4, 16, 10) 2px 3px 3px 0px, rgb(196, 219, 206) -1px -1px 2px 0px",
+        "background": "linear-gradient(135deg, rgb(181, 200, 185), rgb(37, 59, 49) 31%, rgb(7, 22, 16) 67%, rgb(142, 190, 162))"
+      },
+      {
+        "id": "coin-contact",
+        "bounds": {
+          "left": 855,
+          "top": 509,
+          "right": 1067,
+          "bottom": 721,
+          "width": 212,
+          "height": 212
+        },
+        "box_shadow": "rgba(2, 14, 8, 0.76) 3px 5px 8px 0px inset, rgba(169, 233, 193, 0.4) -2px -2px 3px 0px inset",
+        "background": "linear-gradient(130deg, rgba(192, 234, 207, 0.16), rgba(0, 0, 0, 0) 43%, rgba(2, 29, 15, 0.17))"
+      },
+      {
+        "id": "coin-surface-light",
+        "bounds": {
+          "left": 839,
+          "top": 493,
+          "right": 1083,
+          "bottom": 737,
+          "width": 244,
+          "height": 244
+        },
+        "box_shadow": "none",
+        "background": "linear-gradient(115deg, rgba(157, 241, 198, 0.1), rgba(0, 0, 0, 0) 36%, rgba(0, 0, 0, 0) 70%, rgba(136, 226, 176, 0.12))"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Moneyberg Lato Black",
+        "weight": "900",
+        "status": "loaded"
+      },
+      {
+        "family": "Moneyberg Georgia",
+        "weight": "400",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "id": "background",
+        "natural_width": 941,
+        "natural_height": 1672,
+        "bounds": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        }
+      },
+      {
+        "id": "coin",
+        "natural_width": 2084,
+        "natural_height": 2084,
+        "bounds": {
+          "left": 857,
+          "top": 511,
+          "right": 1065,
+          "bottom": 719,
+          "width": 208,
+          "height": 208
+        }
+      }
+    ],
+    "document_width": 1080,
+    "document_height": 1920
+  },
+  "platform_fonts": [
+    {
+      "id": "brand",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "category",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 12
+        }
+      ]
+    },
+    {
+      "id": "date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "headline-one",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 14
+        }
+      ]
+    },
+    {
+      "id": "headline-two",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 18
+        }
+      ]
+    },
+    {
+      "id": "deck-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 29
+        }
+      ]
+    },
+    {
+      "id": "deck-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 36
+        }
+      ]
+    },
+    {
+      "id": "close-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 15
+        }
+      ]
+    },
+    {
+      "id": "nasdaq-name",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "nasdaq-level",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 9
+        }
+      ]
+    },
+    {
+      "id": "nasdaq-points",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 14
+        }
+      ]
+    },
+    {
+      "id": "nasdaq-percent",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 5
+        }
+      ]
+    },
+    {
+      "id": "sp-name",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 7
+        }
+      ]
+    },
+    {
+      "id": "sp-level",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 8
+        }
+      ]
+    },
+    {
+      "id": "sp-points",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 13
+        }
+      ]
+    },
+    {
+      "id": "sp-percent",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 5
+        }
+      ]
+    },
+    {
+      "id": "dow-name",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 28
+        }
+      ]
+    },
+    {
+      "id": "dow-level",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 9
+        }
+      ]
+    },
+    {
+      "id": "dow-points",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 13
+        }
+      ]
+    },
+    {
+      "id": "dow-percent",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 6
+        }
+      ]
+    },
+    {
+      "id": "leaders",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 32
+        }
+      ]
+    },
+    {
+      "id": "source-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 36
+        }
+      ]
+    },
+    {
+      "id": "source-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 45
+        }
+      ]
+    }
+  ],
+  "coin_bounds": {
+    "left": 857,
+    "top": 511,
+    "right": 1065,
+    "bottom": 719,
+    "width": 208,
+    "height": 208
+  },
+  "whole_coin_upper_75_percent_verified": true,
+  "integration": {
+    "method": "Actual original PNG seated in a front-facing financial-exchange architectural recess; separate CSS contact shadow, metal rim, cool emerald tone and surface light layers",
+    "artwork": "Original PNG directly loaded by browser; uniformly scaled, never redrawn or warped",
+    "image_generation_role": "Created a generic exchange trading floor with a reserved empty architectural setting; no coin or financial data supplied to or drawn by image generation",
+    "generated_source": "/workspace/generated_images/exec-0d3be74b-3210-4e88-9c6e-55d592ebdbd0.png",
+    "effects": [
+      "recessed circular seat",
+      "contact shadow",
+      "inset edge light",
+      "non-destructive cool emerald tone",
+      "soft light across emblem and surrounding metal"
+    ],
+    "historical_export_changed": false,
+    "category": "STOCK MARKET",
+    "background_credit_on_graphic": false,
+    "background_provenance": "Generated conceptual financial-exchange scenery; not a photograph of a specific exchange or event; contains no invented numeric financial data"
+  },
+  "generation_prompt": "Create a NEW text-free vertical 9:16 premium financial editorial background for a 1080x1920 Instagram market-close graphic. Subject: a U.S. stock-market advance led by major artificial-intelligence stocks. Sophisticated obsidian black, deep emerald, muted teal and cool silver; restrained green lighting because indexes rose, but no excessive neon or sci-fi. A generic modern financial-exchange trading floor: elegant glass partitions, abstract softly illuminated electronic wall panels, a few empty workstations and architectural metal details, with strongest scene detail in bottom quarter y1450..1920. No people or identified real exchange, no official logos. The top and central region x90..965,y150..1440 must have dark quiet negative space to hold sharply typeset text and a three-row index summary, added separately. Especially calm left/center. On the right edge place a vertical FRONT-FACING brushed graphite metal architectural panel extending y380..740, and an EMPTY perfectly CIRCULAR recessed medallion setting centered x925,y580, diameter190px. It must face camera straight-on with equal horizontal and vertical diameter. Center is plain dark unmarked metal, shallow narrow rim, cool emerald/silver environmental light and contact shading. Do not generate any coin, portrait, seal or logo in this seat. The user's actual original Moneyberg coin will be placed there by browser composition; entire coin must be within the upper75% of frame (y<=1440). Empty setting leaves x100..785 clear for short editorial deck copy. The future news content uses exact Lato Black900 for headline/brand/date/indexlabels/numbers and Georgia for body/sources. The compact small one-line brand is MONEYBERG NEWS BRIEF, exact category STOCK MARKET. All authored news will stay x104..961,y164..1536. Absolutely NO generated text, numbers, financial charts, candlesticks, arrows, tickers, percentages, data visualizations, coin or watermark. Electronic panels may be abstract lights only. Keep imagery distinct from a corporate office corridor, oil plant or classical stone architecture; polished financial newsroom atmosphere and striking material depth.",
+  "output_sha256": "b370bd5a75c40536a5f62116f3a8ed5968459f9c8132122ceed84a8d03fabc4b"
+}

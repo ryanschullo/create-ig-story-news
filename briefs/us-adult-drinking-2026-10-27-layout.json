@@ -1,0 +1,1009 @@
+{
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "inner_bounds": [
+    104,
+    164,
+    961,
+    1536
+  ],
+  "renderer": "Chromium via Playwright; HTML/CSS screenshot",
+  "background_sha256": "d2e962d2e2338bda541130e849b6692410254836fe0bb467fb03e5d0fecf34ae",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
+  "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
+  "georgia_redistributed": false,
+  "layout": {
+    "text": [
+      {
+        "id": "brand",
+        "text": "MONEYBERG NEWS BRIEF",
+        "bounds": {
+          "left": 118,
+          "top": 185,
+          "right": 491.84375,
+          "bottom": 220,
+          "width": 373.84375,
+          "height": 35
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 184,
+          "right": 491.84375,
+          "bottom": 221,
+          "width": 373.84375,
+          "height": 37
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "29px"
+      },
+      {
+        "id": "category",
+        "text": "CONSUMER SENTIMENT",
+        "bounds": {
+          "left": 118,
+          "top": 246,
+          "right": 437.09375,
+          "bottom": 275,
+          "width": 319.09375,
+          "height": 29
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 245,
+          "right": 437.09375,
+          "bottom": 277,
+          "width": 319.09375,
+          "height": 32
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "24px"
+      },
+      {
+        "id": "date",
+        "text": "OCTOBER 27, 2026",
+        "bounds": {
+          "left": 118,
+          "top": 286,
+          "right": 325.9375,
+          "bottom": 313,
+          "width": 207.9375,
+          "height": 27
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 285,
+          "right": 325.9375,
+          "bottom": 314,
+          "width": 207.9375,
+          "height": 29
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "22px"
+      },
+      {
+        "id": "headline-one",
+        "text": "America\u2019s drinking",
+        "bounds": {
+          "left": 114,
+          "top": 358,
+          "right": 665.0625,
+          "bottom": 442,
+          "width": 551.0625,
+          "height": 84
+        },
+        "element_bounds": {
+          "left": 114,
+          "top": 361,
+          "right": 665.0625,
+          "bottom": 440,
+          "width": 551.0625,
+          "height": 79
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "70px"
+      },
+      {
+        "id": "headline-two",
+        "text": "rate holds at a",
+        "bounds": {
+          "left": 114,
+          "top": 437,
+          "right": 532.71875,
+          "bottom": 521,
+          "width": 418.71875,
+          "height": 84
+        },
+        "element_bounds": {
+          "left": 114,
+          "top": 440,
+          "right": 532.71875,
+          "bottom": 519,
+          "width": 418.71875,
+          "height": 79
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "70px"
+      },
+      {
+        "id": "headline-three",
+        "text": "record low",
+        "bounds": {
+          "left": 114,
+          "top": 516,
+          "right": 432.203125,
+          "bottom": 600,
+          "width": 318.203125,
+          "height": 84
+        },
+        "element_bounds": {
+          "left": 114,
+          "top": 519,
+          "right": 432.203125,
+          "bottom": 598,
+          "width": 318.203125,
+          "height": 79
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "70px"
+      },
+      {
+        "id": "main-number",
+        "text": "54%",
+        "bounds": {
+          "left": 109,
+          "top": 590,
+          "right": 451.671875,
+          "bottom": 806,
+          "width": 342.671875,
+          "height": 216
+        },
+        "element_bounds": {
+          "left": 109,
+          "top": 601,
+          "right": 451.671875,
+          "bottom": 796,
+          "width": 342.671875,
+          "height": 195
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "180px"
+      },
+      {
+        "id": "summary-one",
+        "text": "of U.S. adults say",
+        "bounds": {
+          "left": 118,
+          "top": 806,
+          "right": 391.21875,
+          "bottom": 847,
+          "width": 273.21875,
+          "height": 41
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 804,
+          "right": 391.21875,
+          "bottom": 850,
+          "width": 273.21875,
+          "height": 46
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "36px"
+      },
+      {
+        "id": "summary-two",
+        "text": "they drink alcohol.",
+        "bounds": {
+          "left": 118,
+          "top": 852,
+          "right": 414.953125,
+          "bottom": 893,
+          "width": 296.953125,
+          "height": 41
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 850,
+          "right": 414.953125,
+          "bottom": 896,
+          "width": 296.953125,
+          "height": 46
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "36px"
+      },
+      {
+        "id": "chart-title",
+        "text": "SHARE OF U.S. ADULTS WHO DRINK",
+        "bounds": {
+          "left": 118,
+          "top": 952,
+          "right": 547.125,
+          "bottom": 981,
+          "width": 429.125,
+          "height": 29
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 951,
+          "right": 547.125,
+          "bottom": 983,
+          "width": 429.125,
+          "height": 32
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "24px"
+      },
+      {
+        "id": "value-2023",
+        "text": "62%",
+        "bounds": {
+          "left": 208.6640625,
+          "top": 995,
+          "right": 273.3359375,
+          "bottom": 1035,
+          "width": 64.671875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 208.6640625,
+          "top": 994,
+          "right": 273.3359375,
+          "bottom": 1036,
+          "width": 64.671875,
+          "height": 42
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "value-2024",
+        "text": "58%",
+        "bounds": {
+          "left": 363.6640625,
+          "top": 1007,
+          "right": 428.3359375,
+          "bottom": 1047,
+          "width": 64.671875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 363.6640625,
+          "top": 1006,
+          "right": 428.3359375,
+          "bottom": 1048,
+          "width": 64.671875,
+          "height": 42
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "value-2025",
+        "text": "54%",
+        "bounds": {
+          "left": 518.6640625,
+          "top": 1019,
+          "right": 583.3359375,
+          "bottom": 1059,
+          "width": 64.671875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 518.6640625,
+          "top": 1018,
+          "right": 583.3359375,
+          "bottom": 1060,
+          "width": 64.671875,
+          "height": 42
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "value-2026",
+        "text": "54%",
+        "bounds": {
+          "left": 673.6640625,
+          "top": 1019,
+          "right": 738.3359375,
+          "bottom": 1059,
+          "width": 64.671875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 673.6640625,
+          "top": 1018,
+          "right": 738.3359375,
+          "bottom": 1060,
+          "width": 64.671875,
+          "height": 42
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "zero",
+        "text": "0%",
+        "bounds": {
+          "left": 121,
+          "top": 1207,
+          "right": 154.78125,
+          "bottom": 1236,
+          "width": 33.78125,
+          "height": 29
+        },
+        "element_bounds": {
+          "left": 121,
+          "top": 1206,
+          "right": 154.78125,
+          "bottom": 1237,
+          "width": 33.78125,
+          "height": 31
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "24px"
+      },
+      {
+        "id": "year-2023",
+        "text": "2023",
+        "bounds": {
+          "left": 209.6796875,
+          "top": 1245,
+          "right": 272.3203125,
+          "bottom": 1278,
+          "width": 62.640625,
+          "height": 33
+        },
+        "element_bounds": {
+          "left": 209.6796875,
+          "top": 1244,
+          "right": 272.3203125,
+          "bottom": 1279,
+          "width": 62.640625,
+          "height": 35
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "27px"
+      },
+      {
+        "id": "year-2024",
+        "text": "2024",
+        "bounds": {
+          "left": 364.6796875,
+          "top": 1245,
+          "right": 427.3203125,
+          "bottom": 1278,
+          "width": 62.640625,
+          "height": 33
+        },
+        "element_bounds": {
+          "left": 364.6796875,
+          "top": 1244,
+          "right": 427.3203125,
+          "bottom": 1279,
+          "width": 62.640625,
+          "height": 35
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "27px"
+      },
+      {
+        "id": "year-2025",
+        "text": "2025",
+        "bounds": {
+          "left": 519.6796875,
+          "top": 1245,
+          "right": 582.3203125,
+          "bottom": 1278,
+          "width": 62.640625,
+          "height": 33
+        },
+        "element_bounds": {
+          "left": 519.6796875,
+          "top": 1244,
+          "right": 582.3203125,
+          "bottom": 1279,
+          "width": 62.640625,
+          "height": 35
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "27px"
+      },
+      {
+        "id": "year-2026",
+        "text": "2026",
+        "bounds": {
+          "left": 674.6796875,
+          "top": 1245,
+          "right": 737.3203125,
+          "bottom": 1278,
+          "width": 62.640625,
+          "height": 33
+        },
+        "element_bounds": {
+          "left": 674.6796875,
+          "top": 1244,
+          "right": 737.3203125,
+          "bottom": 1279,
+          "width": 62.640625,
+          "height": 35
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "27px"
+      },
+      {
+        "id": "chart-note",
+        "text": "Matches 2025\u2019s low in a series begun in 1939.",
+        "bounds": {
+          "left": 118,
+          "top": 1320,
+          "right": 699.3125,
+          "bottom": 1353,
+          "width": 581.3125,
+          "height": 33
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1317,
+          "right": 699.3125,
+          "bottom": 1356,
+          "width": 581.3125,
+          "height": 39
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "29px"
+      },
+      {
+        "id": "source-one",
+        "text": "Source: Gallup \u2022 July 1\u201319, 2026 survey",
+        "bounds": {
+          "left": 118,
+          "top": 1407,
+          "right": 520.90625,
+          "bottom": 1433,
+          "width": 402.90625,
+          "height": 26
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1405,
+          "right": 520.90625,
+          "bottom": 1436,
+          "width": 402.90625,
+          "height": 31
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "23px"
+      },
+      {
+        "id": "source-two",
+        "text": "Adults 18+ \u2022 n = 1,200 \u2022 Margin of error: \u00b14 pts",
+        "bounds": {
+          "left": 118,
+          "top": 1439,
+          "right": 599.375,
+          "bottom": 1465,
+          "width": 481.375,
+          "height": 26
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1437,
+          "right": 599.375,
+          "bottom": 1468,
+          "width": 481.375,
+          "height": 31
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "23px"
+      },
+      {
+        "id": "source-three",
+        "text": "Released Aug. 20, 2026 \u2022 Self-reported drinking",
+        "bounds": {
+          "left": 118,
+          "top": 1471,
+          "right": 605.46875,
+          "bottom": 1497,
+          "width": 487.46875,
+          "height": 26
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1469,
+          "right": 605.46875,
+          "bottom": 1500,
+          "width": 487.46875,
+          "height": 31
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "23px"
+      }
+    ],
+    "panels": [
+      {
+        "id": "header-rule",
+        "bounds": {
+          "left": 118,
+          "top": 331,
+          "right": 779,
+          "bottom": 332,
+          "width": 661,
+          "height": 1
+        }
+      },
+      {
+        "id": "bar-2023",
+        "bounds": {
+          "left": 195,
+          "top": 1039,
+          "right": 287,
+          "bottom": 1225,
+          "width": 92,
+          "height": 186
+        }
+      },
+      {
+        "id": "bar-2024",
+        "bounds": {
+          "left": 350,
+          "top": 1051,
+          "right": 442,
+          "bottom": 1225,
+          "width": 92,
+          "height": 174
+        }
+      },
+      {
+        "id": "bar-2025",
+        "bounds": {
+          "left": 505,
+          "top": 1063,
+          "right": 597,
+          "bottom": 1225,
+          "width": 92,
+          "height": 162
+        }
+      },
+      {
+        "id": "bar-2026",
+        "bounds": {
+          "left": 660,
+          "top": 1063,
+          "right": 752,
+          "bottom": 1225,
+          "width": 92,
+          "height": 162
+        }
+      },
+      {
+        "id": "baseline",
+        "bounds": {
+          "left": 177,
+          "top": 1225,
+          "right": 770,
+          "bottom": 1226,
+          "width": 593,
+          "height": 1
+        }
+      },
+      {
+        "id": "source-rule",
+        "bounds": {
+          "left": 118,
+          "top": 1382,
+          "right": 779,
+          "bottom": 1383,
+          "width": 661,
+          "height": 1
+        }
+      }
+    ],
+    "scene_elements": [
+      {
+        "id": "coin-installation",
+        "bounds": {
+          "left": 875,
+          "top": 1045,
+          "right": 1041,
+          "bottom": 1211,
+          "width": 166,
+          "height": 166
+        },
+        "box_shadow": "rgb(38, 22, 13) 3px 5px 7px 0px inset, rgb(41, 21, 11) 2px 3px 5px 0px, rgb(225, 189, 120) -1px -1px 2px 0px",
+        "background": "linear-gradient(135deg, rgb(212, 170, 98), rgb(110, 74, 36) 48%, rgb(198, 160, 97))"
+      },
+      {
+        "id": "coin-contact",
+        "bounds": {
+          "left": 880,
+          "top": 1050,
+          "right": 1036,
+          "bottom": 1206,
+          "width": 156,
+          "height": 156
+        },
+        "box_shadow": "rgba(36, 18, 8, 0.68) 3px 5px 6px 0px inset, rgba(255, 225, 174, 0.45) -2px -2px 3px 0px inset",
+        "background": "linear-gradient(128deg, rgba(255, 224, 181, 0.15), rgba(0, 0, 0, 0) 43%, rgba(77, 31, 16, 0.1))"
+      },
+      {
+        "id": "coin-surface-light",
+        "bounds": {
+          "left": 864,
+          "top": 1034,
+          "right": 1052,
+          "bottom": 1222,
+          "width": 188,
+          "height": 188
+        },
+        "box_shadow": "none",
+        "background": "linear-gradient(115deg, rgba(247, 204, 139, 0.15), rgba(0, 0, 0, 0) 49%, rgba(39, 14, 8, 0.05))"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Moneyberg Lato Black",
+        "weight": "900",
+        "status": "loaded"
+      },
+      {
+        "family": "Moneyberg Georgia",
+        "weight": "400",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "id": "background",
+        "natural_width": 941,
+        "natural_height": 1672,
+        "bounds": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        }
+      },
+      {
+        "id": "coin",
+        "natural_width": 2084,
+        "natural_height": 2084,
+        "bounds": {
+          "left": 881,
+          "top": 1051,
+          "right": 1035,
+          "bottom": 1205,
+          "width": 154,
+          "height": 154
+        }
+      }
+    ],
+    "document_width": 1080,
+    "document_height": 1920
+  },
+  "platform_fonts": [
+    {
+      "id": "brand",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "category",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 18
+        }
+      ]
+    },
+    {
+      "id": "date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "headline-one",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 18
+        }
+      ]
+    },
+    {
+      "id": "headline-two",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 15
+        }
+      ]
+    },
+    {
+      "id": "headline-three",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 10
+        }
+      ]
+    },
+    {
+      "id": "main-number",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 3
+        }
+      ]
+    },
+    {
+      "id": "summary-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 18
+        }
+      ]
+    },
+    {
+      "id": "summary-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 19
+        }
+      ]
+    },
+    {
+      "id": "chart-title",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 30
+        }
+      ]
+    },
+    {
+      "id": "value-2023",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 3
+        }
+      ]
+    },
+    {
+      "id": "value-2024",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 3
+        }
+      ]
+    },
+    {
+      "id": "value-2025",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 3
+        }
+      ]
+    },
+    {
+      "id": "value-2026",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 3
+        }
+      ]
+    },
+    {
+      "id": "zero",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 2
+        }
+      ]
+    },
+    {
+      "id": "year-2023",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 4
+        }
+      ]
+    },
+    {
+      "id": "year-2024",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 4
+        }
+      ]
+    },
+    {
+      "id": "year-2025",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 4
+        }
+      ]
+    },
+    {
+      "id": "year-2026",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 4
+        }
+      ]
+    },
+    {
+      "id": "chart-note",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 45
+        }
+      ]
+    },
+    {
+      "id": "source-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 39
+        }
+      ]
+    },
+    {
+      "id": "source-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 48
+        }
+      ]
+    },
+    {
+      "id": "source-three",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 47
+        }
+      ]
+    }
+  ],
+  "coin_bounds": {
+    "left": 881,
+    "top": 1051,
+    "right": 1035,
+    "bottom": 1205,
+    "width": 154,
+    "height": 154
+  },
+  "whole_coin_upper_75_percent_verified": true,
+  "integration": {
+    "method": "Original PNG seated in a circular brass-lined inset of the scene's front-facing wooden bar cabinet, with contact shadows and compatible warm lighting",
+    "artwork": "Original PNG loaded directly; uniform scaling, no redrawing or warping",
+    "image_generation_role": "Text-free bar still life with a blank architectural mounting seat; no generated coin or news text",
+    "generated_source": "/workspace/generated_images/exec-a5b596aa-ec96-42d2-a5de-b292c8062c7d.png",
+    "category": "CONSUMER SENTIMENT",
+    "background_credit_on_graphic": false,
+    "background_provenance": "Generated decorative bar scene, not a photograph documenting survey participants"
+  },
+  "generation_prompts": [
+    "Create a premium text-free editorial background for a vertical 9:16 Instagram Story about the declining share of U.S. adults who drink alcohol. Art direction: sophisticated food-and-drink magazine photography, warm chalk ivory, muted oxblood, tobacco oak and soft brass. Beautiful restrained morning light in a quiet upscale bar, with a broad front-facing warm ivory plaster wall taking up most of the upper and left canvas. The scene must feel like a designed magazine feature, not a stock pub snapshot. Composition calibrated to a final 1080x1920 canvas: the area x90..970,y140..900 is nearly plain luminous cream plaster, clean and low contrast, reserved for bold dark editorial typography; x100..780,y900..1450 also stays light, quiet and readable. A slim front-facing dark burgundy/oak wall cabinet or bar architectural pilaster runs along the right margin, approximately x820..1080 from y1000 down to y1580. Build a small truly circular EMPTY brass-rimmed inset into its front-facing vertical wood surface, centered around x920,y1240, diameter180px, seen perfectly straight on with no perspective distortion; make its central surface plain dark oak. This is an architectural mounting seat for an original gold Moneyberg medallion to be placed separately later, with a subtle edge highlight and realistic recess/contact shadow; do NOT generate a medallion, face, seal or logo. It must belong to the bar interior. The full eventual coin must remain in the top75% of canvas, above y1440. Along the bottom y1510..1920, arrange an elegant still life on a pale stone bar counter: one clear empty stemmed wine glass, a small cut crystal rocks glass with subtle amber liquid, an unlabeled dark wine bottle partially cropped at the far right, and a linen napkin. Glass and bottle silhouettes stay subordinate to the empty upper editorial space. Warm directional sunlight and real delicate glass shadows. No people. No logos, words, letters, numbers, charts, headline, border, watermark or any graphic text. Final composition will add the exact compact one-line brand MONEYBERG NEWS BRIEF in Lato Black900 at28\u201334px, category CONSUMER SENTIMENT, headline and data labels in Lato Black900, body/captions/sources in Georgia. ALL authored news will fit x104..961,y164..1536; keep that area clear as specified. Do not add a production credit or a background illustration footer. Create only the beautiful photographic background, not typography."
+  ],
+  "chart_data": [
+    {
+      "year": 2023,
+      "percent": 62
+    },
+    {
+      "year": 2024,
+      "percent": 58
+    },
+    {
+      "year": 2025,
+      "percent": 54
+    },
+    {
+      "year": 2026,
+      "percent": 54
+    }
+  ],
+  "chart_scale": "Zero baseline at y=1225; 3 pixels per percentage point",
+  "output_sha256": "d355e09ccbe980eb8e41b3aaa5182f8fb61d345f2f869f17e53707bc75e76173"
+}
