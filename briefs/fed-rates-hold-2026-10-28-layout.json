@@ -1,0 +1,678 @@
+{
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "inner_bounds": [
+    104,
+    164,
+    961,
+    1536
+  ],
+  "minimum_authored_font_size_px": 30,
+  "font_size_minimum_verified": true,
+  "renderer": "Chromium via Playwright; HTML/CSS screenshot",
+  "background_sha256": "09a3892bcae8662c7f4e667fe1df53af4f16d89f456097ecdde5a3fa22a6df50",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
+  "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
+  "georgia_redistributed": false,
+  "layout": {
+    "text": [
+      {
+        "id": "brand",
+        "text": "MONEYBERG NEWS BRIEF",
+        "bounds": {
+          "left": 118,
+          "top": 184,
+          "right": 529.484375,
+          "bottom": 223,
+          "width": 411.484375,
+          "height": 39
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 184,
+          "right": 529.484375,
+          "bottom": 224,
+          "width": 411.484375,
+          "height": 40
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "32px"
+      },
+      {
+        "id": "category",
+        "text": "FEDERAL RESERVE WATCH",
+        "bounds": {
+          "left": 118,
+          "top": 252,
+          "right": 526.140625,
+          "bottom": 288,
+          "width": 408.140625,
+          "height": 36
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 251,
+          "right": 526.140625,
+          "bottom": 289,
+          "width": 408.140625,
+          "height": 38
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "30px"
+      },
+      {
+        "id": "date",
+        "text": "OCTOBER 28, 2026",
+        "bounds": {
+          "left": 118,
+          "top": 300,
+          "right": 397.484375,
+          "bottom": 336,
+          "width": 279.484375,
+          "height": 36
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 299,
+          "right": 397.484375,
+          "bottom": 337,
+          "width": 279.484375,
+          "height": 38
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "30px"
+      },
+      {
+        "id": "headline-one",
+        "text": "Fed holds",
+        "bounds": {
+          "left": 113,
+          "top": 394,
+          "right": 518.4375,
+          "bottom": 513,
+          "width": 405.4375,
+          "height": 119
+        },
+        "element_bounds": {
+          "left": 113,
+          "top": 398,
+          "right": 518.4375,
+          "bottom": 509,
+          "width": 405.4375,
+          "height": 111
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "99px"
+      },
+      {
+        "id": "headline-two",
+        "text": "rates steady",
+        "bounds": {
+          "left": 113,
+          "top": 505,
+          "right": 626.671875,
+          "bottom": 624,
+          "width": 513.671875,
+          "height": 119
+        },
+        "element_bounds": {
+          "left": 113,
+          "top": 509,
+          "right": 626.671875,
+          "bottom": 620,
+          "width": 513.671875,
+          "height": 111
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "99px"
+      },
+      {
+        "id": "main-number",
+        "text": "3.75\u20134.00%",
+        "bounds": {
+          "left": 111,
+          "top": 681,
+          "right": 767.46875,
+          "bottom": 834,
+          "width": 656.46875,
+          "height": 153
+        },
+        "element_bounds": {
+          "left": 111,
+          "top": 686,
+          "right": 767.46875,
+          "bottom": 830,
+          "width": 656.46875,
+          "height": 144
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "128px"
+      },
+      {
+        "id": "rate-label",
+        "text": "FEDERAL FUNDS TARGET RANGE",
+        "bounds": {
+          "left": 118,
+          "top": 846,
+          "right": 610.984375,
+          "bottom": 882,
+          "width": 492.984375,
+          "height": 36
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 845,
+          "right": 610.984375,
+          "bottom": 883,
+          "width": 492.984375,
+          "height": 38
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "30px"
+      },
+      {
+        "id": "rate-note",
+        "text": "Unchanged at the October meeting.",
+        "bounds": {
+          "left": 118,
+          "top": 901,
+          "right": 650.46875,
+          "bottom": 939,
+          "width": 532.46875,
+          "height": 38
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 899,
+          "right": 650.46875,
+          "bottom": 942,
+          "width": 532.46875,
+          "height": 43
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "34px"
+      },
+      {
+        "id": "vote-number",
+        "text": "10\u20132",
+        "bounds": {
+          "left": 116,
+          "top": 1003,
+          "right": 300.25,
+          "bottom": 1101,
+          "width": 184.25,
+          "height": 98
+        },
+        "element_bounds": {
+          "left": 116,
+          "top": 1004,
+          "right": 300.25,
+          "bottom": 1100,
+          "width": 184.25,
+          "height": 96
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "82px"
+      },
+      {
+        "id": "vote-label",
+        "text": "VOTE TO HOLD",
+        "bounds": {
+          "left": 335,
+          "top": 1049,
+          "right": 567.53125,
+          "bottom": 1085,
+          "width": 232.53125,
+          "height": 36
+        },
+        "element_bounds": {
+          "left": 335,
+          "top": 1048,
+          "right": 567.53125,
+          "bottom": 1086,
+          "width": 232.53125,
+          "height": 38
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "30px"
+      },
+      {
+        "id": "body-one",
+        "text": "Lisa Cook and Beth Hammack",
+        "bounds": {
+          "left": 118,
+          "top": 1143,
+          "right": 599,
+          "bottom": 1184,
+          "width": 481,
+          "height": 41
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1140,
+          "right": 599,
+          "bottom": 1187,
+          "width": 481,
+          "height": 47
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "36px"
+      },
+      {
+        "id": "body-two",
+        "text": "favored a quarter-point hike.",
+        "bounds": {
+          "left": 118,
+          "top": 1190,
+          "right": 576.046875,
+          "bottom": 1231,
+          "width": 458.046875,
+          "height": 41
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1187,
+          "right": 576.046875,
+          "bottom": 1234,
+          "width": 458.046875,
+          "height": 47
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "36px"
+      },
+      {
+        "id": "body-three",
+        "text": "Inflation remains elevated.",
+        "bounds": {
+          "left": 118,
+          "top": 1242,
+          "right": 545.171875,
+          "bottom": 1283,
+          "width": 427.171875,
+          "height": 41
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1239,
+          "right": 545.171875,
+          "bottom": 1286,
+          "width": 427.171875,
+          "height": 47
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "36px"
+      },
+      {
+        "id": "source-one",
+        "text": "Source: Federal Reserve",
+        "bounds": {
+          "left": 120,
+          "top": 1382,
+          "right": 439.4375,
+          "bottom": 1417,
+          "width": 319.4375,
+          "height": 35
+        },
+        "element_bounds": {
+          "left": 120,
+          "top": 1380,
+          "right": 439.4375,
+          "bottom": 1419,
+          "width": 319.4375,
+          "height": 39
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "30px"
+      },
+      {
+        "id": "source-two",
+        "text": "FOMC statement \u2022 Oct. 28, 2026",
+        "bounds": {
+          "left": 120,
+          "top": 1427,
+          "right": 553.671875,
+          "bottom": 1462,
+          "width": 433.671875,
+          "height": 35
+        },
+        "element_bounds": {
+          "left": 120,
+          "top": 1425,
+          "right": 553.671875,
+          "bottom": 1464,
+          "width": 433.671875,
+          "height": 39
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "30px"
+      }
+    ],
+    "panels": [
+      {
+        "id": "header-rule",
+        "bounds": {
+          "left": 118,
+          "top": 365,
+          "right": 939,
+          "bottom": 366,
+          "width": 821,
+          "height": 1
+        }
+      },
+      {
+        "id": "vote-rule",
+        "bounds": {
+          "left": 118,
+          "top": 979,
+          "right": 787,
+          "bottom": 980,
+          "width": 669,
+          "height": 1
+        }
+      },
+      {
+        "id": "source-panel",
+        "bounds": {
+          "left": 104,
+          "top": 1354,
+          "right": 826,
+          "bottom": 1508,
+          "width": 722,
+          "height": 154
+        }
+      }
+    ],
+    "scene_elements": [
+      {
+        "id": "coin-installation",
+        "bounds": {
+          "left": 899,
+          "top": 1147,
+          "right": 1059,
+          "bottom": 1307,
+          "width": 160,
+          "height": 160
+        },
+        "box_shadow": "rgb(21, 27, 34) 3px 5px 8px 0px inset, rgb(13, 24, 36) 1px 3px 5px 0px, rgb(201, 177, 125) -1px -1px 2px 0px",
+        "background": "linear-gradient(130deg, rgb(209, 175, 105), rgb(104, 80, 44) 55%, rgb(208, 170, 88))"
+      },
+      {
+        "id": "coin-contact",
+        "bounds": {
+          "left": 902,
+          "top": 1150,
+          "right": 1056,
+          "bottom": 1304,
+          "width": 154,
+          "height": 154
+        },
+        "box_shadow": "rgba(7, 13, 23, 0.7) 3px 5px 7px 0px inset, rgba(236, 215, 160, 0.4) -2px -2px 3px 0px inset",
+        "background": "linear-gradient(130deg, rgba(189, 208, 235, 0.12), rgba(0, 0, 0, 0) 44%, rgba(5, 10, 19, 0.08))"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Moneyberg Lato Black",
+        "weight": "900",
+        "status": "loaded"
+      },
+      {
+        "family": "Moneyberg Georgia",
+        "weight": "400",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "id": "background",
+        "natural_width": 941,
+        "natural_height": 1672,
+        "bounds": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        }
+      },
+      {
+        "id": "coin",
+        "natural_width": 2084,
+        "natural_height": 2084,
+        "bounds": {
+          "left": 904,
+          "top": 1152,
+          "right": 1054,
+          "bottom": 1302,
+          "width": 150,
+          "height": 150
+        }
+      }
+    ],
+    "document_width": 1080,
+    "document_height": 1920
+  },
+  "platform_fonts": [
+    {
+      "id": "brand",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "category",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 21
+        }
+      ]
+    },
+    {
+      "id": "date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "headline-one",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 9
+        }
+      ]
+    },
+    {
+      "id": "headline-two",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 12
+        }
+      ]
+    },
+    {
+      "id": "main-number",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 10
+        }
+      ]
+    },
+    {
+      "id": "rate-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 26
+        }
+      ]
+    },
+    {
+      "id": "rate-note",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 33
+        }
+      ]
+    },
+    {
+      "id": "vote-number",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 4
+        }
+      ]
+    },
+    {
+      "id": "vote-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 12
+        }
+      ]
+    },
+    {
+      "id": "body-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 26
+        }
+      ]
+    },
+    {
+      "id": "body-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 29
+        }
+      ]
+    },
+    {
+      "id": "body-three",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 27
+        }
+      ]
+    },
+    {
+      "id": "source-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 23
+        }
+      ]
+    },
+    {
+      "id": "source-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 30
+        }
+      ]
+    }
+  ],
+  "coin_bounds": {
+    "left": 904,
+    "top": 1152,
+    "right": 1054,
+    "bottom": 1302,
+    "width": 150,
+    "height": 150
+  },
+  "whole_coin_upper_75_percent_verified": true,
+  "integration": {
+    "method": "Original PNG seated in a brass-lined circular recess of a dark-stone architectural pilaster, with contact shadow and cool dusk illumination",
+    "artwork": "Original PNG loaded directly; uniform scaling, no redrawing or warping",
+    "image_generation_role": "Text-free decorative central-bank-style architecture with reserved original-coin mounting seat",
+    "generated_source": "/workspace/generated_images/exec-806aa162-75e6-4860-b50d-b493eedd2d37.png",
+    "category": "FEDERAL RESERVE WATCH",
+    "background_credit_on_graphic": false,
+    "background_provenance": "Generated decorative institutional architecture, not documentary evidence or an actual Fed/Moneyberg affiliation"
+  },
+  "generation_prompts": [
+    "Generate text-free 9:16 midnight ink/slate/ivory neoclassical central-bank-style architecture. Keep x104..961,y164..1536 at1080x1920 clear for actual Lato Black900/Georgia text, minimum30px, headlines>=48/body>=32. Brand MONEYBERG NEWS BRIEF small32px singleline. Build an empty brass-lined circular mounting recess in right-side dark stone pilaster to integrate actual original Moneyberg coin in top75%. No generated coin, text or data. Most facade/columns/steps in lower quarter. Initial generation source exec-68c52a97-a85c-4b23-969e-52c37d615489.png; second image-tool edit moved recess upward so entire coin fits above1440, retaining all other architecture. Full original and edit prompts archived in the design brief."
+  ],
+  "verified_facts": {
+    "target_range_percent": [
+      3.75,
+      4.0
+    ],
+    "vote": [
+      10,
+      2
+    ],
+    "hike_dissenters": [
+      "Lisa D. Cook",
+      "Beth M. Hammack"
+    ],
+    "meeting_date": "2026-10-28"
+  },
+  "output_sha256": "aec05e392c08bf1ceb30c9339817c26e17e241a9795329fd295eaa4f5d61678a"
+}

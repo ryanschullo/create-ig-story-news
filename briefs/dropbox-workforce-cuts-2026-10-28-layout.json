@@ -1,0 +1,669 @@
+{
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "inner_bounds": [
+    104,
+    164,
+    961,
+    1536
+  ],
+  "minimum_authored_font_size_px": 30,
+  "font_size_minimum_verified": true,
+  "renderer": "Chromium via Playwright; HTML/CSS screenshot",
+  "background_sha256": "41136f76fe4c4671f0bf8f24319ca37b2f2aabf3446581ebcb3afdbf73eaa124",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
+  "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
+  "georgia_redistributed": false,
+  "layout": {
+    "text": [
+      {
+        "id": "brand",
+        "text": "MONEYBERG NEWS BRIEF",
+        "bounds": {
+          "left": 120,
+          "top": 184,
+          "right": 533.484375,
+          "bottom": 223,
+          "width": 413.484375,
+          "height": 39
+        },
+        "element_bounds": {
+          "left": 120,
+          "top": 184,
+          "right": 533.484375,
+          "bottom": 224,
+          "width": 413.484375,
+          "height": 40
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "32px"
+      },
+      {
+        "id": "category",
+        "text": "JOBS & EMPLOYMENT",
+        "bounds": {
+          "left": 120,
+          "top": 253,
+          "right": 477.515625,
+          "bottom": 292,
+          "width": 357.515625,
+          "height": 39
+        },
+        "element_bounds": {
+          "left": 120,
+          "top": 253,
+          "right": 477.515625,
+          "bottom": 293,
+          "width": 357.515625,
+          "height": 40
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "32px"
+      },
+      {
+        "id": "date",
+        "text": "OCTOBER 28, 2026",
+        "bounds": {
+          "left": 120,
+          "top": 304,
+          "right": 397.890625,
+          "bottom": 340,
+          "width": 277.890625,
+          "height": 36
+        },
+        "element_bounds": {
+          "left": 120,
+          "top": 303,
+          "right": 397.890625,
+          "bottom": 341,
+          "width": 277.890625,
+          "height": 38
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "30px"
+      },
+      {
+        "id": "headline-one",
+        "text": "Dropbox plans",
+        "bounds": {
+          "left": 116,
+          "top": 389,
+          "right": 610.609375,
+          "bottom": 485,
+          "width": 494.609375,
+          "height": 96
+        },
+        "element_bounds": {
+          "left": 116,
+          "top": 392,
+          "right": 610.609375,
+          "bottom": 482,
+          "width": 494.609375,
+          "height": 90
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "80px"
+      },
+      {
+        "id": "headline-two",
+        "text": "job cuts",
+        "bounds": {
+          "left": 116,
+          "top": 479,
+          "right": 381.328125,
+          "bottom": 575,
+          "width": 265.328125,
+          "height": 96
+        },
+        "element_bounds": {
+          "left": 116,
+          "top": 482,
+          "right": 381.328125,
+          "bottom": 572,
+          "width": 265.328125,
+          "height": 90
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "80px"
+      },
+      {
+        "id": "about",
+        "text": "ABOUT",
+        "bounds": {
+          "left": 121,
+          "top": 625,
+          "right": 248.84375,
+          "bottom": 664,
+          "width": 127.84375,
+          "height": 39
+        },
+        "element_bounds": {
+          "left": 121,
+          "top": 625,
+          "right": 248.84375,
+          "bottom": 665,
+          "width": 127.84375,
+          "height": 40
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "32px"
+      },
+      {
+        "id": "main-number",
+        "text": "9%",
+        "bounds": {
+          "left": 109,
+          "top": 638,
+          "right": 405.359375,
+          "bottom": 904,
+          "width": 296.359375,
+          "height": 266
+        },
+        "element_bounds": {
+          "left": 109,
+          "top": 651,
+          "right": 405.359375,
+          "bottom": 891,
+          "width": 296.359375,
+          "height": 240
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "222px"
+      },
+      {
+        "id": "summary",
+        "text": "of its global workforce",
+        "bounds": {
+          "left": 120,
+          "top": 906,
+          "right": 501.265625,
+          "bottom": 951,
+          "width": 381.265625,
+          "height": 45
+        },
+        "element_bounds": {
+          "left": 120,
+          "top": 904,
+          "right": 501.265625,
+          "bottom": 954,
+          "width": 381.265625,
+          "height": 50
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "39px"
+      },
+      {
+        "id": "cash-cost",
+        "text": "$27M\u2013$33M",
+        "bounds": {
+          "left": 115,
+          "top": 1030,
+          "right": 540.0625,
+          "bottom": 1119,
+          "width": 425.0625,
+          "height": 89
+        },
+        "element_bounds": {
+          "left": 115,
+          "top": 1031,
+          "right": 540.0625,
+          "bottom": 1118,
+          "width": 425.0625,
+          "height": 87
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "74px"
+      },
+      {
+        "id": "cost-label-one",
+        "text": "Estimated severance",
+        "bounds": {
+          "left": 120,
+          "top": 1131,
+          "right": 456.328125,
+          "bottom": 1173,
+          "width": 336.328125,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 120,
+          "top": 1128,
+          "right": 456.328125,
+          "bottom": 1176,
+          "width": 336.328125,
+          "height": 48
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "37px"
+      },
+      {
+        "id": "cost-label-two",
+        "text": "and related cash costs.",
+        "bounds": {
+          "left": 120,
+          "top": 1179,
+          "right": 487.15625,
+          "bottom": 1221,
+          "width": 367.15625,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 120,
+          "top": 1176,
+          "right": 487.15625,
+          "bottom": 1224,
+          "width": 367.15625,
+          "height": 48
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "37px"
+      },
+      {
+        "id": "cto-one",
+        "text": "CTO Ali Dasdan is also",
+        "bounds": {
+          "left": 120,
+          "top": 1249,
+          "right": 472.109375,
+          "bottom": 1289,
+          "width": 352.109375,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 120,
+          "top": 1246,
+          "right": 472.109375,
+          "bottom": 1292,
+          "width": 352.109375,
+          "height": 46
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "cto-two",
+        "text": "set to leave November 18.",
+        "bounds": {
+          "left": 120,
+          "top": 1295,
+          "right": 514.765625,
+          "bottom": 1335,
+          "width": 394.765625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 120,
+          "top": 1292,
+          "right": 514.765625,
+          "bottom": 1338,
+          "width": 394.765625,
+          "height": 46
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "source-one",
+        "text": "Source: Dropbox Form 8-K \u2022 Oct. 28, 2026",
+        "bounds": {
+          "left": 120,
+          "top": 1376,
+          "right": 687.5,
+          "bottom": 1411,
+          "width": 567.5,
+          "height": 35
+        },
+        "element_bounds": {
+          "left": 120,
+          "top": 1375,
+          "right": 687.5,
+          "bottom": 1412,
+          "width": 567.5,
+          "height": 37
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "30px"
+      }
+    ],
+    "panels": [
+      {
+        "id": "header-rule",
+        "bounds": {
+          "left": 120,
+          "top": 361,
+          "right": 818,
+          "bottom": 363,
+          "width": 698,
+          "height": 2
+        }
+      },
+      {
+        "id": "dropbox-logo",
+        "bounds": {
+          "left": 730,
+          "top": 388,
+          "right": 842,
+          "bottom": 500,
+          "width": 112,
+          "height": 112
+        }
+      },
+      {
+        "id": "fact-rule",
+        "bounds": {
+          "left": 120,
+          "top": 1001,
+          "right": 818,
+          "bottom": 1003,
+          "width": 698,
+          "height": 2
+        }
+      },
+      {
+        "id": "source-rule",
+        "bounds": {
+          "left": 120,
+          "top": 1359,
+          "right": 818,
+          "bottom": 1361,
+          "width": 698,
+          "height": 2
+        }
+      }
+    ],
+    "scene_elements": [
+      {
+        "id": "coin-installation",
+        "bounds": {
+          "left": 921,
+          "top": 948,
+          "right": 1053,
+          "bottom": 1080,
+          "width": 132,
+          "height": 132
+        },
+        "box_shadow": "rgb(15, 27, 44) 2px 4px 6px 0px inset, rgb(20, 44, 70) 2px 4px 5px 0px, rgb(162, 185, 201) -1px -1px 2px 0px",
+        "background": "linear-gradient(135deg, rgb(230, 198, 125), rgb(107, 80, 31) 53%, rgb(180, 145, 78))"
+      },
+      {
+        "id": "coin-contact",
+        "bounds": {
+          "left": 925,
+          "top": 952,
+          "right": 1049,
+          "bottom": 1076,
+          "width": 124,
+          "height": 124
+        },
+        "box_shadow": "rgba(14, 24, 36, 0.7) 2px 4px 5px 0px inset, rgba(248, 221, 158, 0.45) -2px -2px 3px 0px inset",
+        "background": "linear-gradient(125deg, rgba(211, 230, 246, 0.16), rgba(0, 0, 0, 0) 44%, rgba(15, 38, 64, 0.12))"
+      },
+      {
+        "id": "coin-surface-light",
+        "bounds": {
+          "left": 911,
+          "top": 938,
+          "right": 1063,
+          "bottom": 1090,
+          "width": 152,
+          "height": 152
+        },
+        "box_shadow": "none",
+        "background": "linear-gradient(125deg, rgba(204, 231, 252, 0.17), rgba(0, 0, 0, 0) 50%, rgba(11, 30, 53, 0.1))"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Moneyberg Lato Black",
+        "weight": "900",
+        "status": "loaded"
+      },
+      {
+        "family": "Moneyberg Georgia",
+        "weight": "400",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "id": "background",
+        "natural_width": 941,
+        "natural_height": 1672,
+        "bounds": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        }
+      },
+      {
+        "id": "coin",
+        "natural_width": 2084,
+        "natural_height": 2084,
+        "bounds": {
+          "left": 926,
+          "top": 953,
+          "right": 1048,
+          "bottom": 1075,
+          "width": 122,
+          "height": 122
+        }
+      },
+      {
+        "id": "dropbox-logo",
+        "natural_width": 34,
+        "natural_height": 34,
+        "bounds": {
+          "left": 730,
+          "top": 388,
+          "right": 842,
+          "bottom": 500,
+          "width": 112,
+          "height": 112
+        }
+      }
+    ],
+    "document_width": 1080,
+    "document_height": 1920
+  },
+  "platform_fonts": [
+    {
+      "id": "brand",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "category",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 17
+        }
+      ]
+    },
+    {
+      "id": "date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "headline-one",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 13
+        }
+      ]
+    },
+    {
+      "id": "headline-two",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 8
+        }
+      ]
+    },
+    {
+      "id": "about",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 5
+        }
+      ]
+    },
+    {
+      "id": "main-number",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 2
+        }
+      ]
+    },
+    {
+      "id": "summary",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 23
+        }
+      ]
+    },
+    {
+      "id": "cash-cost",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 9
+        }
+      ]
+    },
+    {
+      "id": "cost-label-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 19
+        }
+      ]
+    },
+    {
+      "id": "cost-label-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 23
+        }
+      ]
+    },
+    {
+      "id": "cto-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 22
+        }
+      ]
+    },
+    {
+      "id": "cto-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 25
+        }
+      ]
+    },
+    {
+      "id": "source-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 40
+        }
+      ]
+    }
+  ],
+  "coin_bounds": {
+    "left": 926,
+    "top": 953,
+    "right": 1048,
+    "bottom": 1075,
+    "width": 122,
+    "height": 122
+  },
+  "whole_coin_upper_75_percent_verified": true,
+  "integration": {
+    "method": "Exact original coin PNG seated within the blue office panel brass recess, with contact shadow, edge shading and compatible cool illumination",
+    "artwork": "Original PNG uniformly scaled; portrait, lettering and circular proportions preserved",
+    "image_generation_role": "Text-free illustrative office background only; no generated coin, company mark or news text",
+    "generated_source": "/workspace/generated_images/exec-9ae34474-accf-4dea-ab98-e6c16e649199.png",
+    "category": "JOBS & EMPLOYMENT",
+    "background_credit_on_graphic": false,
+    "background_provenance": "Generated decorative generic software office, not a documentary photograph of Dropbox premises"
+  },
+  "generation_prompts": [
+    "Create a sophisticated text-free editorial photographic background for a vertical 9:16 Instagram news story about Dropbox planning to cut about9% of its workforce. This is an illustrative generic modern software office, not a documentary photograph of Dropbox. Art direction: quiet editorial workplace scene, soft porcelain/off-white, matte Dropbox-like cobalt-blue architectural accents, slate steel, restrained desaturated gray. Camera faces a broad flat off-white plaster partition wall in an elegant contemporary office; diffuse cool daylight from the left, subtle realistic texture. Most of the image is calm light-toned negative space for large dark typography: at final1080x1920 coordinates x104\u2013961,y164\u20131536, especially x104\u2013820,y164\u20131536, keep background almost uniform warm-white and highly legible. In the far-right strip x835\u20131080,y790\u20131400, place a straight-on front-facing matte cobalt-blue vertical architectural cabinet/panel with a small circular EMPTY recessed brass mounting seat centered near x939,y995, diameter160px. It is an inset IN THE PANEL, not a detached floating badge. Dark plain flat center with subtle brass edge light and contact shadow, no coin/portrait/logo generated. We will place an original circular gold Moneyberg coin directly in that recess later, uniformly scaled, wholly above y1440 and unobstructed. Lower fifth of picture y1540\u20131920 reveals soft-focus empty office workstations, neat task chairs, slim monitorbacks, pale desk surfaces and faint cobalt-blue divider panels, suggesting corporate reorganization calmly. Keep recognizable workstations confined to bottom and side; no actual corporate signage. Elegant depth and editorial magazine-quality lighting, gentle geometry. No people, no dramatic collapse, no boxes or personal belongings, no fake chart. Do NOT add words, letters, numbers, logos, generated medallions, portraits, seals, headline, watermark, border or any text. Final typesetting will be added separately in actual Lato Black900 for headline/date/category/numbers and small one-line32px MONEYBERG NEWS BRIEF, and Georgia for body/sources; ALL authored text>=30px at1080x1920, body>=32headline>=48; allnewsinside x104\u2013961,y164\u20131536. Render background only. Composition should feel specific to a cloud software workplace and sober employment news, not finance trading screens.",
+    "Edit this background very conservatively. Preserve the exact composition, dimensions9:16, off-white plaster wall, left windows, cobalt-blue right cabinet, circular EMPTY brass mounting recess, and its position/size exactly. Preserve the photorealistic office lighting and bottom desks/chairs. Only simplify and clear the lower-left reading zone: at final1080x1920coordinates x90\u2013840,y1230\u20131550, remove the plant and lower any monitor/chair/desk silhouettes to start only below y1580, filling the cleared space seamlessly with matching off-white plaster texture. We need perfectly legible dark source and body typography at x120,y1290\u20131520. Do not create a rectangle overlay or edit the upper scene. Keep furniture prominent and beautiful in bottom y1590\u20131920. Coin mounting seat stays exactly in current position at approximatelyx987,y1012, smallcircle. Do NOT generate any lettering, words, numbers, logos, seals, coins or portraits. Final typesetting is separately actualLatoBlack900/Georgia,minimum30px alltext,headline>=48,body>=32;compactone-lineMONEYBERG NEWS BRIEF and newsinside x104\u2013961,y164\u20131536;originalMoneybergcoinwillbeplacedexactlyinthepanelrecessupper75%. Background readability edit only."
+  ],
+  "source": "https://www.sec.gov/Archives/edgar/data/1467623/000146762326000052/dbx-20261028.htm",
+  "official_dropbox_logo_sha256": "e2c05d2a02b18dad5859a63a72199f6a4e2650790c74013aaf9155dd9a9cd4ce",
+  "output_sha256": "332c844528fdd5e3344d0f6428f7a125d56333a4a59a24cc191e3b17e4a89720"
+}
