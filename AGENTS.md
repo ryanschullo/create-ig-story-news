@@ -15,15 +15,18 @@ Always use Lato Black (weight 900) for headlines and labels, and Georgia for
 body text, captions, and source attribution. Follow the skill's full font
 assignments; do not silently substitute other fonts.
 
-At 1080 × 1920, use a hard minimum of 30 px for all newly authored text,
+At 1080 × 1920, use a hard minimum of 33 px for all newly authored text,
 including dates, chart labels, captions, qualifiers, and sources. Headlines
-remain at least 48 px and body copy at least 32 px. Scale proportionally for
-other canvas sizes. The 30 px floor supersedes the drinking graphic's former
-22–24 px small text and exceeds the user's requested four-point increase.
+must be at least 51 px and body copy at least 35 px. These minimums incorporate
+the user's latest two-point increase: 2 pt = 2.67 CSS px, rounded up to a 3 px
+increase over the former 30 / 32 / 48 px minimums. Scale proportionally for
+other canvas sizes. These rules supersede all earlier smaller minimums.
 Reflow or shorten content instead of shrinking below these minimums; check
 actual computed font sizes and final-image legibility. Preserve original
 source-chart artwork and enlarge the whole chart when its labels are too small.
-Apply this to new graphics and requested revisions.
+Apply this to new graphics and requested revisions. Use the current minimums
+in generation prompts, layouts, and validation checks when adapting historical
+templates or renderers; their saved older sizes are not current defaults.
 
 For new graphics and requested revisions, omit the footer
 `Background: editorial illustration` and equivalent background-production
@@ -33,9 +36,10 @@ exports unchanged unless the user requests a revision.
 
 Use `MONEYBERG NEWS BRIEF` as the recurring brand label for new graphics and
 requested revisions. Keep all three words on one compact line in Lato Black
-(weight 900), secondary to the story headline, around 30–34 px at 1080 px canvas
-width. Adjust spacing and size to fit rather than wrapping. Keep it inside the
-content bounds. Leave historical exports unchanged unless requested.
+(weight 900), secondary to the story headline, around 33–37 px at 1080 px canvas
+width, with 35 px as the usual starting size. Adjust spacing and size to fit
+without going below 33 px or wrapping. Keep it inside the content bounds.
+Leave historical exports unchanged unless requested.
 
 The current, expandable news topics are:
 

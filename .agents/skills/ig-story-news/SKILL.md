@@ -45,17 +45,23 @@ the area. Do not reproduce the red rectangle in finished exports.
 
 - Reflow and shorten the summary before reducing type size. Use a concise
   headline, one primary visual, and the most relevant facts.
-- Use headlines of at least 48 px and body copy of at least 32 px on the
-  1080 × 1920 canvas. All newly authored text has a hard minimum of **30 px**,
+- Use headlines of at least **51 px** and body copy of at least **35 px** on the
+  1080 × 1920 canvas. All newly authored text has a hard minimum of **33 px**,
   including dates, category labels, chart titles, axes, ticks, years, legends,
   captions, qualifiers, methodology notes, and source attribution. Larger
   sizes are preferred when space allows. Scale these minimums proportionally
   for other canvas sizes; check the final exported graphic for readability.
-- This minimum replaces the 22–24 px small text used in the October 27 drinking
-  graphic. The user requested at least four points larger: at 96 CSS px per
-  inch, 4 pt equals 5.33 px, so the 30 px floor exceeds that increase for every
-  size in that former range. Do not reuse those smaller sizes in new graphics
-  or requested revisions, even for source lines or layout convenience.
+- These minimums incorporate the user's latest request to increase minimum
+  font sizes by another **2 points**. At 96 CSS px per inch, 2 pt equals
+  2.67 px; round up to a 3 px increase so the requested increase is fully met.
+  The all-text floor rises from 30 to 33 px, body from 32 to 35 px, and
+  headlines from 48 to 51 px. This supersedes the prior 30 px rule and the
+  drinking graphic's earlier 22–24 px text. Apply to new graphics and requested
+  revisions; historical exports remain unchanged unless a revision is requested.
+- Use the current minimums in generation prompts, CSS or other layout settings,
+  and computed-font-size validation. When adapting an older renderer or
+  template, update its old size rules and validation thresholds before use;
+  historical prompts, layouts, and audits do not override the current skill.
 - If a chart makes the panel too crowded, simplify it accurately, omit optional
   content, or split the story into multiple slides. Never crop chart labels,
   legends, source lines, or parts of the headline to make them fit.
@@ -107,10 +113,11 @@ font verification solely from visual similarity.
 
 Use the exact label **MONEYBERG NEWS BRIEF** for new graphics and requested
 revisions. Set all three words on one compact line in Lato Black (weight 900),
-approximately 30–34 px on a 1080 px wide canvas, scaled with the output. The
-label is secondary to the story headline, not a large masthead. Adjust its
+approximately **33–37 px** on a 1080 px wide canvas, with **35 px** as the usual
+starting size, scaled with the output. The label is secondary to the story
+headline, not a large masthead. Adjust its
 spacing or size to fit without wrapping, cropping, changing the wording, or
-going below the 30 px minimum.
+going below the 33 px minimum.
 Keep it inside the required content bounds with the other authored text.
 This supersedes earlier large or two-line label directions. Historical exports
 stay unchanged unless the user requests revisions; do not rewrite them merely
