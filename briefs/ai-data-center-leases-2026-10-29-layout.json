@@ -1,0 +1,716 @@
+{
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "inner_bounds": [
+    104,
+    164,
+    961,
+    1536
+  ],
+  "minimum_authored_font_size_px": 33,
+  "minimum_body_font_size_px": 35,
+  "minimum_headline_font_size_px": 51,
+  "font_size_minimum_verified": true,
+  "renderer": "Chromium via Playwright; HTML/CSS screenshot",
+  "background_sha256": "107d5b377b11987b351b423944643d7148b63dd0c8b394fca894fafce3511bda",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
+  "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
+  "georgia_redistributed": false,
+  "layout": {
+    "text": [
+      {
+        "id": "brand",
+        "text": "MONEYBERG NEWS BRIEF",
+        "bounds": {
+          "left": 118,
+          "top": 185,
+          "right": 561.109375,
+          "bottom": 227,
+          "width": 443.109375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 184,
+          "right": 561.109375,
+          "bottom": 228,
+          "width": 443.109375,
+          "height": 44
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px",
+        "role": "label"
+      },
+      {
+        "id": "category",
+        "text": "ENERGY & INFRASTRUCTURE",
+        "bounds": {
+          "left": 118,
+          "top": 254,
+          "right": 586.65625,
+          "bottom": 294,
+          "width": 468.65625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 253,
+          "right": 586.65625,
+          "bottom": 295,
+          "width": 468.65625,
+          "height": 42
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px",
+        "role": "label"
+      },
+      {
+        "id": "date",
+        "text": "OCTOBER 29, 2026",
+        "bounds": {
+          "left": 118,
+          "top": 304,
+          "right": 417.90625,
+          "bottom": 344,
+          "width": 299.90625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 303,
+          "right": 417.90625,
+          "bottom": 345,
+          "width": 299.90625,
+          "height": 42
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px",
+        "role": "label"
+      },
+      {
+        "id": "headline-one",
+        "text": "Wall Street\u2019s",
+        "bounds": {
+          "left": 114,
+          "top": 389,
+          "right": 529.40625,
+          "bottom": 483,
+          "width": 415.40625,
+          "height": 94
+        },
+        "element_bounds": {
+          "left": 114,
+          "top": 392,
+          "right": 529.40625,
+          "bottom": 480,
+          "width": 415.40625,
+          "height": 88
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "78px",
+        "role": "headline"
+      },
+      {
+        "id": "headline-two",
+        "text": "AI landlord bet",
+        "bounds": {
+          "left": 114,
+          "top": 477,
+          "right": 605.765625,
+          "bottom": 571,
+          "width": 491.765625,
+          "height": 94
+        },
+        "element_bounds": {
+          "left": 114,
+          "top": 480,
+          "right": 605.765625,
+          "bottom": 568,
+          "width": 491.765625,
+          "height": 88
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "78px",
+        "role": "headline"
+      },
+      {
+        "id": "subhead",
+        "text": "DATA-CENTER LEASE TERMS",
+        "bounds": {
+          "left": 118,
+          "top": 615,
+          "right": 579.890625,
+          "bottom": 655,
+          "width": 461.890625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 614,
+          "right": 579.890625,
+          "bottom": 656,
+          "width": 461.890625,
+          "height": 42
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px",
+        "role": "label"
+      },
+      {
+        "id": "main-number",
+        "text": "15\u201320",
+        "bounds": {
+          "left": 108,
+          "top": 655,
+          "right": 534.609375,
+          "bottom": 840,
+          "width": 426.609375,
+          "height": 185
+        },
+        "element_bounds": {
+          "left": 108,
+          "top": 663,
+          "right": 534.609375,
+          "bottom": 833,
+          "width": 426.609375,
+          "height": 170
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "154px",
+        "role": "label"
+      },
+      {
+        "id": "years",
+        "text": "YEARS",
+        "bounds": {
+          "left": 122,
+          "top": 831,
+          "right": 264.25,
+          "bottom": 877,
+          "width": 142.25,
+          "height": 46
+        },
+        "element_bounds": {
+          "left": 122,
+          "top": 830,
+          "right": 264.25,
+          "bottom": 879,
+          "width": 142.25,
+          "height": 49
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "39px",
+        "role": "label"
+      },
+      {
+        "id": "blue-owl",
+        "text": "Blue Owl: typical lease term",
+        "bounds": {
+          "left": 118,
+          "top": 902,
+          "right": 548.421875,
+          "bottom": 942,
+          "width": 430.421875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 900,
+          "right": 548.421875,
+          "bottom": 945,
+          "width": 430.421875,
+          "height": 45
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px",
+        "role": "body"
+      },
+      {
+        "id": "blackstone",
+        "text": "Blackstone: most initial leases",
+        "bounds": {
+          "left": 118,
+          "top": 947,
+          "right": 582.9375,
+          "bottom": 987,
+          "width": 464.9375,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 945,
+          "right": 582.9375,
+          "bottom": 990,
+          "width": 464.9375,
+          "height": 45
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px",
+        "role": "body"
+      },
+      {
+        "id": "ares-range",
+        "text": "12\u201315 YEARS",
+        "bounds": {
+          "left": 115,
+          "top": 1039,
+          "right": 486.265625,
+          "bottom": 1112,
+          "width": 371.265625,
+          "height": 73
+        },
+        "element_bounds": {
+          "left": 115,
+          "top": 1040,
+          "right": 486.265625,
+          "bottom": 1112,
+          "width": 371.265625,
+          "height": 72
+        },
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "61px",
+        "role": "label"
+      },
+      {
+        "id": "ares-label",
+        "text": "Ares: pre-leased developments",
+        "bounds": {
+          "left": 118,
+          "top": 1126,
+          "right": 592.578125,
+          "bottom": 1166,
+          "width": 474.578125,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1124,
+          "right": 592.578125,
+          "bottom": 1169,
+          "width": 474.578125,
+          "height": 45
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px",
+        "role": "body"
+      },
+      {
+        "id": "risk-one",
+        "text": "Construction and tenant risks",
+        "bounds": {
+          "left": 118,
+          "top": 1210,
+          "right": 590,
+          "bottom": 1251,
+          "width": 472,
+          "height": 41
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1208,
+          "right": 590,
+          "bottom": 1254,
+          "width": 472,
+          "height": 46
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "36px",
+        "role": "body"
+      },
+      {
+        "id": "risk-two",
+        "text": "still matter.",
+        "bounds": {
+          "left": 118,
+          "top": 1256,
+          "right": 302.390625,
+          "bottom": 1297,
+          "width": 184.390625,
+          "height": 41
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1254,
+          "right": 302.390625,
+          "bottom": 1300,
+          "width": 184.390625,
+          "height": 46
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "36px",
+        "role": "body"
+      },
+      {
+        "id": "source-one",
+        "text": "Source: Reuters \u2022 Oct. 29, 2026",
+        "bounds": {
+          "left": 118,
+          "top": 1347,
+          "right": 575.65625,
+          "bottom": 1384,
+          "width": 457.65625,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1345,
+          "right": 575.65625,
+          "bottom": 1386,
+          "width": 457.65625,
+          "height": 41
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px",
+        "role": "label"
+      },
+      {
+        "id": "source-two",
+        "text": "Lease terms reported by managers",
+        "bounds": {
+          "left": 118,
+          "top": 1388,
+          "right": 619.765625,
+          "bottom": 1425,
+          "width": 501.765625,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1386,
+          "right": 619.765625,
+          "bottom": 1427,
+          "width": 501.765625,
+          "height": 41
+        },
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px",
+        "role": "label"
+      }
+    ],
+    "panels": [
+      {
+        "id": "header-rule",
+        "bounds": {
+          "left": 118,
+          "top": 365,
+          "right": 728,
+          "bottom": 366,
+          "width": 610,
+          "height": 1
+        }
+      },
+      {
+        "id": "ares-rule",
+        "bounds": {
+          "left": 118,
+          "top": 1019,
+          "right": 728,
+          "bottom": 1020,
+          "width": 610,
+          "height": 1
+        }
+      },
+      {
+        "id": "source-rule",
+        "bounds": {
+          "left": 118,
+          "top": 1328,
+          "right": 728,
+          "bottom": 1329,
+          "width": 610,
+          "height": 1
+        }
+      }
+    ],
+    "scene_elements": [
+      {
+        "id": "coin-installation",
+        "bounds": {
+          "left": 814,
+          "top": 794,
+          "right": 1038,
+          "bottom": 1018,
+          "width": 224,
+          "height": 224
+        },
+        "box_shadow": "rgb(7, 14, 22) 3px 5px 7px 0px inset, rgb(6, 18, 29) 3px 4px 6px 0px, rgb(156, 186, 201) -1px -1px 2px 0px",
+        "background": "linear-gradient(135deg, rgb(208, 188, 130), rgb(115, 88, 45) 52%, rgb(206, 183, 120))"
+      },
+      {
+        "id": "coin-contact",
+        "bounds": {
+          "left": 818,
+          "top": 798,
+          "right": 1034,
+          "bottom": 1014,
+          "width": 216,
+          "height": 216
+        },
+        "box_shadow": "rgba(7, 16, 31, 0.69) 3px 5px 7px 0px inset, rgba(215, 233, 238, 0.44) -2px -2px 3px 0px inset",
+        "background": "linear-gradient(120deg, rgba(208, 240, 255, 0.125), rgba(0, 0, 0, 0) 45%, rgba(9, 34, 61, 0.125))"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Moneyberg Lato Black",
+        "weight": "900",
+        "status": "loaded"
+      },
+      {
+        "family": "Moneyberg Georgia",
+        "weight": "400",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "id": "background",
+        "natural_width": 941,
+        "natural_height": 1672,
+        "bounds": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        }
+      },
+      {
+        "id": "coin",
+        "natural_width": 2084,
+        "natural_height": 2084,
+        "bounds": {
+          "left": 819,
+          "top": 799,
+          "right": 1033,
+          "bottom": 1013,
+          "width": 214,
+          "height": 214
+        }
+      }
+    ],
+    "document_width": 1080,
+    "document_height": 1920
+  },
+  "platform_fonts": [
+    {
+      "id": "brand",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "category",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 23
+        }
+      ]
+    },
+    {
+      "id": "date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "headline-one",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 13
+        }
+      ]
+    },
+    {
+      "id": "headline-two",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 15
+        }
+      ]
+    },
+    {
+      "id": "subhead",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 23
+        }
+      ]
+    },
+    {
+      "id": "main-number",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 5
+        }
+      ]
+    },
+    {
+      "id": "years",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 5
+        }
+      ]
+    },
+    {
+      "id": "blue-owl",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 28
+        }
+      ]
+    },
+    {
+      "id": "blackstone",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 31
+        }
+      ]
+    },
+    {
+      "id": "ares-range",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 11
+        }
+      ]
+    },
+    {
+      "id": "ares-label",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 29
+        }
+      ]
+    },
+    {
+      "id": "risk-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 29
+        }
+      ]
+    },
+    {
+      "id": "risk-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 13
+        }
+      ]
+    },
+    {
+      "id": "source-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 31
+        }
+      ]
+    },
+    {
+      "id": "source-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 32
+        }
+      ]
+    }
+  ],
+  "coin_bounds": {
+    "left": 819,
+    "top": 799,
+    "right": 1033,
+    "bottom": 1013,
+    "width": 214,
+    "height": 214
+  },
+  "whole_coin_upper_75_percent_verified": true,
+  "integration": {
+    "method": "Original coin seated in the front-facing steel cabinet brass-lined recess with contact shading and cool illumination",
+    "artwork": "Exact original PNG with uniform scale, portrait and lettering preserved",
+    "image_generation_role": "Text-free data-center architecture only, no generated coin or news text",
+    "generated_source": "/workspace/generated_images/exec-fba40e14-c08a-4d1e-8017-c1c6daec7f5b.png",
+    "category": "ENERGY & INFRASTRUCTURE",
+    "background_credit_on_graphic": false,
+    "background_provenance": "Generated generic data-center environment, not a documentary photograph of a particular manager portfolio"
+  },
+  "generation_prompts": [
+    "Create a premium text-free 9:16 vertical editorial background for a financial news Story about Wall Street investing in AI data-center buildings and collecting long-term rent. Final composition at1080x1920. Refined architectural photography: charcoal graphite, deep steel blue, subtle cyan light, cold industrial metal and a little restrained brass. View within a quiet high-end hyperscale data-center facility. The entire upper and center LEFT of the frame (x90..850,y140..1530) is a broad front-facing almost-uniform dark graphite/ink technical wall with beautiful very subtle brushed texture, spacious negative space for large ivory typography. Keep this reading area extremely dark, plain and uncluttered all the way through y1530. Along the far-right margin only, a flat front-facing steel-blue server-cabinet architectural panel runs from y780 to y1450. Into this actual cabinet panel, create one perfectly circular EMPTY brass-lined shallow mounting recess centered around x980,y1140 with diameter150px. The center is plain dark metal, no face, emblem, logo or coin artwork. The seat is physically embedded in the cabinet with realistic edge and contact shadows, facing straight on so circular proportions remain true. We will place the user's exact original Moneyberg coin directly in this recess afterward, with its whole rim above y1440, no generated substitute. At the bottom below y1550, beautiful rows of black server racks recede into depth with subtle cyan status lights and floor reflections, suggesting tangible infrastructure and energy demand rather than an abstract AI brain. Some rack edges can appear at the far right outside the news area. No people, no readable signage, no invented charts, no artificial network symbols. Do not add text, letters, numbers, words, logos, badges, portraits, watermark, borders or coins. The finished design separately uses actual Lato Black900 for the headline, data, date, category ENERGY & INFRASTRUCTURE, and the compact single-line35px MONEYBERG NEWS BRIEF; Georgia for body and sources. Authored minimums are33px alltext,35pxbody,51pxheadlines. All added news content will stay within x104..961,y164..1536. Render ONLY the photographic background, not the final news graphic."
+  ],
+  "source": "https://d2233.cms.socastsrm.com/2026/10/29/wall-streets-ai-bet-own-the-infrastructure-collect-the-rent/",
+  "output_sha256": "9fbfcbb58a7f259a5bf4e47f76febcf5ba8e5adb9be953a49578ec79c5b87a4c"
+}

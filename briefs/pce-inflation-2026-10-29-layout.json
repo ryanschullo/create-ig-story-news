@@ -1,0 +1,646 @@
+{
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "inner_bounds": [
+    104,
+    164,
+    961,
+    1536
+  ],
+  "minimum_authored_font_size_px": 33,
+  "minimum_body_font_size_px": 35,
+  "minimum_headline_font_size_px": 51,
+  "font_size_minimum_verified": true,
+  "renderer": "Chromium via Playwright; HTML/CSS screenshot",
+  "background_sha256": "19f0cee037955acbddd2da9b5f408782cceb163e75895336f2cebb1bb071824f",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
+  "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
+  "georgia_redistributed": false,
+  "layout": {
+    "text": [
+      {
+        "id": "brand",
+        "text": "MONEYBERG NEWS BRIEF",
+        "bounds": {
+          "left": 118,
+          "top": 185,
+          "right": 563.109375,
+          "bottom": 227,
+          "width": 445.109375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 184,
+          "right": 563.109375,
+          "bottom": 228,
+          "width": 445.109375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "category",
+        "text": "FEDERAL RESERVE WATCH",
+        "bounds": {
+          "left": 118,
+          "top": 251,
+          "right": 557.921875,
+          "bottom": 291,
+          "width": 439.921875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 250,
+          "right": 557.921875,
+          "bottom": 292,
+          "width": 439.921875,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "date",
+        "text": "OCTOBER 29, 2026",
+        "bounds": {
+          "left": 118,
+          "top": 302,
+          "right": 413.109375,
+          "bottom": 342,
+          "width": 295.109375,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 301,
+          "right": 413.109375,
+          "bottom": 343,
+          "width": 295.109375,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "headline-one",
+        "text": "Inflation",
+        "bounds": {
+          "left": 114,
+          "top": 380,
+          "right": 426.484375,
+          "bottom": 486,
+          "width": 312.484375,
+          "height": 106
+        },
+        "element_bounds": {
+          "left": 114,
+          "top": 385,
+          "right": 426.484375,
+          "bottom": 481,
+          "width": 312.484375,
+          "height": 96
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "88px"
+      },
+      {
+        "id": "headline-two",
+        "text": "heats up",
+        "bounds": {
+          "left": 114,
+          "top": 476,
+          "right": 432.625,
+          "bottom": 582,
+          "width": 318.625,
+          "height": 106
+        },
+        "element_bounds": {
+          "left": 114,
+          "top": 481,
+          "right": 432.625,
+          "bottom": 577,
+          "width": 318.625,
+          "height": 96
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "88px"
+      },
+      {
+        "id": "main-number",
+        "text": "3.6%",
+        "bounds": {
+          "left": 107,
+          "top": 574,
+          "right": 523.5625,
+          "bottom": 811,
+          "width": 416.5625,
+          "height": 237
+        },
+        "element_bounds": {
+          "left": 107,
+          "top": 586,
+          "right": 523.5625,
+          "bottom": 800,
+          "width": 416.5625,
+          "height": 214
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "198px"
+      },
+      {
+        "id": "measure",
+        "text": "HEADLINE PCE \u00b7 SEPTEMBER 2026",
+        "bounds": {
+          "left": 118,
+          "top": 808,
+          "right": 654.25,
+          "bottom": 848,
+          "width": 536.25,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 807,
+          "right": 654.25,
+          "bottom": 850,
+          "width": 536.25,
+          "height": 43
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "period",
+        "text": "U.S. inflation \u00b7 Year over year",
+        "bounds": {
+          "left": 118,
+          "top": 860,
+          "right": 596.75,
+          "bottom": 902,
+          "width": 478.75,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 858,
+          "right": 596.75,
+          "bottom": 905,
+          "width": 478.75,
+          "height": 47
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "37px"
+      },
+      {
+        "id": "comparison",
+        "text": "Up from 3.4% in August.",
+        "bounds": {
+          "left": 118,
+          "top": 928,
+          "right": 543.578125,
+          "bottom": 973,
+          "width": 425.578125,
+          "height": 45
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 926,
+          "right": 543.578125,
+          "bottom": 976,
+          "width": 425.578125,
+          "height": 50
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "39px"
+      },
+      {
+        "id": "core-number",
+        "text": "3.1%",
+        "bounds": {
+          "left": 114,
+          "top": 1022,
+          "right": 275.109375,
+          "bottom": 1113,
+          "width": 161.109375,
+          "height": 91
+        },
+        "element_bounds": {
+          "left": 114,
+          "top": 1024,
+          "right": 275.109375,
+          "bottom": 1112,
+          "width": 161.109375,
+          "height": 88
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "76px"
+      },
+      {
+        "id": "core-label",
+        "text": "CORE PCE",
+        "bounds": {
+          "left": 337,
+          "top": 1046,
+          "right": 508.125,
+          "bottom": 1088,
+          "width": 171.125,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 337,
+          "top": 1045,
+          "right": 508.125,
+          "bottom": 1089,
+          "width": 171.125,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "core-note",
+        "text": "Excludes food and energy \u00b7 Year over year",
+        "bounds": {
+          "left": 118,
+          "top": 1128,
+          "right": 761.1875,
+          "bottom": 1168,
+          "width": 643.1875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1126,
+          "right": 761.1875,
+          "bottom": 1170,
+          "width": 643.1875,
+          "height": 44
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "source-one",
+        "text": "Source: BEA \u00b7 September 2026 data",
+        "bounds": {
+          "left": 118,
+          "top": 1223,
+          "right": 639.4375,
+          "bottom": 1260,
+          "width": 521.4375,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1221,
+          "right": 639.4375,
+          "bottom": 1263,
+          "width": 521.4375,
+          "height": 42
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      },
+      {
+        "id": "source-two",
+        "text": "Released October 29, 2026",
+        "bounds": {
+          "left": 118,
+          "top": 1265,
+          "right": 510.65625,
+          "bottom": 1302,
+          "width": 392.65625,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1263,
+          "right": 510.65625,
+          "bottom": 1305,
+          "width": 392.65625,
+          "height": 42
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      }
+    ],
+    "panels": [
+      {
+        "id": "header-rule",
+        "bounds": {
+          "left": 118,
+          "top": 361,
+          "right": 828,
+          "bottom": 362,
+          "width": 710,
+          "height": 1
+        }
+      },
+      {
+        "id": "core-rule",
+        "bounds": {
+          "left": 118,
+          "top": 1002,
+          "right": 828,
+          "bottom": 1003,
+          "width": 710,
+          "height": 1
+        }
+      },
+      {
+        "id": "source-rule",
+        "bounds": {
+          "left": 118,
+          "top": 1200,
+          "right": 828,
+          "bottom": 1201,
+          "width": 710,
+          "height": 1
+        }
+      }
+    ],
+    "scene_elements": [
+      {
+        "id": "coin-installation",
+        "bounds": {
+          "left": 928,
+          "top": 1035,
+          "right": 1064,
+          "bottom": 1171,
+          "width": 136,
+          "height": 136
+        },
+        "box_shadow": "rgb(36, 23, 13) 3px 5px 7px 0px inset, rgb(74, 30, 25) 2px 4px 5px 0px, rgb(240, 215, 160) -1px -1px 2px 0px",
+        "background": "linear-gradient(135deg, rgb(239, 212, 151), rgb(103, 80, 42) 53%, rgb(202, 172, 102))"
+      },
+      {
+        "id": "coin-contact",
+        "bounds": {
+          "left": 932,
+          "top": 1039,
+          "right": 1060,
+          "bottom": 1167,
+          "width": 128,
+          "height": 128
+        },
+        "box_shadow": "rgba(39, 23, 10, 0.62) 3px 4px 6px 0px inset, rgba(255, 231, 173, 0.5) -2px -2px 3px 0px inset",
+        "background": "linear-gradient(126deg, rgba(255, 229, 183, 0.16), rgba(0, 0, 0, 0) 44%, rgba(77, 28, 22, 0.12))"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Moneyberg Lato Black",
+        "weight": "900",
+        "status": "loaded"
+      },
+      {
+        "family": "Moneyberg Georgia",
+        "weight": "400",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "id": "background",
+        "natural_width": 941,
+        "natural_height": 1672,
+        "bounds": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        }
+      },
+      {
+        "id": "coin",
+        "natural_width": 2084,
+        "natural_height": 2084,
+        "bounds": {
+          "left": 933,
+          "top": 1040,
+          "right": 1059,
+          "bottom": 1166,
+          "width": 126,
+          "height": 126
+        }
+      }
+    ],
+    "document_width": 1080,
+    "document_height": 1920
+  },
+  "platform_fonts": [
+    {
+      "id": "brand",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "category",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 21
+        }
+      ]
+    },
+    {
+      "id": "date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "headline-one",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 9
+        }
+      ]
+    },
+    {
+      "id": "headline-two",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 8
+        }
+      ]
+    },
+    {
+      "id": "main-number",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 4
+        }
+      ]
+    },
+    {
+      "id": "measure",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 29
+        }
+      ]
+    },
+    {
+      "id": "period",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 31
+        }
+      ]
+    },
+    {
+      "id": "comparison",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 23
+        }
+      ]
+    },
+    {
+      "id": "core-number",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 4
+        }
+      ]
+    },
+    {
+      "id": "core-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 8
+        }
+      ]
+    },
+    {
+      "id": "core-note",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 41
+        }
+      ]
+    },
+    {
+      "id": "source-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 33
+        }
+      ]
+    },
+    {
+      "id": "source-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 25
+        }
+      ]
+    }
+  ],
+  "coin_bounds": {
+    "left": 933,
+    "top": 1040,
+    "right": 1059,
+    "bottom": 1166,
+    "width": 126,
+    "height": 126
+  },
+  "whole_coin_upper_75_percent_verified": true,
+  "integration": {
+    "method": "Exact original coin PNG seated in the brass mount on the burgundy checkout cabinet, with edge contact shadows and warm illumination",
+    "artwork": "Original uniformly scaled PNG, portrait and rim lettering preserved without redrawing or warping",
+    "image_generation_role": "Text-free decorative everyday-costs retail background only",
+    "generated_source": "/workspace/generated_images/exec-4efe6e04-eda1-4f9a-83cc-5e624302a4c7.png",
+    "category": "FEDERAL RESERVE WATCH",
+    "background_credit_on_graphic": false,
+    "background_provenance": "Generated illustrative groceries/checkout scene, not a documentary photograph or evidence of measured prices"
+  },
+  "generation_prompts": [
+    "Create a beautiful text-free editorial photographic background for a vertical9:16 Instagram news graphic about U.S. consumer-price inflation rising. Final layout1080x1920. Refined financial magazine still-life style, warm ivory plaster, muted burgundy lacquer, dark warm ink, brushed brass, natural soft daylight. Large luminous ivory retail-interior wall occupies the upper80% and left85% of frame, with extremely subtle texture. At final1080x1920coordinates x104\u2013840,y164\u20131500 keep this wall plain, EVENLY lit, and absolutely clear for large dark news text; no objects, hard shadows, trim or patterns in this rectangle. At the FAR RIGHT fromx880\u20131080,y950\u20131600 place a slender front-facing muted burgundy checkout-counter cabinet side with a small EMPTY circular brass-lined recessed mount centerednear x972,y1150 diameter150px. Seat is perfectly circular viewed straight-on, dark empty center, inset with realistic contact shadow and soft warm highlight; it belongs to the cabinet, not floating. We will seat the exact original Moneyberg gold medallion in it separately, preserving originalportraitandlettering; no generatedcoinartwork. Whole eventualcoinmustbeabove y1440. At the BOTTOM only, y1580\u20131920, arrange a premium sober everyday-costs still life on checkoutcounter: simple paper grocerybag with a few oranges and loaf ofbread, a small unbranded milkcarton, part of checkoutscanner/cardterminal with blank display, and a curling blank unprintedreceipt; objects NEVER extend above y1550 in the left/main text area. Show matte papers, subtle realistic texture, gentle depth and beautifully balanced composition. Restrained, credible consumer-price theme without panic or collapse; no people. Do not create any words, numerals, logos, chart, border, watermarks or seals. No text or generated coin anywhere. Final typesetting will be added separately in real Lato Black900 for headlines, data, dates, category FEDERAL RESERVE WATCH and compactone-line35px MONEYBERG NEWS BRIEF; Georgia for bodyand sources. All authoredtext>=33px,body>=35,headline>=51 at1080x1920. All newsinside x104\u2013961,y164\u20131536. Source area x104\u2013840,y1330\u20131500 MUST stay plain ivory. Render only the gorgeous text-free retail/everydaycosts background."
+  ],
+  "source": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026",
+  "output_sha256": "c721919d3da951b1db15121fdd678998d75a988584b00a69f718024bc12ab636"
+}
