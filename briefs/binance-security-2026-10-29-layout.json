@@ -1,0 +1,671 @@
+{
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "inner_bounds": [
+    104,
+    164,
+    961,
+    1536
+  ],
+  "minimum_authored_font_size_px": 33,
+  "minimum_body_font_size_px": 35,
+  "minimum_headline_font_size_px": 51,
+  "font_size_minimum_verified": true,
+  "renderer": "Chromium via Playwright; HTML/CSS screenshot",
+  "background_sha256": "9dcf2ae0cdc3a3dc7e3189ff002cffdec1f4dde748355f41e1827a7f84e26928",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
+  "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
+  "georgia_redistributed": false,
+  "layout": {
+    "text": [
+      {
+        "id": "brand",
+        "text": "MONEYBERG NEWS BRIEF",
+        "bounds": {
+          "left": 118,
+          "top": 185,
+          "right": 563.109375,
+          "bottom": 227,
+          "width": 445.109375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 184,
+          "right": 563.109375,
+          "bottom": 228,
+          "width": 445.109375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "date",
+        "text": "OCTOBER 29, 2026",
+        "bounds": {
+          "left": 118,
+          "top": 247,
+          "right": 413.109375,
+          "bottom": 287,
+          "width": 295.109375,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 246,
+          "right": 413.109375,
+          "bottom": 288,
+          "width": 295.109375,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "status",
+        "text": "DEVELOPING",
+        "bounds": {
+          "left": 118,
+          "top": 304,
+          "right": 347.5625,
+          "bottom": 344,
+          "width": 229.5625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 303,
+          "right": 347.5625,
+          "bottom": 345,
+          "width": 229.5625,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "headline-one",
+        "text": "Binance probes",
+        "bounds": {
+          "left": 114,
+          "top": 370,
+          "right": 653.75,
+          "bottom": 468,
+          "width": 539.75,
+          "height": 98
+        },
+        "element_bounds": {
+          "left": 114,
+          "top": 373,
+          "right": 653.75,
+          "bottom": 466,
+          "width": 539.75,
+          "height": 93
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "82px"
+      },
+      {
+        "id": "headline-two",
+        "text": "suspected hack",
+        "bounds": {
+          "left": 114,
+          "top": 463,
+          "right": 653.421875,
+          "bottom": 561,
+          "width": 539.421875,
+          "height": 98
+        },
+        "element_bounds": {
+          "left": 114,
+          "top": 466,
+          "right": 653.421875,
+          "bottom": 559,
+          "width": 539.421875,
+          "height": 93
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "82px"
+      },
+      {
+        "id": "main-number",
+        "text": "~$3B",
+        "bounds": {
+          "left": 108,
+          "top": 556,
+          "right": 612.78125,
+          "bottom": 820,
+          "width": 504.78125,
+          "height": 264
+        },
+        "element_bounds": {
+          "left": 108,
+          "top": 570,
+          "right": 612.78125,
+          "bottom": 806,
+          "width": 504.78125,
+          "height": 236
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "220px"
+      },
+      {
+        "id": "measure",
+        "text": "ASSETS FROZEN",
+        "bounds": {
+          "left": 118,
+          "top": 817,
+          "right": 432.265625,
+          "bottom": 863,
+          "width": 314.265625,
+          "height": 46
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 816,
+          "right": 432.265625,
+          "bottom": 865,
+          "width": 314.265625,
+          "height": 49
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "39px"
+      },
+      {
+        "id": "body-one",
+        "text": "Binance says it froze digital",
+        "bounds": {
+          "left": 118,
+          "top": 890,
+          "right": 587.53125,
+          "bottom": 935,
+          "width": 469.53125,
+          "height": 45
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 888,
+          "right": 587.53125,
+          "bottom": 937,
+          "width": 469.53125,
+          "height": 49
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "39px"
+      },
+      {
+        "id": "body-two",
+        "text": "assets to prevent theft.",
+        "bounds": {
+          "left": 118,
+          "top": 939,
+          "right": 506.75,
+          "bottom": 984,
+          "width": 388.75,
+          "height": 45
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 937,
+          "right": 506.75,
+          "bottom": 986,
+          "width": 388.75,
+          "height": 49
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "39px"
+      },
+      {
+        "id": "suspension-heading",
+        "text": "DEPOSITS & WITHDRAWALS",
+        "bounds": {
+          "left": 118,
+          "top": 1069,
+          "right": 592.78125,
+          "bottom": 1111,
+          "width": 474.78125,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1067,
+          "right": 592.78125,
+          "bottom": 1113,
+          "width": 474.78125,
+          "height": 46
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "suspension-body",
+        "text": "Temporarily suspended.",
+        "bounds": {
+          "left": 118,
+          "top": 1124,
+          "right": 535.90625,
+          "bottom": 1169,
+          "width": 417.90625,
+          "height": 45
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1122,
+          "right": 535.90625,
+          "bottom": 1171,
+          "width": 417.90625,
+          "height": 49
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "39px"
+      },
+      {
+        "id": "qualifier-one",
+        "text": "Full scale of the incident",
+        "bounds": {
+          "left": 118,
+          "top": 1203,
+          "right": 516.515625,
+          "bottom": 1245,
+          "width": 398.515625,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1200,
+          "right": 516.515625,
+          "bottom": 1248,
+          "width": 398.515625,
+          "height": 48
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "37px"
+      },
+      {
+        "id": "qualifier-two",
+        "text": "remains unclear.",
+        "bounds": {
+          "left": 118,
+          "top": 1251,
+          "right": 392.09375,
+          "bottom": 1293,
+          "width": 274.09375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1248,
+          "right": 392.09375,
+          "bottom": 1296,
+          "width": 274.09375,
+          "height": 48
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "37px"
+      },
+      {
+        "id": "source-one",
+        "text": "Source: BBC News, citing Binance",
+        "bounds": {
+          "left": 118,
+          "top": 1342,
+          "right": 612.8125,
+          "bottom": 1379,
+          "width": 494.8125,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1340,
+          "right": 612.8125,
+          "bottom": 1382,
+          "width": 494.8125,
+          "height": 42
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      },
+      {
+        "id": "source-two",
+        "text": "Updated Oct. 29, 8:20 p.m. CDT",
+        "bounds": {
+          "left": 118,
+          "top": 1384,
+          "right": 590.03125,
+          "bottom": 1421,
+          "width": 472.03125,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1382,
+          "right": 590.03125,
+          "bottom": 1424,
+          "width": 472.03125,
+          "height": 42
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      }
+    ],
+    "panels": [
+      {
+        "id": "status-rule",
+        "bounds": {
+          "left": 118,
+          "top": 1030,
+          "right": 725,
+          "bottom": 1032,
+          "width": 607,
+          "height": 2
+        }
+      },
+      {
+        "id": "source-rule",
+        "bounds": {
+          "left": 118,
+          "top": 1320,
+          "right": 725,
+          "bottom": 1322,
+          "width": 607,
+          "height": 2
+        }
+      }
+    ],
+    "scene_elements": [
+      {
+        "id": "coin-installation",
+        "bounds": {
+          "left": 830,
+          "top": 797,
+          "right": 1050,
+          "bottom": 1017,
+          "width": 220,
+          "height": 220
+        },
+        "box_shadow": "rgb(17, 14, 7) 5px 6px 9px 0px inset, rgb(7, 7, 6) 2px 4px 5px 0px, rgb(231, 197, 107) -2px -1px 2px 0px",
+        "background": "linear-gradient(135deg, rgb(230, 191, 103), rgb(85, 65, 26) 53%, rgb(196, 150, 63))"
+      },
+      {
+        "id": "coin-contact",
+        "bounds": {
+          "left": 833,
+          "top": 800,
+          "right": 1047,
+          "bottom": 1014,
+          "width": 214,
+          "height": 214
+        },
+        "box_shadow": "rgba(17, 13, 7, 0.72) 4px 5px 7px 0px inset, rgba(252, 217, 137, 0.44) -2px -2px 4px 0px inset",
+        "background": "linear-gradient(125deg, rgba(251, 213, 127, 0.09), rgba(0, 0, 0, 0) 40%, rgba(26, 20, 10, 0.15))"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Moneyberg Lato Black",
+        "weight": "900",
+        "status": "loaded"
+      },
+      {
+        "family": "Moneyberg Georgia",
+        "weight": "400",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "id": "background",
+        "natural_width": 941,
+        "natural_height": 1672,
+        "bounds": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        }
+      },
+      {
+        "id": "coin",
+        "natural_width": 2084,
+        "natural_height": 2084,
+        "bounds": {
+          "left": 833,
+          "top": 800,
+          "right": 1047,
+          "bottom": 1014,
+          "width": 214,
+          "height": 214
+        }
+      }
+    ],
+    "document_width": 1080,
+    "document_height": 1920
+  },
+  "platform_fonts": [
+    {
+      "id": "brand",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "status",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 10
+        }
+      ]
+    },
+    {
+      "id": "headline-one",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 14
+        }
+      ]
+    },
+    {
+      "id": "headline-two",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 14
+        }
+      ]
+    },
+    {
+      "id": "main-number",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 4
+        }
+      ]
+    },
+    {
+      "id": "measure",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 13
+        }
+      ]
+    },
+    {
+      "id": "body-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 29
+        }
+      ]
+    },
+    {
+      "id": "body-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 24
+        }
+      ]
+    },
+    {
+      "id": "suspension-heading",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 22
+        }
+      ]
+    },
+    {
+      "id": "suspension-body",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 22
+        }
+      ]
+    },
+    {
+      "id": "qualifier-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 26
+        }
+      ]
+    },
+    {
+      "id": "qualifier-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "source-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 32
+        }
+      ]
+    },
+    {
+      "id": "source-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 30
+        }
+      ]
+    }
+  ],
+  "coin_bounds": {
+    "left": 833,
+    "top": 800,
+    "right": 1047,
+    "bottom": 1014,
+    "width": 214,
+    "height": 214
+  },
+  "whole_coin_upper_75_percent_verified": true,
+  "integration": {
+    "method": "Exact original coin PNG installed in the existing brass-rimmed recess on the metal vault column, with contact shadows and compatible warm highlights",
+    "artwork": "Original uniformly scaled PNG; portrait and rim lettering preserved, no redrawing or warping",
+    "image_generation_role": "Text-free illustrative security vault only, not a documentary image of Binance facilities",
+    "generated_source": "/workspace/generated_images/exec-3b156c3e-a461-4f43-8dd3-18e9324bb2ff.png",
+    "category": null,
+    "status_label": "DEVELOPING",
+    "category_note": "User-selected crypto security story; no new permanent category assigned or added",
+    "background_credit_on_graphic": false
+  },
+  "generation_prompts": [
+    "Generate a gorgeous premium text-free photographic editorial background, vertical 9:16 Instagram Story, final composition 1080x1920. Topic: a cryptocurrency exchange security incident, digital assets frozen during a suspected hack. A restrained architectural digital vault, polished black graphite and subtle Binance-yellow/amber lighting, deep almost-black charcoal with brushed titanium detail. NO logo, no charts, no screens with numbers, no characters or writing, no hackers or people. Upper 80 percent left 85 percent is a broad quiet very dark matte graphite vault-wall surface for extremely readable large white/yellow typesetting; its texture is very subtle. Specifically x104\u2013850 y164\u20131510 must remain even, dark, plain and unobstructed. At far right x885\u20131080 from y650 downward, a structural vault-door column runs vertically, front-facing charcoal brushed metal, with gold edging and tiny engineering grooves. At x949,y1090 on this right column reserve a perfectly round EMPTY inset brass-rimmed medallion mounting recess of diameter190px, seen perfectly front-on; realistic dark contact shadow, metallic edge, subtle amber light. The user's exact original Moneyberg coin will be composited into this recess later, so DO NOT generate any coin artwork, face, letters, medallion decoration, or substitute emblem. The whole eventual coin must be above y1440. The bottom quarter y1550\u20131920 features the physical thick beveled edge of a monumental closed security vault, elegant interlocking metallic locking bars and subtle amber light reflected on dark metal floor, evocative of securing digital assets. Materially rich and realistic, not a cartoon padlock or cyberpunk neon. Avoid floating panels and distracting objects. No glass cracks or damage, no suggestion of a confirmed theft. Final authored text later uses actual Lato Black900 for headline>=51px, labels>=33px and small single-line35px MONEYBERG NEWS BRIEF; Georgia for body>=35px and sources>=33px. Every news word and source fits x104\u2013961,y164\u20131536. Render only the beautiful text-free architectural vault background, no words, no logos, no data, no coin. Composition feels tailored to this crypto security news, with understated dramatic cinematic depth and excellent negative space."
+  ],
+  "source": "https://www.bbc.com/news/articles/cwg7xp8kx4v5o",
+  "output_sha256": "f76f07f6c52097926fcc837b819f72967df5aa70e12de17f449627b2b0c521dd"
+}
