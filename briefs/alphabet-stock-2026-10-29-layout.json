@@ -1,0 +1,625 @@
+{
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "inner_bounds": [
+    104,
+    164,
+    961,
+    1536
+  ],
+  "minimum_authored_font_size_px": 33,
+  "minimum_body_font_size_px": 35,
+  "minimum_headline_font_size_px": 51,
+  "font_size_minimum_verified": true,
+  "renderer": "Chromium via Playwright; HTML/CSS screenshot",
+  "background_sha256": "5570f054c376c211b9036760cabb89ccc146284465b592bb438d3b83a73b0023",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "official_google_logo_sha256": "262084257c2103702ef8a25705e3f8dbc1fa3823103ad7b954d54bdb77e6d89d",
+  "google_logo_bounds": {
+    "left": 118,
+    "top": 363,
+    "right": 378,
+    "bottom": 450.9375,
+    "width": 260,
+    "height": 87.9375
+  },
+  "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
+  "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
+  "georgia_redistributed": false,
+  "layout": {
+    "text": [
+      {
+        "id": "brand",
+        "text": "MONEYBERG NEWS BRIEF",
+        "bounds": {
+          "left": 118,
+          "top": 185,
+          "right": 563.109375,
+          "bottom": 227,
+          "width": 445.109375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 184,
+          "right": 563.109375,
+          "bottom": 228,
+          "width": 445.109375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "category",
+        "text": "AI INVESTING",
+        "bounds": {
+          "left": 118,
+          "top": 246,
+          "right": 346.1875,
+          "bottom": 286,
+          "width": 228.1875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 245,
+          "right": 346.1875,
+          "bottom": 287,
+          "width": 228.1875,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "date",
+        "text": "OCTOBER 29, 2026",
+        "bounds": {
+          "left": 118,
+          "top": 296,
+          "right": 413.109375,
+          "bottom": 336,
+          "width": 295.109375,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 295,
+          "right": 413.109375,
+          "bottom": 337,
+          "width": 295.109375,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "headline-one",
+        "text": "Google parent",
+        "bounds": {
+          "left": 114,
+          "top": 474,
+          "right": 577.078125,
+          "bottom": 565,
+          "width": 463.078125,
+          "height": 91
+        },
+        "element_bounds": {
+          "left": 114,
+          "top": 476,
+          "right": 577.078125,
+          "bottom": 563,
+          "width": 463.078125,
+          "height": 87
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "76px"
+      },
+      {
+        "id": "headline-two",
+        "text": "Alphabet plunges",
+        "bounds": {
+          "left": 114,
+          "top": 561,
+          "right": 681.359375,
+          "bottom": 652,
+          "width": 567.359375,
+          "height": 91
+        },
+        "element_bounds": {
+          "left": 114,
+          "top": 563,
+          "right": 681.359375,
+          "bottom": 650,
+          "width": 567.359375,
+          "height": 87
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "76px"
+      },
+      {
+        "id": "decline-label",
+        "text": "SHARES FALL MORE THAN",
+        "bounds": {
+          "left": 118,
+          "top": 695,
+          "right": 544.5625,
+          "bottom": 735,
+          "width": 426.5625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 694,
+          "right": 544.5625,
+          "bottom": 737,
+          "width": 426.5625,
+          "height": 43
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "main-number",
+        "text": "12%",
+        "bounds": {
+          "left": 108,
+          "top": 723,
+          "right": 474.515625,
+          "bottom": 954,
+          "width": 366.515625,
+          "height": 231
+        },
+        "element_bounds": {
+          "left": 108,
+          "top": 733,
+          "right": 474.515625,
+          "bottom": 945,
+          "width": 366.515625,
+          "height": 212
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "192px"
+      },
+      {
+        "id": "record",
+        "text": "Biggest one-day drop on record.",
+        "bounds": {
+          "left": 118,
+          "top": 963,
+          "right": 611.9375,
+          "bottom": 1003,
+          "width": 493.9375,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 960,
+          "right": 611.9375,
+          "bottom": 1006,
+          "width": 493.9375,
+          "height": 46
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "value-number",
+        "text": "~$500B",
+        "bounds": {
+          "left": 114,
+          "top": 1029,
+          "right": 395.421875,
+          "bottom": 1127,
+          "width": 281.421875,
+          "height": 98
+        },
+        "element_bounds": {
+          "left": 114,
+          "top": 1030,
+          "right": 395.421875,
+          "bottom": 1126,
+          "width": 281.421875,
+          "height": 96
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "82px"
+      },
+      {
+        "id": "value-label",
+        "text": "Market value erased",
+        "bounds": {
+          "left": 118,
+          "top": 1127,
+          "right": 456.953125,
+          "bottom": 1170,
+          "width": 338.953125,
+          "height": 43
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1125,
+          "right": 456.953125,
+          "bottom": 1173,
+          "width": 338.953125,
+          "height": 48
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "38px"
+      },
+      {
+        "id": "reason-one",
+        "text": "Slower search-ad growth and",
+        "bounds": {
+          "left": 118,
+          "top": 1216,
+          "right": 593.421875,
+          "bottom": 1258,
+          "width": 475.421875,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1213,
+          "right": 593.421875,
+          "bottom": 1261,
+          "width": 475.421875,
+          "height": 48
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "37px"
+      },
+      {
+        "id": "reason-two",
+        "text": "rising AI spending worry investors.",
+        "bounds": {
+          "left": 118,
+          "top": 1264,
+          "right": 690.671875,
+          "bottom": 1306,
+          "width": 572.671875,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1261,
+          "right": 690.671875,
+          "bottom": 1309,
+          "width": 572.671875,
+          "height": 48
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "37px"
+      },
+      {
+        "id": "source",
+        "text": "Source: CNN \u2022 Oct. 29, 2026",
+        "bounds": {
+          "left": 118,
+          "top": 1377,
+          "right": 534.265625,
+          "bottom": 1414,
+          "width": 416.265625,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1375,
+          "right": 534.265625,
+          "bottom": 1417,
+          "width": 416.265625,
+          "height": 42
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      }
+    ],
+    "panels": [
+      {
+        "id": "google-logo",
+        "bounds": {
+          "left": 118,
+          "top": 363,
+          "right": 378,
+          "bottom": 450.9375,
+          "width": 260,
+          "height": 87.9375
+        }
+      },
+      {
+        "id": "source-rule",
+        "bounds": {
+          "left": 118,
+          "top": 1354,
+          "right": 778,
+          "bottom": 1355,
+          "width": 660,
+          "height": 1
+        }
+      }
+    ],
+    "scene_elements": [
+      {
+        "id": "coin-installation",
+        "bounds": {
+          "left": 870,
+          "top": 760,
+          "right": 1030,
+          "bottom": 920,
+          "width": 160,
+          "height": 160
+        },
+        "box_shadow": "rgb(103, 81, 32) 3px 4px 6px 0px inset, rgb(155, 154, 145) 2px 3px 4px 0px, rgb(255, 245, 210) -1px -1px 2px 0px",
+        "background": "linear-gradient(135deg, rgb(234, 210, 145), rgb(136, 112, 53) 53%, rgb(196, 160, 79))"
+      },
+      {
+        "id": "coin-contact",
+        "bounds": {
+          "left": 873,
+          "top": 763,
+          "right": 1027,
+          "bottom": 917,
+          "width": 154,
+          "height": 154
+        },
+        "box_shadow": "rgba(72, 52, 15, 0.55) 3px 4px 5px 0px inset, rgba(255, 244, 200, 0.6) -2px -2px 3px 0px inset",
+        "background": "linear-gradient(125deg, rgba(255, 248, 224, 0.13), rgba(0, 0, 0, 0) 40%, rgba(82, 66, 29, 0.08))"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Moneyberg Lato Black",
+        "weight": "900",
+        "status": "loaded"
+      },
+      {
+        "family": "Moneyberg Georgia",
+        "weight": "400",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "id": "background",
+        "natural_width": 941,
+        "natural_height": 1672,
+        "bounds": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        }
+      },
+      {
+        "id": "coin",
+        "natural_width": 2084,
+        "natural_height": 2084,
+        "bounds": {
+          "left": 873,
+          "top": 763,
+          "right": 1027,
+          "bottom": 917,
+          "width": 154,
+          "height": 154
+        }
+      },
+      {
+        "id": "google-logo",
+        "natural_width": 544,
+        "natural_height": 184,
+        "bounds": {
+          "left": 118,
+          "top": 363,
+          "right": 378,
+          "bottom": 450.9375,
+          "width": 260,
+          "height": 87.9375
+        }
+      }
+    ],
+    "document_width": 1080,
+    "document_height": 1920
+  },
+  "platform_fonts": [
+    {
+      "id": "brand",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "category",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 12
+        }
+      ]
+    },
+    {
+      "id": "date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "headline-one",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 13
+        }
+      ]
+    },
+    {
+      "id": "headline-two",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "decline-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 21
+        }
+      ]
+    },
+    {
+      "id": "main-number",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 3
+        }
+      ]
+    },
+    {
+      "id": "record",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 31
+        }
+      ]
+    },
+    {
+      "id": "value-number",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 6
+        }
+      ]
+    },
+    {
+      "id": "value-label",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 19
+        }
+      ]
+    },
+    {
+      "id": "reason-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 27
+        }
+      ]
+    },
+    {
+      "id": "reason-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 35
+        }
+      ]
+    },
+    {
+      "id": "source",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 27
+        }
+      ]
+    }
+  ],
+  "coin_bounds": {
+    "left": 873,
+    "top": 763,
+    "right": 1027,
+    "bottom": 917,
+    "width": 154,
+    "height": 154
+  },
+  "whole_coin_upper_75_percent_verified": true,
+  "integration": {
+    "method": "Exact original coin PNG seated in the generated white equipment cabinet brass recess, with contact shadows and light compatible with the surroundings",
+    "artwork": "Original uniformly scaled PNG; portrait and rim lettering preserved, not redrawn",
+    "image_generation_role": "Text-free bright generic technology/data-center architecture",
+    "initial_generated_source": "/workspace/generated_images/exec-c385d08c-3f80-472d-b1bf-5578ceeebce8.png",
+    "generated_source": "/workspace/generated_images/exec-1cb0dc80-8d94-4bea-9d72-fd109ccedb42.png",
+    "category": "AI INVESTING",
+    "background_credit_on_graphic": false,
+    "background_provenance": "Generic illustrative technology interior, not a documentary image of Google facilities",
+    "google_logo_source": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
+  },
+  "generation_prompts": [
+    "Create a premium text-free photographic editorial background for a vertical9:16 Instagram financial news Story, final composition1080x1920, about Google parent Alphabet stock falling as investors scrutinize AI capital spending. Distinct clean bright Google-era technology aesthetic: warm porcelain white, very pale cool gray, glass, brushed silver, fine blue details and restrained small reflections of Google blue/red/yellow/green; no logos, words or letterforms. The upper80% and left82% of frame is a beautiful front-facing matte off-white technical wall with extremely subtle material texture and clear airy daylight. Precisely x104\u2013820,y164\u20131536 remains plain, evenly light and unobstructed for large dark readable typesetting and Google's actual official wordmark later. No strong diagonals, patterns or shadows in that area. At far right x885\u20131080 an elegant flat white/silver equipment cabinet column, front facing, runs fromy800to1500. It has one perfectly circular EMPTY shallow brass-lined mounting recess centered x969,y1085 diameter180px, circle straight-on, realistic recessed edge and contact shadow, physically part of cabinet. We will install the user's actual original Moneyberg gold coin into this seat, preserving its exact portrait and lettering; DO NOT generate any coin, portrait, letters or substitute logo. Whole eventualcoinabove y1440. Below y1570, an attractive minimal photorealistic cloud-computing/AI hardware scene: neat white server racks, clear glass foreground corner, polished aluminum structures, softly glowing tiny blue indicatorlights, delicate multicolor light reflections on clean surfaces. Show material depth and a sophisticated quiet technology campus interior, no evidence of actual Google facilities. Keep all busy hardware below the news region. No red stock chart or invented numbers, no damage, no people. Final typesetting later uses real Lato Black900 for headline>=51px, labels>=33px and compactone-line35px MONEYBERG NEWS BRIEF, category AI INVESTING; actual Georgia forbody>=35px/source>=33px. Newsallinside x104\u2013961,y164\u20131536. Output only text-free architectural background; no text, watermarks, logos or coinartwork.",
+    "Edit this background only. Extend the huge unbroken white left wall DOWN to occupy the upper82percent of the entire image; this is essential. On final1080x1920 the bottom of that plain wall must be a HORIZONTAL edge at y1570, NOT its current height near y1250. Leave the white left reading area x104\u2013820,y164\u20131536 completely plain, evenly lit and unobstructed, all the way to y1536. Push/compress the entire busy server room/railing/floor scene into only the bottom18percent, y1570\u20131920. Do not leave hardware, ledges, shadows or reflections in the reading area. Preserve beautiful porcelainwhite/steel/paleblue aesthetic and tall equipment columnatfarright, includingexistingemptybrasscircularmountatx~950,y~840; no emblem coin or logo. No added text. The final actual Google wordmark and Moneyberg original coin will be added separately, actual Lato Black900 headline>=51px/label>=33px/compact35px single-line MONEYBERG NEWS BRIEF and Georgia body>=35px/source>=33px; allnewsx104\u2013961,y164\u20131536. Output text-free scene only. Critical specific edit: plain wall extends through82%height, serverroom onlylowest18%, the small brassmountstaysupper75%."
+  ],
+  "source": "https://www.cnn.com/2026/10/29/investing/alphabet-google-stock-ai",
+  "output_sha256": "c55d1ee0bd70171e0973bd67c93cd16adff17fab8eae107e79b0e9743e28070e"
+}
