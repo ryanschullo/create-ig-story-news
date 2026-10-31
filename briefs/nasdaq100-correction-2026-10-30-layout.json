@@ -1,0 +1,486 @@
+{
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "inner_bounds": [
+    104,
+    164,
+    961,
+    1536
+  ],
+  "minimum_authored_font_size_px": 33,
+  "minimum_body_font_size_px": 35,
+  "minimum_headline_font_size_px": 51,
+  "font_size_minimum_verified": true,
+  "renderer": "Chromium via Playwright; HTML/CSS screenshot",
+  "background_sha256": "5579d0ddbb9b106060609c76602bec03ccbeb481da5a96301befb85521d099c2",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "original_source_chart_sha256": "0d39ef022ce3f18003561b241de564fe2f8682762c98208a69ef8d8380ff3a70",
+  "original_source_chart_bounds": {
+    "left": 238,
+    "top": 636,
+    "right": 798,
+    "bottom": 1456.8125,
+    "width": 560,
+    "height": 820.8125
+  },
+  "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
+  "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
+  "georgia_redistributed": false,
+  "layout": {
+    "text": [
+      {
+        "id": "brand",
+        "text": "MONEYBERG NEWS BRIEF",
+        "bounds": {
+          "left": 118,
+          "top": 185,
+          "right": 563.109375,
+          "bottom": 227,
+          "width": 445.109375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 184,
+          "right": 563.109375,
+          "bottom": 228,
+          "width": 445.109375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "category",
+        "text": "STOCK MARKET",
+        "bounds": {
+          "left": 118,
+          "top": 246,
+          "right": 380.921875,
+          "bottom": 286,
+          "width": 262.921875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 245,
+          "right": 380.921875,
+          "bottom": 287,
+          "width": 262.921875,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "status",
+        "text": "INTRADAY",
+        "bounds": {
+          "left": 414,
+          "top": 246,
+          "right": 586.34375,
+          "bottom": 286,
+          "width": 172.34375,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 414,
+          "top": 245,
+          "right": 586.34375,
+          "bottom": 287,
+          "width": 172.34375,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "date",
+        "text": "OCT. 30, 2026 \u2022 2:00 P.M. CDT",
+        "bounds": {
+          "left": 118,
+          "top": 296,
+          "right": 577.875,
+          "bottom": 336,
+          "width": 459.875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 295,
+          "right": 577.875,
+          "bottom": 337,
+          "width": 459.875,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "headline",
+        "text": "Nasdaq-100 correction",
+        "bounds": {
+          "left": 114,
+          "top": 372,
+          "right": 763.421875,
+          "bottom": 451,
+          "width": 649.421875,
+          "height": 79
+        },
+        "element_bounds": {
+          "left": 114,
+          "top": 372,
+          "right": 763.421875,
+          "bottom": 452,
+          "width": 649.421875,
+          "height": 80
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "66px"
+      },
+      {
+        "id": "main-number",
+        "text": "\u221210%",
+        "bounds": {
+          "left": 108,
+          "top": 472,
+          "right": 378.375,
+          "bottom": 604,
+          "width": 270.375,
+          "height": 132
+        },
+        "element_bounds": {
+          "left": 108,
+          "top": 475,
+          "right": 378.375,
+          "bottom": 602,
+          "width": 270.375,
+          "height": 127
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "110px"
+      },
+      {
+        "id": "meaning-one",
+        "text": "from its October 6",
+        "bounds": {
+          "left": 455,
+          "top": 502,
+          "right": 736.765625,
+          "bottom": 542,
+          "width": 281.765625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 455,
+          "top": 500,
+          "right": 736.765625,
+          "bottom": 544,
+          "width": 281.765625,
+          "height": 44
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "meaning-two",
+        "text": "record high",
+        "bounds": {
+          "left": 455,
+          "top": 546,
+          "right": 632.71875,
+          "bottom": 586,
+          "width": 177.71875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 455,
+          "top": 544,
+          "right": 632.71875,
+          "bottom": 588,
+          "width": 177.71875,
+          "height": 44
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "source",
+        "text": "Source: The Kobeissi Letter \u2022 Oct. 30, 2026",
+        "bounds": {
+          "left": 118,
+          "top": 1483,
+          "right": 746.40625,
+          "bottom": 1520,
+          "width": 628.40625,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1481,
+          "right": 746.40625,
+          "bottom": 1523,
+          "width": 628.40625,
+          "height": 42
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      }
+    ],
+    "panels": [
+      {
+        "id": "source-chart",
+        "bounds": {
+          "left": 238,
+          "top": 636,
+          "right": 798,
+          "bottom": 1456.8125,
+          "width": 560,
+          "height": 820.8125
+        }
+      },
+      {
+        "id": "source-panel",
+        "bounds": {
+          "left": 104,
+          "top": 1470,
+          "right": 824,
+          "bottom": 1534,
+          "width": 720,
+          "height": 64
+        }
+      }
+    ],
+    "scene_elements": [
+      {
+        "id": "coin-installation",
+        "bounds": {
+          "left": 924,
+          "top": 277,
+          "right": 1052,
+          "bottom": 405,
+          "width": 128,
+          "height": 128
+        },
+        "box_shadow": "rgb(7, 16, 32) 3px 4px 6px 0px inset, rgb(23, 36, 57) 2px 3px 4px 0px, rgb(209, 225, 233) -1px -1px 2px 0px",
+        "background": "linear-gradient(135deg, rgb(200, 176, 115), rgb(105, 80, 39) 53%, rgb(210, 182, 120))"
+      },
+      {
+        "id": "coin-contact",
+        "bounds": {
+          "left": 927,
+          "top": 280,
+          "right": 1049,
+          "bottom": 402,
+          "width": 122,
+          "height": 122
+        },
+        "box_shadow": "rgba(9, 18, 32, 0.6) 3px 4px 5px 0px inset, rgba(222, 232, 238, 0.5) -2px -2px 3px 0px inset",
+        "background": "linear-gradient(125deg, rgba(204, 229, 251, 0.1), rgba(0, 0, 0, 0) 45%, rgba(6, 21, 43, 0.14))"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Moneyberg Lato Black",
+        "weight": "900",
+        "status": "loaded"
+      },
+      {
+        "family": "Moneyberg Georgia",
+        "weight": "400",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "id": "background",
+        "natural_width": 941,
+        "natural_height": 1672,
+        "bounds": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        }
+      },
+      {
+        "id": "coin",
+        "natural_width": 2084,
+        "natural_height": 2084,
+        "bounds": {
+          "left": 927,
+          "top": 280,
+          "right": 1049,
+          "bottom": 402,
+          "width": 122,
+          "height": 122
+        }
+      },
+      {
+        "id": "source-chart",
+        "natural_width": 438,
+        "natural_height": 642,
+        "bounds": {
+          "left": 238,
+          "top": 636,
+          "right": 798,
+          "bottom": 1456.8125,
+          "width": 560,
+          "height": 820.8125
+        }
+      }
+    ],
+    "document_width": 1080,
+    "document_height": 1920
+  },
+  "platform_fonts": [
+    {
+      "id": "brand",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "category",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 12
+        }
+      ]
+    },
+    {
+      "id": "status",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 8
+        }
+      ]
+    },
+    {
+      "id": "date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 29
+        }
+      ]
+    },
+    {
+      "id": "headline",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 21
+        }
+      ]
+    },
+    {
+      "id": "main-number",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 4
+        }
+      ]
+    },
+    {
+      "id": "meaning-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 18
+        }
+      ]
+    },
+    {
+      "id": "meaning-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 11
+        }
+      ]
+    },
+    {
+      "id": "source",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 43
+        }
+      ]
+    }
+  ],
+  "coin_bounds": {
+    "left": 927,
+    "top": 280,
+    "right": 1049,
+    "bottom": 402,
+    "width": 122,
+    "height": 122
+  },
+  "whole_coin_upper_75_percent_verified": true,
+  "integration": {
+    "method": "Original coin installed in brass mounting seat on cool titanium architectural mullion, with compatible reflections/contact shading",
+    "artwork": "Exact original PNG uniformly scaled, preserving portrait and rim lettering",
+    "image_generation_role": "Text-free nighttime financial architecture only",
+    "generated_source": "/workspace/generated_images/exec-4ec5f2ab-7507-431d-af2d-81e6437f3276.png",
+    "category": "STOCK MARKET",
+    "status": "INTRADAY",
+    "observation_time": "2026-10-30 14:00 CDT",
+    "background_credit_on_graphic": false,
+    "background_provenance": "Generic illustrative financial architecture, not a documentary photo of an exchange",
+    "source_chart_url": "https://pbs.twimg.com/media/HV5oUomWIAA1rZs?format=png&name=orig",
+    "source_chart_preservation": "Original byte-identical438x642PNG enlarged uniformly to560x820.8125; fullartworkretained withoutcrop,redraw,dataeditsorretypedfonts"
+  },
+  "generation_prompts": [
+    "Create a premium text-free vertical9:16 photographic editorial backdrop for a financial news Story about a Nasdaq-100 intraday technical correction. Finalcanvas1080x1920. Distinct nighttime financial-market atmosphere: deep ink blue, midnight violet, restrained electric cyan, glass and brushed titanium, elegant metropolitan exchange architecture. The upper83percent and centralleft are a broad almost-uniform deep navy glass/metal architectural wall, absolutely clear and dark at x104\u2013835,y164\u20131536 for large white editorial type and an ORIGINAL tall black candlestick chart. Chartwillbeinsertedunchanged atx245\u2013805,y635\u20131456. NO generated charts, candles, numbers, words, logos or screens. At far-right edge x900\u20131080 only is a narrow straight-on brushed titanium architectural mullion with cool reflections. Nearupperrightx979,y330 createa small perfectly round EMPTY brass-lined inset mountingseat diameter155px, physicallysetinmullionwithrealcontactshadow. TheexactoriginalgoldMoneybergcoinwillbeinstalledlater; DO NOTgenerateanycoinportraitinscriptionoremblem. Entirecoinabove1440 andclearofchart. AtBOTTOMONLYbelowy1580, cinematic oblique glassfins of a modern financialexchange/citybuilding, a few soft cyan linear lights and indistinct evening cityreflections; subduedarchitecturaldepthnotdatacenterhardware. Nopeople, nodisasters, nobuy/sellsignals, noinventedpricegraphs. Mainareashouldremaincleananduniformforlegibility. FinaltextwillbeaddedseparatelyinactualLatoBlack900 headline>=51labels>=33brandcompactone-line35px MONEYBERG NEWS BRIEF, categorySTOCK MARKET; actualGeorgia body>=35/source>=33. Allnewsandwholeoriginalchartinside x104\u2013961,y164\u20131536. RenderONLYa text-free architectural scene; no watermark, no coin artwork, no typography."
+  ],
+  "source": "https://x.com/KobeissiLetter/status/2116243866718523645",
+  "output_sha256": "efc2dbd732ffbc8278f7960986040c9e635199d12ee64616bd1d7645f3f5ab22"
+}

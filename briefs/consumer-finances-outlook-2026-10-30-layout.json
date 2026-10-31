@@ -1,0 +1,578 @@
+{
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "inner_bounds": [
+    104,
+    164,
+    961,
+    1536
+  ],
+  "minimum_authored_font_size_px": 33,
+  "minimum_body_font_size_px": 35,
+  "minimum_headline_font_size_px": 51,
+  "font_size_minimum_verified": true,
+  "renderer": "Chromium via Playwright; HTML/CSS screenshot",
+  "background_sha256": "578e02b75511e0c08d07461fee354fd69e4a6219d41b925fc71e45a658c5e028",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "original_source_chart_sha256": "2a9aa85774ded27ee424bfd327d65950b5cc98b72311df9f9c58a7db03d40603",
+  "original_source_chart_bounds": {
+    "left": 104,
+    "top": 752,
+    "right": 961,
+    "bottom": 1328.8125,
+    "width": 857,
+    "height": 576.8125
+  },
+  "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
+  "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
+  "georgia_redistributed": false,
+  "layout": {
+    "text": [
+      {
+        "id": "brand",
+        "text": "MONEYBERG NEWS BRIEF",
+        "bounds": {
+          "left": 118,
+          "top": 185,
+          "right": 563.109375,
+          "bottom": 227,
+          "width": 445.109375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 184,
+          "right": 563.109375,
+          "bottom": 228,
+          "width": 445.109375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "category",
+        "text": "CONSUMER SENTIMENT",
+        "bounds": {
+          "left": 118,
+          "top": 246,
+          "right": 514.890625,
+          "bottom": 286,
+          "width": 396.890625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 245,
+          "right": 514.890625,
+          "bottom": 287,
+          "width": 396.890625,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "date",
+        "text": "OCTOBER 30, 2026",
+        "bounds": {
+          "left": 118,
+          "top": 296,
+          "right": 413.109375,
+          "bottom": 336,
+          "width": 295.109375,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 295,
+          "right": 413.109375,
+          "bottom": 337,
+          "width": 295.109375,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "headline-one",
+        "text": "Record financial",
+        "bounds": {
+          "left": 114,
+          "top": 368,
+          "right": 619.59375,
+          "bottom": 457,
+          "width": 505.59375,
+          "height": 89
+        },
+        "element_bounds": {
+          "left": 114,
+          "top": 371,
+          "right": 619.59375,
+          "bottom": 455,
+          "width": 505.59375,
+          "height": 84
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "74px"
+      },
+      {
+        "id": "headline-two",
+        "text": "pessimism",
+        "bounds": {
+          "left": 114,
+          "top": 452,
+          "right": 443.984375,
+          "bottom": 541,
+          "width": 329.984375,
+          "height": 89
+        },
+        "element_bounds": {
+          "left": 114,
+          "top": 455,
+          "right": 443.984375,
+          "bottom": 539,
+          "width": 329.984375,
+          "height": 84
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "74px"
+      },
+      {
+        "id": "main-number",
+        "text": "41%",
+        "bounds": {
+          "left": 108,
+          "top": 548,
+          "right": 389.109375,
+          "bottom": 723,
+          "width": 281.109375,
+          "height": 175
+        },
+        "element_bounds": {
+          "left": 108,
+          "top": 555,
+          "right": 389.109375,
+          "bottom": 717,
+          "width": 281.109375,
+          "height": 162
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "146px"
+      },
+      {
+        "id": "meaning-one",
+        "text": "of U.S. consumers",
+        "bounds": {
+          "left": 465,
+          "top": 576,
+          "right": 745.03125,
+          "bottom": 616,
+          "width": 280.03125,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 465,
+          "top": 574,
+          "right": 745.03125,
+          "bottom": 618,
+          "width": 280.03125,
+          "height": 44
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "meaning-two",
+        "text": "expect worse finances",
+        "bounds": {
+          "left": 465,
+          "top": 620,
+          "right": 801,
+          "bottom": 660,
+          "width": 336,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 465,
+          "top": 618,
+          "right": 801,
+          "bottom": 662,
+          "width": 336,
+          "height": 44
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "meaning-three",
+        "text": "in the next 12 months.",
+        "bounds": {
+          "left": 465,
+          "top": 664,
+          "right": 808.40625,
+          "bottom": 704,
+          "width": 343.40625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 465,
+          "top": 662,
+          "right": 808.40625,
+          "bottom": 706,
+          "width": 343.40625,
+          "height": 44
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "source-one",
+        "text": "Source: The Kobeissi Letter \u2022 Oct. 30, 2026",
+        "bounds": {
+          "left": 150,
+          "top": 1360,
+          "right": 778.40625,
+          "bottom": 1397,
+          "width": 628.40625,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 150,
+          "top": 1358,
+          "right": 778.40625,
+          "bottom": 1400,
+          "width": 628.40625,
+          "height": 42
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      },
+      {
+        "id": "source-two",
+        "text": "Chart cites University of Michigan.",
+        "bounds": {
+          "left": 150,
+          "top": 1402,
+          "right": 656.0625,
+          "bottom": 1439,
+          "width": 506.0625,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 150,
+          "top": 1400,
+          "right": 656.0625,
+          "bottom": 1442,
+          "width": 506.0625,
+          "height": 42
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      },
+      {
+        "id": "qualifier",
+        "text": "Survey of personal financial expectations.",
+        "bounds": {
+          "left": 150,
+          "top": 1473,
+          "right": 791.21875,
+          "bottom": 1513,
+          "width": 641.21875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 150,
+          "top": 1471,
+          "right": 791.21875,
+          "bottom": 1515,
+          "width": 641.21875,
+          "height": 44
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      }
+    ],
+    "panels": [
+      {
+        "id": "source-chart",
+        "bounds": {
+          "left": 104,
+          "top": 752,
+          "right": 961,
+          "bottom": 1328.8125,
+          "width": 857,
+          "height": 576.8125
+        }
+      }
+    ],
+    "scene_elements": [
+      {
+        "id": "coin-installation",
+        "bounds": {
+          "left": 891,
+          "top": 245,
+          "right": 1071,
+          "bottom": 425,
+          "width": 180,
+          "height": 180
+        },
+        "box_shadow": "rgb(58, 36, 15) 4px 5px 7px 0px inset, rgb(84, 37, 27) 3px 4px 5px 0px, rgb(255, 229, 173) -1px -1px 2px 0px",
+        "background": "linear-gradient(135deg, rgb(237, 212, 154), rgb(121, 95, 44) 53%, rgb(196, 164, 81))"
+      },
+      {
+        "id": "coin-contact",
+        "bounds": {
+          "left": 894,
+          "top": 248,
+          "right": 1068,
+          "bottom": 422,
+          "width": 174,
+          "height": 174
+        },
+        "box_shadow": "rgba(56, 34, 12, 0.6) 3px 4px 6px 0px inset, rgba(255, 231, 173, 0.55) -2px -2px 3px 0px inset",
+        "background": "linear-gradient(125deg, rgba(255, 234, 185, 0.13), rgba(0, 0, 0, 0) 45%, rgba(82, 36, 20, 0.12))"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Moneyberg Lato Black",
+        "weight": "900",
+        "status": "loaded"
+      },
+      {
+        "family": "Moneyberg Georgia",
+        "weight": "400",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "id": "background",
+        "natural_width": 941,
+        "natural_height": 1672,
+        "bounds": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        }
+      },
+      {
+        "id": "coin",
+        "natural_width": 2084,
+        "natural_height": 2084,
+        "bounds": {
+          "left": 895,
+          "top": 249,
+          "right": 1067,
+          "bottom": 421,
+          "width": 172,
+          "height": 172
+        }
+      },
+      {
+        "id": "source-chart",
+        "natural_width": 1560,
+        "natural_height": 1050,
+        "bounds": {
+          "left": 104,
+          "top": 752,
+          "right": 961,
+          "bottom": 1328.8125,
+          "width": 857,
+          "height": 576.8125
+        }
+      }
+    ],
+    "document_width": 1080,
+    "document_height": 1920
+  },
+  "platform_fonts": [
+    {
+      "id": "brand",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "category",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 18
+        }
+      ]
+    },
+    {
+      "id": "date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "headline-one",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "headline-two",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 9
+        }
+      ]
+    },
+    {
+      "id": "main-number",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 3
+        }
+      ]
+    },
+    {
+      "id": "meaning-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 17
+        }
+      ]
+    },
+    {
+      "id": "meaning-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 21
+        }
+      ]
+    },
+    {
+      "id": "meaning-three",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 22
+        }
+      ]
+    },
+    {
+      "id": "source-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 43
+        }
+      ]
+    },
+    {
+      "id": "source-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 35
+        }
+      ]
+    },
+    {
+      "id": "qualifier",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 42
+        }
+      ]
+    }
+  ],
+  "coin_bounds": {
+    "left": 895,
+    "top": 249,
+    "right": 1067,
+    "bottom": 421,
+    "width": 172,
+    "height": 172
+  },
+  "whole_coin_upper_75_percent_verified": true,
+  "integration": {
+    "method": "Exact original coin installed in brass-lined recess on burgundy household cabinet with compatible warm lighting/contact shadows",
+    "artwork": "Original PNG uniformly scaled, portrait and rim lettering preserved",
+    "image_generation_role": "Text-free illustrative household budget scene only",
+    "generated_source": "/workspace/generated_images/exec-2eaf6200-e2aa-4274-b422-aa475d2a9234.png",
+    "category": "CONSUMER SENTIMENT",
+    "background_credit_on_graphic": false,
+    "background_provenance": "Illustrative household budget still life, not evidence of survey participants or measured hardship",
+    "source_chart_url": "https://pbs.twimg.com/media/HV4vLBhWoAAjZoa?format=jpg&name=orig",
+    "source_chart_preservation": "Original byte-identical1560x1050JPEG rendered whole with no crop, redrawing, data changes, or retyped chart fonts"
+  },
+  "generation_prompts": [
+    "Create a premium text-free photographic editorial background for a vertical9:16 Instagram Story about U.S. consumers' pessimistic expectations for their personal finances. Finalcomposition1080x1920. Refined household-finance editorial style, warm ivory plaster and paper, dark burgundy lacquer, subtle walnut and brushed brass, soft afternoon daylight. The upper83percent is a beautifully simple front-facing evenly lit warm ivory wall, extremely subtle texture, with completely plain negative space for dark headlines and an inserted ORIGINAL landscape statistical chart. Keep x104\u2013961,y164\u20131536 absolutely unobstructed and light; no hard shadows or objects in the reading area. At extreme right edge x890\u20131080 only, a narrow front-facing burgundy wood cabinet vertical fascia. Near upperright x969,y300 embed a small perfectly circular EMPTY brass-lined mount diameter170px, with inset shadows and gentle brass highlights, physically part of the cabinet. We will install original Moneyberg gold coin here later preservingexactportrait/lettering; do NOT generate any coin,face,words,emblemorlogo. Entireeventualcoinabove1440 and clearofchartwhichoccupies x104\u2013961 y752\u20131329. At BOTTOM ONLY belowy1590, thoughtful realistic household-budget stilllife: closed neutral wallet, keys, a blank paper envelope with plain receipt, simple calculator with blankscreen and nolegiblekeynumbers, subtle grocerybag edge. No text or fabricated financialfigures. Keepstilllifesober and calm, no panic/destruction/people. Natural realistic materialdepth, a distinctiveconsumerfinancetheme, artisticbutcredible. FinalauthoredtypesettingseparatelyactualLatoBlack900 headline>=51,label>=33, smallsingleline35px MONEYBERG NEWS BRIEF, categoryCONSUMER SENTIMENT; Georgia body>=35/source>=33. Originalchartwillbeinsertedunchangedandallnewcontentinside x104\u2013961 y164\u20131536. RenderONLYtext-freephotographicbackground; NOchart, noletters, nofigures, nowatermarks,nocoinartwork."
+  ],
+  "source": "https://x.com/KobeissiLetter/status/2116313518911668301",
+  "output_sha256": "cc76ec21155d4e7f236c4d0a62656463aaea6d0a90d002c4fc061c2f1b57626c"
+}
