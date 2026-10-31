@@ -1,0 +1,82 @@
+name: Publish October 30 story downloads
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: story-downloads-2026-10-30
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Package the six original graphics
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import zipfile
+
+          names = [
+              'intel-stock-2026-10-30.png',
+              'us-market-close-2026-10-30.png',
+              'consumer-finances-outlook-2026-10-30.png',
+              'qqq-spy-short-interest-2026-10-30.png',
+              'fed-december-hike-2026-10-30.png',
+              'nasdaq100-correction-2026-10-30.png',
+          ]
+          archive = Path('moneyberg-news-briefs-2026-10-30.zip')
+          with zipfile.ZipFile(archive, 'w', zipfile.ZIP_DEFLATED) as bundle:
+              for name in names:
+                  path = Path('exports') / name
+                  assert path.read_bytes().startswith(b'\x89PNG\r\n\x1a\n'), name
+                  bundle.write(path, name)
+          with zipfile.ZipFile(archive) as bundle:
+              assert bundle.namelist() == names
+              assert bundle.testzip() is None
+              for name in names:
+                  assert bundle.read(name) == (Path('exports') / name).read_bytes()
+          Path('download-release-notes.md').write_text(
+              'Six Moneyberg News Brief story graphics for October 30, 2026.\n\n'
+              'Each PNG is 1080 x 1920. Download individual graphics below, '
+              'or choose moneyberg-news-briefs-2026-10-30.zip for all six.\n\n'
+              '- Intel\'s historic drop\n'
+              '- Market close: Nasdaq Composite, S&P 500 and Dow\n'
+              '- Consumer financial pessimism, with original chart\n'
+              '- QQQ/SPY short interest, with original chart\n'
+              '- December Fed hike odds, with the original post\'s chart snapshot\n'
+              '- Nasdaq-100 correction, with original intraday graph\n'
+          )
+          PY
+
+      - name: Publish direct-download assets
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        shell: bash
+        run: |
+          assets=(
+            exports/intel-stock-2026-10-30.png
+            exports/us-market-close-2026-10-30.png
+            exports/consumer-finances-outlook-2026-10-30.png
+            exports/qqq-spy-short-interest-2026-10-30.png
+            exports/fed-december-hike-2026-10-30.png
+            exports/nasdaq100-correction-2026-10-30.png
+            moneyberg-news-briefs-2026-10-30.zip
+          )
+          if gh release view stories-2026-10-30 >/dev/null 2>&1; then
+            gh release upload stories-2026-10-30 "${assets[@]}" --clobber
+          else
+            gh release create stories-2026-10-30 "${assets[@]}" \
+              --target "$GITHUB_SHA" \
+              --title 'Moneyberg News Brief — October 30, 2026' \
+              --notes-file download-release-notes.md \
+              --latest=false
+          fi
