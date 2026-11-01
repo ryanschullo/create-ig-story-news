@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><base href="__ASSET_BASE_URI__">
+<title>Consumer spending and household savings — November 1, 2026</title>
+<style>
+@font-face{font-family:"Moneyberg Lato Black";src:url("fonts/lato/Lato-Black.ttf") format("truetype");font-weight:900;font-style:normal}
+@font-face{font-family:"Moneyberg Georgia";src:url("__GEORGIA_FONT_URI__") format("truetype");font-weight:400;font-style:normal}
+*{box-sizing:border-box}html,body{margin:0;width:1080px;height:1920px;overflow:hidden;background:#efe6d7}
+#stage{position:relative;width:1080px;height:1920px;isolation:isolate;overflow:hidden}
+#background{position:absolute;inset:0;width:1080px;height:1920px;object-fit:cover}
+.text{position:absolute;margin:0;z-index:5;font-synthesis:none;text-rendering:geometricPrecision;-webkit-font-smoothing:antialiased;white-space:nowrap}
+.lato{font-family:"Moneyberg Lato Black";font-weight:900;color:#302b28}
+.georgia{font-family:"Moneyberg Georgia";font-weight:400;color:#3d342d}
+.rule{position:absolute;height:1px;background:#7d6054;opacity:.42;z-index:3}
+#brand{left:118px;top:179px;font-size:35px;line-height:44px;letter-spacing:.25px}
+#category{left:118px;top:245px;font-size:34px;line-height:44px;letter-spacing:.6px;color:#804b4d}
+#date{left:118px;top:296px;font-size:33px;line-height:42px;color:#6f6256}
+#headline-one,#headline-two{left:113px;font-size:69px;line-height:77px;letter-spacing:-1.5px}
+#headline-one{top:361px}#headline-two{top:438px}
+#period{left:118px;top:553px;font-size:33px;line-height:43px;color:#6f6256}
+#spending-label,#income-label{font-size:33px;line-height:43px;letter-spacing:.4px}
+#spending-label{left:118px;top:608px;color:#853f44}#income-label{left:557px;top:608px}
+#spending,#income{font-size:88px;line-height:105px;letter-spacing:-2px}
+#spending{left:113px;top:647px;color:#853f44}#income{left:552px;top:647px}
+#metric-rule{left:118px;top:777px;width:751px}
+#savings{left:110px;top:806px;font-size:133px;line-height:155px;letter-spacing:-4px;color:#853f44}
+#savings-label{left:459px;top:825px;font-size:33px;line-height:43px}
+#savings-period{left:459px;top:870px;font-size:33px;line-height:43px;color:#6f6256}
+#savings-denominator{left:459px;top:915px;font-size:33px;line-height:43px;color:#6f6256}
+#savings-note{left:118px;top:975px;font-size:35px;line-height:46px}
+#summary-one,#summary-two,#summary-three,#summary-four,#summary-five,#summary-six{left:118px;font-size:35px;line-height:45px}
+#summary-one{top:1071px}#summary-two{top:1116px}#summary-three{top:1161px}#summary-four{top:1206px}#summary-five{top:1251px}#summary-six{top:1296px}
+#source-panel{position:absolute;left:118px;top:1393px;width:751px;height:113px;z-index:3;background:rgba(247,240,226,.97);border-top:1px solid rgba(125,96,84,.42)}
+#source-one,#source-two{left:136px;font-size:33px;line-height:43px;color:#594a40}
+#source-one{top:1406px}#source-two{top:1449px}
+/* Original coin in the wooden desk rail's brass recess. */
+#coin-installation{position:absolute;left:930px;top:958px;width:148px;height:148px;z-index:2;border-radius:50%;background:linear-gradient(135deg,#ead294,#72481e 53%,#cba054);border:2px solid #805622;box-shadow:inset 3px 4px 7px #43290d,1px 3px 4px rgba(47,25,10,.55),-1px -1px 2px #ffe7a6}
+#coin{position:absolute;left:3px;top:3px;width:138px;height:138px;object-fit:contain;filter:saturate(.85) brightness(.91)}
+#coin-contact{position:absolute;inset:2px;border-radius:50%;pointer-events:none;box-shadow:inset 3px 4px 6px rgba(71,43,14,.48),inset -2px -2px 3px rgba(255,237,177,.48);background:linear-gradient(127deg,rgba(255,233,172,.15),transparent 46%,rgba(65,35,16,.1))}
+</style></head><body><main id="stage" aria-label="Consumer spending, income growth and the personal saving rate">
+<img id="background" src="consumer-spending-savings-background-2026-11-01.png" alt="">
+<div id="coin-installation" data-scene-element aria-hidden="true"><img id="coin" src="moneyberg-coin-original.png" alt=""><div id="coin-contact" data-scene-element></div></div>
+<div id="brand" class="text lato" data-news-text>MONEYBERG NEWS BRIEF</div>
+<div id="category" class="text lato" data-news-text>CONSUMER SENTIMENT</div>
+<div id="date" class="text lato" data-news-text>NOVEMBER 1, 2026</div>
+<div id="headline-one" class="text lato" data-news-text data-text-role="headline">Spending outpaces</div>
+<div id="headline-two" class="text lato" data-news-text data-text-role="headline">income growth</div>
+<div id="period" class="text lato" data-news-text>SEPT. 2026 · MONTH OVER MONTH · NOMINAL</div>
+<div id="spending-label" class="text lato" data-news-text>SPENDING (PCE)</div>
+<div id="income-label" class="text lato" data-news-text>PERSONAL INCOME</div>
+<div id="spending" class="text lato" data-news-text>+0.5%</div>
+<div id="income" class="text lato" data-news-text>+0.2%</div>
+<div id="metric-rule" class="rule" data-news-panel></div>
+<div id="savings" class="text lato" data-news-text>3.8%</div>
+<div id="savings-label" class="text lato" data-news-text>PERSONAL SAVING RATE</div>
+<div id="savings-period" class="text lato" data-news-text>−0.2 PERCENTAGE POINTS</div>
+<div id="savings-denominator" class="text georgia" data-news-text data-text-role="caption">of disposable income</div>
+<div id="savings-note" class="text georgia" data-news-text data-text-role="body">Lowest since October 2022.</div>
+<div id="summary-one" class="text georgia" data-news-text data-text-role="body">Consumer spending continues to outpace</div>
+<div id="summary-two" class="text georgia" data-news-text data-text-role="body">income growth, putting pressure on</div>
+<div id="summary-three" class="text georgia" data-news-text data-text-role="body">household savings and potentially</div>
+<div id="summary-four" class="text georgia" data-news-text data-text-role="body">increasing reliance on borrowing.</div>
+<div id="summary-five" class="text georgia" data-news-text data-text-role="body">Elevated inflation and high prices put</div>
+<div id="summary-six" class="text georgia" data-news-text data-text-role="body">further pressure on consumer savings.</div>
+<div id="source-panel" data-news-panel></div>
+<div id="source-one" class="text georgia" data-news-text data-text-role="source">Source: BEA · Released October 29</div>
+<div id="source-two" class="text georgia" data-news-text data-text-role="source">Context: The Kobeissi Letter, Oct. 31</div>
+</main></body></html>
