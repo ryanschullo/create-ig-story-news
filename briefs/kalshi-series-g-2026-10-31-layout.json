@@ -1,0 +1,656 @@
+{
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "inner_bounds": [
+    104,
+    164,
+    961,
+    1536
+  ],
+  "minimum_authored_font_size_px": 33,
+  "minimum_body_font_size_px": 35,
+  "minimum_headline_font_size_px": 51,
+  "font_size_minimum_verified": true,
+  "renderer": "Chromium via Playwright; HTML/CSS screenshot",
+  "background_sha256": "d3f78e2e02d66cfde5c5647b4195a2c22377b742799d9fcc8d8e8dd5337232fd",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
+  "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
+  "georgia_redistributed": false,
+  "layout": {
+    "text": [
+      {
+        "id": "brand",
+        "text": "MONEYBERG NEWS BRIEF",
+        "bounds": {
+          "left": 118,
+          "top": 180,
+          "right": 562.109375,
+          "bottom": 222,
+          "width": 444.109375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 179,
+          "right": 562.109375,
+          "bottom": 223,
+          "width": 444.109375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "category",
+        "text": "ENTREPRENEURSHIP",
+        "bounds": {
+          "left": 118,
+          "top": 258,
+          "right": 474.765625,
+          "bottom": 299,
+          "width": 356.765625,
+          "height": 41
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 257,
+          "right": 474.765625,
+          "bottom": 301,
+          "width": 356.765625,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "34px"
+      },
+      {
+        "id": "date",
+        "text": "OCTOBER 31, 2026",
+        "bounds": {
+          "left": 118,
+          "top": 310,
+          "right": 413.109375,
+          "bottom": 350,
+          "width": 295.109375,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 309,
+          "right": 413.109375,
+          "bottom": 351,
+          "width": 295.109375,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "headline",
+        "text": "Kalshi reaches",
+        "bounds": {
+          "left": 113,
+          "top": 405,
+          "right": 613.390625,
+          "bottom": 503,
+          "width": 500.390625,
+          "height": 98
+        },
+        "element_bounds": {
+          "left": 113,
+          "top": 406,
+          "right": 613.390625,
+          "bottom": 502,
+          "width": 500.390625,
+          "height": 96
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "82px"
+      },
+      {
+        "id": "valuation",
+        "text": "$40B",
+        "bounds": {
+          "left": 107,
+          "top": 494,
+          "right": 539.671875,
+          "bottom": 722,
+          "width": 432.671875,
+          "height": 228
+        },
+        "element_bounds": {
+          "left": 107,
+          "top": 500,
+          "right": 539.671875,
+          "bottom": 717,
+          "width": 432.671875,
+          "height": 217
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "190px"
+      },
+      {
+        "id": "valuation-label",
+        "text": "POST-MONEY VALUATION",
+        "bounds": {
+          "left": 118,
+          "top": 728,
+          "right": 639.734375,
+          "bottom": 777,
+          "width": 521.734375,
+          "height": 49
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 726,
+          "right": 639.734375,
+          "bottom": 779,
+          "width": 521.734375,
+          "height": 53
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "41px"
+      },
+      {
+        "id": "funding",
+        "text": "$1B Series G",
+        "bounds": {
+          "left": 149,
+          "top": 861,
+          "right": 503.375,
+          "bottom": 938,
+          "width": 354.375,
+          "height": 77
+        },
+        "element_bounds": {
+          "left": 149,
+          "top": 861,
+          "right": 503.375,
+          "bottom": 938,
+          "width": 354.375,
+          "height": 77
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "64px"
+      },
+      {
+        "id": "summary-one",
+        "text": "The prediction-market platform plans",
+        "bounds": {
+          "left": 118,
+          "top": 1026,
+          "right": 754.125,
+          "bottom": 1069,
+          "width": 636.125,
+          "height": 43
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1022,
+          "right": 754.125,
+          "bottom": 1073,
+          "width": 636.125,
+          "height": 51
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "38px"
+      },
+      {
+        "id": "summary-two",
+        "text": "new products, institutional adoption",
+        "bounds": {
+          "left": 118,
+          "top": 1077,
+          "right": 729.609375,
+          "bottom": 1120,
+          "width": 611.609375,
+          "height": 43
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1073,
+          "right": 729.609375,
+          "bottom": 1124,
+          "width": 611.609375,
+          "height": 51
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "38px"
+      },
+      {
+        "id": "summary-three",
+        "text": "and international expansion.",
+        "bounds": {
+          "left": 118,
+          "top": 1128,
+          "right": 600.796875,
+          "bottom": 1171,
+          "width": 482.796875,
+          "height": 43
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1124,
+          "right": 600.796875,
+          "bottom": 1175,
+          "width": 482.796875,
+          "height": 51
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "38px"
+      },
+      {
+        "id": "co-lead-one",
+        "text": "Co-led by Wellington Management",
+        "bounds": {
+          "left": 118,
+          "top": 1237,
+          "right": 656.765625,
+          "bottom": 1277,
+          "width": 538.765625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1234,
+          "right": 656.765625,
+          "bottom": 1281,
+          "width": 538.765625,
+          "height": 47
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "co-lead-two",
+        "text": "and Sequoia Capital.",
+        "bounds": {
+          "left": 118,
+          "top": 1284,
+          "right": 435.859375,
+          "bottom": 1324,
+          "width": 317.859375,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1281,
+          "right": 435.859375,
+          "bottom": 1328,
+          "width": 317.859375,
+          "height": 47
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "source-one",
+        "text": "Source: Kalshi News",
+        "bounds": {
+          "left": 118,
+          "top": 1403,
+          "right": 415.953125,
+          "bottom": 1440,
+          "width": 297.953125,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1400,
+          "right": 415.953125,
+          "bottom": 1443,
+          "width": 297.953125,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      },
+      {
+        "id": "source-two",
+        "text": "Announced October 29, 2026",
+        "bounds": {
+          "left": 118,
+          "top": 1446,
+          "right": 547.65625,
+          "bottom": 1483,
+          "width": 429.65625,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1443,
+          "right": 547.65625,
+          "bottom": 1486,
+          "width": 429.65625,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      }
+    ],
+    "panels": [
+      {
+        "id": "header-rule",
+        "bounds": {
+          "left": 118,
+          "top": 374,
+          "right": 941,
+          "bottom": 375,
+          "width": 823,
+          "height": 1
+        }
+      },
+      {
+        "id": "funding-band",
+        "bounds": {
+          "left": 118,
+          "top": 833,
+          "right": 941,
+          "bottom": 969,
+          "width": 823,
+          "height": 136
+        }
+      },
+      {
+        "id": "context-panel",
+        "bounds": {
+          "left": 104,
+          "top": 1209,
+          "right": 961,
+          "bottom": 1501,
+          "width": 857,
+          "height": 292
+        }
+      },
+      {
+        "id": "source-rule",
+        "bounds": {
+          "left": 118,
+          "top": 1373,
+          "right": 941,
+          "bottom": 1374,
+          "width": 823,
+          "height": 1
+        }
+      }
+    ],
+    "scene_elements": [
+      {
+        "id": "coin-installation",
+        "bounds": {
+          "left": 861,
+          "top": 990,
+          "right": 1039,
+          "bottom": 1168,
+          "width": 178,
+          "height": 178
+        },
+        "box_shadow": "rgb(40, 56, 42) 3px 5px 8px 0px inset, rgba(35, 54, 38, 0.4) 2px 4px 5px 0px, rgb(248, 242, 205) -1px -1px 2px 0px",
+        "background": "linear-gradient(135deg, rgb(223, 205, 140), rgb(59, 83, 59) 53%, rgb(188, 161, 101))"
+      },
+      {
+        "id": "coin-contact",
+        "bounds": {
+          "left": 865,
+          "top": 994,
+          "right": 1035,
+          "bottom": 1164,
+          "width": 170,
+          "height": 170
+        },
+        "box_shadow": "rgba(42, 47, 25, 0.43) 3px 4px 6px 0px inset, rgba(255, 246, 190, 0.5) -2px -2px 3px 0px inset",
+        "background": "linear-gradient(127deg, rgba(255, 244, 190, 0.18), rgba(0, 0, 0, 0) 46%, rgba(30, 52, 34, 0.1))"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Moneyberg Lato Black",
+        "weight": "900",
+        "status": "loaded"
+      },
+      {
+        "family": "Moneyberg Georgia",
+        "weight": "400",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "id": "background",
+        "natural_width": 941,
+        "natural_height": 1672,
+        "bounds": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        }
+      },
+      {
+        "id": "coin",
+        "natural_width": 2084,
+        "natural_height": 2084,
+        "bounds": {
+          "left": 866,
+          "top": 995,
+          "right": 1034,
+          "bottom": 1163,
+          "width": 168,
+          "height": 168
+        }
+      }
+    ],
+    "document_width": 1080,
+    "document_height": 1920
+  },
+  "platform_fonts": [
+    {
+      "id": "brand",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "category",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "headline",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 14
+        }
+      ]
+    },
+    {
+      "id": "valuation",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 4
+        }
+      ]
+    },
+    {
+      "id": "valuation-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "funding",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 12
+        }
+      ]
+    },
+    {
+      "id": "summary-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 36
+        }
+      ]
+    },
+    {
+      "id": "summary-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 36
+        }
+      ]
+    },
+    {
+      "id": "summary-three",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 28
+        }
+      ]
+    },
+    {
+      "id": "co-lead-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 31
+        }
+      ]
+    },
+    {
+      "id": "co-lead-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "source-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 19
+        }
+      ]
+    },
+    {
+      "id": "source-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 26
+        }
+      ]
+    }
+  ],
+  "coin_bounds": {
+    "left": 866,
+    "top": 995,
+    "right": 1034,
+    "bottom": 1163,
+    "width": 168,
+    "height": 168
+  },
+  "whole_coin_upper_75_percent_verified": true,
+  "integration": {
+    "method": "Exact original coin PNG seated in the physical fintech-architecture brass/green recess with contact shadows and matched scene lighting",
+    "artwork": "Original uniformly scaled PNG; original portrait, lettering and circular rim preserved",
+    "image_generation_role": "Text-free illustrative fintech architecture background only",
+    "category": "ENTREPRENEURSHIP",
+    "background_credit_on_graphic": false,
+    "background_provenance": "Illustrative fintech architecture, not a documentary photograph or evidence of company assets"
+  },
+  "generation_prompts": [
+    "Create a premium editorial BACKGROUND ONLY for a 1080 x 1920 (9:16) Instagram news Story about Kalshi, the prediction-market startup, announcing a $1 billion Series G at a $40 billion post-money valuation. High-end photographed fintech installation, crisp warm ivory, luminous chartreuse green, dark forest-green structural details and a small satin-brass accent. Bright and sophisticated, distinctly lighter than dark AI data-center imagery.\n\nComposition must support a separately typeset Moneyberg News Brief. Keep nearly the entire region x=80\u2013985, y=140\u20131560 (proportionally if rendered at another resolution) a CLEAN, pale ivory architectural wall with extremely subtle material and soft lighting, especially x=104\u2013961, y=164\u20131100. It is not a floating article card; it is part of the scene. No patterns or contrast behind future text. Frame the far right and lower edge with glossy green glass and thin black metal. Toward the bottom quarter, show elegant overlapping translucent green event-contract panels and a sculptural prediction-market exchange counter: abstract paired binary market cards, immaculate glass edges, fine brushed-metal rails, green refractions and soft reflections. These objects are purely decorative, with NO data, NO numbers, NO charts, NO letters, NO recognizable device UI. Main news overlay will occupy upper 80%; lower quarter contains rich visual depth.\n\nIMPORTANT coin integration: build a small FRONT-FACING empty circular inset medallion seat into a vertical green-metal upright at center x=875, y=1240, radius about 90 px on the 1080 x 1920 composition. This small round recess has a subtle satin-brass rim, recessed flat neutral green disk, physically plausible contact shadow, and compatible warm top-left lighting. It must be circular, not elliptical. It will accept the user's exact original gold Moneyberg coin artwork later; DO NOT draw a coin, face, portrait, inscription, gold disk or imitation logo yourself. Do not place anything elsewhere that looks like an additional coin. Keep this entire mount within the upper 75% (y<1440) of the portrait.\n\nTypography specification for the final composite only: MONEYBERG NEWS BRIEF is a compact one-line 35px Lato Black 900 label, headline and metrics Lato Black, body/source Georgia. New text min33px, body35px, headline51px. DO NOT RENDER ANY OF THIS TEXT IN THE BACKGROUND. It will be accurately set afterwards. Reserve x104\u2013961 y164\u20131536 for the news. NO rendered words, no watermark, no logo, no red guides, no added credit/footer. Create only this convincing quiet ivory-and-green environment with the empty physical circular mount."
+  ],
+  "source": "https://news.kalshi.com/p/kalshi-series-g-40-billion-valuation",
+  "output_sha256": "61fe0d7487beb33acfc66707213ecdb1daa4ac9ac64c198f902a39914a4a5615"
+}
