@@ -421,9 +421,28 @@ Do not change the original source chart's data or labels for layout convenience.
 
 Keep the exported PNG in `exports/` with a clear filename. Cloud workspace files
 are not automatically added to the user's ChatGPT image Library. Workspace file
-links and the artifact viewer failed to download in this session; GitHub raw
-image delivery worked. When the user has authorized a GitHub upload, commit only
-the intended deliverables, push without force, verify the remote commit and
-downloaded file, then give a verified GitHub file or raw image link. Otherwise
-do not claim the file was uploaded. Never claim a download succeeded until it
-was verified.
+links and the artifact viewer failed to download in this session. GitHub delivery
+works, and the user now prefers links that start downloading immediately.
+
+For approved GitHub delivery, commit only the intended deliverables, push
+without force and verify the remote commit. Publish the PNG as a GitHub release
+asset and give its stable direct-download URL:
+`https://github.com/ryanschullo/create-ig-story-news/releases/download/stories-YYYY-MM-DD/FILENAME.png`.
+GitHub raw URLs are useful for previews but do not force downloading; adding
+`?download=1` did not change that behavior. Do not present them as forced downloads.
+
+The reusable `.github/workflows/publish-graphic-download.yml` workflow accepts
+an `edition` date and an approved `filename` inside `exports/`. It validates the
+PNG, then creates the dated release or updates only that named asset while
+preserving other assets. Dispatch it after the export has been committed. This
+uses GitHub's workflow token; direct uploads from this cloud session previously
+returned HTTP 401 even though repository pushes worked. The historical October
+30 batch workflow and its six PNGs/ZIP remain available separately.
+
+Before giving a download link, fetch it without authentication and verify
+HTTP 200, `Content-Disposition: attachment`, the expected filename, dimensions,
+and bytes against the local approved export. A ZIP can be added for batch
+delivery; verify that it contains only the intended originals. Do not claim
+publication or successful verification until those checks pass, and never claim
+the file was saved to the user's device. Browser settings may still prompt for
+a save location. A verified raw preview link may be included separately if useful.

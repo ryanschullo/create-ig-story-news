@@ -1,0 +1,76 @@
+name: Publish a story download
+
+on:
+  workflow_dispatch:
+    inputs:
+      edition:
+        description: Story edition date (YYYY-MM-DD)
+        required: true
+        type: string
+      filename:
+        description: Approved PNG filename inside exports
+        required: true
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: story-downloads-${{ inputs.edition }}
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      STORY_EDITION: ${{ inputs.edition }}
+      STORY_FILENAME: ${{ inputs.filename }}
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Validate the approved export
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import datetime
+          import os
+          from pathlib import Path
+          import re
+          import struct
+
+          edition = os.environ['STORY_EDITION']
+          filename = os.environ['STORY_FILENAME']
+          assert re.fullmatch(r'\d{4}-\d{2}-\d{2}', edition), 'Invalid edition'
+          datetime.date.fromisoformat(edition)
+          assert re.fullmatch(r'[a-z0-9][a-z0-9-]*\.png', filename), 'Invalid filename'
+          assert edition in filename, 'Filename must match the edition'
+          export_dir = Path('exports').resolve()
+          path = (export_dir / filename).resolve()
+          assert path.parent == export_dir, 'Export must remain inside exports'
+          data = path.read_bytes()
+          assert data.startswith(b'\x89PNG\r\n\x1a\n'), 'Not a PNG'
+          assert data[12:16] == b'IHDR', 'Missing PNG dimensions'
+          assert struct.unpack('>II', data[16:24]) == (1080, 1920), 'Wrong story size'
+          Path('download-release-notes.md').write_text(
+              f'Moneyberg News Brief graphics for {edition}.\n\n'
+              'Download the original 1080 x 1920 PNG graphics from the assets below.\n'
+          )
+          PY
+
+      - name: Publish the direct-download asset
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        shell: bash
+        run: |
+          release_tag="stories-$STORY_EDITION"
+          if gh release view "$release_tag" >/dev/null 2>&1; then
+            gh release upload "$release_tag" "exports/$STORY_FILENAME" --clobber
+          else
+            gh release create "$release_tag" "exports/$STORY_FILENAME" \
+              --target "$GITHUB_SHA" \
+              --title "Moneyberg News Brief — $STORY_EDITION" \
+              --notes-file download-release-notes.md \
+              --latest=false
+          fi
