@@ -1,0 +1,716 @@
+{
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "inner_bounds": [
+    104,
+    164,
+    961,
+    1536
+  ],
+  "minimum_authored_font_size_px": 33,
+  "minimum_body_font_size_px": 35,
+  "minimum_headline_font_size_px": 51,
+  "font_size_minimum_verified": true,
+  "renderer": "Chromium via Playwright; HTML/CSS screenshot",
+  "background_sha256": "e6491eef954c12960771d88a76e3bc60e2e09c47a55895ff1f99277e262aba4a",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
+  "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
+  "georgia_redistributed": false,
+  "layout": {
+    "text": [
+      {
+        "id": "brand",
+        "text": "MONEYBERG NEWS BRIEF",
+        "bounds": {
+          "left": 118,
+          "top": 180,
+          "right": 562.109375,
+          "bottom": 222,
+          "width": 444.109375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 179,
+          "right": 562.109375,
+          "bottom": 223,
+          "width": 444.109375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "date",
+        "text": "NOVEMBER 1, 2026",
+        "bounds": {
+          "left": 118,
+          "top": 256,
+          "right": 424.421875,
+          "bottom": 296,
+          "width": 306.421875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 255,
+          "right": 424.421875,
+          "bottom": 297,
+          "width": 306.421875,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "headline-one",
+        "text": "Trump, Netanyahu",
+        "bounds": {
+          "left": 113,
+          "top": 345,
+          "right": 714.875,
+          "bottom": 436,
+          "width": 601.875,
+          "height": 91
+        },
+        "element_bounds": {
+          "left": 113,
+          "top": 349,
+          "right": 714.875,
+          "bottom": 433,
+          "width": 601.875,
+          "height": 84
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "76px"
+      },
+      {
+        "id": "headline-two",
+        "text": "speak as U.S. weighs",
+        "bounds": {
+          "left": 113,
+          "top": 429,
+          "right": 778.21875,
+          "bottom": 520,
+          "width": 665.21875,
+          "height": 91
+        },
+        "element_bounds": {
+          "left": 113,
+          "top": 433,
+          "right": 778.21875,
+          "bottom": 517,
+          "width": 665.21875,
+          "height": 84
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "76px"
+      },
+      {
+        "id": "headline-three",
+        "text": "renewed Iran strikes",
+        "bounds": {
+          "left": 113,
+          "top": 513,
+          "right": 773.09375,
+          "bottom": 604,
+          "width": 660.09375,
+          "height": 91
+        },
+        "element_bounds": {
+          "left": 113,
+          "top": 517,
+          "right": 773.09375,
+          "bottom": 601,
+          "width": 660.09375,
+          "height": 84
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "76px"
+      },
+      {
+        "id": "call-label",
+        "text": "REPORTED CALL \u00b7 OCTOBER 31",
+        "bounds": {
+          "left": 118,
+          "top": 648,
+          "right": 628.59375,
+          "bottom": 689,
+          "width": 510.59375,
+          "height": 41
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 647,
+          "right": 628.59375,
+          "bottom": 691,
+          "width": 510.59375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "34px"
+      },
+      {
+        "id": "summary-one",
+        "text": "WSJ reported a morning call,",
+        "bounds": {
+          "left": 118,
+          "top": 715,
+          "right": 610.1875,
+          "bottom": 758,
+          "width": 492.1875,
+          "height": 43
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 711,
+          "right": 610.1875,
+          "bottom": 762,
+          "width": 492.1875,
+          "height": 51
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "38px"
+      },
+      {
+        "id": "summary-two",
+        "text": "citing people familiar with",
+        "bounds": {
+          "left": 118,
+          "top": 766,
+          "right": 558.6875,
+          "bottom": 809,
+          "width": 440.6875,
+          "height": 43
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 762,
+          "right": 558.6875,
+          "bottom": 813,
+          "width": 440.6875,
+          "height": 51
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "38px"
+      },
+      {
+        "id": "summary-three",
+        "text": "the conversation.",
+        "bounds": {
+          "left": 118,
+          "top": 817,
+          "right": 406.78125,
+          "bottom": 860,
+          "width": 288.78125,
+          "height": 43
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 813,
+          "right": 406.78125,
+          "bottom": 864,
+          "width": 288.78125,
+          "height": 51
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "38px"
+      },
+      {
+        "id": "status-label",
+        "text": "RUBIO \u00b7 OCTOBER 31",
+        "bounds": {
+          "left": 148,
+          "top": 963,
+          "right": 497.59375,
+          "bottom": 1004,
+          "width": 349.59375,
+          "height": 41
+        },
+        "element_bounds": {
+          "left": 148,
+          "top": 962,
+          "right": 497.59375,
+          "bottom": 1006,
+          "width": 349.59375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "34px"
+      },
+      {
+        "id": "status-one",
+        "text": "Trump had not decided",
+        "bounds": {
+          "left": 148,
+          "top": 1035,
+          "right": 541.34375,
+          "bottom": 1078,
+          "width": 393.34375,
+          "height": 43
+        },
+        "element_bounds": {
+          "left": 148,
+          "top": 1031,
+          "right": 541.34375,
+          "bottom": 1082,
+          "width": 393.34375,
+          "height": 51
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "38px"
+      },
+      {
+        "id": "status-two",
+        "text": "whether to resume strikes",
+        "bounds": {
+          "left": 148,
+          "top": 1086,
+          "right": 582.21875,
+          "bottom": 1129,
+          "width": 434.21875,
+          "height": 43
+        },
+        "element_bounds": {
+          "left": 148,
+          "top": 1082,
+          "right": 582.21875,
+          "bottom": 1133,
+          "width": 434.21875,
+          "height": 51
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "38px"
+      },
+      {
+        "id": "status-three",
+        "text": "and preferred diplomacy,",
+        "bounds": {
+          "left": 148,
+          "top": 1137,
+          "right": 572.296875,
+          "bottom": 1180,
+          "width": 424.296875,
+          "height": 43
+        },
+        "element_bounds": {
+          "left": 148,
+          "top": 1133,
+          "right": 572.296875,
+          "bottom": 1184,
+          "width": 424.296875,
+          "height": 51
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "38px"
+      },
+      {
+        "id": "status-four",
+        "text": "the secretary of state said.",
+        "bounds": {
+          "left": 148,
+          "top": 1188,
+          "right": 582.578125,
+          "bottom": 1231,
+          "width": 434.578125,
+          "height": 43
+        },
+        "element_bounds": {
+          "left": 148,
+          "top": 1184,
+          "right": 582.578125,
+          "bottom": 1235,
+          "width": 434.578125,
+          "height": 51
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "38px"
+      },
+      {
+        "id": "source-one",
+        "text": "WSJ report via The Times of Israel",
+        "bounds": {
+          "left": 139,
+          "top": 1399,
+          "right": 644.390625,
+          "bottom": 1436,
+          "width": 505.390625,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 139,
+          "top": 1396,
+          "right": 644.390625,
+          "bottom": 1439,
+          "width": 505.390625,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      },
+      {
+        "id": "source-two",
+        "text": "Rubio remarks: Fox News, Oct. 31",
+        "bounds": {
+          "left": 139,
+          "top": 1442,
+          "right": 633.015625,
+          "bottom": 1479,
+          "width": 494.015625,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 139,
+          "top": 1439,
+          "right": 633.015625,
+          "bottom": 1482,
+          "width": 494.015625,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      }
+    ],
+    "panels": [
+      {
+        "id": "header-rule",
+        "bounds": {
+          "left": 118,
+          "top": 318,
+          "right": 829,
+          "bottom": 319,
+          "width": 711,
+          "height": 1
+        }
+      },
+      {
+        "id": "status-panel",
+        "bounds": {
+          "left": 118,
+          "top": 935,
+          "right": 829,
+          "bottom": 1294,
+          "width": 711,
+          "height": 359
+        }
+      },
+      {
+        "id": "source-panel",
+        "bounds": {
+          "left": 118,
+          "top": 1374,
+          "right": 941,
+          "bottom": 1504,
+          "width": 823,
+          "height": 130
+        }
+      }
+    ],
+    "scene_elements": [
+      {
+        "id": "coin-installation",
+        "bounds": {
+          "left": 874,
+          "top": 878,
+          "right": 1048,
+          "bottom": 1052,
+          "width": 174,
+          "height": 174
+        },
+        "box_shadow": "rgb(51, 34, 13) 3px 5px 8px 0px inset, rgba(16, 14, 11, 0.6) 2px 4px 5px 0px, rgb(255, 223, 158) -1px -1px 2px 0px",
+        "background": "linear-gradient(135deg, rgb(228, 189, 124), rgb(86, 54, 24) 53%, rgb(198, 146, 67))"
+      },
+      {
+        "id": "coin-contact",
+        "bounds": {
+          "left": 878,
+          "top": 882,
+          "right": 1044,
+          "bottom": 1048,
+          "width": 166,
+          "height": 166
+        },
+        "box_shadow": "rgba(50, 31, 11, 0.5) 3px 4px 6px 0px inset, rgba(255, 232, 174, 0.45) -2px -2px 3px 0px inset",
+        "background": "linear-gradient(127deg, rgba(255, 229, 165, 0.18), rgba(0, 0, 0, 0) 46%, rgba(45, 25, 16, 0.12))"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Moneyberg Lato Black",
+        "weight": "900",
+        "status": "loaded"
+      },
+      {
+        "family": "Moneyberg Georgia",
+        "weight": "400",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "id": "background",
+        "natural_width": 941,
+        "natural_height": 1672,
+        "bounds": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        }
+      },
+      {
+        "id": "coin",
+        "natural_width": 2084,
+        "natural_height": 2084,
+        "bounds": {
+          "left": 879,
+          "top": 883,
+          "right": 1043,
+          "bottom": 1047,
+          "width": 164,
+          "height": 164
+        }
+      }
+    ],
+    "document_width": 1080,
+    "document_height": 1920
+  },
+  "platform_fonts": [
+    {
+      "id": "brand",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "headline-one",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "headline-two",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "headline-three",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "call-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 26
+        }
+      ]
+    },
+    {
+      "id": "summary-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 28
+        }
+      ]
+    },
+    {
+      "id": "summary-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 27
+        }
+      ]
+    },
+    {
+      "id": "summary-three",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 17
+        }
+      ]
+    },
+    {
+      "id": "status-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 18
+        }
+      ]
+    },
+    {
+      "id": "status-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 21
+        }
+      ]
+    },
+    {
+      "id": "status-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 25
+        }
+      ]
+    },
+    {
+      "id": "status-three",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 24
+        }
+      ]
+    },
+    {
+      "id": "status-four",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 28
+        }
+      ]
+    },
+    {
+      "id": "source-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 34
+        }
+      ]
+    },
+    {
+      "id": "source-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 32
+        }
+      ]
+    }
+  ],
+  "coin_bounds": {
+    "left": 879,
+    "top": 883,
+    "right": 1043,
+    "bottom": 1047,
+    "width": 164,
+    "height": 164
+  },
+  "whole_coin_upper_75_percent_verified": true,
+  "integration": {
+    "method": "Exact original coin PNG seated in the physical diplomatic-room brass recess with contact shadows and matched scene lighting",
+    "artwork": "Original uniformly scaled PNG; original portrait, lettering and circular rim preserved",
+    "image_generation_role": "Text-free illustrative diplomatic interior only",
+    "topic": "Iran war",
+    "category_badge": null,
+    "background_credit_on_graphic": false,
+    "background_provenance": "Illustrative secure-phone still life, not a photograph of the reported call, meeting or military operation"
+  },
+  "generation_prompts": [
+    "Generate only a premium text-free photographic editorial BACKGROUND for a vertical 9:16 1080x1920 diplomatic news Instagram Story. Topic: a reported Trump-Netanyahu telephone call as the U.S. considers renewed Iran strikes; no new attack, meeting or decision is confirmed. Do NOT depict leaders, people, a real meeting, explosions, missiles, smoke, maps, flags, attack arrows, charts or factual events. Illustrative secure-phone / diplomatic briefing-room still life only, warm cream stone, very dark slate blue, muted ink navy and restrained burgundy leather. Upper 80 percent is a clean quiet dark slate-blue architectural wall, matte and elegantly textured, behind future cream text, with extremely subtle warm light. The entire rectangle x104-961,y164-1536 is reserved for typesetting, so keep details and strong light shifts outside this rectangle. Along the FAR RIGHT x920-1080 is a slim dark walnut and brushed-brass briefing-room architectural upright. In this upright create a single EMPTY circular brass-lined inset medallion seat, front-facing and truly circular, diameter150px, centered x990,y1200. Recess should belong physically to the wall hardware with subtle shadow and matching soft upper-left warm light. No coin artwork or inscription, no portrait. We will install the exact original gold Moneyberg coin asset separately in this seat, never redraw it; whole finished coin must remain above y1440. Below y1580 ONLY, create a beautiful cream-stone desk surface and a generic unbranded dark secure desk telephone with coiled cord and no readable buttons or display. A partly visible closed burgundy leather briefing folder, a brushed-metal pen, and edge of an empty chair may add subtle diplomatic context. Position the phone lower left and use cinematic depth-of-field. No actual government seal or official insignia. No text, numbers or data anywhere. Composition should feel like a restrained high-end international news magazine, serious and factual, no alarmist dramatization. We will typeset MONEYBERG NEWS BRIEF on one compact secondary line using actual Lato Black900 at35px, headline in Lato Black900 >=51px, all body/source in actual Georgia400 >=35/33px, date33px. These font instructions are for the later composite ONLY; render absolutely no words. Final news stays inside x104\u2013961,y164\u20131536. No category badge. Render only the gorgeous diplomatic interior background with quiet large typography space, physical empty coin recess, and lower-quarter telephone still life."
+  ],
+  "source": "https://www.wsj.com/livecoverage/midterm-election-news-2026/card/trump-speaks-with-netanyahu-amid-iran-war-planning-997Gvwvp7DvqXAjexoIg",
+  "output_sha256": "49fcc804977ea2722bf3563454b9a91b57e3235e399d02242017959fbe2f6693"
+}
