@@ -1,0 +1,703 @@
+{
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "inner_bounds": [
+    104,
+    164,
+    961,
+    1536
+  ],
+  "minimum_authored_font_size_px": 33,
+  "minimum_body_font_size_px": 35,
+  "minimum_headline_font_size_px": 51,
+  "font_size_minimum_verified": true,
+  "renderer": "Chromium via Playwright; HTML/CSS screenshot",
+  "background_sha256": "f7a5b88da3e52732496991d7a60f4a5567e23ebbb0222863311763749d3638ca",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
+  "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
+  "georgia_redistributed": false,
+  "layout": {
+    "text": [
+      {
+        "id": "brand",
+        "text": "MONEYBERG NEWS BRIEF",
+        "bounds": {
+          "left": 118,
+          "top": 179,
+          "right": 562.109375,
+          "bottom": 221,
+          "width": 444.109375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 178,
+          "right": 562.109375,
+          "bottom": 222,
+          "width": 444.109375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "category",
+        "text": "OPTIONS INVESTING",
+        "bounds": {
+          "left": 118,
+          "top": 258,
+          "right": 475.90625,
+          "bottom": 299,
+          "width": 357.90625,
+          "height": 41
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 257,
+          "right": 475.90625,
+          "bottom": 301,
+          "width": 357.90625,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "34px"
+      },
+      {
+        "id": "date",
+        "text": "OCTOBER 31, 2026",
+        "bounds": {
+          "left": 118,
+          "top": 310,
+          "right": 413.109375,
+          "bottom": 350,
+          "width": 295.109375,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 309,
+          "right": 413.109375,
+          "bottom": 351,
+          "width": 295.109375,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "headline-one",
+        "text": "AI investors",
+        "bounds": {
+          "left": 113,
+          "top": 404,
+          "right": 559.703125,
+          "bottom": 510,
+          "width": 446.703125,
+          "height": 106
+        },
+        "element_bounds": {
+          "left": 113,
+          "top": 409,
+          "right": 559.703125,
+          "bottom": 506,
+          "width": 446.703125,
+          "height": 97
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "88px"
+      },
+      {
+        "id": "headline-two",
+        "text": "rush to hedge",
+        "bounds": {
+          "left": 113,
+          "top": 501,
+          "right": 627.328125,
+          "bottom": 607,
+          "width": 514.328125,
+          "height": 106
+        },
+        "element_bounds": {
+          "left": 113,
+          "top": 506,
+          "right": 627.328125,
+          "bottom": 603,
+          "width": 514.328125,
+          "height": 97
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "88px"
+      },
+      {
+        "id": "summary-one",
+        "text": "Demand for hedges is accelerating",
+        "bounds": {
+          "left": 118,
+          "top": 650,
+          "right": 707.984375,
+          "bottom": 695,
+          "width": 589.984375,
+          "height": 45
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 646,
+          "right": 707.984375,
+          "bottom": 699,
+          "width": 589.984375,
+          "height": 53
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "39px"
+      },
+      {
+        "id": "summary-two",
+        "text": "after sharp declines in tech stocks",
+        "bounds": {
+          "left": 118,
+          "top": 703,
+          "right": 697.40625,
+          "bottom": 748,
+          "width": 579.40625,
+          "height": 45
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 699,
+          "right": 697.40625,
+          "bottom": 752,
+          "width": 579.40625,
+          "height": 53
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "39px"
+      },
+      {
+        "id": "summary-three",
+        "text": "and growing concern over the financial",
+        "bounds": {
+          "left": 118,
+          "top": 756,
+          "right": 787.46875,
+          "bottom": 801,
+          "width": 669.46875,
+          "height": 45
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 752,
+          "right": 787.46875,
+          "bottom": 805,
+          "width": 669.46875,
+          "height": 53
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "39px"
+      },
+      {
+        "id": "summary-four",
+        "text": "risks of AI infrastructure spending.",
+        "bounds": {
+          "left": 118,
+          "top": 809,
+          "right": 720.90625,
+          "bottom": 854,
+          "width": 602.90625,
+          "height": 45
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 805,
+          "right": 720.90625,
+          "bottom": 858,
+          "width": 602.90625,
+          "height": 53
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "39px"
+      },
+      {
+        "id": "put-label",
+        "text": "PUT OPTIONS",
+        "bounds": {
+          "left": 148,
+          "top": 963,
+          "right": 436.765625,
+          "bottom": 1014,
+          "width": 288.765625,
+          "height": 51
+        },
+        "element_bounds": {
+          "left": 148,
+          "top": 962,
+          "right": 436.765625,
+          "bottom": 1015,
+          "width": 288.765625,
+          "height": 53
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "43px"
+      },
+      {
+        "id": "put-note",
+        "text": "Hedge against falling share prices",
+        "bounds": {
+          "left": 148,
+          "top": 1029,
+          "right": 668.015625,
+          "bottom": 1069,
+          "width": 520.015625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 148,
+          "top": 1026,
+          "right": 668.015625,
+          "bottom": 1072,
+          "width": 520.015625,
+          "height": 46
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "cds-label",
+        "text": "CREDIT-DEFAULT SWAPS",
+        "bounds": {
+          "left": 148,
+          "top": 1161,
+          "right": 659.921875,
+          "bottom": 1212,
+          "width": 511.921875,
+          "height": 51
+        },
+        "element_bounds": {
+          "left": 148,
+          "top": 1160,
+          "right": 659.921875,
+          "bottom": 1213,
+          "width": 511.921875,
+          "height": 53
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "43px"
+      },
+      {
+        "id": "cds-note",
+        "text": "Hedge against corporate default risk",
+        "bounds": {
+          "left": 148,
+          "top": 1227,
+          "right": 708.96875,
+          "bottom": 1267,
+          "width": 560.96875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 148,
+          "top": 1224,
+          "right": 708.96875,
+          "bottom": 1270,
+          "width": 560.96875,
+          "height": 46
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "source-one",
+        "text": "Source: Investing.com, citing",
+        "bounds": {
+          "left": 139,
+          "top": 1400,
+          "right": 562.953125,
+          "bottom": 1437,
+          "width": 423.953125,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 139,
+          "top": 1397,
+          "right": 562.953125,
+          "bottom": 1440,
+          "width": 423.953125,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      },
+      {
+        "id": "source-two",
+        "text": "The Wall Street Journal \u00b7 Oct. 31, 2026",
+        "bounds": {
+          "left": 139,
+          "top": 1443,
+          "right": 703.796875,
+          "bottom": 1480,
+          "width": 564.796875,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 139,
+          "top": 1440,
+          "right": 703.796875,
+          "bottom": 1483,
+          "width": 564.796875,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      }
+    ],
+    "panels": [
+      {
+        "id": "header-rule",
+        "bounds": {
+          "left": 118,
+          "top": 374,
+          "right": 941,
+          "bottom": 375,
+          "width": 823,
+          "height": 1
+        }
+      },
+      {
+        "id": "put-card",
+        "bounds": {
+          "left": 118,
+          "top": 937,
+          "right": 941,
+          "bottom": 1107,
+          "width": 823,
+          "height": 170
+        }
+      },
+      {
+        "id": "cds-card",
+        "bounds": {
+          "left": 118,
+          "top": 1135,
+          "right": 941,
+          "bottom": 1305,
+          "width": 823,
+          "height": 170
+        }
+      },
+      {
+        "id": "source-panel",
+        "bounds": {
+          "left": 118,
+          "top": 1373,
+          "right": 941,
+          "bottom": 1501,
+          "width": 823,
+          "height": 128
+        }
+      },
+      {
+        "id": "source-rule",
+        "bounds": {
+          "left": 118,
+          "top": 1373,
+          "right": 941,
+          "bottom": 1374,
+          "width": 823,
+          "height": 1
+        }
+      }
+    ],
+    "scene_elements": [
+      {
+        "id": "coin-installation",
+        "bounds": {
+          "left": 800,
+          "top": 724,
+          "right": 963,
+          "bottom": 887,
+          "width": 163,
+          "height": 163
+        },
+        "box_shadow": "rgb(20, 14, 11) 4px 5px 8px 0px inset, rgb(9, 9, 12) 2px 4px 5px 0px, rgb(233, 199, 151) -1px -1px 2px 0px",
+        "background": "linear-gradient(135deg, rgb(193, 160, 108), rgb(69, 54, 36) 53%, rgb(161, 130, 76))"
+      },
+      {
+        "id": "coin-contact",
+        "bounds": {
+          "left": 804,
+          "top": 728,
+          "right": 959,
+          "bottom": 883,
+          "width": 155,
+          "height": 155
+        },
+        "box_shadow": "rgba(26, 17, 11, 0.65) 3px 5px 7px 0px inset, rgba(246, 204, 137, 0.35) -2px -2px 3px 0px inset",
+        "background": "linear-gradient(127deg, rgba(251, 218, 161, 0.16), rgba(0, 0, 0, 0) 46%, rgba(18, 19, 28, 0.14))"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Moneyberg Lato Black",
+        "weight": "900",
+        "status": "loaded"
+      },
+      {
+        "family": "Moneyberg Georgia",
+        "weight": "400",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "id": "background",
+        "natural_width": 940,
+        "natural_height": 1672,
+        "bounds": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        }
+      },
+      {
+        "id": "coin",
+        "natural_width": 2084,
+        "natural_height": 2084,
+        "bounds": {
+          "left": 805,
+          "top": 729,
+          "right": 958,
+          "bottom": 882,
+          "width": 153,
+          "height": 153
+        }
+      }
+    ],
+    "document_width": 1080,
+    "document_height": 1920
+  },
+  "platform_fonts": [
+    {
+      "id": "brand",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "category",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 17
+        }
+      ]
+    },
+    {
+      "id": "date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "headline-one",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 12
+        }
+      ]
+    },
+    {
+      "id": "headline-two",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 13
+        }
+      ]
+    },
+    {
+      "id": "summary-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 33
+        }
+      ]
+    },
+    {
+      "id": "summary-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 35
+        }
+      ]
+    },
+    {
+      "id": "summary-three",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 38
+        }
+      ]
+    },
+    {
+      "id": "summary-four",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 36
+        }
+      ]
+    },
+    {
+      "id": "put-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 11
+        }
+      ]
+    },
+    {
+      "id": "put-note",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 34
+        }
+      ]
+    },
+    {
+      "id": "cds-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "cds-note",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 36
+        }
+      ]
+    },
+    {
+      "id": "source-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 29
+        }
+      ]
+    },
+    {
+      "id": "source-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 39
+        }
+      ]
+    }
+  ],
+  "coin_bounds": {
+    "left": 805,
+    "top": 729,
+    "right": 958,
+    "bottom": 882,
+    "width": 153,
+    "height": 153
+  },
+  "whole_coin_upper_75_percent_verified": true,
+  "integration": {
+    "method": "Exact original coin PNG seated in the physical server-frame brass recess with contact shadows and matched scene lighting",
+    "artwork": "Original uniformly scaled PNG; original portrait, lettering and circular rim preserved",
+    "image_generation_role": "Text-free illustrative data-center background only",
+    "generated_source": "/workspace/generated_images/exec-ed0c7041-af5e-4c16-b52e-195aa095a039.png",
+    "category": "OPTIONS INVESTING",
+    "background_credit_on_graphic": false,
+    "background_provenance": "Illustrative data-center interior, not a documentary photograph or evidence of market movements"
+  },
+  "generation_prompts": [
+    "Create a premium photographic editorial background for a vertical 9:16 Instagram financial news story, final canvas 1080x1920. Topic: AI investors buying hedging protection through put options and credit-default swaps amid worries about technology stocks and spending on AI data centers. Render ONLY a text-free environment, never any words, numbers, logos, charts, UI, arrows or coin artwork. Art direction: sophisticated midnight indigo, inky aubergine/plum, muted teal light, dark satin metal, restrained warm brass. Cinematic real architectural materials, striking yet calm, elegant financial magazine quality. In the upper 80% of the frame, left 85% is an extremely quiet flat subtly textured dark plum wall, uniformly dark enough for ivory large text. Keep x95-965,y140-1480 clear and calm; no bright objects or busy circuitry behind future words. Along the far right edge, a narrow receding bank of AI server cabinets can begin near x970, small teal indicator lights, no letters. At bottom quarter below y1490 reveal a beautiful wide diagonal foreground of brushed dark metal server hardware and protective physical architectural ribs, realistic depth, hints of glass reflections and fine cables, moody teal edge lighting. The scene should communicate AI infrastructure and protection without symbolic stock charts. At the middle-right edge x900-1080 around y1100, create a straight-on dark brushed-metal vertical architectural server-frame plate integrated into the environment; a perfectly circular EMPTY brass-lined recessed mount diameter158px centered near x985,y1165 belongs to that plate. The recess center is blank dark, with grounded contact shadows and subtle upper-left warm illumination. We will install an exact original gold medallion asset in that mount later; do not invent a coin or insignia. Entire mount stays above y1410. Keep x104-860,y1040-1480 unbroken dark wall. The contrast of high-end dark-plum wall, indigo server equipment and subdued teal reflections should look designed, not generic tech wallpaper. No literal lock or shield icon. Strong edge-to-edge composition, rich restrained tonal depth, physical realistic scene, no panels, no borders. Typesetting will be added separately using actual Lato Black and Georgia. No text whatsoever."
+  ],
+  "source": "https://www.investing.com/news/stock-market-news/ai-investors-rush-to-hedge-against-potential-tech-market-downturn--wsj-4989371",
+  "output_sha256": "3c00bdc4c242ab417fe9f756857260470d9ed73475a7e17b040f9c648182ba77"
+}
