@@ -1,0 +1,531 @@
+{
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "inner_bounds": [
+    104,
+    164,
+    961,
+    1536
+  ],
+  "minimum_authored_font_size_px": 33,
+  "minimum_body_font_size_px": 35,
+  "minimum_headline_font_size_px": 51,
+  "font_size_minimum_verified": true,
+  "renderer": "Chromium via Playwright; HTML/CSS screenshot",
+  "background_sha256": "18331b4b424fd919243596ee70665e64435174fa024e264b971c9d6aa3e12dc2",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "original_chart_sha256": "9c0afd46c735874a946edf2ff7030fcd77d786d2c4a390263fa379eb4550f080",
+  "chart_bounds": {
+    "left": 104,
+    "top": 647,
+    "right": 961,
+    "bottom": 1218.875,
+    "width": 857,
+    "height": 571.875
+  },
+  "chart_preserved_without_crop_or_redraw": true,
+  "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
+  "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
+  "georgia_redistributed": false,
+  "layout": {
+    "text": [
+      {
+        "id": "brand",
+        "text": "MONEYBERG NEWS BRIEF",
+        "bounds": {
+          "left": 118,
+          "top": 185,
+          "right": 563.109375,
+          "bottom": 227,
+          "width": 445.109375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 184,
+          "right": 563.109375,
+          "bottom": 228,
+          "width": 445.109375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "category",
+        "text": "CONSUMER SENTIMENT",
+        "bounds": {
+          "left": 118,
+          "top": 246,
+          "right": 520.296875,
+          "bottom": 286,
+          "width": 402.296875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 245,
+          "right": 520.296875,
+          "bottom": 287,
+          "width": 402.296875,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "date",
+        "text": "NOVEMBER 1, 2026",
+        "bounds": {
+          "left": 118,
+          "top": 296,
+          "right": 424.421875,
+          "bottom": 336,
+          "width": 306.421875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 295,
+          "right": 424.421875,
+          "bottom": 337,
+          "width": 306.421875,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "headline-one",
+        "text": "Medical care prices",
+        "bounds": {
+          "left": 114,
+          "top": 367,
+          "right": 671.28125,
+          "bottom": 448,
+          "width": 557.28125,
+          "height": 81
+        },
+        "element_bounds": {
+          "left": 114,
+          "top": 368,
+          "right": 671.28125,
+          "bottom": 448,
+          "width": 557.28125,
+          "height": 80
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "68px"
+      },
+      {
+        "id": "headline-two",
+        "text": "up 132% since 2000",
+        "bounds": {
+          "left": 114,
+          "top": 447,
+          "right": 768.734375,
+          "bottom": 538,
+          "width": 654.734375,
+          "height": 91
+        },
+        "element_bounds": {
+          "left": 114,
+          "top": 448,
+          "right": 768.734375,
+          "bottom": 537,
+          "width": 654.734375,
+          "height": 89
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "76px"
+      },
+      {
+        "id": "comparison",
+        "text": "Overall CPI: +99% over the same period.",
+        "bounds": {
+          "left": 118,
+          "top": 567,
+          "right": 747.421875,
+          "bottom": 607,
+          "width": 629.421875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 565,
+          "right": 747.421875,
+          "bottom": 610,
+          "width": 629.421875,
+          "height": 45
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "survey-one",
+        "text": "3 in 10 insured adults ages 18\u201364 delayed",
+        "bounds": {
+          "left": 118,
+          "top": 1272,
+          "right": 760.90625,
+          "bottom": 1312,
+          "width": 642.90625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1270,
+          "right": 760.90625,
+          "bottom": 1315,
+          "width": 642.90625,
+          "height": 45
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "survey-two",
+        "text": "or skipped needed care because of cost.",
+        "bounds": {
+          "left": 118,
+          "top": 1317,
+          "right": 723.296875,
+          "bottom": 1357,
+          "width": 605.296875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1315,
+          "right": 723.296875,
+          "bottom": 1360,
+          "width": 605.296875,
+          "height": 45
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "survey-note",
+        "text": "Prior 12 months \u00b7 KFF, May 2026 survey",
+        "bounds": {
+          "left": 118,
+          "top": 1375,
+          "right": 707.34375,
+          "bottom": 1412,
+          "width": 589.34375,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1372,
+          "right": 707.34375,
+          "bottom": 1415,
+          "width": 589.34375,
+          "height": 43
+        },
+        "text_role": "caption",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      },
+      {
+        "id": "source-one",
+        "text": "Chart: The Kobeissi Letter \u00b7 BLS data",
+        "bounds": {
+          "left": 118,
+          "top": 1458,
+          "right": 657.53125,
+          "bottom": 1495,
+          "width": 539.53125,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1455,
+          "right": 657.53125,
+          "bottom": 1498,
+          "width": 539.53125,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      }
+    ],
+    "panels": [
+      {
+        "id": "source-chart",
+        "bounds": {
+          "left": 104,
+          "top": 647,
+          "right": 961,
+          "bottom": 1218.875,
+          "width": 857,
+          "height": 571.875
+        }
+      },
+      {
+        "id": "lower-reading-panel",
+        "bounds": {
+          "left": 104,
+          "top": 1248,
+          "right": 961,
+          "bottom": 1512,
+          "width": 857,
+          "height": 264
+        }
+      },
+      {
+        "id": "source-panel",
+        "bounds": {
+          "left": 104,
+          "top": 1442,
+          "right": 961,
+          "bottom": 1512,
+          "width": 857,
+          "height": 70
+        }
+      }
+    ],
+    "scene_elements": [
+      {
+        "id": "coin-installation",
+        "bounds": {
+          "left": 895,
+          "top": 369,
+          "right": 1051,
+          "bottom": 525,
+          "width": 156,
+          "height": 156
+        },
+        "box_shadow": "rgb(16, 30, 27) 3px 5px 7px 0px inset, rgb(7, 30, 33) 2px 4px 5px 0px, rgb(190, 222, 211) -1px -1px 2px 0px",
+        "background": "linear-gradient(135deg, rgb(221, 206, 148), rgb(92, 75, 42) 53%, rgb(189, 161, 99))"
+      },
+      {
+        "id": "coin-contact",
+        "bounds": {
+          "left": 899,
+          "top": 373,
+          "right": 1047,
+          "bottom": 521,
+          "width": 148,
+          "height": 148
+        },
+        "box_shadow": "rgba(19, 31, 28, 0.58) 3px 4px 6px 0px inset, rgba(223, 244, 227, 0.36) -2px -2px 3px 0px inset",
+        "background": "linear-gradient(125deg, rgba(205, 239, 222, 0.1), rgba(0, 0, 0, 0) 45%, rgba(5, 37, 41, 0.13))"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Moneyberg Lato Black",
+        "weight": "900",
+        "status": "loaded"
+      },
+      {
+        "family": "Moneyberg Georgia",
+        "weight": "400",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "id": "background",
+        "natural_width": 941,
+        "natural_height": 1672,
+        "bounds": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        }
+      },
+      {
+        "id": "coin",
+        "natural_width": 2084,
+        "natural_height": 2084,
+        "bounds": {
+          "left": 900,
+          "top": 374,
+          "right": 1046,
+          "bottom": 520,
+          "width": 146,
+          "height": 146
+        }
+      },
+      {
+        "id": "source-chart",
+        "natural_width": 1560,
+        "natural_height": 1041,
+        "bounds": {
+          "left": 104,
+          "top": 647,
+          "right": 961,
+          "bottom": 1218.875,
+          "width": 857,
+          "height": 571.875
+        }
+      }
+    ],
+    "document_width": 1080,
+    "document_height": 1920
+  },
+  "platform_fonts": [
+    {
+      "id": "brand",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "category",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 18
+        }
+      ]
+    },
+    {
+      "id": "date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "headline-one",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 19
+        }
+      ]
+    },
+    {
+      "id": "headline-two",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 18
+        }
+      ]
+    },
+    {
+      "id": "comparison",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 39
+        }
+      ]
+    },
+    {
+      "id": "survey-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 41
+        }
+      ]
+    },
+    {
+      "id": "survey-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 39
+        }
+      ]
+    },
+    {
+      "id": "survey-note",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 38
+        }
+      ]
+    },
+    {
+      "id": "source-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 37
+        }
+      ]
+    }
+  ],
+  "coin_bounds": {
+    "left": 900,
+    "top": 374,
+    "right": 1046,
+    "bottom": 520,
+    "width": 146,
+    "height": 146
+  },
+  "whole_coin_upper_75_percent_verified": true,
+  "integration": {
+    "method": "Exact original coin installed in the clinical-equipment cabinet frame brass seat with compatible contact shadows and lighting",
+    "artwork": "Original PNG uniformly scaled; exact portrait and rim lettering preserved",
+    "image_generation_role": "Text-free illustrative clinical still life; source chart preserved separately",
+    "category": "CONSUMER SENTIMENT",
+    "background_credit_on_graphic": false
+  },
+  "generation_prompts": [
+    "Create a polished TEXT-FREE 9:16 editorial healthcare-cost background, intended final1080x1920 Instagramstory. Distinct deep petrol teal, muted sage, cool brushed steel and soft restrained gold. Calm premium clinical stilllife with a long front-facing matte dark-teal wall occupying entire upper82% and left84%. Keep newsreading space x104\u2013925,y164\u20131536 completely empty, nearlyuniform verydarkteal, no patterns, graphics, objects or hardshadows; a large original black-background economic chart will later go at x104\u2013961,y690\u20131262. Far right x935\u20131080 in upperthird is an elegant narrow brushedsteel medical equipment cabinet frame. In that frame create one small EMPTY perfectly round brasslined mounting recess centeredaroundx997,y475diameter138, fronton, realistic seated edge/contactshadow. We will insert exactoriginalMoneybergcoin later; do NOTgenerate acoin, face, symbolorlettering. Fullfuturecoinabove y1440 andabovechart. Below y1590 ONLY, a sophisticated photographic stilllife of stethoscope, a few unbranded translucent medicine containers and neatly stacked blank medicalpapers on a darkteal clinicaltable; clean contemporaryhealthcareinterior with restrainedsagereflections. No patient or illnesscrisis, no cashorprice tags, no fakecharts, numericaldata, words, logosorwatermarks. Not an actualeventphotograph. Finaltypesetting addedseparatelyuses actualLatoBlack900 headline>=51px labels>=33px compact35pxsinglelineMONEYBERG NEWS BRIEF pluscategoryCONSUMER SENTIMENT; actualGeorgia400body>=35px/source>=33px. Allnewstextinside x104\u2013961,y164\u20131536. Keep backdropveryquiet andchartprimary. Generate only the text-free scene."
+  ],
+  "source": "https://x.com/KobeissiLetter/status/2117106764550214038",
+  "chart_source": "https://pbs.twimg.com/media/HV4uQtmWAAA5By3?format=jpg&name=orig",
+  "statistical_scope": "Cumulative price changes since 2000, as reported in the supplied chart; not independently reconstructed BLS series",
+  "survey_source": "https://www.kff.org/health-costs/americans-challenges-with-health-care-costs/",
+  "survey_scope": "Insured adults ages 18\u201364; skipped or postponed needed care due to cost in prior12months; May4\u201326,2026 survey",
+  "output_sha256": "5ad5e8609ec559030d2d183093ed32f181919db6f4af5a3aa4d0aea589f54d17"
+}

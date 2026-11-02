@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><base href="__ASSET_BASE_URI__">
+<title>Medical care prices since 2000 — November 1, 2026</title>
+<style>
+@font-face{font-family:"Moneyberg Lato Black";src:url("fonts/lato/Lato-Black.ttf") format("truetype");font-weight:900;font-style:normal}
+@font-face{font-family:"Moneyberg Georgia";src:url("__GEORGIA_FONT_URI__") format("truetype");font-weight:400;font-style:normal}
+*{box-sizing:border-box}html,body{margin:0;width:1080px;height:1920px;overflow:hidden;background:#062b30}
+#stage{position:relative;width:1080px;height:1920px;isolation:isolate;overflow:hidden}
+#background{position:absolute;inset:0;width:1080px;height:1920px;object-fit:cover}
+.text{position:absolute;margin:0;z-index:5;font-synthesis:none;text-rendering:geometricPrecision;-webkit-font-smoothing:antialiased;white-space:nowrap}
+.lato{font-family:"Moneyberg Lato Black";font-weight:900;color:#f1f5ee}
+.georgia{font-family:"Moneyberg Georgia";font-weight:400;color:#d8e7de}
+#brand{left:118px;top:184px;font-size:35px;line-height:44px;letter-spacing:.3px}
+#category{left:118px;top:245px;font-size:33px;line-height:42px;letter-spacing:1px;color:#a9d6ca}
+#date{left:118px;top:295px;font-size:33px;line-height:42px;color:#c2d5cd}
+#headline-one{left:114px;top:368px;font-size:68px;line-height:80px;letter-spacing:-1.4px}
+#headline-two{left:114px;top:448px;font-size:76px;line-height:89px;letter-spacing:-1.7px;color:#d8eddc}
+#comparison{left:118px;top:565px;font-size:35px;line-height:45px}
+#source-chart{position:absolute;left:104px;top:647px;width:857px;height:auto;object-fit:contain;z-index:4}
+#lower-reading-panel{position:absolute;left:104px;top:1248px;width:857px;height:264px;z-index:3;background:rgba(5,37,41,.97)}
+#survey-one,#survey-two{left:118px;font-size:35px;line-height:45px}
+#survey-one{top:1270px}#survey-two{top:1315px}
+#survey-note{left:118px;top:1372px;font-size:33px;line-height:43px;color:#c1d4cb}
+#source-panel{position:absolute;left:104px;top:1442px;width:857px;height:70px;z-index:3;background:rgba(5,37,41,.97);border-top:1px solid rgba(169,214,202,.35)}
+#source-one{left:118px;top:1455px;font-size:33px;line-height:43px;color:#c6dcd1}
+/* The unchanged original coin seats in the clinical equipment-frame recess. */
+#coin-installation{position:absolute;left:895px;top:369px;width:156px;height:156px;z-index:2;border-radius:50%;background:linear-gradient(135deg,#ddce94,#5c4b2a 53%,#bda163);border:2px solid #a38c52;box-shadow:inset 3px 5px 7px #101e1b,2px 4px 5px #071e21,-1px -1px 2px #beded3}
+#coin{position:absolute;left:3px;top:3px;width:146px;height:146px;object-fit:contain;border-radius:50%;filter:saturate(.78) brightness(.89)}
+#coin-contact{position:absolute;inset:2px;border-radius:50%;pointer-events:none;box-shadow:inset 3px 4px 6px rgba(19,31,28,.58),inset -2px -2px 3px rgba(223,244,227,.36);background:linear-gradient(125deg,rgba(205,239,222,.1),transparent 45%,rgba(5,37,41,.13))}
+</style></head><body><main id="stage" aria-label="Medical care price increases since 2000, with original source chart and KFF survey context">
+<img id="background" src="medical-care-inflation-background-2026-11-01.png" alt="">
+<div id="coin-installation" data-scene-element aria-hidden="true"><img id="coin" src="moneyberg-coin-original.png" alt=""><div id="coin-contact" data-scene-element></div></div>
+<div id="brand" class="text lato" data-news-text>MONEYBERG NEWS BRIEF</div>
+<div id="category" class="text lato" data-news-text>CONSUMER SENTIMENT</div>
+<div id="date" class="text lato" data-news-text>NOVEMBER 1, 2026</div>
+<div id="headline-one" class="text lato" data-news-text data-text-role="headline">Medical care prices</div>
+<div id="headline-two" class="text lato" data-news-text data-text-role="headline">up 132% since 2000</div>
+<div id="comparison" class="text georgia" data-news-text data-text-role="body">Overall CPI: +99% over the same period.</div>
+<img id="source-chart" src="medical-care-inflation-chart-original-2026-11-01.jpg" alt="Original Kobeissi Letter chart citing Bureau of Labor Statistics: cumulative medical care prices 132 percent, shelter 127 percent, food 112 percent and all items CPI 99 percent since 2000. Full title, axes, legend and source credits preserved." data-news-panel>
+<div id="lower-reading-panel" data-news-panel></div>
+<div id="survey-one" class="text georgia" data-news-text data-text-role="body">3 in 10 insured adults ages 18–64 delayed</div>
+<div id="survey-two" class="text georgia" data-news-text data-text-role="body">or skipped needed care because of cost.</div>
+<div id="survey-note" class="text georgia" data-news-text data-text-role="caption">Prior 12 months · KFF, May 2026 survey</div>
+<div id="source-panel" data-news-panel></div>
+<div id="source-one" class="text georgia" data-news-text data-text-role="source">Chart: The Kobeissi Letter · BLS data</div>
+</main></body></html>
