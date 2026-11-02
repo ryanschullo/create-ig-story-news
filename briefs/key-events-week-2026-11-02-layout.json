@@ -1,0 +1,915 @@
+{
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "inner_bounds": [
+    104,
+    164,
+    961,
+    1536
+  ],
+  "minimum_authored_font_size_px": 33,
+  "minimum_body_font_size_px": 35,
+  "minimum_headline_font_size_px": 51,
+  "font_size_minimum_verified": true,
+  "renderer": "Chromium via Playwright; HTML/CSS screenshot",
+  "background_sha256": "da009b361e1635a294c9f2a11022f9a423fdce2a792a411dd88bef190da5208b",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
+  "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
+  "georgia_redistributed": false,
+  "layout": {
+    "text": [
+      {
+        "id": "brand",
+        "text": "MONEYBERG NEWS BRIEF",
+        "bounds": {
+          "left": 118,
+          "top": 181,
+          "right": 563.109375,
+          "bottom": 223,
+          "width": 445.109375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 180,
+          "right": 563.109375,
+          "bottom": 224,
+          "width": 445.109375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "category",
+        "text": "STOCK MARKET",
+        "bounds": {
+          "left": 118,
+          "top": 247,
+          "right": 396.515625,
+          "bottom": 287,
+          "width": 278.515625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 246,
+          "right": 396.515625,
+          "bottom": 289,
+          "width": 278.515625,
+          "height": 43
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "headline-one",
+        "text": "This week\u2019s",
+        "bounds": {
+          "left": 113,
+          "top": 333,
+          "right": 504.609375,
+          "bottom": 429,
+          "width": 391.609375,
+          "height": 96
+        },
+        "element_bounds": {
+          "left": 113,
+          "top": 337,
+          "right": 504.609375,
+          "bottom": 426,
+          "width": 391.609375,
+          "height": 89
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "80px"
+      },
+      {
+        "id": "headline-two",
+        "text": "big market events",
+        "bounds": {
+          "left": 113,
+          "top": 423,
+          "right": 718.640625,
+          "bottom": 519,
+          "width": 605.640625,
+          "height": 96
+        },
+        "element_bounds": {
+          "left": 113,
+          "top": 427,
+          "right": 718.640625,
+          "bottom": 516,
+          "width": 605.640625,
+          "height": 89
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "80px"
+      },
+      {
+        "id": "week",
+        "text": "NOVEMBER 2\u20136, 2026",
+        "bounds": {
+          "left": 118,
+          "top": 549,
+          "right": 506.640625,
+          "bottom": 593,
+          "width": 388.640625,
+          "height": 44
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 548,
+          "right": 506.640625,
+          "bottom": 594,
+          "width": 388.640625,
+          "height": 46
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "36px"
+      },
+      {
+        "id": "monday",
+        "text": "MON",
+        "bounds": {
+          "left": 118,
+          "top": 657,
+          "right": 209.765625,
+          "bottom": 699,
+          "width": 91.765625,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 656,
+          "right": 209.765625,
+          "bottom": 700,
+          "width": 91.765625,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "monday-date",
+        "text": "02",
+        "bounds": {
+          "left": 113,
+          "top": 699,
+          "right": 196,
+          "bottom": 789,
+          "width": 83,
+          "height": 90
+        },
+        "element_bounds": {
+          "left": 113,
+          "top": 700,
+          "right": 196,
+          "bottom": 788,
+          "width": 83,
+          "height": 88
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "75px"
+      },
+      {
+        "id": "apple-palantir",
+        "text": "Apple & Palantir",
+        "bounds": {
+          "left": 288,
+          "top": 650,
+          "right": 653.265625,
+          "bottom": 712,
+          "width": 365.265625,
+          "height": 62
+        },
+        "element_bounds": {
+          "left": 288,
+          "top": 649,
+          "right": 653.265625,
+          "bottom": 714,
+          "width": 365.265625,
+          "height": 65
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "52px"
+      },
+      {
+        "id": "monday-detail",
+        "text": "Earnings",
+        "bounds": {
+          "left": 291,
+          "top": 722,
+          "right": 446.34375,
+          "bottom": 767,
+          "width": 155.34375,
+          "height": 45
+        },
+        "element_bounds": {
+          "left": 291,
+          "top": 721,
+          "right": 446.34375,
+          "bottom": 769,
+          "width": 155.34375,
+          "height": 48
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "39px"
+      },
+      {
+        "id": "tuesday",
+        "text": "TUE",
+        "bounds": {
+          "left": 118,
+          "top": 867,
+          "right": 188.328125,
+          "bottom": 909,
+          "width": 70.328125,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 866,
+          "right": 188.328125,
+          "bottom": 910,
+          "width": 70.328125,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "tuesday-date",
+        "text": "03",
+        "bounds": {
+          "left": 113,
+          "top": 909,
+          "right": 196,
+          "bottom": 999,
+          "width": 83,
+          "height": 90
+        },
+        "element_bounds": {
+          "left": 113,
+          "top": 910,
+          "right": 196,
+          "bottom": 998,
+          "width": 83,
+          "height": 88
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "75px"
+      },
+      {
+        "id": "midterms",
+        "text": "U.S. midterm elections",
+        "bounds": {
+          "left": 288,
+          "top": 859,
+          "right": 755.9375,
+          "bottom": 916,
+          "width": 467.9375,
+          "height": 57
+        },
+        "element_bounds": {
+          "left": 288,
+          "top": 858,
+          "right": 755.9375,
+          "bottom": 917,
+          "width": 467.9375,
+          "height": 59
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "48px"
+      },
+      {
+        "id": "amd",
+        "text": "AMD earnings",
+        "bounds": {
+          "left": 288,
+          "top": 944,
+          "right": 588.96875,
+          "bottom": 1001,
+          "width": 300.96875,
+          "height": 57
+        },
+        "element_bounds": {
+          "left": 288,
+          "top": 943,
+          "right": 588.96875,
+          "bottom": 1002,
+          "width": 300.96875,
+          "height": 59
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "48px"
+      },
+      {
+        "id": "friday",
+        "text": "FRI",
+        "bounds": {
+          "left": 118,
+          "top": 1104,
+          "right": 174.15625,
+          "bottom": 1146,
+          "width": 56.15625,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1103,
+          "right": 174.15625,
+          "bottom": 1147,
+          "width": 56.15625,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "friday-date",
+        "text": "06",
+        "bounds": {
+          "left": 113,
+          "top": 1146,
+          "right": 196,
+          "bottom": 1236,
+          "width": 83,
+          "height": 90
+        },
+        "element_bounds": {
+          "left": 113,
+          "top": 1147,
+          "right": 196,
+          "bottom": 1235,
+          "width": 83,
+          "height": 88
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "75px"
+      },
+      {
+        "id": "jobs",
+        "text": "October jobs report",
+        "bounds": {
+          "left": 288,
+          "top": 1097,
+          "right": 698.71875,
+          "bottom": 1154,
+          "width": 410.71875,
+          "height": 57
+        },
+        "element_bounds": {
+          "left": 288,
+          "top": 1096,
+          "right": 698.71875,
+          "bottom": 1155,
+          "width": 410.71875,
+          "height": 59
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "48px"
+      },
+      {
+        "id": "jobs-detail",
+        "text": "8:30 a.m. ET",
+        "bounds": {
+          "left": 291,
+          "top": 1159,
+          "right": 492.34375,
+          "bottom": 1199,
+          "width": 201.34375,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 291,
+          "top": 1157,
+          "right": 492.34375,
+          "bottom": 1202,
+          "width": 201.34375,
+          "height": 45
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "sentiment",
+        "text": "Consumer sentiment",
+        "bounds": {
+          "left": 288,
+          "top": 1227,
+          "right": 720.265625,
+          "bottom": 1284,
+          "width": 432.265625,
+          "height": 57
+        },
+        "element_bounds": {
+          "left": 288,
+          "top": 1226,
+          "right": 720.265625,
+          "bottom": 1285,
+          "width": 432.265625,
+          "height": 59
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "48px"
+      },
+      {
+        "id": "sentiment-detail",
+        "text": "Michigan prelim. \u00b7 10 a.m. ET",
+        "bounds": {
+          "left": 291,
+          "top": 1289,
+          "right": 748.515625,
+          "bottom": 1329,
+          "width": 457.515625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 291,
+          "top": 1287,
+          "right": 748.515625,
+          "bottom": 1332,
+          "width": 457.515625,
+          "height": 45
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "source-one",
+        "text": "Sources: The Kobeissi Letter \u00b7 Company IR",
+        "bounds": {
+          "left": 118,
+          "top": 1414,
+          "right": 741.265625,
+          "bottom": 1451,
+          "width": 623.265625,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1411,
+          "right": 741.265625,
+          "bottom": 1454,
+          "width": 623.265625,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      },
+      {
+        "id": "source-two",
+        "text": "FEC \u00b7 BLS \u00b7 University of Michigan",
+        "bounds": {
+          "left": 118,
+          "top": 1457,
+          "right": 623.859375,
+          "bottom": 1494,
+          "width": 505.859375,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1454,
+          "right": 623.859375,
+          "bottom": 1497,
+          "width": 505.859375,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      }
+    ],
+    "panels": [
+      {
+        "id": "top-rule",
+        "bounds": {
+          "left": 118,
+          "top": 615,
+          "right": 923,
+          "bottom": 616,
+          "width": 805,
+          "height": 1
+        }
+      },
+      {
+        "id": "mon-rule",
+        "bounds": {
+          "left": 118,
+          "top": 818,
+          "right": 923,
+          "bottom": 819,
+          "width": 805,
+          "height": 1
+        }
+      },
+      {
+        "id": "tue-rule",
+        "bounds": {
+          "left": 118,
+          "top": 1060,
+          "right": 923,
+          "bottom": 1061,
+          "width": 805,
+          "height": 1
+        }
+      },
+      {
+        "id": "footer-rule",
+        "bounds": {
+          "left": 118,
+          "top": 1383,
+          "right": 923,
+          "bottom": 1384,
+          "width": 805,
+          "height": 1
+        }
+      },
+      {
+        "id": "source-panel",
+        "bounds": {
+          "left": 104,
+          "top": 1400,
+          "right": 923,
+          "bottom": 1512,
+          "width": 819,
+          "height": 112
+        }
+      }
+    ],
+    "scene_elements": [
+      {
+        "id": "coin-installation",
+        "bounds": {
+          "left": 909,
+          "top": 434,
+          "right": 1069,
+          "bottom": 594,
+          "width": 160,
+          "height": 160
+        },
+        "box_shadow": "rgb(33, 22, 10) 4px 5px 8px 0px inset, rgb(2, 11, 19) 2px 4px 7px 0px, rgb(217, 185, 121) -1px -1px 2px 0px",
+        "background": "linear-gradient(135deg, rgb(240, 211, 152), rgb(106, 69, 29) 55%, rgb(189, 148, 82))"
+      },
+      {
+        "id": "coin-contact",
+        "bounds": {
+          "left": 913,
+          "top": 438,
+          "right": 1065,
+          "bottom": 590,
+          "width": 152,
+          "height": 152
+        },
+        "box_shadow": "rgba(31, 20, 8, 0.5) 4px 5px 7px 0px inset, rgba(255, 230, 168, 0.32) -2px -2px 3px 0px inset",
+        "background": "linear-gradient(125deg, rgba(255, 229, 166, 0.14), rgba(0, 0, 0, 0) 45%, rgba(9, 18, 26, 0.16))"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Moneyberg Lato Black",
+        "weight": "900",
+        "status": "loaded"
+      },
+      {
+        "family": "Moneyberg Georgia",
+        "weight": "400",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "id": "background",
+        "natural_width": 941,
+        "natural_height": 1672,
+        "bounds": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        }
+      },
+      {
+        "id": "coin",
+        "natural_width": 2084,
+        "natural_height": 2084,
+        "bounds": {
+          "left": 916,
+          "top": 441,
+          "right": 1062,
+          "bottom": 587,
+          "width": 146,
+          "height": 146
+        }
+      }
+    ],
+    "document_width": 1080,
+    "document_height": 1920
+  },
+  "platform_fonts": [
+    {
+      "id": "brand",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "category",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 12
+        }
+      ]
+    },
+    {
+      "id": "headline-one",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 11
+        }
+      ]
+    },
+    {
+      "id": "headline-two",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 17
+        }
+      ]
+    },
+    {
+      "id": "week",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 18
+        }
+      ]
+    },
+    {
+      "id": "monday",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 3
+        }
+      ]
+    },
+    {
+      "id": "monday-date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 2
+        }
+      ]
+    },
+    {
+      "id": "apple-palantir",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "monday-detail",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 8
+        }
+      ]
+    },
+    {
+      "id": "tuesday",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 3
+        }
+      ]
+    },
+    {
+      "id": "tuesday-date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 2
+        }
+      ]
+    },
+    {
+      "id": "midterms",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 22
+        }
+      ]
+    },
+    {
+      "id": "amd",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 12
+        }
+      ]
+    },
+    {
+      "id": "friday",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 3
+        }
+      ]
+    },
+    {
+      "id": "friday-date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 2
+        }
+      ]
+    },
+    {
+      "id": "jobs",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 19
+        }
+      ]
+    },
+    {
+      "id": "jobs-detail",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 12
+        }
+      ]
+    },
+    {
+      "id": "sentiment",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 18
+        }
+      ]
+    },
+    {
+      "id": "sentiment-detail",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 29
+        }
+      ]
+    },
+    {
+      "id": "source-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 41
+        }
+      ]
+    },
+    {
+      "id": "source-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 34
+        }
+      ]
+    }
+  ],
+  "coin_bounds": {
+    "left": 916,
+    "top": 441,
+    "right": 1062,
+    "bottom": 587,
+    "width": 146,
+    "height": 146
+  },
+  "whole_coin_upper_75_percent_verified": true,
+  "integration": {
+    "method": "Exact original coin PNG seated in the financial-planning-room brass rail recess with contact shadows and matched scene lighting",
+    "artwork": "Original uniformly scaled PNG; original portrait, lettering and circular rim preserved",
+    "image_generation_role": "Text-free illustrative financial-planning room only",
+    "category": "STOCK MARKET",
+    "background_credit_on_graphic": false,
+    "background_provenance": "Illustrative financial-planning room with Capitol and exchange architecture, not an actual event photograph"
+  },
+  "generation_prompts": [
+    "Create an exceptionally polished TEXT-FREE editorial background for a vertical 9:16 financial weekly-events Instagram story, composition 1080x1920. Theme: a pivotal US market week with midterm elections, large technology earnings, jobs report. Elegant midnight navy financial planning room, slate blue architectural surfaces, very restrained warm brass and ice-blue illumination. Not an infographic itself. Upper 82 percent is one continuous clean flat front-facing dark navy matte glass wall: perfectly calm nearly uniform reading space x104\u2013925 y164\u20131536 reserved for big typography and three calendar rows later; no panels or patterns or bright objects in this reading space. Far right only x930\u20131080 y280\u2013700 is a narrow vertical brushed dark-bronze structural rail with one circular EMPTY shallow brass mounting recess, exactly straight-on, centered near x997 y474 with diameter140. This recess belongs physically to the rail with realistic rim/contactshadow. The user's exact original Moneyberg gold coin will be placed there in the final design by the renderer. Do NOT generate a coin, portrait, logo or letters. Entire futurecoin within upper75percent. Below y1580, an evocative miniature architectural scene: restrained US Capitol dome silhouette in brushed silver at lowerleft and abstract exchange-building glass facades at lowerright with a sophisticated trading desk edge and unlit blank monitor glass in foreground. Cool blue reflected light, subtle warm brass highlights, beautiful photographic materials, carefully balanced depth, all busy detail only in bottom18percent and outermost rightmargin. Not an actual event photograph. No financial charts, data, numbers, arrows, tickers, flags, logos, text, watermark or coin artwork. All final news typography will be added separately using real Lato Black900 for headline>=51px, labels>=33px and small one-line 35px MONEYBERG NEWS BRIEF; Georgia body>=35px and source>=33px. Final category STOCK MARKET. All authoredtext within x104\u2013961,y164\u20131536. Image should feel premium institutional editorial finance with superb typographic negative space. Output background only, no text."
+  ],
+  "source": "https://x.com/KobeissiLetter/status/2116885664780231025",
+  "source_period": "Scheduled events for November 2\u20136, 2026",
+  "selection": "Apple and Palantir earnings; US midterms; AMD earnings; October jobs report; preliminary November Michigan sentiment",
+  "primary_verification": "Company investor relations; FEC; BLS November calendar; University of Michigan",
+  "output_sha256": "38dfccd89e96c3706ca02f671ef09089e84914b27bcaca1af310f996208d39ca"
+}
