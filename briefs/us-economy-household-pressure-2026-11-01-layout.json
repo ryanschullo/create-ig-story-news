@@ -1,0 +1,853 @@
+{
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "inner_bounds": [
+    104,
+    164,
+    961,
+    1536
+  ],
+  "minimum_authored_font_size_px": 33,
+  "minimum_body_font_size_px": 35,
+  "minimum_headline_font_size_px": 51,
+  "font_size_minimum_verified": true,
+  "renderer": "Chromium via Playwright; HTML/CSS screenshot",
+  "background_sha256": "4338cdee8071a7922d1b94cfcdb80704ae45d7e0edb43b8d097ae30e3f373981",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
+  "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
+  "georgia_redistributed": false,
+  "layout": {
+    "text": [
+      {
+        "id": "brand",
+        "text": "MONEYBERG NEWS BRIEF",
+        "bounds": {
+          "left": 118,
+          "top": 180,
+          "right": 562.109375,
+          "bottom": 222,
+          "width": 444.109375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 179,
+          "right": 562.109375,
+          "bottom": 223,
+          "width": 444.109375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "category",
+        "text": "CONSUMER SENTIMENT",
+        "bounds": {
+          "left": 118,
+          "top": 246,
+          "right": 524.734375,
+          "bottom": 287,
+          "width": 406.734375,
+          "height": 41
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 245,
+          "right": 524.734375,
+          "bottom": 289,
+          "width": 406.734375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "34px"
+      },
+      {
+        "id": "date",
+        "text": "NOVEMBER 1, 2026",
+        "bounds": {
+          "left": 118,
+          "top": 297,
+          "right": 424.421875,
+          "bottom": 337,
+          "width": 306.421875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 296,
+          "right": 424.421875,
+          "bottom": 338,
+          "width": 306.421875,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "headline-one",
+        "text": "Growth is strong.",
+        "bounds": {
+          "left": 113,
+          "top": 357,
+          "right": 640.578125,
+          "bottom": 443,
+          "width": 527.578125,
+          "height": 86
+        },
+        "element_bounds": {
+          "left": 113,
+          "top": 360,
+          "right": 640.578125,
+          "bottom": 440,
+          "width": 527.578125,
+          "height": 80
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "72px"
+      },
+      {
+        "id": "headline-two",
+        "text": "Households feel",
+        "bounds": {
+          "left": 113,
+          "top": 437,
+          "right": 609.34375,
+          "bottom": 523,
+          "width": 496.34375,
+          "height": 86
+        },
+        "element_bounds": {
+          "left": 113,
+          "top": 440,
+          "right": 609.34375,
+          "bottom": 520,
+          "width": 496.34375,
+          "height": 80
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "72px"
+      },
+      {
+        "id": "headline-three",
+        "text": "squeezed.",
+        "bounds": {
+          "left": 113,
+          "top": 517,
+          "right": 419.9375,
+          "bottom": 603,
+          "width": 306.9375,
+          "height": 86
+        },
+        "element_bounds": {
+          "left": 113,
+          "top": 520,
+          "right": 419.9375,
+          "bottom": 600,
+          "width": 306.9375,
+          "height": 80
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "72px"
+      },
+      {
+        "id": "gdp",
+        "text": "+3.4%",
+        "bounds": {
+          "left": 110,
+          "top": 648,
+          "right": 426,
+          "bottom": 789,
+          "width": 316,
+          "height": 141
+        },
+        "element_bounds": {
+          "left": 110,
+          "top": 649,
+          "right": 426,
+          "bottom": 789,
+          "width": 316,
+          "height": 140
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "118px"
+      },
+      {
+        "id": "gdp-label",
+        "text": "REAL GDP GROWTH",
+        "bounds": {
+          "left": 531,
+          "top": 672,
+          "right": 859.359375,
+          "bottom": 713,
+          "width": 328.359375,
+          "height": 41
+        },
+        "element_bounds": {
+          "left": 531,
+          "top": 671,
+          "right": 859.359375,
+          "bottom": 715,
+          "width": 328.359375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "34px"
+      },
+      {
+        "id": "gdp-period",
+        "text": "Q3 2026 \u00b7 Annualized",
+        "bounds": {
+          "left": 531,
+          "top": 719,
+          "right": 849.765625,
+          "bottom": 759,
+          "width": 318.765625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 531,
+          "top": 718,
+          "right": 849.765625,
+          "bottom": 761,
+          "width": 318.765625,
+          "height": 43
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "gdp-status",
+        "text": "Advance estimate",
+        "bounds": {
+          "left": 531,
+          "top": 768,
+          "right": 787.828125,
+          "bottom": 805,
+          "width": 256.828125,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 531,
+          "top": 765,
+          "right": 787.828125,
+          "bottom": 808,
+          "width": 256.828125,
+          "height": 43
+        },
+        "text_role": "caption",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      },
+      {
+        "id": "sentiment",
+        "text": "48.0",
+        "bounds": {
+          "left": 110,
+          "top": 871,
+          "right": 341.296875,
+          "bottom": 1018,
+          "width": 231.296875,
+          "height": 147
+        },
+        "element_bounds": {
+          "left": 110,
+          "top": 872,
+          "right": 341.296875,
+          "bottom": 1017,
+          "width": 231.296875,
+          "height": 145
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "123px"
+      },
+      {
+        "id": "sentiment-label",
+        "text": "SENTIMENT INDEX",
+        "bounds": {
+          "left": 531,
+          "top": 895,
+          "right": 840.234375,
+          "bottom": 936,
+          "width": 309.234375,
+          "height": 41
+        },
+        "element_bounds": {
+          "left": 531,
+          "top": 894,
+          "right": 840.234375,
+          "bottom": 938,
+          "width": 309.234375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "34px"
+      },
+      {
+        "id": "sentiment-period",
+        "text": "October 2026 \u00b7 Final",
+        "bounds": {
+          "left": 531,
+          "top": 942,
+          "right": 833.78125,
+          "bottom": 982,
+          "width": 302.78125,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 531,
+          "top": 941,
+          "right": 833.78125,
+          "bottom": 984,
+          "width": 302.78125,
+          "height": 43
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "sentiment-change",
+        "text": "\u221210.4% year over year",
+        "bounds": {
+          "left": 531,
+          "top": 991,
+          "right": 853.390625,
+          "bottom": 1028,
+          "width": 322.390625,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 531,
+          "top": 988,
+          "right": 853.390625,
+          "bottom": 1031,
+          "width": 322.390625,
+          "height": 43
+        },
+        "text_role": "caption",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      },
+      {
+        "id": "income-one",
+        "text": "Total inflation-adjusted income after taxes",
+        "bounds": {
+          "left": 118,
+          "top": 1123,
+          "right": 774.515625,
+          "bottom": 1163,
+          "width": 656.515625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1120,
+          "right": 774.515625,
+          "bottom": 1166,
+          "width": 656.515625,
+          "height": 46
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "income-two",
+        "text": "fell 0.3% from August to September.",
+        "bounds": {
+          "left": 118,
+          "top": 1169,
+          "right": 679.203125,
+          "bottom": 1209,
+          "width": 561.203125,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1166,
+          "right": 679.203125,
+          "bottom": 1212,
+          "width": 561.203125,
+          "height": 46
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "summary-one",
+        "text": "Living costs weigh on how consumers",
+        "bounds": {
+          "left": 118,
+          "top": 1259,
+          "right": 698.5,
+          "bottom": 1299,
+          "width": 580.5,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1256,
+          "right": 698.5,
+          "bottom": 1302,
+          "width": 580.5,
+          "height": 46
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "summary-two",
+        "text": "feel about the economy.",
+        "bounds": {
+          "left": 118,
+          "top": 1305,
+          "right": 484.984375,
+          "bottom": 1345,
+          "width": 366.984375,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1302,
+          "right": 484.984375,
+          "bottom": 1348,
+          "width": 366.984375,
+          "height": 46
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "source-one",
+        "text": "Data: BEA \u00b7 University of Michigan",
+        "bounds": {
+          "left": 118,
+          "top": 1407,
+          "right": 629.109375,
+          "bottom": 1444,
+          "width": 511.109375,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1404,
+          "right": 629.109375,
+          "bottom": 1447,
+          "width": 511.109375,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      },
+      {
+        "id": "source-two",
+        "text": "Context: WSJ \u00b7 November 1, 2026",
+        "bounds": {
+          "left": 118,
+          "top": 1453,
+          "right": 610.328125,
+          "bottom": 1490,
+          "width": 492.328125,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1450,
+          "right": 610.328125,
+          "bottom": 1493,
+          "width": 492.328125,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      }
+    ],
+    "panels": [
+      {
+        "id": "metric-rule",
+        "bounds": {
+          "left": 118,
+          "top": 839,
+          "right": 911,
+          "bottom": 840,
+          "width": 793,
+          "height": 1
+        }
+      },
+      {
+        "id": "source-panel",
+        "bounds": {
+          "left": 104,
+          "top": 1389,
+          "right": 923,
+          "bottom": 1509,
+          "width": 819,
+          "height": 120
+        }
+      }
+    ],
+    "scene_elements": [
+      {
+        "id": "coin-installation",
+        "bounds": {
+          "left": 924,
+          "top": 588,
+          "right": 1038,
+          "bottom": 702,
+          "width": 114,
+          "height": 114
+        },
+        "box_shadow": "rgb(72, 47, 23) 4px 5px 8px 0px inset, rgba(40, 28, 14, 0.5) 2px 4px 6px 0px, rgb(244, 224, 172) -1px -1px 2px 0px",
+        "background": "linear-gradient(135deg, rgb(241, 219, 164), rgb(119, 82, 41) 55%, rgb(197, 162, 105))"
+      },
+      {
+        "id": "coin-contact",
+        "bounds": {
+          "left": 928,
+          "top": 592,
+          "right": 1034,
+          "bottom": 698,
+          "width": 106,
+          "height": 106
+        },
+        "box_shadow": "rgba(45, 29, 12, 0.4) 4px 5px 6px 0px inset, rgba(255, 240, 181, 0.4) -2px -2px 3px 0px inset",
+        "background": "linear-gradient(125deg, rgba(255, 234, 178, 0.13), rgba(0, 0, 0, 0) 45%, rgba(49, 36, 21, 0.09))"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Moneyberg Lato Black",
+        "weight": "900",
+        "status": "loaded"
+      },
+      {
+        "family": "Moneyberg Georgia",
+        "weight": "400",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "id": "background",
+        "natural_width": 941,
+        "natural_height": 1672,
+        "bounds": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        }
+      },
+      {
+        "id": "coin",
+        "natural_width": 2084,
+        "natural_height": 2084,
+        "bounds": {
+          "left": 929,
+          "top": 593,
+          "right": 1033,
+          "bottom": 697,
+          "width": 104,
+          "height": 104
+        }
+      }
+    ],
+    "document_width": 1080,
+    "document_height": 1920
+  },
+  "platform_fonts": [
+    {
+      "id": "brand",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "category",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 18
+        }
+      ]
+    },
+    {
+      "id": "date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "headline-one",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 17
+        }
+      ]
+    },
+    {
+      "id": "headline-two",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 15
+        }
+      ]
+    },
+    {
+      "id": "headline-three",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 9
+        }
+      ]
+    },
+    {
+      "id": "gdp",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 5
+        }
+      ]
+    },
+    {
+      "id": "gdp-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 15
+        }
+      ]
+    },
+    {
+      "id": "gdp-period",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "gdp-status",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "sentiment",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 4
+        }
+      ]
+    },
+    {
+      "id": "sentiment-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 15
+        }
+      ]
+    },
+    {
+      "id": "sentiment-period",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "sentiment-change",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 21
+        }
+      ]
+    },
+    {
+      "id": "income-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 43
+        }
+      ]
+    },
+    {
+      "id": "income-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 35
+        }
+      ]
+    },
+    {
+      "id": "summary-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 35
+        }
+      ]
+    },
+    {
+      "id": "summary-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 23
+        }
+      ]
+    },
+    {
+      "id": "source-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 34
+        }
+      ]
+    },
+    {
+      "id": "source-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 31
+        }
+      ]
+    }
+  ],
+  "coin_bounds": {
+    "left": 929,
+    "top": 593,
+    "right": 1033,
+    "bottom": 697,
+    "width": 104,
+    "height": 104
+  },
+  "whole_coin_upper_75_percent_verified": true,
+  "integration": {
+    "method": "Exact original coin PNG seated in the retail-store doorway brass rail recess with contact shadows and matched scene lighting",
+    "artwork": "Original uniformly scaled PNG; original portrait, lettering and circular rim preserved",
+    "image_generation_role": "Text-free illustrative retail storefront and household-shopping scene only",
+    "category": "CONSUMER SENTIMENT",
+    "background_credit_on_graphic": false,
+    "background_provenance": "Illustrative retail storefront, groceries and city architecture, not an actual economic-event photograph"
+  },
+  "generation_prompts": [
+    "Create a premium TEXT-FREE 9:16 editorial photographic background for a 1080x1920 Instagram financial news Story on strong US economic output alongside pressure on household budgets. Distinct sophisticated warm ivory, pale limestone, muted oxblood/burgundy and dark petrol teal aesthetic. The scene is a conceptual architectural retail/economy setting, not a photo of an actual event. All upper82percent and left84percent must be a very plain flat front-facing matte warm ivory limestone wall, softly lit and nearly uniform: keep x104\u2013910,y164\u20131536 completely empty for large readable typography. No pattern, objects, text, hard shadows or seams in that space. At the far right x930\u20131080, create a slender front-facing warm bronze retail-store door jamb with an EMPTY perfectly round shallow brass mounting recess centered approximatelyx999,y1050 diameter140. The empty recess physically belongs to the jamb, straight-on, with contactshadow and gentle warm lighting. We will fit the exact original gold Moneyberg coin separately into it, preserving original portrait/rimlettering/circularshape. Do NOT create any coin, logo, portrait or lettering. Wholefuturecoinabove y1440. At the very bottom below y1580 ONLY, suggest everyday spending in contrast to city growth: a sophisticated still life of a cropped ordinary shopping basket with a few unbranded grocery staples, a short blank receipt roll, a dark oxblood leather wallet and a grocery-store glass storefront with an understated modern office skyline seen softly through the glass. Beautiful tactile materials, soft afternoon daylight, subtle petrol-teal reflected shadows, realistic depth, premium magazine editorial styling. Do NOT create a ruined/depressed scene, panic, fallinggraphs, prices, cashamounts, arrows, any text, numbers, logos or brandnames. Keep every busy object strictly in bottom18percent; top82percent must be uninterrupted ivory reading wall, not a faded overlay on objects. Final authored typography added separately will use actualLatoBlack900 headline>=51px and labels>=33px, compact35px one-line MONEYBERG NEWS BRIEF, CONSUMER SENTIMENT category; actualGeorgia400 body>=35px/source>=33px, allwithin x104\u2013961,y164\u20131536. Render only the quiet background, no graphic text."
+  ],
+  "source": "https://www.wsj.com/economy/us-economic-data-growth-9a4f7690",
+  "accessible_publisher_summary": "https://x.com/WSJ/status/2117099529489060139",
+  "wsj_full_article_accessible": false,
+  "source_periods": "Q3 real GDP annualized advance estimate; October final sentiment; September monthly real disposable personal income",
+  "primary_data": [
+    "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
+    "https://www.sca.isr.umich.edu/",
+    "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026"
+  ],
+  "attribution": "WSJ public framing; figures independently verified against BEA and Michigan, not claimed to have been read in the WSJ article",
+  "output_sha256": "e1fe3df23438a76fecda29b205c72ded0aa8a37b68c55d0322a55052de7cb342"
+}
