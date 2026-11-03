@@ -1,0 +1,566 @@
+{
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "inner_bounds": [
+    104,
+    164,
+    961,
+    1536
+  ],
+  "minimum_authored_font_size_px": 33,
+  "minimum_body_font_size_px": 35,
+  "minimum_headline_font_size_px": 51,
+  "font_size_minimum_verified": true,
+  "renderer": "Chromium via Playwright; HTML/CSS screenshot",
+  "background_sha256": "ed6f73fe6c756fe339e3df27b533ec96eae08b98f1e404e3a15658d0007d13c8",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "original_chart_sha256": "a5882b90ebe0e5c90949e657cdd912330006bf3711a906a11e381ef86a74820c",
+  "chart_bounds": {
+    "left": 104,
+    "top": 679,
+    "right": 961,
+    "bottom": 1251.96875,
+    "width": 857,
+    "height": 572.96875
+  },
+  "chart_preserved_without_crop_or_redraw": true,
+  "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
+  "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
+  "georgia_redistributed": false,
+  "layout": {
+    "text": [
+      {
+        "id": "brand",
+        "text": "MONEYBERG NEWS BRIEF",
+        "bounds": {
+          "left": 118,
+          "top": 185,
+          "right": 563.109375,
+          "bottom": 227,
+          "width": 445.109375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 184,
+          "right": 563.109375,
+          "bottom": 228,
+          "width": 445.109375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "category",
+        "text": "STOCK MARKET",
+        "bounds": {
+          "left": 118,
+          "top": 246,
+          "right": 384.515625,
+          "bottom": 286,
+          "width": 266.515625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 245,
+          "right": 384.515625,
+          "bottom": 287,
+          "width": 266.515625,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "date",
+        "text": "NOVEMBER 2, 2026",
+        "bounds": {
+          "left": 118,
+          "top": 296,
+          "right": 424.421875,
+          "bottom": 336,
+          "width": 306.421875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 295,
+          "right": 424.421875,
+          "bottom": 337,
+          "width": 306.421875,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "headline-one",
+        "text": "Leveraged ETFs draw",
+        "bounds": {
+          "left": 114,
+          "top": 368,
+          "right": 711.765625,
+          "bottom": 447,
+          "width": 597.765625,
+          "height": 79
+        },
+        "element_bounds": {
+          "left": 114,
+          "top": 368,
+          "right": 711.765625,
+          "bottom": 448,
+          "width": 597.765625,
+          "height": 80
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "66px"
+      },
+      {
+        "id": "headline-two",
+        "text": "$15B in one month",
+        "bounds": {
+          "left": 114,
+          "top": 447,
+          "right": 734.828125,
+          "bottom": 538,
+          "width": 620.828125,
+          "height": 91
+        },
+        "element_bounds": {
+          "left": 114,
+          "top": 448,
+          "right": 734.828125,
+          "bottom": 537,
+          "width": 620.828125,
+          "height": 89
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "76px"
+      },
+      {
+        "id": "scope",
+        "text": "U.S. rolling 1-month net inflows.",
+        "bounds": {
+          "left": 118,
+          "top": 557,
+          "right": 620.9375,
+          "bottom": 597,
+          "width": 502.9375,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 555,
+          "right": 620.9375,
+          "bottom": 600,
+          "width": 502.9375,
+          "height": 45
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "record",
+        "text": "Largest in at least 2 years, per Kobeissi.",
+        "bounds": {
+          "left": 118,
+          "top": 610,
+          "right": 725.9375,
+          "bottom": 650,
+          "width": 607.9375,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 608,
+          "right": 725.9375,
+          "bottom": 653,
+          "width": 607.9375,
+          "height": 45
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "soxl-flow",
+        "text": "SOXL: $7.3B in October inflows.",
+        "bounds": {
+          "left": 118,
+          "top": 1296,
+          "right": 621.1875,
+          "bottom": 1336,
+          "width": 503.1875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1294,
+          "right": 621.1875,
+          "bottom": 1339,
+          "width": 503.1875,
+          "height": 45
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "soxl-scope",
+        "text": "Targets 3\u00d7 its index\u2019s daily return.",
+        "bounds": {
+          "left": 118,
+          "top": 1344,
+          "right": 646.90625,
+          "bottom": 1384,
+          "width": 528.90625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1342,
+          "right": 646.90625,
+          "bottom": 1387,
+          "width": 528.90625,
+          "height": 45
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "source-one",
+        "text": "Flows: Kobeissi Letter \u00b7 Chart: Bloomberg",
+        "bounds": {
+          "left": 118,
+          "top": 1440,
+          "right": 726.71875,
+          "bottom": 1477,
+          "width": 608.71875,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1437,
+          "right": 726.71875,
+          "bottom": 1480,
+          "width": 608.71875,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      },
+      {
+        "id": "source-two",
+        "text": "SOXL mandate: Direxion",
+        "bounds": {
+          "left": 118,
+          "top": 1485,
+          "right": 486.265625,
+          "bottom": 1522,
+          "width": 368.265625,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1482,
+          "right": 486.265625,
+          "bottom": 1525,
+          "width": 368.265625,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      }
+    ],
+    "panels": [
+      {
+        "id": "source-chart",
+        "bounds": {
+          "left": 104,
+          "top": 679,
+          "right": 961,
+          "bottom": 1251.96875,
+          "width": 857,
+          "height": 572.96875
+        }
+      },
+      {
+        "id": "lower-reading-panel",
+        "bounds": {
+          "left": 104,
+          "top": 1274,
+          "right": 961,
+          "bottom": 1532,
+          "width": 857,
+          "height": 258
+        }
+      },
+      {
+        "id": "source-panel",
+        "bounds": {
+          "left": 104,
+          "top": 1422,
+          "right": 961,
+          "bottom": 1532,
+          "width": 857,
+          "height": 110
+        }
+      }
+    ],
+    "scene_elements": [
+      {
+        "id": "coin-installation",
+        "bounds": {
+          "left": 912,
+          "top": 359,
+          "right": 1064,
+          "bottom": 511,
+          "width": 152,
+          "height": 152
+        },
+        "box_shadow": "rgb(18, 22, 22) 3px 5px 7px 0px inset, rgb(10, 12, 13) 2px 4px 5px 0px, rgb(184, 192, 188) -1px -1px 2px 0px",
+        "background": "linear-gradient(135deg, rgb(211, 192, 140), rgb(75, 59, 33) 53%, rgb(167, 138, 81))"
+      },
+      {
+        "id": "coin-contact",
+        "bounds": {
+          "left": 916,
+          "top": 363,
+          "right": 1060,
+          "bottom": 507,
+          "width": 144,
+          "height": 144
+        },
+        "box_shadow": "rgba(23, 24, 23, 0.6) 3px 4px 6px 0px inset, rgba(239, 228, 202, 0.33) -2px -2px 3px 0px inset",
+        "background": "linear-gradient(125deg, rgba(239, 225, 190, 0.09), rgba(0, 0, 0, 0) 45%, rgba(20, 24, 25, 0.13))"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Moneyberg Lato Black",
+        "weight": "900",
+        "status": "loaded"
+      },
+      {
+        "family": "Moneyberg Georgia",
+        "weight": "400",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "id": "background",
+        "natural_width": 941,
+        "natural_height": 1672,
+        "bounds": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        }
+      },
+      {
+        "id": "coin",
+        "natural_width": 2084,
+        "natural_height": 2084,
+        "bounds": {
+          "left": 917,
+          "top": 364,
+          "right": 1059,
+          "bottom": 506,
+          "width": 142,
+          "height": 142
+        }
+      },
+      {
+        "id": "source-chart",
+        "natural_width": 697,
+        "natural_height": 466,
+        "bounds": {
+          "left": 104,
+          "top": 679,
+          "right": 961,
+          "bottom": 1251.96875,
+          "width": 857,
+          "height": 572.96875
+        }
+      }
+    ],
+    "document_width": 1080,
+    "document_height": 1920
+  },
+  "platform_fonts": [
+    {
+      "id": "brand",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "category",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 12
+        }
+      ]
+    },
+    {
+      "id": "date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "headline-one",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 19
+        }
+      ]
+    },
+    {
+      "id": "headline-two",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 17
+        }
+      ]
+    },
+    {
+      "id": "scope",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 33
+        }
+      ]
+    },
+    {
+      "id": "record",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 42
+        }
+      ]
+    },
+    {
+      "id": "soxl-flow",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 31
+        }
+      ]
+    },
+    {
+      "id": "soxl-scope",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 36
+        }
+      ]
+    },
+    {
+      "id": "source-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 41
+        }
+      ]
+    },
+    {
+      "id": "source-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 22
+        }
+      ]
+    }
+  ],
+  "coin_bounds": {
+    "left": 917,
+    "top": 364,
+    "right": 1059,
+    "bottom": 506,
+    "width": 142,
+    "height": 142
+  },
+  "whole_coin_upper_75_percent_verified": true,
+  "integration": {
+    "method": "Exact original coin installed in the exchange-column brass mounting recess with compatible contact shadows and lighting",
+    "artwork": "Original PNG uniformly scaled; exact portrait and rim lettering preserved",
+    "image_generation_role": "Text-free illustrative financial exchange and semiconductor still life; source chart preserved separately",
+    "category": "STOCK MARKET",
+    "background_credit_on_graphic": false
+  },
+  "generation_prompts": [
+    "Create a refined TEXT-FREE 9:16 editorial financial-market background, final intended 1080x1920 Instagram Story. Theme: heavy investor inflows into leveraged equity ETFs, especially semiconductor funds. Distinct palette graphite, dark midnight charcoal, warm restrained amber, and brushed gunmetal. A sophisticated financial exchange interior with a completely quiet front-facing matte charcoal architectural wall occupying the whole upper 82 percent and the left 84 percent. Reserve all of x104-961,y164-1536 as nearly uniform deep charcoal reading space, no hard shadows or objects in that area; an original orange-on-black financial chart will later occupy x104-961,y690-1263. At the far right, x970-1080 in the upper third, show a narrow recessed brushed-gunmetal vertical structural column. One small EMPTY perfectly round mounting recess, brass-lined, center around x985,y455, diameter142, front-facing with seated edge/contact shadows, mounted into that column. We will install the actual original gold Moneyberg coin artwork there in the final render; do not generate a coin, portrait, lettering or symbol. The eventual whole coin must be above y1440 and above the chart. Below y1590 only, an elegant cinematic trading workstation with two dark blank monitors, subtle reflective glass exchange architecture, and a finely machined semiconductor chip package on the dark desk as the hero foreground object. Keep objects entirely in the lower decorative space. No people, no fake graphs, ticker screens, numbers, text, logos, watermarks or currency. This is an illustrative financial still life, not an actual event photograph. All typesetting is added separately with actual Lato Black weight900 for headlines at least51px, labels at least33px, a compact single-line35px MONEYBERG NEWS BRIEF and category STOCK MARKET; actual Georgia400 for body at least35px and sources at least33px. News content remains inside x104-961,y164-1536. Generate only the text-free environment."
+  ],
+  "source": "https://x.com/KobeissiLetter/status/2117410080240898110",
+  "chart_source": "https://pbs.twimg.com/media/HWILagmWMAEjWp2?format=webp&name=large",
+  "statistical_scope": "Rolling one-month US leveraged ETF flows (+$15B) differ from calendar-October SOXL inflows (+$7.3B). Flow figures are attributed to The Kobeissi Letter and its Bloomberg chart, not independently reconstructed.",
+  "issuer_source": "https://www.direxion.com/product/daily-semiconductor-bull-bear-3x-etfs",
+  "issuer_scope": "SOXL seeks 300% of the NYSE Semiconductor Index daily performance before fees and expenses; not a promise of three times cumulative returns over longer periods. Issuer does not independently verify the post's flow figure.",
+  "output_sha256": "bd866c1a26162e54f7d3cd6c62dd5d548622d51318015096f54e9e188d477ba7"
+}
