@@ -1,0 +1,13 @@
+# Qeshm Island reported strike — background prompt
+
+Text-free illustration generated for the November 2, 2026 America/Chicago edition. This is a symbolic maritime observation-room scene, not a photograph of Qeshm Island or the reported strike. No attack, targets, casualties, route, or geographic boundaries are depicted. The original Moneyberg coin is placed separately using the browser compositor, without redrawing its artwork.
+
+```text
+Create a premium vertical 9:16 editorial background for a Moneyberg Instagram Story about the reported U.S. strike on Iran's Qeshm Island, per the Wall Street Journal citing U.S. officials and reported by Reuters. It must be a restrained, symbolic maritime-security illustration, NOT a photograph or reconstruction of the reported attack. NO explosions, missiles, smoke plumes, fires, targets, people, geographic maps, location labels, or data.
+
+Design a dark navy and muted slate maritime observation room with a broad clean matte navy wall/console covering the central and upper 78 percent of the frame; subtle tactile brushed-metal seams and very soft cool side lighting. A cinematic window/view of calm dark sea, distant indistinct coastal hills and a tiny generic distant cargo vessel belongs ONLY at the bottom of the frame below 80 percent height, with a muted amber evening horizon. Rich deep navy, steel blue, faint warm brass; beautifully realistic material textures, understated and serious, generous negative space rather than busy futuristic screens.
+
+The final canvas is 1080x1920. Real typography will be added separately within x104–961 and y164–1536: compact single-line MONEYBERG NEWS BRIEF in Lato Black 900, date and large Lato Black headline, Georgia 400 body and attribution. ALL generated pixels should be background only: do NOT draw any text, letters, labels, logos, typography, charts or symbols. Reserve x104–940,y164–870 for headline/body, x104–810,y920–1240 for a report-status text panel, and x104–940,y1350–1510 for sourcing.
+
+At x960,y1140 in the final canvas (89% horizontal, 59.4% vertical), build a subtle EMPTY perfectly circular brass recessed medallion mount, around 180 pixels diameter (16.7% of canvas width), on a physical vertical navy panel at the right edge. The full circular rim must remain inside the frame, face directly toward camera, and show realistic contact shadow/recess, gently lit from upper left. It must be blank and unengraved: absolutely no invented coin, face, letters or emblem. The exact approved Moneyberg coin artwork will be inserted separately into this circular mount; do not generate that coin. Keep all important image detail outside the stated text zones. Polished editorial depth with authentic low-key maritime mood.
+```

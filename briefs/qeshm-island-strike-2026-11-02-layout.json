@@ -1,0 +1,717 @@
+{
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "inner_bounds": [
+    104,
+    164,
+    961,
+    1536
+  ],
+  "minimum_authored_font_size_px": 33,
+  "minimum_body_font_size_px": 35,
+  "minimum_headline_font_size_px": 51,
+  "font_size_minimum_verified": true,
+  "renderer": "Chromium via Playwright; HTML/CSS screenshot",
+  "background_sha256": "6159e86cc0c7d12bf2ccc333619a79a5b7f85c00ca5f09d6e51b0f6363aa9e58",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
+  "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
+  "georgia_redistributed": false,
+  "layout": {
+    "text": [
+      {
+        "id": "brand",
+        "text": "MONEYBERG NEWS BRIEF",
+        "bounds": {
+          "left": 118,
+          "top": 180,
+          "right": 562.109375,
+          "bottom": 222,
+          "width": 444.109375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 179,
+          "right": 562.109375,
+          "bottom": 223,
+          "width": 444.109375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "date",
+        "text": "NOVEMBER 2, 2026",
+        "bounds": {
+          "left": 118,
+          "top": 254,
+          "right": 424.421875,
+          "bottom": 294,
+          "width": 306.421875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 253,
+          "right": 424.421875,
+          "bottom": 295,
+          "width": 306.421875,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "headline-one",
+        "text": "U.S. struck Iran\u2019s",
+        "bounds": {
+          "left": 113,
+          "top": 348,
+          "right": 713.03125,
+          "bottom": 450,
+          "width": 600.03125,
+          "height": 102
+        },
+        "element_bounds": {
+          "left": 113,
+          "top": 351,
+          "right": 713.03125,
+          "bottom": 447,
+          "width": 600.03125,
+          "height": 96
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "85px"
+      },
+      {
+        "id": "headline-two",
+        "text": "Qeshm Island,",
+        "bounds": {
+          "left": 113,
+          "top": 444,
+          "right": 628.265625,
+          "bottom": 546,
+          "width": 515.265625,
+          "height": 102
+        },
+        "element_bounds": {
+          "left": 113,
+          "top": 447,
+          "right": 628.265625,
+          "bottom": 543,
+          "width": 515.265625,
+          "height": 96
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "85px"
+      },
+      {
+        "id": "headline-three",
+        "text": "WSJ reports",
+        "bounds": {
+          "left": 113,
+          "top": 540,
+          "right": 564.1875,
+          "bottom": 642,
+          "width": 451.1875,
+          "height": 102
+        },
+        "element_bounds": {
+          "left": 113,
+          "top": 543,
+          "right": 564.1875,
+          "bottom": 639,
+          "width": 451.1875,
+          "height": 96
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "85px"
+      },
+      {
+        "id": "report-label",
+        "text": "REPORT CITES U.S. OFFICIALS",
+        "bounds": {
+          "left": 118,
+          "top": 676,
+          "right": 598.390625,
+          "bottom": 717,
+          "width": 480.390625,
+          "height": 41
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 675,
+          "right": 598.390625,
+          "bottom": 719,
+          "width": 480.390625,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "34px"
+      },
+      {
+        "id": "summary-one",
+        "text": "WSJ says the attack was part of",
+        "bounds": {
+          "left": 118,
+          "top": 744,
+          "right": 657.296875,
+          "bottom": 789,
+          "width": 539.296875,
+          "height": 45
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 741,
+          "right": 657.296875,
+          "bottom": 793,
+          "width": 539.296875,
+          "height": 52
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "39px"
+      },
+      {
+        "id": "summary-two",
+        "text": "limited U.S. strikes carried out",
+        "bounds": {
+          "left": 118,
+          "top": 796,
+          "right": 644.34375,
+          "bottom": 841,
+          "width": 526.34375,
+          "height": 45
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 793,
+          "right": 644.34375,
+          "bottom": 845,
+          "width": 526.34375,
+          "height": 52
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "39px"
+      },
+      {
+        "id": "summary-three",
+        "text": "in recent weeks.",
+        "bounds": {
+          "left": 118,
+          "top": 848,
+          "right": 393.90625,
+          "bottom": 893,
+          "width": 275.90625,
+          "height": 45
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 845,
+          "right": 393.90625,
+          "bottom": 897,
+          "width": 275.90625,
+          "height": 52
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "39px"
+      },
+      {
+        "id": "status-label",
+        "text": "U.S. RESPONSE",
+        "bounds": {
+          "left": 148,
+          "top": 990,
+          "right": 394.765625,
+          "bottom": 1031,
+          "width": 246.765625,
+          "height": 41
+        },
+        "element_bounds": {
+          "left": 148,
+          "top": 989,
+          "right": 394.765625,
+          "bottom": 1033,
+          "width": 246.765625,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "34px"
+      },
+      {
+        "id": "status-one",
+        "text": "U.S. Central Command had not",
+        "bounds": {
+          "left": 148,
+          "top": 1061,
+          "right": 659.703125,
+          "bottom": 1103,
+          "width": 511.703125,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 148,
+          "top": 1057,
+          "right": 659.703125,
+          "bottom": 1108,
+          "width": 511.703125,
+          "height": 51
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "37px"
+      },
+      {
+        "id": "status-two",
+        "text": "responded to Reuters\u2019 request",
+        "bounds": {
+          "left": 148,
+          "top": 1112,
+          "right": 636.84375,
+          "bottom": 1154,
+          "width": 488.84375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 148,
+          "top": 1108,
+          "right": 636.84375,
+          "bottom": 1159,
+          "width": 488.84375,
+          "height": 51
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "37px"
+      },
+      {
+        "id": "status-three",
+        "text": "for comment at publication.",
+        "bounds": {
+          "left": 148,
+          "top": 1163,
+          "right": 603.1875,
+          "bottom": 1205,
+          "width": 455.1875,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 148,
+          "top": 1159,
+          "right": 603.1875,
+          "bottom": 1210,
+          "width": 455.1875,
+          "height": 51
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "37px"
+      },
+      {
+        "id": "location",
+        "text": "Qeshm lies on the Strait of Hormuz.",
+        "bounds": {
+          "left": 118,
+          "top": 1293,
+          "right": 673.125,
+          "bottom": 1333,
+          "width": 555.125,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1290,
+          "right": 673.125,
+          "bottom": 1337,
+          "width": 555.125,
+          "height": 47
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "source-one",
+        "text": "Reuters via Business Recorder",
+        "bounds": {
+          "left": 139,
+          "top": 1413,
+          "right": 581.0625,
+          "bottom": 1450,
+          "width": 442.0625,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 139,
+          "top": 1410,
+          "right": 581.0625,
+          "bottom": 1453,
+          "width": 442.0625,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      },
+      {
+        "id": "source-two",
+        "text": "WSJ report cites U.S. officials",
+        "bounds": {
+          "left": 139,
+          "top": 1456,
+          "right": 571.078125,
+          "bottom": 1493,
+          "width": 432.078125,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 139,
+          "top": 1453,
+          "right": 571.078125,
+          "bottom": 1496,
+          "width": 432.078125,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      }
+    ],
+    "panels": [
+      {
+        "id": "header-rule",
+        "bounds": {
+          "left": 118,
+          "top": 319,
+          "right": 941,
+          "bottom": 320,
+          "width": 823,
+          "height": 1
+        }
+      },
+      {
+        "id": "status-panel",
+        "bounds": {
+          "left": 118,
+          "top": 962,
+          "right": 827,
+          "bottom": 1244,
+          "width": 709,
+          "height": 282
+        }
+      },
+      {
+        "id": "source-panel",
+        "bounds": {
+          "left": 118,
+          "top": 1393,
+          "right": 941,
+          "bottom": 1511,
+          "width": 823,
+          "height": 118
+        }
+      }
+    ],
+    "scene_elements": [
+      {
+        "id": "coin-installation",
+        "bounds": {
+          "left": 866,
+          "top": 985,
+          "right": 1052,
+          "bottom": 1171,
+          "width": 186,
+          "height": 186
+        },
+        "box_shadow": "rgb(36, 25, 12) 3px 5px 8px 0px inset, rgba(7, 14, 20, 0.7) 3px 5px 6px 0px, rgb(229, 188, 118) -1px -1px 2px 0px",
+        "background": "linear-gradient(135deg, rgb(228, 189, 124), rgb(73, 51, 26) 53%, rgb(170, 119, 61))"
+      },
+      {
+        "id": "coin-contact",
+        "bounds": {
+          "left": 870,
+          "top": 989,
+          "right": 1048,
+          "bottom": 1167,
+          "width": 178,
+          "height": 178
+        },
+        "box_shadow": "rgba(30, 22, 13, 0.52) 3px 4px 6px 0px inset, rgba(249, 221, 166, 0.32) -2px -2px 3px 0px inset",
+        "background": "linear-gradient(127deg, rgba(255, 229, 165, 0.14), rgba(0, 0, 0, 0) 46%, rgba(18, 28, 38, 0.19))"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Moneyberg Lato Black",
+        "weight": "900",
+        "status": "loaded"
+      },
+      {
+        "family": "Moneyberg Georgia",
+        "weight": "400",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "id": "background",
+        "natural_width": 916,
+        "natural_height": 1717,
+        "bounds": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        }
+      },
+      {
+        "id": "coin",
+        "natural_width": 2084,
+        "natural_height": 2084,
+        "bounds": {
+          "left": 871,
+          "top": 990,
+          "right": 1047,
+          "bottom": 1166,
+          "width": 176,
+          "height": 176
+        }
+      }
+    ],
+    "document_width": 1080,
+    "document_height": 1920
+  },
+  "platform_fonts": [
+    {
+      "id": "brand",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "headline-one",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 18
+        }
+      ]
+    },
+    {
+      "id": "headline-two",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 13
+        }
+      ]
+    },
+    {
+      "id": "headline-three",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 11
+        }
+      ]
+    },
+    {
+      "id": "report-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 27
+        }
+      ]
+    },
+    {
+      "id": "summary-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 31
+        }
+      ]
+    },
+    {
+      "id": "summary-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 32
+        }
+      ]
+    },
+    {
+      "id": "summary-three",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "status-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 13
+        }
+      ]
+    },
+    {
+      "id": "status-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 28
+        }
+      ]
+    },
+    {
+      "id": "status-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 29
+        }
+      ]
+    },
+    {
+      "id": "status-three",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 27
+        }
+      ]
+    },
+    {
+      "id": "location",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 35
+        }
+      ]
+    },
+    {
+      "id": "source-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 29
+        }
+      ]
+    },
+    {
+      "id": "source-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 31
+        }
+      ]
+    }
+  ],
+  "coin_bounds": {
+    "left": 871,
+    "top": 990,
+    "right": 1047,
+    "bottom": 1166,
+    "width": 176,
+    "height": 176
+  },
+  "whole_coin_upper_75_percent_verified": true,
+  "integration": {
+    "method": "Exact original coin PNG seated in the physical maritime-room brass recess with contact shadows and matched scene lighting",
+    "artwork": "Original uniformly scaled PNG; original portrait, lettering and circular rim preserved",
+    "image_generation_role": "Text-free illustrative maritime observation room only",
+    "topic": "Iran war",
+    "category_badge": null,
+    "background_credit_on_graphic": false,
+    "background_provenance": "Illustrative maritime observation room, not a photograph of Qeshm or a depiction of the reported strike"
+  },
+  "generation_prompts": [
+    "Create a premium vertical 9:16 editorial background for a Moneyberg Instagram Story about the reported U.S. strike on Iran's Qeshm Island, per the Wall Street Journal citing U.S. officials and reported by Reuters. It must be a restrained, symbolic maritime-security illustration, NOT a photograph or reconstruction of the reported attack. NO explosions, missiles, smoke plumes, fires, targets, people, geographic maps, location labels, or data.\n\nDesign a dark navy and muted slate maritime observation room with a broad clean matte navy wall/console covering the central and upper 78 percent of the frame; subtle tactile brushed-metal seams and very soft cool side lighting. A cinematic window/view of calm dark sea, distant indistinct coastal hills and a tiny generic distant cargo vessel belongs ONLY at the bottom of the frame below 80 percent height, with a muted amber evening horizon. Rich deep navy, steel blue, faint warm brass; beautifully realistic material textures, understated and serious, generous negative space rather than busy futuristic screens.\n\nThe final canvas is 1080x1920. Real typography will be added separately within x104\u2013961 and y164\u20131536: compact single-line MONEYBERG NEWS BRIEF in Lato Black 900, date and large Lato Black headline, Georgia 400 body and attribution. ALL generated pixels should be background only: do NOT draw any text, letters, labels, logos, typography, charts or symbols. Reserve x104\u2013940,y164\u2013870 for headline/body, x104\u2013810,y920\u20131240 for a report-status text panel, and x104\u2013940,y1350\u20131510 for sourcing.\n\nAt x960,y1140 in the final canvas (89% horizontal, 59.4% vertical), build a subtle EMPTY perfectly circular brass recessed medallion mount, around 180 pixels diameter (16.7% of canvas width), on a physical vertical navy panel at the right edge. The full circular rim must remain inside the frame, face directly toward camera, and show realistic contact shadow/recess, gently lit from upper left. It must be blank and unengraved: absolutely no invented coin, face, letters or emblem. The exact approved Moneyberg coin artwork will be inserted separately into this circular mount; do not generate that coin. Keep all important image detail outside the stated text zones. Polished editorial depth with authentic low-key maritime mood."
+  ],
+  "verified_full_text_syndication": "https://www.brecorder.com/news/40447166/us-struck-irans-qeshm-island-wall-street-journal-reports",
+  "source": "https://www.usnews.com/news/world/articles/2026-11-02/us-struck-irans-qeshm-island-wall-street-journal-reports",
+  "output_sha256": "96000947f52e7a33058a657cf0cda9318cd0886ee020d4e3b3bf0518f044fceb"
+}
