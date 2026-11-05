@@ -79,6 +79,20 @@ Never substitute Nasdaq-100 silently, invent missing data, or derive point
 changes from rounded values. Label nonfinal snapshots as intraday. This rule
 applies to broad market wraps, not every unrelated news graphic.
 
+Every new or revised `OIL & GAS` graphic must include **both Brent and WTI**,
+even when the main headline focuses on just one benchmark or another oil/gas
+topic. Give each a clear label and verified price in U.S. dollars per barrel;
+show its daily change when verified. State futures contract months when known.
+Use the same trading date and a consistent observation time or final-settlement
+basis for both. Clearly label intraday snapshots with their time and time zone;
+never combine an earlier article's quotes with later settlement figures. If the
+story is not a price report, label these as dated market-context prices. Verify
+missing counterpart data from a reliable source; if it remains unavailable,
+keep the benchmark labeled and disclose the missing figure rather than inventing
+or silently omitting it. Follow the skill's full benchmark-panel rules. This
+supersedes the earlier single-Brent alternative for future work and requested
+revisions; leave other historical exports unchanged.
+
 Give each subject a distinct design, palette, layout, and relevant background
 imagery. Oil stories use a petroleum/charcoal/amber industrial treatment; other
 subjects need their own visual approach. Power and infrastructure stories use

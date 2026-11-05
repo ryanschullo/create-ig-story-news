@@ -286,6 +286,52 @@ graphic **intraday** with a common observation time and date rather than calling
 it a market close. If required data remains unavailable, disclose that limitation
 and mark it unavailable instead of fabricating a complete closing report.
 
+## OIL & GAS: required Brent and WTI coverage
+
+**Always include both Brent and West Texas Intermediate (WTI) in every new or
+revised `OIL & GAS` graphic.** This applies even when the chosen article or
+headline emphasizes only one benchmark, natural gas, a producer, or another
+oil-and-gas subject. Reserve readable space for both benchmark panels while
+keeping the article's main news and subject-specific imagery clear. A
+single-Brent or single-WTI hero figure does not replace the required second
+benchmark. This user preference supersedes earlier single-benchmark layouts for
+new work and requested revisions; do not revise other historical exports unless
+requested.
+
+- Label **BRENT** and **WTI** separately. Show each verified price in **U.S.
+  dollars per barrel** and its verified daily percentage or dollar change when
+  available. Preserve approximation qualifiers and published precision.
+- Identify futures contract months (and years when needed to avoid ambiguity)
+  when the source supplies them; label spot prices as spot. Do not invent
+  missing contract details or treat different instruments as interchangeable.
+  Compare each daily move against the previous-session settlement of that same
+  delivery contract. Brent and WTI may have different front-month delivery months.
+- Use the same trading date and a consistent market snapshot for both
+  benchmarks. Prefer a common source and explicit common observation time.
+  For a final-settlement report, use both final settlements from that session.
+  For an earlier report, retain its earlier figures and clearly display
+  **INTRADAY** or **REPORTED SNAPSHOT**, the date, time and time zone when
+  verified. A publisher's publication/update time is not automatically the
+  observation time of its quoted prices. If no exact observation time is
+  supplied, state that limitation instead of inventing one.
+- Read the current article body and its timing. URL slugs and old headlines may
+  preserve stale prices or directions. Do not mix an article's morning quotes
+  with later closing prices, or silently substitute current live widgets for
+  the source's historical snapshot. Never call intraday prices settlements.
+- If the main story is about company news, gas, policy or another non-price
+  development, present the two prices as **market context** with their own
+  verified as-of date/time, separate from the story's publication date.
+- If the selected article omits a benchmark, seek both quotes from a reliable
+  accessible market source on a consistent basis. If a required figure still
+  cannot be verified, retain its benchmark label and mark it unavailable; do
+  not fabricate or silently drop it. Do not derive exact moves from rounded
+  price levels or attach unsupported causal explanations.
+- Credit the sources used for the displayed facts, record the full source and
+  snapshot details in the brief, and preserve distinctions such as reported
+  estimates versus official exchange settlements. Include both benchmark
+  labels and their verified scope in rendering validation. Reflow or shorten
+  content to meet the existing font minima and content bounds.
+
 ## News selection and sourcing
 
 Use the current news topics below when researching daily article options and

@@ -1,0 +1,11 @@
+# EnergyNow Brent / WTI revision — maritime background
+
+Image-tool edit of `assets/brent-below-100-background-2026-11-04.png`. Decorative generic oil tanker and loading-terminal environment; not a documentary photograph or evidence of a particular facility, incident or route. Actual Lato Black900 and Georgia typography and the unchanged original Moneyberg coin are composed separately in Chromium. The single-line brand is MONEYBERG NEWS BRIEF.
+
+Exact image-tool prompt:
+
+```text
+Edit the attached text-free vertical oil-news background. Keep the existing quiet deep petroleum navy/charcoal upper 80 percent, the empty round brass emblem mount on the extreme right steel upright, and the restrained warm amber light. Refine the lower fifth into an elegant oil-tanker deck and oil loading terminal at blue-hour dawn: distinguish the tanker pipes and industrial oil loading arms clearly, with subtle reflection and a low horizon. This is generic conceptual imagery, not documentation of a particular facility or incident. Keep the large center-left area calm, nearly uniform dark navy, without distracting highlights, for an editorial two-column Brent/WTI quote layout. Preserve the empty circular brass mounting recess near x92%, y35% of the image; its opening must face forward, be round, and contain no logo or lettering. We will install the exact original Moneyberg coin in this recess later. Do not generate a coin, portrait, any symbol, text, labels, numbers, charts, watermarks, flags or branding. Full-bleed 9:16 portrait, intended final canvas1080x1920. All final authored news content will be added using actual Lato Black900 for headlines/labels and Georgia for body/captions/sources; add no text yourself. Reserve x104–961,y164–1536 for this news layout, outside decorative imagery allowed, and keep socket wholly in top75% of canvas. High-end financial-news editorial background, naturally lit petroleum infrastructure, deep navy steel and amber, clean and restrained.
+```
+
+Original image-tool output: `/workspace/generated_images/exec-18753de2-2f5f-4491-b2c5-9765b95a7eef.png`. Repository copy: `assets/oil-brent-wti-energynow-background-2026-11-04.png`. Generated dimensions: (916, 1717); SHA-256: `2e2603711a4ef8c75d82f791f7125e6738fa26f690a8b825b6d0cf371f0ca61f`. Both copies remain unchanged; final composition uses Chromium CSS object-fit cover.
