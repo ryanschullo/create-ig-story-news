@@ -1,0 +1,629 @@
+{
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "inner_bounds": [
+    104,
+    164,
+    961,
+    1536
+  ],
+  "minimum_authored_font_size_px": 33,
+  "minimum_body_font_size_px": 35,
+  "minimum_headline_font_size_px": 51,
+  "font_size_minimum_verified": true,
+  "renderer": "Chromium via Playwright; HTML/CSS screenshot",
+  "background_sha256": "973e9d72212e85cea52be9bd9917c3bec5279ec3db3c2191d7d9c843db70b59a",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
+  "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
+  "georgia_redistributed": false,
+  "layout": {
+    "text": [
+      {
+        "id": "brand",
+        "text": "MONEYBERG NEWS BRIEF",
+        "bounds": {
+          "left": 118,
+          "top": 182,
+          "right": 562.109375,
+          "bottom": 224,
+          "width": 444.109375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 181,
+          "right": 562.109375,
+          "bottom": 225,
+          "width": 444.109375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "category",
+        "text": "JOBS & EMPLOYMENT",
+        "bounds": {
+          "left": 118,
+          "top": 246,
+          "right": 479.359375,
+          "bottom": 286,
+          "width": 361.359375,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 245,
+          "right": 479.359375,
+          "bottom": 287,
+          "width": 361.359375,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "date",
+        "text": "NOVEMBER 4, 2026",
+        "bounds": {
+          "left": 118,
+          "top": 296,
+          "right": 424.421875,
+          "bottom": 336,
+          "width": 306.421875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 295,
+          "right": 424.421875,
+          "bottom": 337,
+          "width": 306.421875,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "headline-one",
+        "text": "Prices outpace",
+        "bounds": {
+          "left": 114,
+          "top": 381,
+          "right": 634.984375,
+          "bottom": 481,
+          "width": 520.984375,
+          "height": 100
+        },
+        "element_bounds": {
+          "left": 114,
+          "top": 383,
+          "right": 634.984375,
+          "bottom": 479,
+          "width": 520.984375,
+          "height": 96
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "83px"
+      },
+      {
+        "id": "headline-two",
+        "text": "average hourly pay",
+        "bounds": {
+          "left": 114,
+          "top": 481,
+          "right": 731.4375,
+          "bottom": 573,
+          "width": 617.4375,
+          "height": 92
+        },
+        "element_bounds": {
+          "left": 114,
+          "top": 479,
+          "right": 731.4375,
+          "bottom": 575,
+          "width": 617.4375,
+          "height": 96
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "77px"
+      },
+      {
+        "id": "period",
+        "text": "APRIL 2020\u2013SEPTEMBER 2026",
+        "bounds": {
+          "left": 118,
+          "top": 619,
+          "right": 602.0625,
+          "bottom": 660,
+          "width": 484.0625,
+          "height": 41
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 618,
+          "right": 602.0625,
+          "bottom": 662,
+          "width": 484.0625,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "34px"
+      },
+      {
+        "id": "price-label",
+        "text": "CONSUMER PRICES (CPI)",
+        "bounds": {
+          "left": 147,
+          "top": 726,
+          "right": 557.265625,
+          "bottom": 768,
+          "width": 410.265625,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 147,
+          "top": 725,
+          "right": 557.265625,
+          "bottom": 769,
+          "width": 410.265625,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "price-value",
+        "text": "+31.3%",
+        "bounds": {
+          "left": 142,
+          "top": 769,
+          "right": 506.125,
+          "bottom": 904,
+          "width": 364.125,
+          "height": 135
+        },
+        "element_bounds": {
+          "left": 142,
+          "top": 770,
+          "right": 506.125,
+          "bottom": 904,
+          "width": 364.125,
+          "height": 134
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "112px"
+      },
+      {
+        "id": "pay-label",
+        "text": "AVERAGE HOURLY EARNINGS",
+        "bounds": {
+          "left": 147,
+          "top": 972,
+          "right": 642.625,
+          "bottom": 1014,
+          "width": 495.625,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 147,
+          "top": 971,
+          "right": 642.625,
+          "bottom": 1015,
+          "width": 495.625,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "pay-value",
+        "text": "+25.9%",
+        "bounds": {
+          "left": 142,
+          "top": 1015,
+          "right": 506.125,
+          "bottom": 1150,
+          "width": 364.125,
+          "height": 135
+        },
+        "element_bounds": {
+          "left": 142,
+          "top": 1016,
+          "right": 506.125,
+          "bottom": 1150,
+          "width": 364.125,
+          "height": 134
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "112px"
+      },
+      {
+        "id": "scope",
+        "text": "Earnings cover private nonfarm employees.",
+        "bounds": {
+          "left": 118,
+          "top": 1195,
+          "right": 789.84375,
+          "bottom": 1235,
+          "width": 671.84375,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1192,
+          "right": 789.84375,
+          "bottom": 1239,
+          "width": 671.84375,
+          "height": 47
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "adjustment",
+        "text": "Both series seasonally adjusted.",
+        "bounds": {
+          "left": 118,
+          "top": 1242,
+          "right": 607.203125,
+          "bottom": 1282,
+          "width": 489.203125,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1239,
+          "right": 607.203125,
+          "bottom": 1286,
+          "width": 489.203125,
+          "height": 47
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "source-one",
+        "text": "Sources: BLS/FRED; @KobeissiLetter",
+        "bounds": {
+          "left": 118,
+          "top": 1323,
+          "right": 675,
+          "bottom": 1360,
+          "width": 557,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1320,
+          "right": 675,
+          "bottom": 1363,
+          "width": 557,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      }
+    ],
+    "panels": [
+      {
+        "id": "price-panel",
+        "bounds": {
+          "left": 118,
+          "top": 700,
+          "right": 941,
+          "bottom": 920,
+          "width": 823,
+          "height": 220
+        }
+      },
+      {
+        "id": "pay-panel",
+        "bounds": {
+          "left": 118,
+          "top": 946,
+          "right": 941,
+          "bottom": 1166,
+          "width": 823,
+          "height": 220
+        }
+      }
+    ],
+    "scene_elements": [
+      {
+        "id": "coin-installation",
+        "bounds": {
+          "left": 949,
+          "top": 470,
+          "right": 1065,
+          "bottom": 586,
+          "width": 116,
+          "height": 116
+        },
+        "box_shadow": "rgb(88, 73, 54) 3px 5px 8px 0px inset, rgba(67, 43, 26, 0.45) 3px 5px 7px 0px, rgb(242, 223, 173) -1px -1px 2px 0px",
+        "background": "linear-gradient(135deg, rgb(198, 175, 120), rgb(120, 100, 68) 53%, rgb(176, 150, 101))"
+      },
+      {
+        "id": "coin-contact",
+        "bounds": {
+          "left": 953,
+          "top": 474,
+          "right": 1061,
+          "bottom": 582,
+          "width": 108,
+          "height": 108
+        },
+        "box_shadow": "rgba(65, 42, 27, 0.42) 3px 4px 6px 0px inset, rgba(252, 234, 186, 0.35) -2px -2px 3px 0px inset",
+        "background": "linear-gradient(125deg, rgba(252, 238, 202, 0.11), rgba(0, 0, 0, 0) 46%, rgba(99, 63, 35, 0.08))"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Moneyberg Lato Black",
+        "weight": "900",
+        "status": "loaded"
+      },
+      {
+        "family": "Moneyberg Georgia",
+        "weight": "400",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "id": "background",
+        "natural_width": 916,
+        "natural_height": 1717,
+        "bounds": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        }
+      },
+      {
+        "id": "coin",
+        "natural_width": 2084,
+        "natural_height": 2084,
+        "bounds": {
+          "left": 954,
+          "top": 475,
+          "right": 1060,
+          "bottom": 581,
+          "width": 106,
+          "height": 106
+        }
+      }
+    ],
+    "document_width": 1080,
+    "document_height": 1920
+  },
+  "platform_fonts": [
+    {
+      "id": "brand",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "category",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 17
+        }
+      ]
+    },
+    {
+      "id": "date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "headline-one",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 14
+        }
+      ]
+    },
+    {
+      "id": "headline-two",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 18
+        }
+      ]
+    },
+    {
+      "id": "period",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 25
+        }
+      ]
+    },
+    {
+      "id": "price-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 21
+        }
+      ]
+    },
+    {
+      "id": "price-value",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 6
+        }
+      ]
+    },
+    {
+      "id": "pay-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 23
+        }
+      ]
+    },
+    {
+      "id": "pay-value",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 6
+        }
+      ]
+    },
+    {
+      "id": "scope",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 41
+        }
+      ]
+    },
+    {
+      "id": "adjustment",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 32
+        }
+      ]
+    },
+    {
+      "id": "source-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 34
+        }
+      ]
+    }
+  ],
+  "coin_bounds": {
+    "left": 954,
+    "top": 475,
+    "right": 1060,
+    "bottom": 581,
+    "width": 106,
+    "height": 106
+  },
+  "whole_coin_upper_75_percent_verified": true,
+  "integration": {
+    "method": "Exact original coin PNG seated in a household brass wall recess with contact shadows and warm scene lighting",
+    "artwork": "Original uniformly scaled PNG; original portrait, lettering and circular rim preserved",
+    "image_generation_role": "Text-free conceptual household-cost environment only",
+    "topic": "April2020\u2013September2026 wage-price comparison",
+    "category_badge": "JOBS & EMPLOYMENT",
+    "background_credit_on_graphic": false,
+    "background_provenance": "Conceptual household setting, not documentary photography of a specific home or economic event"
+  },
+  "generation_prompts": [
+    "Generate a premium 1080 x1920 portrait editorial background for a Moneyberg news story comparing household price growth and average hourly pay since 2020. This is decorative conceptual imagery, not documentary photography or a source chart. Use a distinctive warm neutral palette: soft ivory plaster, oatmeal linen, muted burgundy, warm walnut and subtle brass. Keep the upper four-fifths calm and evenly light, with very faint natural texture and gentle daylight; x90\u2013950,y140\u20131550 must remain an almost empty light ivory wall suitable for crisp dark burgundy typography, free of objects, text, symbols and distracting shadows. A believable modest modern household kitchen/workday setting should appear mainly in the bottom fifth y1580\u20131920: an unbranded brown grocery bag with a few ordinary groceries, a closed notebook, a small blank paper receipt and simple wood tabletop. No people, no currency bills, no invented prices or printed lettering. A vertical walnut architectural trim on the extreme right edge x950\u20131080 runs down the wall. Around x995,y540, integrate one empty circular shallow brass recess with approximately150px outer diameter at1080canvaswidth, physically seated into the wood with believable contact shading. The exact user's original Moneyberg coin PNG will be placed there later; render NO coin, portrait, inscription or logo. Keep the recess wholly in the upper75% and away from the main typography zone.\n\nPremium natural-light realism, restrained home-finance editorial visual identity, sophisticated and uncluttered. No stock-market architecture, oil facilities, glowing code, charts, diagrams, arrows, numerical data, logos, letters or numbers anywhere. The later exact recurring header MONEYBERG NEWS BRIEF will be one small35px line in actual Lato Black900; later headlines/labels use actual Lato Black900 and body/source uses actual Georgia400. Later authored text stays in x104\u2013961,y164\u20131536, min33pxall/35pxbody/51pxheadlines. Do not render any text now."
+  ],
+  "verified_primary_series": [
+    "https://fred.stlouisfed.org/series/CPIAUCSL",
+    "https://fred.stlouisfed.org/series/CES0500000003"
+  ],
+  "source": "https://x.com/KobeissiLetter/status/2118147600847118353",
+  "source_access": "Exact X post publicly readable200; BLS/FRED primary CSVs and metadata publicly readable200. Attached chart media returned403, so graphic uses two verified textual metrics without recreating the chart.",
+  "primary_series_verification": {
+    "CPIAUCSL": {
+      "start_date": "2020-04-01",
+      "end_date": "2026-09-01",
+      "start_value": "256.032",
+      "end_value": "336.298",
+      "cumulative_percent": "31.34998750156230471191101110",
+      "display_percent": "31.3",
+      "seasonally_adjusted": true,
+      "csv_sha256": "16458955fb2b00e866a703fb119122a2f733ecfef41e66f3ff991272c8923c2f"
+    },
+    "CES0500000003": {
+      "start_date": "2020-04-01",
+      "end_date": "2026-09-01",
+      "start_value": "30.04",
+      "end_value": "37.81",
+      "cumulative_percent": "25.86551264980026631158455390",
+      "display_percent": "25.9",
+      "seasonally_adjusted": true,
+      "csv_sha256": "c703f56a11a27764b16bcd79dc211c26a9544c5fd00c505f90421e39fa6b36d0"
+    }
+  },
+  "chart_retrieved": false,
+  "chart_recreated": false,
+  "output_sha256": "7ce23ee2305cd91dbc1419262f160957d17713c668c666b0ead098a41c780ca9"
+}

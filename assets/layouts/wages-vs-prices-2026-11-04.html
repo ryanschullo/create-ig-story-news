@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><base href="__ASSET_BASE_URI__">
+<title>Prices outpace average hourly pay — April 2020 to September 2026</title>
+<style>
+@font-face{font-family:"Moneyberg Lato Black";src:url("fonts/lato/Lato-Black.ttf") format("truetype");font-weight:900;font-style:normal}
+@font-face{font-family:"Moneyberg Georgia";src:url("__GEORGIA_FONT_URI__") format("truetype");font-weight:400;font-style:normal}
+*{box-sizing:border-box}html,body{margin:0;width:1080px;height:1920px;overflow:hidden;background:#eee7d8}
+#stage{position:relative;width:1080px;height:1920px;isolation:isolate;overflow:hidden}
+#background{position:absolute;inset:0;width:1080px;height:1920px;object-fit:cover}
+.text{position:absolute;margin:0;z-index:5;font-synthesis:none;text-rendering:geometricPrecision;-webkit-font-smoothing:antialiased;white-space:nowrap}
+.lato{font-family:"Moneyberg Lato Black";font-weight:900;color:#4b202b}
+.georgia{font-family:"Moneyberg Georgia";font-weight:400;color:#4d3438}
+#brand{left:118px;top:181px;font-size:35px;line-height:44px;letter-spacing:.25px}
+#category{left:118px;top:245px;font-size:33px;line-height:42px;letter-spacing:.6px;color:#795049}
+#date{left:118px;top:295px;font-size:33px;line-height:42px;color:#685650}
+#headline-one,#headline-two{left:114px;letter-spacing:-1.7px;line-height:96px}
+#headline-one{top:383px;font-size:83px}
+#headline-two{top:479px;font-size:77px}
+#period{left:118px;top:618px;font-size:34px;line-height:44px;color:#6d4c48}
+.metric-panel{position:absolute;left:118px;width:823px;height:220px;z-index:3;background:linear-gradient(110deg,rgba(255,253,246,.97),rgba(247,237,224,.97));border:1px solid #c9b7a5;box-shadow:0 5px 15px rgba(92,60,38,.1)}
+#price-panel{top:700px;border-left:6px solid #9d4a5c}#pay-panel{top:946px;border-left:6px solid #4e7a6c}
+.metric-label{left:147px;font-size:35px;line-height:44px;letter-spacing:.1px}
+.metric-value{left:142px;font-size:112px;line-height:134px;letter-spacing:-2.5px}
+#price-label{top:725px;color:#743c47}#price-value{top:770px;color:#963f55}
+#pay-label{top:971px;color:#375b50}#pay-value{top:1016px;color:#315f50}
+#scope,#adjustment{left:118px;font-size:35px;line-height:47px}
+#scope{top:1192px}#adjustment{top:1239px}
+#source-one{left:118px;font-size:33px;line-height:43px;color:#68524d}
+#source-one{top:1320px}
+/* Original coin seated in the household scene's shallow brass wall recess. */
+#coin-installation{position:absolute;left:949px;top:470px;width:116px;height:116px;z-index:2;border-radius:50%;background:linear-gradient(135deg,#c6af78,#786444 53%,#b09665);border:2px solid #ad8f5d;box-shadow:inset 3px 5px 8px #584936,3px 5px 7px rgba(67,43,26,.45),-1px -1px 2px #f2dfad}
+#coin{position:absolute;left:3px;top:3px;width:106px;height:106px;object-fit:contain;filter:saturate(.78) brightness(.96)}
+#coin-contact{position:absolute;inset:2px;border-radius:50%;pointer-events:none;box-shadow:inset 3px 4px 6px rgba(65,42,27,.42),inset -2px -2px 3px rgba(252,234,186,.35);background:linear-gradient(125deg,rgba(252,238,202,.11),transparent 46%,rgba(99,63,35,.08))}
+</style></head><body><main id="stage" aria-label="Cumulative seasonally adjusted changes from April 2020 to September 2026: consumer prices up31.3percent and private-sector average hourly earnings up25.9percent">
+<img id="background" src="wages-vs-prices-background-2026-11-04.png" alt="">
+<div id="coin-installation" data-scene-element aria-hidden="true"><img id="coin" src="moneyberg-coin-original.png" alt=""><div id="coin-contact" data-scene-element></div></div>
+<div id="brand" class="text lato" data-news-text>MONEYBERG NEWS BRIEF</div>
+<div id="category" class="text lato" data-news-text>JOBS &amp; EMPLOYMENT</div>
+<div id="date" class="text lato" data-news-text>NOVEMBER 4, 2026</div>
+<div id="headline-one" class="text lato" data-news-text data-text-role="headline">Prices outpace</div>
+<div id="headline-two" class="text lato" data-news-text data-text-role="headline">average hourly pay</div>
+<div id="period" class="text lato" data-news-text>APRIL 2020–SEPTEMBER 2026</div>
+<div id="price-panel" class="metric-panel" data-news-panel></div>
+<div id="price-label" class="text lato metric-label" data-news-text>CONSUMER PRICES (CPI)</div>
+<div id="price-value" class="text lato metric-value" data-news-text>+31.3%</div>
+<div id="pay-panel" class="metric-panel" data-news-panel></div>
+<div id="pay-label" class="text lato metric-label" data-news-text>AVERAGE HOURLY EARNINGS</div>
+<div id="pay-value" class="text lato metric-value" data-news-text>+25.9%</div>
+<div id="scope" class="text georgia" data-news-text data-text-role="body">Earnings cover private nonfarm employees.</div>
+<div id="adjustment" class="text georgia" data-news-text data-text-role="body">Both series seasonally adjusted.</div>
+<div id="source-one" class="text georgia" data-news-text data-text-role="source">Sources: BLS/FRED; @KobeissiLetter</div>
+</main></body></html>
