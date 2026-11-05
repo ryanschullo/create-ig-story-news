@@ -1,0 +1,15 @@
+# November 4 market-close background
+
+Generated decorative exchange architecture for the November 4, 2026 story. This is an imagined financial setting, not documentary photography of an actual exchange, trading screen or election event. All news text and the original Moneyberg coin are added separately with HTML/CSS.
+
+Original image-tool file: `/workspace/generated_images/exec-0d37b044-acbc-4cac-9d84-8a1b25d2807e.png`, retained unchanged. Its bytes are copied to `assets/us-market-close-background-2026-11-04.png`. Browser CSS places the image with `object-fit: cover` on the final 1080 × 1920 canvas.
+
+Exact generation prompt:
+
+```text
+Create a premium editorial background for a 1080 x 1920 vertical Instagram Story about the November 4, 2026 US stock-market rally. This is decorative financial-market architecture, not a documentary photograph. Subject-specific look: deep forest green, warm ivory, brushed bronze, muted emerald, rich daylight. A sophisticated New York financial exchange interior with strong architectural perspective, sunlit stone columns and polished green marble, a few indistinct dark trading desks and blank screens confined to the bottom fifth, around y=1580–1920. The upper four-fifths is mostly a very quiet, dark forest-green, subtly translucent frosted-glass architectural plane suitable for extremely legible cream typography. It must look deliberately integrated into the building, with nuanced reflections and texture, not an empty poster floating in space. Keep x=90–945 and y=140–1550 entirely free of prominent objects, diagrams, screens, text and distracting highlights; this zone needs even dark contrast.
+
+On the extreme right edge, x=950–1080, create a slim warm-bronze and dark-green architectural support. Integrate one empty circular bronze recessed socket into that support, centered approximately x=994,y=545 with outer diameter about150px at 1080 canvas width. The actual approved gold Moneyberg coin will be seated inside this socket later using the exact original PNG; do not generate a coin, portrait, letters or logo. Leave the socket face blank, maintain believable shallow recess and contact shadow. Its entire extent must be within the upper75% of the image, clear of the news zone. No other circles resembling coins.
+
+No text, letters, numbers, ticker symbols, exchange logos, election symbols, flags, graphs, arrows or stock quotations anywhere. No visible people or imagined news events. Overall financial-exchange character should come from architecture, desks and reflections, especially in the lower scene. Avoid oil infrastructure, computers with fabricated chart data, party imagery and generic green code. Finely detailed, restrained, believable editorial art direction. Exact recurring brand MONEYBERG NEWS BRIEF will later be added on one small line at35px in actual Lato Black900. Headlines and all labels later use actual Lato Black900; body and sources actual Georgia400. Later authored content must remain inside x104–961,y164–1536 with min33px alltext,35body,51headlines. Render none of that typography now.
+```

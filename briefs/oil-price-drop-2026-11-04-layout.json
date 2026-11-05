@@ -1,0 +1,860 @@
+{
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "inner_bounds": [
+    104,
+    164,
+    961,
+    1536
+  ],
+  "minimum_authored_font_size_px": 33,
+  "minimum_body_font_size_px": 35,
+  "minimum_headline_font_size_px": 51,
+  "font_size_minimum_verified": true,
+  "renderer": "Chromium via Playwright; HTML/CSS screenshot",
+  "background_sha256": "419de81ae3031bc115499fa04a41821538fd15018af5f8741231e1d304c77c23",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
+  "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
+  "georgia_redistributed": false,
+  "layout": {
+    "text": [
+      {
+        "id": "brand",
+        "text": "MONEYBERG NEWS BRIEF",
+        "bounds": {
+          "left": 118,
+          "top": 182,
+          "right": 562.109375,
+          "bottom": 224,
+          "width": 444.109375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 181,
+          "right": 562.109375,
+          "bottom": 225,
+          "width": 444.109375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "category",
+        "text": "OIL & GAS",
+        "bounds": {
+          "left": 118,
+          "top": 246,
+          "right": 284.65625,
+          "bottom": 286,
+          "width": 166.65625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 245,
+          "right": 284.65625,
+          "bottom": 287,
+          "width": 166.65625,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "date",
+        "text": "NOVEMBER 4, 2026",
+        "bounds": {
+          "left": 118,
+          "top": 296,
+          "right": 424.421875,
+          "bottom": 336,
+          "width": 306.421875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 295,
+          "right": 424.421875,
+          "bottom": 337,
+          "width": 306.421875,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "headline-one",
+        "text": "Oil tumbles",
+        "bounds": {
+          "left": 114,
+          "top": 373,
+          "right": 540.0625,
+          "bottom": 476,
+          "width": 426.0625,
+          "height": 103
+        },
+        "element_bounds": {
+          "left": 114,
+          "top": 374,
+          "right": 540.0625,
+          "bottom": 475,
+          "width": 426.0625,
+          "height": 101
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "86px"
+      },
+      {
+        "id": "headline-two",
+        "text": "more than 8%",
+        "bounds": {
+          "left": 114,
+          "top": 474,
+          "right": 631.578125,
+          "bottom": 577,
+          "width": 517.578125,
+          "height": 103
+        },
+        "element_bounds": {
+          "left": 114,
+          "top": 475,
+          "right": 631.578125,
+          "bottom": 576,
+          "width": 517.578125,
+          "height": 101
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "86px"
+      },
+      {
+        "id": "context-one",
+        "text": "Traders reassess Iran-war risk",
+        "bounds": {
+          "left": 118,
+          "top": 633,
+          "right": 638.796875,
+          "bottom": 678,
+          "width": 520.796875,
+          "height": 45
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 630,
+          "right": 638.796875,
+          "bottom": 682,
+          "width": 520.796875,
+          "height": 52
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "39px"
+      },
+      {
+        "id": "context-two",
+        "text": "after the U.S. midterms.",
+        "bounds": {
+          "left": 118,
+          "top": 685,
+          "right": 532.453125,
+          "bottom": 730,
+          "width": 414.453125,
+          "height": 45
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 682,
+          "right": 532.453125,
+          "bottom": 734,
+          "width": 414.453125,
+          "height": 52
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "39px"
+      },
+      {
+        "id": "brent-label",
+        "text": "BRENT",
+        "bounds": {
+          "left": 144,
+          "top": 827,
+          "right": 282.609375,
+          "bottom": 877,
+          "width": 138.609375,
+          "height": 50
+        },
+        "element_bounds": {
+          "left": 144,
+          "top": 826,
+          "right": 282.609375,
+          "bottom": 878,
+          "width": 138.609375,
+          "height": 52
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "42px"
+      },
+      {
+        "id": "brent-contract",
+        "text": "JANUARY FUTURES",
+        "bounds": {
+          "left": 144,
+          "top": 887,
+          "right": 445.53125,
+          "bottom": 927,
+          "width": 301.53125,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 144,
+          "top": 886,
+          "right": 445.53125,
+          "bottom": 928,
+          "width": 301.53125,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "brent-price",
+        "text": "$95.01",
+        "bounds": {
+          "left": 144,
+          "top": 950,
+          "right": 406.8125,
+          "bottom": 1055,
+          "width": 262.8125,
+          "height": 105
+        },
+        "element_bounds": {
+          "left": 144,
+          "top": 952,
+          "right": 406.8125,
+          "bottom": 1054,
+          "width": 262.8125,
+          "height": 102
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "87px"
+      },
+      {
+        "id": "brent-change",
+        "text": "\u22128.3%",
+        "bounds": {
+          "left": 144,
+          "top": 1075,
+          "right": 324.140625,
+          "bottom": 1154,
+          "width": 180.140625,
+          "height": 79
+        },
+        "element_bounds": {
+          "left": 144,
+          "top": 1073,
+          "right": 324.140625,
+          "bottom": 1156,
+          "width": 180.140625,
+          "height": 83
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "66px"
+      },
+      {
+        "id": "brent-unit",
+        "text": "per barrel",
+        "bounds": {
+          "left": 144,
+          "top": 1173,
+          "right": 296.546875,
+          "bottom": 1213,
+          "width": 152.546875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 144,
+          "top": 1170,
+          "right": 296.546875,
+          "bottom": 1216,
+          "width": 152.546875,
+          "height": 46
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "wti-label",
+        "text": "WTI",
+        "bounds": {
+          "left": 573,
+          "top": 827,
+          "right": 656.421875,
+          "bottom": 877,
+          "width": 83.421875,
+          "height": 50
+        },
+        "element_bounds": {
+          "left": 573,
+          "top": 826,
+          "right": 656.421875,
+          "bottom": 878,
+          "width": 83.421875,
+          "height": 52
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "42px"
+      },
+      {
+        "id": "wti-contract",
+        "text": "DECEMBER FUTURES",
+        "bounds": {
+          "left": 573,
+          "top": 887,
+          "right": 901.9375,
+          "bottom": 927,
+          "width": 328.9375,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 573,
+          "top": 886,
+          "right": 901.9375,
+          "bottom": 928,
+          "width": 328.9375,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "wti-price",
+        "text": "$88.04",
+        "bounds": {
+          "left": 573,
+          "top": 950,
+          "right": 835.8125,
+          "bottom": 1055,
+          "width": 262.8125,
+          "height": 105
+        },
+        "element_bounds": {
+          "left": 573,
+          "top": 952,
+          "right": 835.8125,
+          "bottom": 1054,
+          "width": 262.8125,
+          "height": 102
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "87px"
+      },
+      {
+        "id": "wti-change",
+        "text": "\u22128.4%",
+        "bounds": {
+          "left": 573,
+          "top": 1075,
+          "right": 753.140625,
+          "bottom": 1154,
+          "width": 180.140625,
+          "height": 79
+        },
+        "element_bounds": {
+          "left": 573,
+          "top": 1073,
+          "right": 753.140625,
+          "bottom": 1156,
+          "width": 180.140625,
+          "height": 83
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "66px"
+      },
+      {
+        "id": "wti-unit",
+        "text": "per barrel",
+        "bounds": {
+          "left": 573,
+          "top": 1173,
+          "right": 725.546875,
+          "bottom": 1213,
+          "width": 152.546875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 573,
+          "top": 1170,
+          "right": 725.546875,
+          "bottom": 1216,
+          "width": 152.546875,
+          "height": 46
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "scope",
+        "text": "Daily change \u2022 U.S. dollars per barrel",
+        "bounds": {
+          "left": 118,
+          "top": 1308,
+          "right": 688.25,
+          "bottom": 1348,
+          "width": 570.25,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1305,
+          "right": 688.25,
+          "bottom": 1351,
+          "width": 570.25,
+          "height": 46
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "source-one",
+        "text": "Source: Investing.com",
+        "bounds": {
+          "left": 118,
+          "top": 1403,
+          "right": 443.078125,
+          "bottom": 1440,
+          "width": 325.078125,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1400,
+          "right": 443.078125,
+          "bottom": 1443,
+          "width": 325.078125,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      },
+      {
+        "id": "source-two",
+        "text": "Nov. 4, 2026 \u2022 Final settlements",
+        "bounds": {
+          "left": 118,
+          "top": 1446,
+          "right": 586.046875,
+          "bottom": 1483,
+          "width": 468.046875,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1443,
+          "right": 586.046875,
+          "bottom": 1486,
+          "width": 468.046875,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      }
+    ],
+    "panels": [
+      {
+        "id": "brent-panel",
+        "bounds": {
+          "left": 118,
+          "top": 800,
+          "right": 512,
+          "bottom": 1230,
+          "width": 394,
+          "height": 430
+        }
+      },
+      {
+        "id": "wti-panel",
+        "bounds": {
+          "left": 547,
+          "top": 800,
+          "right": 941,
+          "bottom": 1230,
+          "width": 394,
+          "height": 430
+        }
+      }
+    ],
+    "scene_elements": [
+      {
+        "id": "coin-installation",
+        "bounds": {
+          "left": 906,
+          "top": 461,
+          "right": 1062,
+          "bottom": 617,
+          "width": 156,
+          "height": 156
+        },
+        "box_shadow": "rgb(37, 40, 38) 3px 5px 8px 0px inset, rgba(6, 8, 7, 0.85) 4px 6px 8px 0px, rgb(199, 181, 139) -1px -1px 2px 0px",
+        "background": "linear-gradient(135deg, rgb(195, 163, 110), rgb(70, 66, 57) 54%, rgb(164, 126, 75))"
+      },
+      {
+        "id": "coin-contact",
+        "bounds": {
+          "left": 910,
+          "top": 465,
+          "right": 1058,
+          "bottom": 613,
+          "width": 148,
+          "height": 148
+        },
+        "box_shadow": "rgba(25, 29, 27, 0.65) 3px 4px 7px 0px inset, rgba(232, 199, 144, 0.26) -2px -2px 3px 0px inset",
+        "background": "linear-gradient(125deg, rgba(236, 199, 133, 0.08), rgba(0, 0, 0, 0) 46%, rgba(24, 30, 25, 0.18))"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Moneyberg Lato Black",
+        "weight": "900",
+        "status": "loaded"
+      },
+      {
+        "family": "Moneyberg Georgia",
+        "weight": "400",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "id": "background",
+        "natural_width": 916,
+        "natural_height": 1717,
+        "bounds": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        }
+      },
+      {
+        "id": "coin",
+        "natural_width": 2084,
+        "natural_height": 2084,
+        "bounds": {
+          "left": 911,
+          "top": 466,
+          "right": 1057,
+          "bottom": 612,
+          "width": 146,
+          "height": 146
+        }
+      }
+    ],
+    "document_width": 1080,
+    "document_height": 1920
+  },
+  "platform_fonts": [
+    {
+      "id": "brand",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "category",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 9
+        }
+      ]
+    },
+    {
+      "id": "date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "headline-one",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 11
+        }
+      ]
+    },
+    {
+      "id": "headline-two",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 12
+        }
+      ]
+    },
+    {
+      "id": "context-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 30
+        }
+      ]
+    },
+    {
+      "id": "context-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 24
+        }
+      ]
+    },
+    {
+      "id": "brent-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 5
+        }
+      ]
+    },
+    {
+      "id": "brent-contract",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 15
+        }
+      ]
+    },
+    {
+      "id": "brent-price",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 6
+        }
+      ]
+    },
+    {
+      "id": "brent-change",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 5
+        }
+      ]
+    },
+    {
+      "id": "brent-unit",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 10
+        }
+      ]
+    },
+    {
+      "id": "wti-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 3
+        }
+      ]
+    },
+    {
+      "id": "wti-contract",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "wti-price",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 6
+        }
+      ]
+    },
+    {
+      "id": "wti-change",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 5
+        }
+      ]
+    },
+    {
+      "id": "wti-unit",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 10
+        }
+      ]
+    },
+    {
+      "id": "scope",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 38
+        }
+      ]
+    },
+    {
+      "id": "source-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 21
+        }
+      ]
+    },
+    {
+      "id": "source-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 32
+        }
+      ]
+    }
+  ],
+  "coin_bounds": {
+    "left": 911,
+    "top": 466,
+    "right": 1057,
+    "bottom": 612,
+    "width": 146,
+    "height": 146
+  },
+  "whole_coin_upper_75_percent_verified": true,
+  "integration": {
+    "method": "Exact original coin PNG seated in a industrial brass-and-steel pipe mount with contact shadows and warm refinery lighting",
+    "artwork": "Original uniformly scaled PNG; original portrait, lettering and circular rim preserved",
+    "image_generation_role": "Text-free conceptual refinery and oil-storage environment only",
+    "topic": "November 4 final oil-futures settlements",
+    "category_badge": "OIL & GAS",
+    "background_credit_on_graphic": false,
+    "background_provenance": "Conceptual refinery environment, not a photograph of a verified facility or event"
+  },
+  "generation_prompts": [
+    "Create a premium editorial background only for a vertical 1080 x 1920 Instagram Story about a sharp drop in oil prices. The visual theme is petroleum black, warm charcoal, industrial steel and restrained amber light. An oil refinery at night, large storage tanks and connected heavy pipes should be clearly recognizable across the bottom fifth of the image, from approximately y=1570 to the bottom. Use cinematic industrial realism with tactile metal surfaces and restrained warm highlights; no explosions, smoke disaster, military action, flames or implied documentary location. The top four-fifths should be a very quiet, nearly flat dark charcoal control-room wall with subtle brushed steel texture, clean enough for large legible text and two price panels to be added later. Keep the entire main text region x=104 through961 and y=164 through1536 uncluttered and low contrast. Confine a heavy vertical pipe/support or machined steel panel frame to the far-right strip x=945 through1080. Build one small, front-facing, perfectly circular recessed brass-and-steel medallion socket into that right-side support around center x=1000,y=590, with an approximately145px inner diameter and physically convincing rim/contact shadow. Leave its center blank: the user's exact original gold Moneyberg coin will later be mounted there without changing its portrait or lettering. The whole socket must be above y=1440 and outside the main text. The final typography will be added separately in actual Lato Black weight900 for headlines/labels and Georgia for body/sources, at minimum33px all text,35px body,51px headline. The final small one-line brand will read MONEYBERG NEWS BRIEF, but do not draw any lettering now. Produce only the clean background environment. No text, no numbers, no logos, no chart lines, no tick marks, no labels, no generated coin, no medallion face, no banners, no oversized emblem. Reserve composition for a headline at y=370\u2013560, short context at y=620\u2013720, two side-by-side price panels at y=800\u20131215 and source lines around y=1400\u20131500. The refinery imagery and subtle curved industrial pipes below y=1570 should create a distinct oil-focused scene. No national flags, no identifiable actual facility, and no publisher watermark."
+  ],
+  "verified_full_text_syndication": "https://www.investing.com/news/commodities-news/oil-edges-higher-as-mixed-usiran-signals-temper-peace-hopes-4997079",
+  "source": "https://www.investing.com/news/commodities-news/oil-edges-higher-as-mixed-usiran-signals-temper-peace-hopes-4997079",
+  "source_access": "Full public Investing.com report read; article began November3 evening CST and was updated November4 with final settlements. Exact settlements are verified in this source; no second settlement table was inspected.",
+  "market_snapshot": {
+    "kind": "final futures settlements",
+    "trading_date": "2026-11-04",
+    "currency": "USD",
+    "unit": "barrel",
+    "brent_contract_month": "January",
+    "brent_settlement": 95.01,
+    "brent_change_pct": -8.3,
+    "wti_contract_month": "December",
+    "wti_settlement": 88.04,
+    "wti_change_pct": -8.4,
+    "is_live_quote": false
+  },
+  "output_sha256": "b2296b17c1270ad23cff520842f882df349cd4594fd3c97eba7b051e39264b38"
+}
