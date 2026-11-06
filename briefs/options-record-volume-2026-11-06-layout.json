@@ -1,0 +1,852 @@
+{
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "inner_bounds": [
+    104,
+    164,
+    961,
+    1536
+  ],
+  "minimum_authored_font_size_px": 33,
+  "minimum_body_font_size_px": 35,
+  "minimum_headline_font_size_px": 51,
+  "font_size_minimum_verified": true,
+  "renderer": "Chromium via Playwright; HTML/CSS screenshot",
+  "background_sha256": "7b5a81d12706ad0198429efbc80055fa4b14fe16f94f8cc8f423bd48368ef6eb",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
+  "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
+  "georgia_redistributed": false,
+  "layout": {
+    "text": [
+      {
+        "id": "brand",
+        "text": "MONEYBERG NEWS BRIEF",
+        "bounds": {
+          "left": 118,
+          "top": 175,
+          "right": 562.109375,
+          "bottom": 217,
+          "width": 444.109375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 174,
+          "right": 562.109375,
+          "bottom": 218,
+          "width": 444.109375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "category",
+        "text": "OPTIONS INVESTING",
+        "bounds": {
+          "left": 118,
+          "top": 230,
+          "right": 465.875,
+          "bottom": 270,
+          "width": 347.875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 229,
+          "right": 465.875,
+          "bottom": 271,
+          "width": 347.875,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "date",
+        "text": "NOVEMBER 5, 2026 \u2022 TRADING SESSION",
+        "bounds": {
+          "left": 118,
+          "top": 280,
+          "right": 750.9375,
+          "bottom": 320,
+          "width": 632.9375,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 279,
+          "right": 750.9375,
+          "bottom": 321,
+          "width": 632.9375,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "headline-one",
+        "text": "U.S. OPTIONS",
+        "bounds": {
+          "left": 118,
+          "top": 336,
+          "right": 526.34375,
+          "bottom": 413,
+          "width": 408.34375,
+          "height": 77
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 335,
+          "right": 526.34375,
+          "bottom": 414,
+          "width": 408.34375,
+          "height": 79
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "64px"
+      },
+      {
+        "id": "headline-two",
+        "text": "VOLUME HITS RECORD",
+        "bounds": {
+          "left": 118,
+          "top": 418,
+          "right": 815.703125,
+          "bottom": 495,
+          "width": 697.703125,
+          "height": 77
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 417,
+          "right": 815.703125,
+          "bottom": 496,
+          "width": 697.703125,
+          "height": 79
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "64px"
+      },
+      {
+        "id": "deck",
+        "text": "Record activity during Thursday\u2019s selloff.",
+        "bounds": {
+          "left": 118,
+          "top": 516,
+          "right": 751.359375,
+          "bottom": 556,
+          "width": 633.359375,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 514,
+          "right": 751.359375,
+          "bottom": 559,
+          "width": 633.359375,
+          "height": 45
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "hero-prefix",
+        "text": "MORE THAN",
+        "bounds": {
+          "left": 145,
+          "top": 614,
+          "right": 362.53125,
+          "bottom": 654,
+          "width": 217.53125,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 145,
+          "top": 613,
+          "right": 362.53125,
+          "bottom": 655,
+          "width": 217.53125,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "hero-value",
+        "text": "112M",
+        "bounds": {
+          "left": 138,
+          "top": 665,
+          "right": 498.8125,
+          "bottom": 833,
+          "width": 360.8125,
+          "height": 168
+        },
+        "element_bounds": {
+          "left": 138,
+          "top": 670,
+          "right": 498.8125,
+          "bottom": 829,
+          "width": 360.8125,
+          "height": 159
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "140px"
+      },
+      {
+        "id": "hero-unit",
+        "text": "U.S. options contracts traded",
+        "bounds": {
+          "left": 145,
+          "top": 836,
+          "right": 594.953125,
+          "bottom": 876,
+          "width": 449.953125,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 145,
+          "top": 834,
+          "right": 594.953125,
+          "bottom": 879,
+          "width": 449.953125,
+          "height": 45
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "average-value",
+        "text": "53%",
+        "bounds": {
+          "left": 143,
+          "top": 963,
+          "right": 321.84375,
+          "bottom": 1071,
+          "width": 178.84375,
+          "height": 108
+        },
+        "element_bounds": {
+          "left": 143,
+          "top": 963,
+          "right": 321.84375,
+          "bottom": 1071,
+          "width": 178.84375,
+          "height": 108
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "90px"
+      },
+      {
+        "id": "average-one",
+        "text": "above October",
+        "bounds": {
+          "left": 143,
+          "top": 1087,
+          "right": 365.609375,
+          "bottom": 1127,
+          "width": 222.609375,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 143,
+          "top": 1085,
+          "right": 365.609375,
+          "bottom": 1130,
+          "width": 222.609375,
+          "height": 45
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "average-two",
+        "text": "volume levels",
+        "bounds": {
+          "left": 143,
+          "top": 1133,
+          "right": 351.96875,
+          "bottom": 1173,
+          "width": 208.96875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 143,
+          "top": 1131,
+          "right": 351.96875,
+          "bottom": 1176,
+          "width": 208.96875,
+          "height": 45
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "put-value",
+        "text": "OVER HALF",
+        "bounds": {
+          "left": 569,
+          "top": 993,
+          "right": 813.46875,
+          "bottom": 1047,
+          "width": 244.46875,
+          "height": 54
+        },
+        "element_bounds": {
+          "left": 569,
+          "top": 992,
+          "right": 813.46875,
+          "bottom": 1048,
+          "width": 244.46875,
+          "height": 56
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "45px"
+      },
+      {
+        "id": "put-one",
+        "text": "of contracts",
+        "bounds": {
+          "left": 569,
+          "top": 1087,
+          "right": 750.296875,
+          "bottom": 1127,
+          "width": 181.296875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 569,
+          "top": 1085,
+          "right": 750.296875,
+          "bottom": 1130,
+          "width": 181.296875,
+          "height": 45
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "put-two",
+        "text": "were put options",
+        "bounds": {
+          "left": 569,
+          "top": 1133,
+          "right": 827.953125,
+          "bottom": 1173,
+          "width": 258.953125,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 569,
+          "top": 1131,
+          "right": 827.953125,
+          "bottom": 1176,
+          "width": 258.953125,
+          "height": 45
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "context-one",
+        "text": "Hedging costs climbed as the",
+        "bounds": {
+          "left": 118,
+          "top": 1246,
+          "right": 566.734375,
+          "bottom": 1286,
+          "width": 448.734375,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1243,
+          "right": 566.734375,
+          "bottom": 1289,
+          "width": 448.734375,
+          "height": 46
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "context-two",
+        "text": "stock-market selloff unfolded.",
+        "bounds": {
+          "left": 118,
+          "top": 1293,
+          "right": 580.578125,
+          "bottom": 1333,
+          "width": 462.578125,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1290,
+          "right": 580.578125,
+          "bottom": 1336,
+          "width": 462.578125,
+          "height": 46
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "source-one",
+        "text": "Source: Investing.com via StreetInsider",
+        "bounds": {
+          "left": 118,
+          "top": 1403,
+          "right": 693.109375,
+          "bottom": 1440,
+          "width": 575.109375,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1400,
+          "right": 693.109375,
+          "bottom": 1443,
+          "width": 575.109375,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      },
+      {
+        "id": "source-two",
+        "text": "Reported Nov. 6 \u2022 Nov. 5 trading data",
+        "bounds": {
+          "left": 118,
+          "top": 1451,
+          "right": 665.1875,
+          "bottom": 1488,
+          "width": 547.1875,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1448,
+          "right": 665.1875,
+          "bottom": 1491,
+          "width": 547.1875,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      }
+    ],
+    "panels": [
+      {
+        "id": "hero-panel",
+        "bounds": {
+          "left": 118,
+          "top": 595,
+          "right": 808,
+          "bottom": 895,
+          "width": 690,
+          "height": 300
+        }
+      },
+      {
+        "id": "average-panel",
+        "bounds": {
+          "left": 118,
+          "top": 944,
+          "right": 515,
+          "bottom": 1198,
+          "width": 397,
+          "height": 254
+        }
+      },
+      {
+        "id": "put-panel",
+        "bounds": {
+          "left": 544,
+          "top": 944,
+          "right": 941,
+          "bottom": 1198,
+          "width": 397,
+          "height": 254
+        }
+      },
+      {
+        "id": "source-panel",
+        "bounds": {
+          "left": 104,
+          "top": 1387,
+          "right": 961,
+          "bottom": 1511,
+          "width": 857,
+          "height": 124
+        }
+      }
+    ],
+    "scene_elements": [
+      {
+        "id": "coin-installation",
+        "bounds": {
+          "left": 853,
+          "top": 519,
+          "right": 1043,
+          "bottom": 709,
+          "width": 190,
+          "height": 190
+        },
+        "box_shadow": "rgb(37, 23, 49) 3px 5px 8px 0px inset, rgba(7, 3, 15, 0.85) 3px 6px 9px 0px, rgb(197, 181, 141) -1px -1px 2px 0px",
+        "background": "linear-gradient(135deg, rgb(187, 161, 109), rgb(71, 58, 80) 53%, rgb(139, 121, 91))"
+      },
+      {
+        "id": "coin-contact",
+        "bounds": {
+          "left": 857,
+          "top": 523,
+          "right": 1039,
+          "bottom": 705,
+          "width": 182,
+          "height": 182
+        },
+        "box_shadow": "rgba(29, 22, 43, 0.6) 3px 4px 7px 0px inset, rgba(208, 223, 192, 0.2) -2px -2px 3px 0px inset",
+        "background": "linear-gradient(125deg, rgba(173, 157, 222, 0.1), rgba(0, 0, 0, 0) 46%, rgba(17, 9, 28, 0.12))"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Moneyberg Lato Black",
+        "weight": "900",
+        "status": "loaded"
+      },
+      {
+        "family": "Moneyberg Georgia",
+        "weight": "400",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "id": "background",
+        "natural_width": 916,
+        "natural_height": 1717,
+        "object_fit": "cover",
+        "clip_path": "none",
+        "bounds": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        }
+      },
+      {
+        "id": "coin",
+        "natural_width": 2084,
+        "natural_height": 2084,
+        "object_fit": "contain",
+        "clip_path": "none",
+        "bounds": {
+          "left": 858,
+          "top": 524,
+          "right": 1038,
+          "bottom": 704,
+          "width": 180,
+          "height": 180
+        }
+      }
+    ],
+    "document_width": 1080,
+    "document_height": 1920
+  },
+  "platform_fonts": [
+    {
+      "id": "brand",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "category",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 17
+        }
+      ]
+    },
+    {
+      "id": "date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 34
+        }
+      ]
+    },
+    {
+      "id": "headline-one",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 12
+        }
+      ]
+    },
+    {
+      "id": "headline-two",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 18
+        }
+      ]
+    },
+    {
+      "id": "deck",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 42
+        }
+      ]
+    },
+    {
+      "id": "hero-prefix",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 9
+        }
+      ]
+    },
+    {
+      "id": "hero-value",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 4
+        }
+      ]
+    },
+    {
+      "id": "hero-unit",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 29
+        }
+      ]
+    },
+    {
+      "id": "average-value",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 3
+        }
+      ]
+    },
+    {
+      "id": "average-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 13
+        }
+      ]
+    },
+    {
+      "id": "average-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 13
+        }
+      ]
+    },
+    {
+      "id": "put-value",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 9
+        }
+      ]
+    },
+    {
+      "id": "put-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 12
+        }
+      ]
+    },
+    {
+      "id": "put-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "context-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 28
+        }
+      ]
+    },
+    {
+      "id": "context-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 30
+        }
+      ]
+    },
+    {
+      "id": "source-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 39
+        }
+      ]
+    },
+    {
+      "id": "source-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 37
+        }
+      ]
+    }
+  ],
+  "coin_bounds": {
+    "left": 858,
+    "top": 524,
+    "right": 1038,
+    "bottom": 704,
+    "width": 180,
+    "height": 180
+  },
+  "whole_coin_upper_75_percent_verified": true,
+  "integration": {
+    "method": "Exact original coin PNG seated in the options-desk equipment-panel brass recess with compatible plum/teal lighting and contact shading",
+    "artwork": "Original uniformly scaled PNG; original portrait, lettering and circular rim preserved",
+    "image_generation_role": "Text-free conceptual options-trading environment only",
+    "topic": "November 5 U.S. options record daily contract volume",
+    "category_badge": "OPTIONS INVESTING",
+    "background_credit_on_graphic": false,
+    "background_provenance": "Illustrative trading equipment, not documentary evidence of a specific exchange"
+  },
+  "generation_prompts": [
+    "Generate a new premium vertical 9:16 editorial BACKGROUND ONLY for a Moneyberg OPTIONS INVESTING story about record United States options contract trading volume on November 5, 2026. Distinct sophisticated INK, PLUM and INDIGO palette with restrained teal lighting. A close cinematic view of a high-end institutional options trading desk: brushed dark titanium terminal housing on far right, dark smoked glass, subtle precision metal details, expensive matte surfaces; keyboard and unobtrusive desk equipment visible in the bottom quarter. No people. No words, no letters, no digits, no tickers, no logos, no charts, no plotted data, no graph lines, no software interfaces. Not a generic green finance template, no classical building columns. Calm expert financial editorial styling.\nPrecise planned 1080x1920 composition: leave x104\u2013961,y164\u20131536 mostly empty dark plum/ink negative space, especially upper left for later text. Later exact overlays use Lato Black weight900 for headlines, brand and labels; Georgia for body/captions/source. Brand exactly MONEYBERG NEWS BRIEF at35px on one compact secondary line; minimum33px all authored text,35pxbody,51pxheadline. Do not render text yourself. We will compose big original typography over the scene: record options volume over112million contracts,53percentaboveOctober dailyaverage,morethanhalfputs. These facts are context only; never draw numbers or charts in the background.\nPlan one scene-integrated original Moneyberg coin: an EMPTY round antique-brass mounting recess embedded flush into the far-right vertical brushed titanium terminal housing, intended centerx982,y440 on1080x1920 equivalent, interior diameter144px. Keep exact front-facing circular mounting surface with believable environmental contact shadow and subtle teal/purple reflected light. Its center stays blank for the actual original coin PNG to be precisely composed later. Do not invent a portrait or inscription. The original artwork must remain uniformly circular, entirely within the top75percent(y<=1440), clear oftext. Physical mounting and matchinglighting should make the final goldcoin belong to the equipment, not a floatingbadge. Across the bottom belowy1560 use relevant dark tradingdesk details and softlyblurred equipment, reserve ample negative spaceabove. Elegant subdued material richness, not a busy neon workstation. No watermark,no redrectangle,no textualbackgroundcredits."
+  ],
+  "sources": [
+    "https://www.streetinsider.com/Investing/US+options+markets+hit+record+volume+following+Thursdays+market+rout/27306759.html"
+  ],
+  "source_access": "Full publicly accessible StreetInsider syndication of Investing.com read; attributed to the report, which cites clearing data without naming a provider.",
+  "market_snapshot": {
+    "kind": "reported U.S. daily options contract volume",
+    "session_date": "2026-11-05",
+    "report_date": "2026-11-06",
+    "report_published_eastern": "2026-11-06T13:44:00-05:00",
+    "contracts_lower_bound_exclusive": 112000000,
+    "increase_over_october_volume_levels_percent": 53,
+    "october_averaging_method_verified": false,
+    "put_share_qualitative": "just over half",
+    "dollar_notional_or_open_interest_claimed": false,
+    "exact_put_share_invented": false,
+    "primary_clearing_provider_independently_verified": false
+  },
+  "output_sha256": "e8c7c2050a28e1faa433bac6f0f2d5da70adbe62b631b1a759943cf8736af6ea"
+}
