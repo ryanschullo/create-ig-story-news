@@ -1,0 +1,859 @@
+{
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "inner_bounds": [
+    104,
+    164,
+    961,
+    1536
+  ],
+  "minimum_authored_font_size_px": 33,
+  "minimum_body_font_size_px": 35,
+  "minimum_headline_font_size_px": 51,
+  "font_size_minimum_verified": true,
+  "renderer": "Chromium via Playwright; HTML/CSS screenshot",
+  "background_sha256": "b9effe09c1013768cb1bfc69e311aa55046a70ad0e4183953edd9ed88210ba90",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
+  "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
+  "georgia_redistributed": false,
+  "layout": {
+    "text": [
+      {
+        "id": "brand",
+        "text": "MONEYBERG NEWS BRIEF",
+        "bounds": {
+          "left": 118,
+          "top": 175,
+          "right": 562.109375,
+          "bottom": 217,
+          "width": 444.109375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 174,
+          "right": 562.109375,
+          "bottom": 218,
+          "width": 444.109375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "category",
+        "text": "STOCK MARKET",
+        "bounds": {
+          "left": 118,
+          "top": 230,
+          "right": 384.515625,
+          "bottom": 270,
+          "width": 266.515625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 229,
+          "right": 384.515625,
+          "bottom": 271,
+          "width": 266.515625,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "date",
+        "text": "NOVEMBER 6, 2026 \u2022 FINAL CLOSE",
+        "bounds": {
+          "left": 118,
+          "top": 280,
+          "right": 662.828125,
+          "bottom": 320,
+          "width": 544.828125,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 279,
+          "right": 662.828125,
+          "bottom": 321,
+          "width": 544.828125,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "headline-one",
+        "text": "NASDAQ",
+        "bounds": {
+          "left": 113,
+          "top": 338,
+          "right": 488.765625,
+          "bottom": 446,
+          "width": 375.765625,
+          "height": 108
+        },
+        "element_bounds": {
+          "left": 113,
+          "top": 337,
+          "right": 488.765625,
+          "bottom": 447,
+          "width": 375.765625,
+          "height": 110
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "90px"
+      },
+      {
+        "id": "headline-two",
+        "text": "REBOUNDS",
+        "bounds": {
+          "left": 113,
+          "top": 446,
+          "right": 601.015625,
+          "bottom": 554,
+          "width": 488.015625,
+          "height": 108
+        },
+        "element_bounds": {
+          "left": 113,
+          "top": 445,
+          "right": 601.015625,
+          "bottom": 555,
+          "width": 488.015625,
+          "height": 110
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "90px"
+      },
+      {
+        "id": "context-one",
+        "text": "AI stocks recover some losses.",
+        "bounds": {
+          "left": 118,
+          "top": 577,
+          "right": 581.734375,
+          "bottom": 617,
+          "width": 463.734375,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 575,
+          "right": 581.734375,
+          "bottom": 620,
+          "width": 463.734375,
+          "height": 45
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "context-two",
+        "text": "S&P 500 rises; Dow slips.",
+        "bounds": {
+          "left": 118,
+          "top": 625,
+          "right": 512.609375,
+          "bottom": 665,
+          "width": 394.609375,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 623,
+          "right": 512.609375,
+          "bottom": 668,
+          "width": 394.609375,
+          "height": 45
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "nasdaq-label",
+        "text": "NASDAQ COMPOSITE",
+        "bounds": {
+          "left": 148,
+          "top": 729,
+          "right": 513.28125,
+          "bottom": 771,
+          "width": 365.28125,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 148,
+          "top": 728,
+          "right": 513.28125,
+          "bottom": 772,
+          "width": 365.28125,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "nasdaq-close",
+        "text": "24,579.42",
+        "bounds": {
+          "left": 148,
+          "top": 789,
+          "right": 384.734375,
+          "bottom": 852,
+          "width": 236.734375,
+          "height": 63
+        },
+        "element_bounds": {
+          "left": 148,
+          "top": 789,
+          "right": 384.734375,
+          "bottom": 853,
+          "width": 236.734375,
+          "height": 64
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "53px"
+      },
+      {
+        "id": "nasdaq-change",
+        "text": "+1.1%",
+        "bounds": {
+          "left": 690,
+          "top": 754,
+          "right": 906.90625,
+          "bottom": 850,
+          "width": 216.90625,
+          "height": 96
+        },
+        "element_bounds": {
+          "left": 690,
+          "top": 754,
+          "right": 906.90625,
+          "bottom": 850,
+          "width": 216.90625,
+          "height": 96
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "80px"
+      },
+      {
+        "id": "sp-label",
+        "text": "S&P 500",
+        "bounds": {
+          "left": 148,
+          "top": 927,
+          "right": 284,
+          "bottom": 969,
+          "width": 136,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 148,
+          "top": 926,
+          "right": 284,
+          "bottom": 970,
+          "width": 136,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "sp-close",
+        "text": "7,376.86",
+        "bounds": {
+          "left": 148,
+          "top": 987,
+          "right": 354.390625,
+          "bottom": 1050,
+          "width": 206.390625,
+          "height": 63
+        },
+        "element_bounds": {
+          "left": 148,
+          "top": 987,
+          "right": 354.390625,
+          "bottom": 1051,
+          "width": 206.390625,
+          "height": 64
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "53px"
+      },
+      {
+        "id": "sp-change",
+        "text": "+0.3%",
+        "bounds": {
+          "left": 690,
+          "top": 952,
+          "right": 906.90625,
+          "bottom": 1048,
+          "width": 216.90625,
+          "height": 96
+        },
+        "element_bounds": {
+          "left": 690,
+          "top": 952,
+          "right": 906.90625,
+          "bottom": 1048,
+          "width": 216.90625,
+          "height": 96
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "80px"
+      },
+      {
+        "id": "dow-label",
+        "text": "DOW JONES",
+        "bounds": {
+          "left": 148,
+          "top": 1125,
+          "right": 357.953125,
+          "bottom": 1167,
+          "width": 209.953125,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 148,
+          "top": 1124,
+          "right": 357.953125,
+          "bottom": 1168,
+          "width": 209.953125,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "dow-close",
+        "text": "51,285.73",
+        "bounds": {
+          "left": 148,
+          "top": 1185,
+          "right": 384.734375,
+          "bottom": 1248,
+          "width": 236.734375,
+          "height": 63
+        },
+        "element_bounds": {
+          "left": 148,
+          "top": 1185,
+          "right": 384.734375,
+          "bottom": 1249,
+          "width": 236.734375,
+          "height": 64
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "53px"
+      },
+      {
+        "id": "dow-change",
+        "text": "\u22120.5%",
+        "bounds": {
+          "left": 690,
+          "top": 1150,
+          "right": 906.90625,
+          "bottom": 1246,
+          "width": 216.90625,
+          "height": 96
+        },
+        "element_bounds": {
+          "left": 690,
+          "top": 1150,
+          "right": 906.90625,
+          "bottom": 1246,
+          "width": 216.90625,
+          "height": 96
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "80px"
+      },
+      {
+        "id": "week-note",
+        "text": "All three finish the week lower.",
+        "bounds": {
+          "left": 118,
+          "top": 1312,
+          "right": 595.5625,
+          "bottom": 1352,
+          "width": 477.5625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1310,
+          "right": 595.5625,
+          "bottom": 1355,
+          "width": 477.5625,
+          "height": 45
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "source-one",
+        "text": "Source: Associated Press",
+        "bounds": {
+          "left": 118,
+          "top": 1403,
+          "right": 478.125,
+          "bottom": 1440,
+          "width": 360.125,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1400,
+          "right": 478.125,
+          "bottom": 1443,
+          "width": 360.125,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      },
+      {
+        "id": "source-two",
+        "text": "Nov. 6, 2026 \u2022 Final U.S. close",
+        "bounds": {
+          "left": 118,
+          "top": 1450,
+          "right": 559.171875,
+          "bottom": 1487,
+          "width": 441.171875,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1447,
+          "right": 559.171875,
+          "bottom": 1490,
+          "width": 441.171875,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      }
+    ],
+    "panels": [
+      {
+        "id": "nasdaq-panel",
+        "bounds": {
+          "left": 118,
+          "top": 708,
+          "right": 941,
+          "bottom": 872,
+          "width": 823,
+          "height": 164
+        }
+      },
+      {
+        "id": "sp-panel",
+        "bounds": {
+          "left": 118,
+          "top": 906,
+          "right": 941,
+          "bottom": 1070,
+          "width": 823,
+          "height": 164
+        }
+      },
+      {
+        "id": "dow-panel",
+        "bounds": {
+          "left": 118,
+          "top": 1104,
+          "right": 941,
+          "bottom": 1268,
+          "width": 823,
+          "height": 164
+        }
+      },
+      {
+        "id": "source-panel",
+        "bounds": {
+          "left": 104,
+          "top": 1387,
+          "right": 961,
+          "bottom": 1513,
+          "width": 857,
+          "height": 126
+        }
+      }
+    ],
+    "scene_elements": [
+      {
+        "id": "coin-installation",
+        "bounds": {
+          "left": 893,
+          "top": 495,
+          "right": 1059,
+          "bottom": 661,
+          "width": 166,
+          "height": 166
+        },
+        "box_shadow": "rgb(23, 55, 68) 3px 5px 8px 0px inset, rgba(0, 9, 20, 0.85) 3px 6px 9px 0px, rgb(214, 206, 159) -1px -1px 2px 0px",
+        "background": "linear-gradient(135deg, rgb(199, 180, 124), rgb(74, 86, 88) 53%, rgb(141, 130, 88))"
+      },
+      {
+        "id": "coin-contact",
+        "bounds": {
+          "left": 897,
+          "top": 499,
+          "right": 1055,
+          "bottom": 657,
+          "width": 158,
+          "height": 158
+        },
+        "box_shadow": "rgba(19, 45, 52, 0.58) 3px 4px 7px 0px inset, rgba(224, 232, 191, 0.22) -2px -2px 3px 0px inset",
+        "background": "linear-gradient(125deg, rgba(116, 232, 215, 0.08), rgba(0, 0, 0, 0) 46%, rgba(9, 33, 50, 0.12))"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Moneyberg Lato Black",
+        "weight": "900",
+        "status": "loaded"
+      },
+      {
+        "family": "Moneyberg Georgia",
+        "weight": "400",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "id": "background",
+        "natural_width": 941,
+        "natural_height": 1672,
+        "object_fit": "cover",
+        "clip_path": "none",
+        "bounds": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        }
+      },
+      {
+        "id": "coin",
+        "natural_width": 2084,
+        "natural_height": 2084,
+        "object_fit": "contain",
+        "clip_path": "none",
+        "bounds": {
+          "left": 898,
+          "top": 500,
+          "right": 1054,
+          "bottom": 656,
+          "width": 156,
+          "height": 156
+        }
+      }
+    ],
+    "document_width": 1080,
+    "document_height": 1920
+  },
+  "platform_fonts": [
+    {
+      "id": "brand",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "category",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 12
+        }
+      ]
+    },
+    {
+      "id": "date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 30
+        }
+      ]
+    },
+    {
+      "id": "headline-one",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 6
+        }
+      ]
+    },
+    {
+      "id": "headline-two",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 8
+        }
+      ]
+    },
+    {
+      "id": "context-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 30
+        }
+      ]
+    },
+    {
+      "id": "context-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 25
+        }
+      ]
+    },
+    {
+      "id": "nasdaq-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "nasdaq-close",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 9
+        }
+      ]
+    },
+    {
+      "id": "nasdaq-change",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 5
+        }
+      ]
+    },
+    {
+      "id": "sp-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 7
+        }
+      ]
+    },
+    {
+      "id": "sp-close",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 8
+        }
+      ]
+    },
+    {
+      "id": "sp-change",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 5
+        }
+      ]
+    },
+    {
+      "id": "dow-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 9
+        }
+      ]
+    },
+    {
+      "id": "dow-close",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 9
+        }
+      ]
+    },
+    {
+      "id": "dow-change",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 5
+        }
+      ]
+    },
+    {
+      "id": "week-note",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 32
+        }
+      ]
+    },
+    {
+      "id": "source-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 24
+        }
+      ]
+    },
+    {
+      "id": "source-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 31
+        }
+      ]
+    }
+  ],
+  "coin_bounds": {
+    "left": 898,
+    "top": 500,
+    "right": 1054,
+    "bottom": 656,
+    "width": 156,
+    "height": 156
+  },
+  "whole_coin_upper_75_percent_verified": true,
+  "integration": {
+    "method": "Exact original coin PNG seated in the exchange-column brass recess with compatible cobalt/teal lighting and contact shading",
+    "artwork": "Original uniformly scaled PNG; portrait, lettering and circular rim preserved",
+    "image_generation_role": "Text-free conceptual stock-exchange atrium only",
+    "topic": "November 6 final U.S. market close",
+    "category_badge": "STOCK MARKET",
+    "background_credit_on_graphic": false,
+    "background_provenance": "Illustrative exchange architecture, not documentation of a named venue or trading screen"
+  },
+  "generation_prompts": [
+    "Create a premium 9:16 vertical editorial BACKGROUND ONLY for a Moneyberg U.S. stock market news graphic about the NASDAQ REBOUND after a sharp AI-stock selloff. Fresh cool cobalt blue, midnight navy and restrained teal palette, confident calm financial architecture. A modern stock-exchange atrium with dark smoked-glass surfaces, slim cobalt architectural light strips, brushed titanium columns and distant geometric exchange hall structure visible only in the bottom quarter. No people. No words, no digits, no prices, no chart, no graphs, no ticker symbols, no logos, no fake financial data. Do not create market screenshots.\nComposition at 1080x1920 equivalent: the main region x104\u2013961,y164\u20131536 will hold large accurately composed text and three data panels. Keep it quiet and dark navy, especially across the upper left and middle. Background imagery is most visible in the bottom quarter and along the outer right edge; understated visual depth, physical materials, no busy holograms. Later typography will use actual Lato Black weight900 for headline/labels/brand and actual Georgia for body/captions/sources. Exact brand later is MONEYBERG NEWS BRIEF, one compact secondary line at35px. Minimum authored text33px, body35px, headline51px. These are composition instructions; do not render text.\nReserve ONE empty circular antique-brass medallion recess in the far-right brushed-titanium structural column, approximately centered x985,y490, inner diameter144px at1080x1920 equivalent. This must be a front-facing flat circle, built into the architecture with subtle teal reflected light and believable contact shadows. Leave its interior completely blank, no portrait or inscription. The actual original Moneyberg gold coin PNG will be placed there later at exact circular proportions, entirely within the upper75% of the image (y<=1440), clear of content. Keep the full mounting ring visible. The final coin should belong to the architecture rather than float as a badge. Main market data overlays will begin below y708 so keep the mount above y670. Bottom view can show trading-hall infrastructure and reflective floor but no screens containing charts or writing. No watermark, no red box, no typography, no background-credit footer."
+  ],
+  "sources": [
+    "https://www.washingtonpost.com/business/2026/11/06/wall-street-stocks-dow-nasdaq/fbde12a0-da27-11f1-930a-e08f8086f5ac_story.html"
+  ],
+  "source_access": "Full public AP final index report via Washington Post read; all three closing levels and daily percentages reproduced as published.",
+  "market_snapshot": {
+    "kind": "final U.S. cash close",
+    "session_date": "2026-11-06",
+    "report_date": "2026-11-06",
+    "production_date_chicago": "2026-11-07",
+    "nasdaq_index": "Nasdaq Composite",
+    "nasdaq_close": 24579.42,
+    "nasdaq_change_pct_published": 1.1,
+    "sp500_close": 7376.86,
+    "sp500_change_pct_published": 0.3,
+    "dow_close": 51285.73,
+    "dow_change_pct_published": -0.5,
+    "weekly_changes_pct_source": {
+      "nasdaq_composite": -3.4,
+      "sp500": -2.7,
+      "dow": -0.9
+    },
+    "weekly_changes_displayed": "All three finish the week lower",
+    "percentages_recomputed": false
+  },
+  "output_sha256": "f6ab6ddcc493f3e13deced2e9a268acd46ba1812dec99c45617924c2d2b1c5a5"
+}

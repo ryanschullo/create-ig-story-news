@@ -1,0 +1,865 @@
+{
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "inner_bounds": [
+    104,
+    164,
+    961,
+    1536
+  ],
+  "minimum_authored_font_size_px": 33,
+  "minimum_body_font_size_px": 35,
+  "minimum_headline_font_size_px": 51,
+  "font_size_minimum_verified": true,
+  "renderer": "Chromium via Playwright; HTML/CSS screenshot",
+  "background_sha256": "6903bd7fac73f6fab4aa8c3f8c915b6807098a8da1200db6e5eb1ed34e21b3e0",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
+  "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
+  "georgia_redistributed": false,
+  "layout": {
+    "text": [
+      {
+        "id": "brand",
+        "text": "MONEYBERG NEWS BRIEF",
+        "bounds": {
+          "left": 118,
+          "top": 175,
+          "right": 562.109375,
+          "bottom": 217,
+          "width": 444.109375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 174,
+          "right": 562.109375,
+          "bottom": 218,
+          "width": 444.109375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "category",
+        "text": "JOBS & EMPLOYMENT",
+        "bounds": {
+          "left": 118,
+          "top": 230,
+          "right": 486.15625,
+          "bottom": 270,
+          "width": 368.15625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 229,
+          "right": 486.15625,
+          "bottom": 271,
+          "width": 368.15625,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "date",
+        "text": "NOV. 6, 2026 \u2022 OCTOBER JOBS REPORT",
+        "bounds": {
+          "left": 118,
+          "top": 280,
+          "right": 733.46875,
+          "bottom": 320,
+          "width": 615.46875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 279,
+          "right": 733.46875,
+          "bottom": 321,
+          "width": 615.46875,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "headline-one",
+        "text": "HIRING BEATS",
+        "bounds": {
+          "left": 118,
+          "top": 336,
+          "right": 594.703125,
+          "bottom": 422,
+          "width": 476.703125,
+          "height": 86
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 335,
+          "right": 594.703125,
+          "bottom": 423,
+          "width": 476.703125,
+          "height": 88
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "72px"
+      },
+      {
+        "id": "headline-two",
+        "text": "EXPECTATIONS",
+        "bounds": {
+          "left": 118,
+          "top": 424,
+          "right": 631.96875,
+          "bottom": 510,
+          "width": 513.96875,
+          "height": 86
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 423,
+          "right": 631.96875,
+          "bottom": 511,
+          "width": 513.96875,
+          "height": 88
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "72px"
+      },
+      {
+        "id": "deck",
+        "text": "October gains top economists\u2019 forecasts.",
+        "bounds": {
+          "left": 118,
+          "top": 526,
+          "right": 737.359375,
+          "bottom": 566,
+          "width": 619.359375,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 524,
+          "right": 737.359375,
+          "bottom": 569,
+          "width": 619.359375,
+          "height": 45
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "hero-prefix",
+        "text": "NONFARM PAYROLLS",
+        "bounds": {
+          "left": 143,
+          "top": 623,
+          "right": 499.171875,
+          "bottom": 663,
+          "width": 356.171875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 143,
+          "top": 622,
+          "right": 499.171875,
+          "bottom": 664,
+          "width": 356.171875,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "hero-value",
+        "text": "+165,000",
+        "bounds": {
+          "left": 137,
+          "top": 674,
+          "right": 671.546875,
+          "bottom": 830,
+          "width": 534.546875,
+          "height": 156
+        },
+        "element_bounds": {
+          "left": 137,
+          "top": 675,
+          "right": 671.546875,
+          "bottom": 829,
+          "width": 534.546875,
+          "height": 154
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "130px"
+      },
+      {
+        "id": "hero-unit",
+        "text": "U.S. jobs added in October",
+        "bounds": {
+          "left": 143,
+          "top": 844,
+          "right": 555.09375,
+          "bottom": 884,
+          "width": 412.09375,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 143,
+          "top": 842,
+          "right": 555.09375,
+          "bottom": 887,
+          "width": 412.09375,
+          "height": 45
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "unemployment-value",
+        "text": "4.1%",
+        "bounds": {
+          "left": 143,
+          "top": 963,
+          "right": 356.609375,
+          "bottom": 1078,
+          "width": 213.609375,
+          "height": 115
+        },
+        "element_bounds": {
+          "left": 143,
+          "top": 963,
+          "right": 356.609375,
+          "bottom": 1079,
+          "width": 213.609375,
+          "height": 116
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "96px"
+      },
+      {
+        "id": "unemployment-label",
+        "text": "UNEMPLOYMENT",
+        "bounds": {
+          "left": 143,
+          "top": 1084,
+          "right": 424.6875,
+          "bottom": 1124,
+          "width": 281.6875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 143,
+          "top": 1083,
+          "right": 424.6875,
+          "bottom": 1126,
+          "width": 281.6875,
+          "height": 43
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "unemployment-note",
+        "text": "October rate",
+        "bounds": {
+          "left": 143,
+          "top": 1133,
+          "right": 336.171875,
+          "bottom": 1173,
+          "width": 193.171875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 143,
+          "top": 1131,
+          "right": 336.171875,
+          "bottom": 1176,
+          "width": 193.171875,
+          "height": 45
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "expected-value",
+        "text": "65K",
+        "bounds": {
+          "left": 569,
+          "top": 963,
+          "right": 747.09375,
+          "bottom": 1078,
+          "width": 178.09375,
+          "height": 115
+        },
+        "element_bounds": {
+          "left": 569,
+          "top": 963,
+          "right": 747.09375,
+          "bottom": 1079,
+          "width": 178.09375,
+          "height": 116
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "96px"
+      },
+      {
+        "id": "expected-label",
+        "text": "JOBS EXPECTED",
+        "bounds": {
+          "left": 569,
+          "top": 1084,
+          "right": 825.484375,
+          "bottom": 1124,
+          "width": 256.484375,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 569,
+          "top": 1083,
+          "right": 825.484375,
+          "bottom": 1126,
+          "width": 256.484375,
+          "height": 43
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "expected-note",
+        "text": "LSEG economist poll",
+        "bounds": {
+          "left": 569,
+          "top": 1133,
+          "right": 893.296875,
+          "bottom": 1173,
+          "width": 324.296875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 569,
+          "top": 1131,
+          "right": 893.296875,
+          "bottom": 1176,
+          "width": 324.296875,
+          "height": 45
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "context-one",
+        "text": "Professional and business services",
+        "bounds": {
+          "left": 125,
+          "top": 1247,
+          "right": 654.21875,
+          "bottom": 1287,
+          "width": 529.21875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 125,
+          "top": 1244,
+          "right": 654.21875,
+          "bottom": 1290,
+          "width": 529.21875,
+          "height": 46
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "context-two",
+        "text": "added 70,000 jobs.",
+        "bounds": {
+          "left": 125,
+          "top": 1294,
+          "right": 422.9375,
+          "bottom": 1334,
+          "width": 297.9375,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 125,
+          "top": 1291,
+          "right": 422.9375,
+          "bottom": 1337,
+          "width": 297.9375,
+          "height": 46
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "source-one",
+        "text": "Sources: BLS; Fox Business / LSEG poll",
+        "bounds": {
+          "left": 118,
+          "top": 1413,
+          "right": 697.984375,
+          "bottom": 1450,
+          "width": 579.984375,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1410,
+          "right": 697.984375,
+          "bottom": 1453,
+          "width": 579.984375,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      },
+      {
+        "id": "source-two",
+        "text": "October 2026 data \u2022 Released Nov. 6",
+        "bounds": {
+          "left": 118,
+          "top": 1462,
+          "right": 652.140625,
+          "bottom": 1499,
+          "width": 534.140625,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1459,
+          "right": 652.140625,
+          "bottom": 1502,
+          "width": 534.140625,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      }
+    ],
+    "panels": [
+      {
+        "id": "hero-panel",
+        "bounds": {
+          "left": 118,
+          "top": 602,
+          "right": 808,
+          "bottom": 902,
+          "width": 690,
+          "height": 300
+        }
+      },
+      {
+        "id": "unemployment-panel",
+        "bounds": {
+          "left": 118,
+          "top": 948,
+          "right": 515,
+          "bottom": 1198,
+          "width": 397,
+          "height": 250
+        }
+      },
+      {
+        "id": "expected-panel",
+        "bounds": {
+          "left": 544,
+          "top": 948,
+          "right": 941,
+          "bottom": 1198,
+          "width": 397,
+          "height": 250
+        }
+      },
+      {
+        "id": "context-panel",
+        "bounds": {
+          "left": 104,
+          "top": 1232,
+          "right": 961,
+          "bottom": 1369,
+          "width": 857,
+          "height": 137
+        }
+      },
+      {
+        "id": "source-panel",
+        "bounds": {
+          "left": 104,
+          "top": 1401,
+          "right": 961,
+          "bottom": 1520,
+          "width": 857,
+          "height": 119
+        }
+      }
+    ],
+    "scene_elements": [
+      {
+        "id": "coin-installation",
+        "bounds": {
+          "left": 870,
+          "top": 702,
+          "right": 1050,
+          "bottom": 882,
+          "width": 180,
+          "height": 180
+        },
+        "box_shadow": "rgb(73, 57, 35) 3px 5px 8px 0px inset, rgba(40, 29, 14, 0.7) 3px 6px 9px 0px, rgb(231, 212, 156) -1px -1px 2px 0px",
+        "background": "linear-gradient(135deg, rgb(224, 197, 139), rgb(113, 91, 56) 54%, rgb(182, 154, 99))"
+      },
+      {
+        "id": "coin-contact",
+        "bounds": {
+          "left": 874,
+          "top": 706,
+          "right": 1046,
+          "bottom": 878,
+          "width": 172,
+          "height": 172
+        },
+        "box_shadow": "rgba(69, 48, 20, 0.48) 3px 4px 7px 0px inset, rgba(255, 242, 189, 0.32) -2px -2px 3px 0px inset",
+        "background": "linear-gradient(125deg, rgba(251, 226, 167, 0.12), rgba(0, 0, 0, 0) 46%, rgba(45, 36, 16, 0.1))"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Moneyberg Lato Black",
+        "weight": "900",
+        "status": "loaded"
+      },
+      {
+        "family": "Moneyberg Georgia",
+        "weight": "400",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "id": "background",
+        "natural_width": 916,
+        "natural_height": 1717,
+        "object_fit": "cover",
+        "clip_path": "none",
+        "bounds": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        }
+      },
+      {
+        "id": "coin",
+        "natural_width": 2084,
+        "natural_height": 2084,
+        "object_fit": "contain",
+        "clip_path": "none",
+        "bounds": {
+          "left": 875,
+          "top": 707,
+          "right": 1045,
+          "bottom": 877,
+          "width": 170,
+          "height": 170
+        }
+      }
+    ],
+    "document_width": 1080,
+    "document_height": 1920
+  },
+  "platform_fonts": [
+    {
+      "id": "brand",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "category",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 17
+        }
+      ]
+    },
+    {
+      "id": "date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 34
+        }
+      ]
+    },
+    {
+      "id": "headline-one",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 12
+        }
+      ]
+    },
+    {
+      "id": "headline-two",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 12
+        }
+      ]
+    },
+    {
+      "id": "deck",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 40
+        }
+      ]
+    },
+    {
+      "id": "hero-prefix",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "hero-value",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 8
+        }
+      ]
+    },
+    {
+      "id": "hero-unit",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 26
+        }
+      ]
+    },
+    {
+      "id": "unemployment-value",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 4
+        }
+      ]
+    },
+    {
+      "id": "unemployment-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 12
+        }
+      ]
+    },
+    {
+      "id": "unemployment-note",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 12
+        }
+      ]
+    },
+    {
+      "id": "expected-value",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 3
+        }
+      ]
+    },
+    {
+      "id": "expected-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 13
+        }
+      ]
+    },
+    {
+      "id": "expected-note",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 19
+        }
+      ]
+    },
+    {
+      "id": "context-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 34
+        }
+      ]
+    },
+    {
+      "id": "context-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 18
+        }
+      ]
+    },
+    {
+      "id": "source-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 38
+        }
+      ]
+    },
+    {
+      "id": "source-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 35
+        }
+      ]
+    }
+  ],
+  "coin_bounds": {
+    "left": 875,
+    "top": 707,
+    "right": 1045,
+    "bottom": 877,
+    "width": 170,
+    "height": 170
+  },
+  "whole_coin_upper_75_percent_verified": true,
+  "integration": {
+    "method": "Exact original coin PNG uniformly seated in the workplace architectural brass recess, with daylight-compatible tone and contact shading",
+    "artwork": "Original portrait, lettering and circular rim preserved; original master unchanged",
+    "image_generation_role": "Text-free conceptual workplace environment only",
+    "topic": "October 2026 U.S. employment data released November 6",
+    "category_badge": "JOBS & EMPLOYMENT",
+    "background_credit_on_graphic": false,
+    "background_provenance": "Illustrative workplace, not documentary evidence of a specific employer"
+  },
+  "generation_prompts": [
+    "Create a premium vertical 9:16 editorial BACKGROUND ONLY for an Instagram Story about the October 2026 United States employment report: stronger-than-expected hiring. Distinct JOBS AND EMPLOYMENT subject imagery, a sophisticated modern workplace reception and desk, sober warm limestone, ivory, charcoal, brushed steel and restrained forest-green accents. Daylight from frosted glass, subtle oak and stone materials. The lower quarter shows a neat workplace desk with a closed notebook, pen, laptop corner and office details, no people. This should feel like professional employment and business activity, NOT a stock exchange, no trading screens, no blue-neon finance imagery. No text, no logos, no numbers, no graphs, no charts.\nPrecise planned 1080x1920 layout: all later news content will be inside x104\u2013961,y164\u20131536. Keep the whole upper-left and middle region quiet warm ivory/limestone negative space with subdued texture for dark readable typography. A major green data panel will be composed later at x118,y595,width690,height300. Two smaller panels later at x118 and544,y944,width397,height254. Header later includes compact one-line MONEYBERG NEWS BRIEF at35px in actual Lato Black weight900, plus JOBS & EMPLOYMENT; headlines at64\u201372px Lato Black; body and captions in actual Georgia. All new typography will be minimum33px, body35px. Do not generate this text.\nCoin integration plan: along the far-right edge, a narrow dark-bronze/charcoal workplace architectural pilaster or reception equipment panel contains one EMPTY circular brass medallion mounting recess. Position its center approximately x955,y660 on the1080x1920 equivalent canvas; interior diameter160px. It is flat and frontal, with a subtle realistic metal border and contact shadow, and the center is blank for the actual uploaded original gold Moneyberg coin to be composited exactly later. No portrait, face or inscription in the generated image. The original coin will remain perfectly circular and entire rim inside upper75%y<=1440. Make the mounting recess physically part of the workplace architecture, compatible daylight highlights and warm-gold reflection; not a floating badge. Keep it clear of all planned news panels. Lower workplace desk imagery may extend beyond the content area. Calm high-end editorial quality, no watermark, no red rectangle, no background credit text."
+  ],
+  "sources": [
+    "https://www.foxbusiness.com/economy/us-jobs-report-october-2026",
+    "https://www.bls.gov/news.release/empsit.nr0.htm"
+  ],
+  "source_access": "Full public Fox Business report and BLS primary release read; payroll and unemployment figures match BLS, while consensus is explicitly the LSEG economist poll cited by Fox Business.",
+  "employment_snapshot": {
+    "kind": "October employment situation, initially released November 6",
+    "observation_month": "2026-10",
+    "release_date": "2026-11-06",
+    "production_date_chicago": "2026-11-07",
+    "nonfarm_payroll_change": 165000,
+    "unemployment_rate_percent": 4.1,
+    "payroll_forecast": 65000,
+    "forecast_source": "LSEG economist poll, reported by Fox Business",
+    "professional_and_business_services_change": 70000,
+    "sectors_are_components_of_payroll_total": true,
+    "new_decision_or_market_forecast_claimed": false,
+    "initial_estimates_subject_to_revision": true
+  },
+  "output_sha256": "f3066f6df739b3967738dbee6ae34c9b62159d17a3203fe7326b0533006a0eb8"
+}
