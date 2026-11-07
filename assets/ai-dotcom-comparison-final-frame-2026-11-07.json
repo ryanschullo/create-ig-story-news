@@ -1,0 +1,35 @@
+{
+  "source_post": "https://x.com/lesse_jivermore/status/2118672148466393341",
+  "methodology_post": "https://x.com/lesse_jivermore/status/2118292012055282037",
+  "official_metadata": "https://cdn.syndication.twimg.com/tweet-result?id=2118672148466393341&lang=en&token=0",
+  "author": "Curbstone Research (@lesse_jivermore)",
+  "post_published_utc": "2026-11-06T11:49:37Z",
+  "post_published_chicago": "2026-11-06T05:49:37-06:00",
+  "video_url": "https://video.twimg.com/amplify_video/2118672127348101121/vid/avc1/1200x1200/966Ts7OtavDsYeFt.mp4",
+  "video_bytes": 3495781,
+  "video_sha256": "45ac0bb7bba9a6aa6435ed95f19262760a2d1699ab89144936ecb037721fa8cf",
+  "video_dimensions": [
+    1200,
+    1200
+  ],
+  "video_fps": "30/1",
+  "video_frame_count": 623,
+  "video_duration_seconds": 20.766667,
+  "selected_zero_based_frame": 622,
+  "selected_frame_seconds": 20.733333333333334,
+  "method": "FFmpeg decodes the final video frame directly to lossless PNG; no crop, retyping, redrawing, pixel editing, or data alteration.",
+  "extraction_command": "ffmpeg -hide_banner -loglevel error -i source-video.mp4 -vf 'select=eq(n\\,622)' -frames:v 1 final-frame.png",
+  "source_frame": "assets/ai-dotcom-comparison-final-frame-2026-11-07.png",
+  "source_frame_bytes": 330560,
+  "source_frame_dimensions": [
+    1200,
+    1200
+  ],
+  "source_frame_sha256": "dc7a372fc315b3d97e743e56a523fc53240362ac3a07cfed6e8d079c0aa57bc1",
+  "chart_scope": "Two author-selected equal-weight baskets of 10 stocks, quarterly rebalanced, aligned by trading session; first close normalized to 1x. Not an official broad-market index or forecast.",
+  "ai_data_through": "2026-11-05",
+  "corrected_dotcom_start": "1995-01",
+  "ai_start": "2022-10-13",
+  "underlying_csv_data_independently_verified": false,
+  "source_chart_artwork_intact": true
+}

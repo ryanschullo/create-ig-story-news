@@ -1,0 +1,484 @@
+{
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "inner_bounds": [
+    104,
+    164,
+    961,
+    1536
+  ],
+  "minimum_authored_font_size_px": 33,
+  "minimum_body_font_size_px": 35,
+  "minimum_headline_font_size_px": 51,
+  "font_size_minimum_verified": true,
+  "renderer": "Chromium via Playwright; HTML/CSS screenshot",
+  "background_sha256": "5e8239363dfe86b7bfcd80861bd3aa7cbdb3ee9d7dac5a3f27fde4ea2217fe85",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
+  "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
+  "georgia_redistributed": false,
+  "layout": {
+    "text": [
+      {
+        "id": "brand",
+        "text": "MONEYBERG NEWS BRIEF",
+        "bounds": {
+          "left": 118,
+          "top": 175,
+          "right": 562.109375,
+          "bottom": 217,
+          "width": 444.109375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 174,
+          "right": 562.109375,
+          "bottom": 218,
+          "width": 444.109375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "category",
+        "text": "AI INVESTING",
+        "bounds": {
+          "left": 118,
+          "top": 230,
+          "right": 340.1875,
+          "bottom": 270,
+          "width": 222.1875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 229,
+          "right": 340.1875,
+          "bottom": 271,
+          "width": 222.1875,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "date",
+        "text": "NOVEMBER 6, 2026 \u2022 VIDEO SNAPSHOT",
+        "bounds": {
+          "left": 118,
+          "top": 280,
+          "right": 746.578125,
+          "bottom": 320,
+          "width": 628.578125,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 279,
+          "right": 746.578125,
+          "bottom": 321,
+          "width": 628.578125,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "headline-one",
+        "text": "AI VS. DOT-COM",
+        "bounds": {
+          "left": 118,
+          "top": 328,
+          "right": 610.75,
+          "bottom": 405,
+          "width": 492.75,
+          "height": 77
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 327,
+          "right": 610.75,
+          "bottom": 406,
+          "width": 492.75,
+          "height": 79
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "64px"
+      },
+      {
+        "id": "headline-two",
+        "text": "HOW THEY COMPARE",
+        "bounds": {
+          "left": 118,
+          "top": 412,
+          "right": 786.296875,
+          "bottom": 489,
+          "width": 668.296875,
+          "height": 77
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 411,
+          "right": 786.296875,
+          "bottom": 490,
+          "width": 668.296875,
+          "height": 79
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "64px"
+      },
+      {
+        "id": "deck",
+        "text": "10-stock baskets, aligned by trading day.",
+        "bounds": {
+          "left": 118,
+          "top": 495,
+          "right": 742.78125,
+          "bottom": 535,
+          "width": 624.78125,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 493,
+          "right": 742.78125,
+          "bottom": 538,
+          "width": 624.78125,
+          "height": 45
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "source-one",
+        "text": "Chart: Curbstone Research \u2022 Post: Nov. 6",
+        "bounds": {
+          "left": 118,
+          "top": 1434,
+          "right": 716.625,
+          "bottom": 1471,
+          "width": 598.625,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1431,
+          "right": 716.625,
+          "bottom": 1474,
+          "width": 598.625,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      },
+      {
+        "id": "source-two",
+        "text": "AI data through Nov. 5 \u2022 Historical comparison",
+        "bounds": {
+          "left": 118,
+          "top": 1483,
+          "right": 804.296875,
+          "bottom": 1520,
+          "width": 686.296875,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1480,
+          "right": 804.296875,
+          "bottom": 1523,
+          "width": 686.296875,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      }
+    ],
+    "panels": [
+      {
+        "id": "chart",
+        "bounds": {
+          "left": 104,
+          "top": 557,
+          "right": 961,
+          "bottom": 1414,
+          "width": 857,
+          "height": 857
+        }
+      },
+      {
+        "id": "source-panel",
+        "bounds": {
+          "left": 104,
+          "top": 1422,
+          "right": 961,
+          "bottom": 1530,
+          "width": 857,
+          "height": 108
+        }
+      }
+    ],
+    "scene_elements": [
+      {
+        "id": "coin-installation",
+        "bounds": {
+          "left": 905,
+          "top": 363,
+          "right": 1059,
+          "bottom": 517,
+          "width": 154,
+          "height": 154
+        },
+        "box_shadow": "rgb(23, 33, 50) 3px 5px 8px 0px inset, rgba(1, 7, 17, 0.85) 3px 6px 10px 0px, rgb(198, 186, 147) -1px -1px 2px 0px",
+        "background": "linear-gradient(135deg, rgb(188, 160, 107), rgb(56, 66, 77) 53%, rgb(155, 135, 99))"
+      },
+      {
+        "id": "coin-contact",
+        "bounds": {
+          "left": 909,
+          "top": 367,
+          "right": 1055,
+          "bottom": 513,
+          "width": 146,
+          "height": 146
+        },
+        "box_shadow": "rgba(20, 34, 49, 0.6) 3px 4px 7px 0px inset, rgba(220, 225, 202, 0.2) -2px -2px 3px 0px inset",
+        "background": "linear-gradient(125deg, rgba(160, 195, 228, 0.1), rgba(0, 0, 0, 0) 46%, rgba(10, 20, 35, 0.12))"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Moneyberg Lato Black",
+        "weight": "900",
+        "status": "loaded"
+      },
+      {
+        "family": "Moneyberg Georgia",
+        "weight": "400",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "id": "background",
+        "natural_width": 941,
+        "natural_height": 1672,
+        "object_fit": "cover",
+        "clip_path": "none",
+        "bounds": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        }
+      },
+      {
+        "id": "coin",
+        "natural_width": 2084,
+        "natural_height": 2084,
+        "object_fit": "contain",
+        "clip_path": "none",
+        "bounds": {
+          "left": 910,
+          "top": 368,
+          "right": 1054,
+          "bottom": 512,
+          "width": 144,
+          "height": 144
+        }
+      },
+      {
+        "id": "chart",
+        "natural_width": 1200,
+        "natural_height": 1200,
+        "object_fit": "contain",
+        "clip_path": "none",
+        "bounds": {
+          "left": 104,
+          "top": 557,
+          "right": 961,
+          "bottom": 1414,
+          "width": 857,
+          "height": 857
+        }
+      }
+    ],
+    "document_width": 1080,
+    "document_height": 1920
+  },
+  "platform_fonts": [
+    {
+      "id": "brand",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "category",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 12
+        }
+      ]
+    },
+    {
+      "id": "date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 33
+        }
+      ]
+    },
+    {
+      "id": "headline-one",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 14
+        }
+      ]
+    },
+    {
+      "id": "headline-two",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "deck",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 41
+        }
+      ]
+    },
+    {
+      "id": "source-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 40
+        }
+      ]
+    },
+    {
+      "id": "source-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 46
+        }
+      ]
+    }
+  ],
+  "coin_bounds": {
+    "left": 910,
+    "top": 368,
+    "right": 1054,
+    "bottom": 512,
+    "width": 144,
+    "height": 144
+  },
+  "whole_coin_upper_75_percent_verified": true,
+  "integration": {
+    "method": "Exact original coin PNG seated in a brass architectural recess, with compatible cool lighting and contact shadow",
+    "artwork": "Original uniformly scaled PNG; original portrait, lettering and circular rim preserved",
+    "image_generation_role": "Text-free conceptual AI infrastructure and retro computing environment only",
+    "topic": "Curbstone Research comparison of selected dot-com and AI stock baskets",
+    "category_badge": "AI INVESTING",
+    "background_credit_on_graphic": false,
+    "background_provenance": "Conceptual computing environment; not documentary evidence or quantitative chart data"
+  },
+  "generation_prompts": [
+    "Create a premium text-free background plate for a Moneyberg Instagram financial news story, vertical 9:16 composition, intended final canvas 1080x1920. Topic: a historical comparison of dot-com stocks and AI stocks, not a prediction. Sophisticated editorial still life in an institutional technology research room: dark midnight navy architecture, subtle cyan light from contemporary server racks at lower right, subtle amber light near a beautifully rendered late-1990s CRT computer and coiled ethernet hardware at lower left. The lower 20% of the image can have rich physical detail and polished desk reflections. No readable text, no numbers, no charts, no logos, no money symbols. The upper and middle central 80% must remain quiet dark matte navy, so an intact square source chart will be composited from x104 to961, y557 to1414 in a 1080x1920 layout. Keep that area virtually featureless; the chart is the main visual. At the far right side in the upper quarter, integrate a front-facing perfectly circular EMPTY BRASS RECESS into a vertical dark metal wall column. Recess center around x982,y440 on the intended1080x1920canvas, diameter154px. It should be subtle architectural hardware, not a floating badge. The actual original Moneyberg coin will be mounted in this empty recess later, kept circular, entirely within the upper75% of the final canvas. Do NOT generate any coin, portrait, lettering or imitation logo. Composition must preserve final authored content boundsx104\u2013961,y164\u20131536. Subsequent precise typesetting will use Lato Black900 headings including a small single-line secondary brand 'MONEYBERG NEWS BRIEF', and Georgia body/sources, all at least33px, so leave a quiet blank header. Do NOT render any text. Cinematic but understated photorealistic materials, cool cyan and warm amber distinction, premium editorial craft, subtle depth, sharp restrained lighting, full bleed portrait image."
+  ],
+  "sources": [
+    "https://x.com/lesse_jivermore/status/2118672148466393341",
+    "https://cdn.syndication.twimg.com/tweet-result?id=2118672148466393341&lang=en&token=0",
+    "https://x.com/lesse_jivermore/status/2118292012055282037",
+    "https://video.twimg.com/amplify_video/2118672127348101121/vid/avc1/1200x1200/966Ts7OtavDsYeFt.mp4"
+  ],
+  "source_access": "Full public X post, official syndication metadata, prior methodology post and original public video read. Exact last video frame extracted with ffmpeg; no chart redrawing or data edits.",
+  "original_chart": {
+    "sha256": "dc7a372fc315b3d97e743e56a523fc53240362ac3a07cfed6e8d079c0aa57bc1",
+    "dimensions": [
+      1200,
+      1200
+    ],
+    "rendered_bounds": {
+      "left": 104,
+      "top": 557,
+      "right": 961,
+      "bottom": 1414,
+      "width": 857,
+      "height": 857
+    },
+    "complete_image_preserved": true,
+    "retyped_or_redrawn": false,
+    "frame_index_zero_based": 622,
+    "video_frame_count": 623,
+    "frame_rate": 30,
+    "embedded_fonts_preserved": true
+  },
+  "market_snapshot": {
+    "kind": "Curbstone Research author-selected historical stock-basket comparison",
+    "post_published_utc": "2026-11-06T11:49:37Z",
+    "post_published_chicago": "2026-11-06T05:49:37-06:00",
+    "ai_data_through": "2026-11-05",
+    "corrected_dotcom_start": "January 1995",
+    "ai_start": "October 2022",
+    "chart_normalization": "First close = 1\u00d7",
+    "comparison_basis": "Trading sessions since first close; daily closes; linear scale",
+    "basket_methodology": "Two selected, equal-weight baskets of 10 stocks; quarterly rebalanced",
+    "not_official_broad_market_indices": true,
+    "not_a_forecast": true
+  },
+  "output_sha256": "b12f15aafd45f1b3e02c6428874c665c5215e9040652ac69d1d869fba2f8904c"
+}
