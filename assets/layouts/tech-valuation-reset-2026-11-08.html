@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><base href="__ASSET_BASE_URI__">
+<title>Tech’s valuation reset — S&amp;P 500 technology forward P/E</title>
+<style>
+@font-face{font-family:"Moneyberg Lato Black";src:url("fonts/lato/Lato-Black.ttf") format("truetype");font-weight:900;font-style:normal}
+@font-face{font-family:"Moneyberg Georgia";src:url("__GEORGIA_FONT_URI__") format("truetype");font-weight:400;font-style:normal}
+*{box-sizing:border-box}html,body{margin:0;width:1080px;height:1920px;overflow:hidden;background:#111b22}
+#stage{position:relative;width:1080px;height:1920px;isolation:isolate;overflow:hidden}
+#background{position:absolute;inset:0;width:1080px;height:1920px;object-fit:cover}
+.text{position:absolute;margin:0;z-index:5;font-synthesis:none;text-rendering:geometricPrecision;-webkit-font-smoothing:antialiased;white-space:nowrap}
+.lato{font-family:"Moneyberg Lato Black";font-weight:900;color:#edf3f5}
+.georgia{font-family:"Moneyberg Georgia";font-weight:400;color:#dce7e9}
+#brand{left:118px;top:174px;font-size:35px;line-height:44px;letter-spacing:.25px}
+#category{left:118px;top:229px;font-size:33px;line-height:42px;letter-spacing:.5px;color:#8be1e5}
+#date{left:118px;top:279px;font-size:33px;line-height:42px;color:#bbcbd1}
+#headline-one{left:118px;top:341px;font-size:64px;line-height:78px;letter-spacing:-.5px}
+#headline-two{left:118px;top:421px;font-size:88px;line-height:104px;letter-spacing:-.8px;color:#94e9eb}
+#scope{left:118px;top:560px;font-size:35px;line-height:45px;letter-spacing:.2px;color:#d5e6e9}
+#metric{left:118px;top:612px;font-size:38px;line-height:48px}
+#valuation-panel{position:absolute;left:104px;top:700px;width:857px;height:300px;z-index:3;background:rgba(12,26,33,.9);border-top:2px solid #709fa6;border-bottom:2px solid #3c6470}
+#peak-label,#current-label{top:722px;font-size:33px;line-height:44px;letter-spacing:.3px}
+#peak-label{left:128px;color:#bbcbd1}#current-label{left:570px;color:#a6ebec}
+#peak-value,#current-value{top:790px;font-size:128px;line-height:149px;letter-spacing:-2px}
+#peak-value{left:128px;color:#d3dfe4}#current-value{left:570px;color:#a4f0ee}
+#transition{left:444px;top:828px;font-size:68px;line-height:82px;color:#829da5}
+#comparison-panel{position:absolute;left:104px;top:1040px;width:857px;height:160px;z-index:3;background:rgba(15,30,38,.94);border-left:2px solid #79b9be}
+#broader-label{left:128px;top:1094px;font-size:35px;line-height:45px;color:#d5e6e9}
+#broader-value{left:644px;top:1068px;font-size:92px;line-height:110px;letter-spacing:-1px;color:#edf3f5}
+#discount-panel{position:absolute;left:104px;top:1226px;width:857px;height:220px;background:rgba(12,24,31,.94);z-index:3}
+#discount-one{left:118px;top:1230px;font-size:54px;line-height:66px;letter-spacing:-.3px}
+#discount-two{left:118px;top:1297px;font-size:70px;line-height:84px;letter-spacing:-.6px;color:#94e9eb}
+#discount-scope{left:118px;top:1392px;font-size:35px;line-height:45px}
+#source-panel{position:absolute;left:104px;top:1466px;width:857px;height:64px;background:rgba(12,24,31,.96);z-index:3}
+#source{left:118px;top:1477px;font-size:33px;line-height:43px;color:#d5e6e9}
+/* Exact original coin seated within the processor hardware's brass recess. */
+#coin-installation{position:absolute;left:846.5px;top:237.2px;width:210px;height:210px;z-index:2;border-radius:50%;background:linear-gradient(135deg,#b7b496,#3d4d53 53%,#a98d64);border:2px solid #8c7958;box-shadow:inset 3px 5px 8px #25383c,3px 6px 10px rgba(1,7,12,.75),-1px -1px 2px #c7d4c5}
+#coin{position:absolute;left:3px;top:3px;width:200px;height:200px;object-fit:contain;filter:saturate(.78) brightness(.88)}
+#coin-contact{position:absolute;inset:2px;border-radius:50%;pointer-events:none;box-shadow:inset 3px 4px 7px rgba(20,34,38,.55),inset -2px -2px 3px rgba(229,225,195,.22);background:linear-gradient(125deg,rgba(160,222,228,.1),transparent 46%,rgba(10,20,25,.12))}
+</style></head><body><main id="stage" aria-label="Tech’s valuation reset. S&amp;P 500 technology-sector forward price-to-earnings ratio: 32 times at its October 2025 peak to approximately 17 times in a November 2026 report citing Truist Wealth. The broader S&amp;P 500 was approximately 18 times expected earnings. First technology-sector valuation discount to the broader index since 2017. Figures are earnings multiples, not share-price returns. Moneyberg edition November 8, 2026. Source: Cailian Press via Moomoo, citing Truist Wealth.">
+<img id="background" src="tech-valuation-reset-background-2026-11-08.png" alt="">
+<div id="coin-installation" data-scene-element aria-hidden="true"><img id="coin" src="moneyberg-coin-original.png" alt=""><div id="coin-contact" data-scene-element></div></div>
+<div id="brand" class="text lato" data-news-text>MONEYBERG NEWS BRIEF</div>
+<div id="category" class="text lato" data-news-text>STOCK MARKET</div>
+<div id="date" class="text lato" data-news-text>NOVEMBER 8, 2026</div>
+<div id="headline-one" class="text lato" data-news-text data-text-role="headline">TECH’S VALUATION</div>
+<div id="headline-two" class="text lato" data-news-text data-text-role="headline">RESET</div>
+<div id="scope" class="text lato" data-news-text>S&amp;P 500 TECH • FORWARD P/E</div>
+<div id="metric" class="text georgia" data-news-text data-text-role="body">Price / expected earnings</div>
+<div id="valuation-panel" data-news-panel></div>
+<div id="peak-label" class="text lato" data-news-text>OCT. 2025 PEAK</div>
+<div id="current-label" class="text lato" data-news-text>NOV. 2026 REPORT</div>
+<div id="peak-value" class="text lato" data-news-text data-text-role="headline">32×</div>
+<div id="transition" class="text lato" data-news-text>→</div>
+<div id="current-value" class="text lato" data-news-text data-text-role="headline">~17×</div>
+<div id="comparison-panel" data-news-panel></div>
+<div id="broader-label" class="text lato" data-news-text>BROADER S&amp;P 500</div>
+<div id="broader-value" class="text lato" data-news-text data-text-role="headline">~18×</div>
+<div id="discount-panel" data-news-panel></div>
+<div id="discount-one" class="text lato" data-news-text data-text-role="headline">FIRST DISCOUNT</div>
+<div id="discount-two" class="text lato" data-news-text data-text-role="headline">SINCE 2017</div>
+<div id="discount-scope" class="text georgia" data-news-text data-text-role="body">Tech vs. the broader S&amp;P 500</div>
+<div id="source-panel" data-news-panel></div>
+<div id="source" class="text georgia" data-news-text data-text-role="source">Cailian Press / Moomoo • citing Truist</div>
+</main></body></html>

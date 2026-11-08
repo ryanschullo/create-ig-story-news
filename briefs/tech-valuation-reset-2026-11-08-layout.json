@@ -1,0 +1,830 @@
+{
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "inner_bounds": [
+    104,
+    164,
+    961,
+    1536
+  ],
+  "minimum_authored_font_size_px": 33,
+  "minimum_body_font_size_px": 35,
+  "minimum_headline_font_size_px": 51,
+  "font_size_minimum_verified": true,
+  "renderer": "Chromium via Playwright; HTML/CSS screenshot",
+  "background_sha256": "0972689ec26fab7c56c3901e5089bea694640d74ae98b37d5d5dcac7197fcb7a",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
+  "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
+  "georgia_redistributed": false,
+  "layout": {
+    "text": [
+      {
+        "id": "brand",
+        "text": "MONEYBERG NEWS BRIEF",
+        "bounds": {
+          "left": 118,
+          "top": 175,
+          "right": 562.109375,
+          "bottom": 217,
+          "width": 444.109375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 174,
+          "right": 562.109375,
+          "bottom": 218,
+          "width": 444.109375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "category",
+        "text": "STOCK MARKET",
+        "bounds": {
+          "left": 118,
+          "top": 230,
+          "right": 378.515625,
+          "bottom": 270,
+          "width": 260.515625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 229,
+          "right": 378.515625,
+          "bottom": 271,
+          "width": 260.515625,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "date",
+        "text": "NOVEMBER 8, 2026",
+        "bounds": {
+          "left": 118,
+          "top": 280,
+          "right": 424.421875,
+          "bottom": 320,
+          "width": 306.421875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 279,
+          "right": 424.421875,
+          "bottom": 321,
+          "width": 306.421875,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "headline-one",
+        "text": "TECH\u2019S VALUATION",
+        "bounds": {
+          "left": 118,
+          "top": 341,
+          "right": 703.15625,
+          "bottom": 418,
+          "width": 585.15625,
+          "height": 77
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 341,
+          "right": 703.15625,
+          "bottom": 419,
+          "width": 585.15625,
+          "height": 78
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "64px"
+      },
+      {
+        "id": "headline-two",
+        "text": "RESET",
+        "bounds": {
+          "left": 118,
+          "top": 420,
+          "right": 373.828125,
+          "bottom": 526,
+          "width": 255.828125,
+          "height": 106
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 421,
+          "right": 373.828125,
+          "bottom": 525,
+          "width": 255.828125,
+          "height": 104
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "88px"
+      },
+      {
+        "id": "scope",
+        "text": "S&P 500 TECH \u2022 FORWARD P/E",
+        "bounds": {
+          "left": 118,
+          "top": 561,
+          "right": 637.765625,
+          "bottom": 603,
+          "width": 519.765625,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 560,
+          "right": 637.765625,
+          "bottom": 605,
+          "width": 519.765625,
+          "height": 45
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "metric",
+        "text": "Price / expected earnings",
+        "bounds": {
+          "left": 118,
+          "top": 614,
+          "right": 541.90625,
+          "bottom": 657,
+          "width": 423.90625,
+          "height": 43
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 612,
+          "right": 541.90625,
+          "bottom": 660,
+          "width": 423.90625,
+          "height": 48
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "38px"
+      },
+      {
+        "id": "peak-label",
+        "text": "OCT. 2025 PEAK",
+        "bounds": {
+          "left": 128,
+          "top": 724,
+          "right": 384.34375,
+          "bottom": 764,
+          "width": 256.34375,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 128,
+          "top": 722,
+          "right": 384.34375,
+          "bottom": 766,
+          "width": 256.34375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "current-label",
+        "text": "NOV. 2026 REPORT",
+        "bounds": {
+          "left": 570,
+          "top": 724,
+          "right": 875.90625,
+          "bottom": 764,
+          "width": 305.90625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 570,
+          "top": 722,
+          "right": 875.90625,
+          "bottom": 766,
+          "width": 305.90625,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "peak-value",
+        "text": "32\u00d7",
+        "bounds": {
+          "left": 128,
+          "top": 788,
+          "right": 344.734375,
+          "bottom": 941,
+          "width": 216.734375,
+          "height": 153
+        },
+        "element_bounds": {
+          "left": 128,
+          "top": 790,
+          "right": 344.734375,
+          "bottom": 939,
+          "width": 216.734375,
+          "height": 149
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "128px"
+      },
+      {
+        "id": "transition",
+        "text": "\u2192",
+        "bounds": {
+          "left": 444,
+          "top": 828,
+          "right": 512,
+          "bottom": 909,
+          "width": 68,
+          "height": 81
+        },
+        "element_bounds": {
+          "left": 444,
+          "top": 828,
+          "right": 512,
+          "bottom": 910,
+          "width": 68,
+          "height": 82
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "68px"
+      },
+      {
+        "id": "current-value",
+        "text": "~17\u00d7",
+        "bounds": {
+          "left": 570,
+          "top": 788,
+          "right": 858.96875,
+          "bottom": 941,
+          "width": 288.96875,
+          "height": 153
+        },
+        "element_bounds": {
+          "left": 570,
+          "top": 790,
+          "right": 858.96875,
+          "bottom": 939,
+          "width": 288.96875,
+          "height": 149
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "128px"
+      },
+      {
+        "id": "broader-label",
+        "text": "BROADER S&P 500",
+        "bounds": {
+          "left": 128,
+          "top": 1095,
+          "right": 438.421875,
+          "bottom": 1137,
+          "width": 310.421875,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 128,
+          "top": 1094,
+          "right": 438.421875,
+          "bottom": 1139,
+          "width": 310.421875,
+          "height": 45
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "broader-value",
+        "text": "~18\u00d7",
+        "bounds": {
+          "left": 644,
+          "top": 1067,
+          "right": 853.453125,
+          "bottom": 1178,
+          "width": 209.453125,
+          "height": 111
+        },
+        "element_bounds": {
+          "left": 644,
+          "top": 1068,
+          "right": 853.453125,
+          "bottom": 1178,
+          "width": 209.453125,
+          "height": 110
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "92px"
+      },
+      {
+        "id": "discount-one",
+        "text": "FIRST DISCOUNT",
+        "bounds": {
+          "left": 118,
+          "top": 1230,
+          "right": 549.71875,
+          "bottom": 1295,
+          "width": 431.71875,
+          "height": 65
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1230,
+          "right": 549.71875,
+          "bottom": 1296,
+          "width": 431.71875,
+          "height": 66
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "54px"
+      },
+      {
+        "id": "discount-two",
+        "text": "SINCE 2017",
+        "bounds": {
+          "left": 118,
+          "top": 1297,
+          "right": 491.265625,
+          "bottom": 1381,
+          "width": 373.265625,
+          "height": 84
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1297,
+          "right": 491.265625,
+          "bottom": 1381,
+          "width": 373.265625,
+          "height": 84
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "70px"
+      },
+      {
+        "id": "discount-scope",
+        "text": "Tech vs. the broader S&P 500",
+        "bounds": {
+          "left": 118,
+          "top": 1394,
+          "right": 575.46875,
+          "bottom": 1434,
+          "width": 457.46875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1392,
+          "right": 575.46875,
+          "bottom": 1437,
+          "width": 457.46875,
+          "height": 45
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "source",
+        "text": "Cailian Press / Moomoo \u2022 citing Truist",
+        "bounds": {
+          "left": 118,
+          "top": 1480,
+          "right": 676.109375,
+          "bottom": 1517,
+          "width": 558.109375,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1477,
+          "right": 676.109375,
+          "bottom": 1520,
+          "width": 558.109375,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      }
+    ],
+    "panels": [
+      {
+        "id": "valuation-panel",
+        "bounds": {
+          "left": 104,
+          "top": 700,
+          "right": 961,
+          "bottom": 1000,
+          "width": 857,
+          "height": 300
+        }
+      },
+      {
+        "id": "comparison-panel",
+        "bounds": {
+          "left": 104,
+          "top": 1040,
+          "right": 961,
+          "bottom": 1200,
+          "width": 857,
+          "height": 160
+        }
+      },
+      {
+        "id": "discount-panel",
+        "bounds": {
+          "left": 104,
+          "top": 1226,
+          "right": 961,
+          "bottom": 1446,
+          "width": 857,
+          "height": 220
+        }
+      },
+      {
+        "id": "source-panel",
+        "bounds": {
+          "left": 104,
+          "top": 1466,
+          "right": 961,
+          "bottom": 1530,
+          "width": 857,
+          "height": 64
+        }
+      }
+    ],
+    "scene_elements": [
+      {
+        "id": "coin-installation",
+        "bounds": {
+          "left": 846.5,
+          "top": 237.1875,
+          "right": 1056.5,
+          "bottom": 447.1875,
+          "width": 210,
+          "height": 210
+        },
+        "box_shadow": "rgb(37, 56, 60) 3px 5px 8px 0px inset, rgba(1, 7, 12, 0.75) 3px 6px 10px 0px, rgb(199, 212, 197) -1px -1px 2px 0px",
+        "background": "linear-gradient(135deg, rgb(183, 180, 150), rgb(61, 77, 83) 53%, rgb(169, 141, 100))"
+      },
+      {
+        "id": "coin-contact",
+        "bounds": {
+          "left": 850.5,
+          "top": 241.1875,
+          "right": 1052.5,
+          "bottom": 443.1875,
+          "width": 202,
+          "height": 202
+        },
+        "box_shadow": "rgba(20, 34, 38, 0.55) 3px 4px 7px 0px inset, rgba(229, 225, 195, 0.22) -2px -2px 3px 0px inset",
+        "background": "linear-gradient(125deg, rgba(160, 222, 228, 0.1), rgba(0, 0, 0, 0) 46%, rgba(10, 20, 25, 0.12))"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Moneyberg Lato Black",
+        "weight": "900",
+        "status": "loaded"
+      },
+      {
+        "family": "Moneyberg Georgia",
+        "weight": "400",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "id": "background",
+        "natural_width": 941,
+        "natural_height": 1672,
+        "object_fit": "cover",
+        "clip_path": "none",
+        "bounds": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        }
+      },
+      {
+        "id": "coin",
+        "natural_width": 2084,
+        "natural_height": 2084,
+        "object_fit": "contain",
+        "clip_path": "none",
+        "bounds": {
+          "left": 851.5,
+          "top": 242.1875,
+          "right": 1051.5,
+          "bottom": 442.1875,
+          "width": 200,
+          "height": 200
+        }
+      }
+    ],
+    "document_width": 1080,
+    "document_height": 1920
+  },
+  "platform_fonts": [
+    {
+      "id": "brand",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "category",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 12
+        }
+      ]
+    },
+    {
+      "id": "date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "headline-one",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "headline-two",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 5
+        }
+      ]
+    },
+    {
+      "id": "scope",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 26
+        }
+      ]
+    },
+    {
+      "id": "metric",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 25
+        }
+      ]
+    },
+    {
+      "id": "peak-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 14
+        }
+      ]
+    },
+    {
+      "id": "current-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "peak-value",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 3
+        }
+      ]
+    },
+    {
+      "id": "transition",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 1
+        }
+      ]
+    },
+    {
+      "id": "current-value",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 4
+        }
+      ]
+    },
+    {
+      "id": "broader-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 15
+        }
+      ]
+    },
+    {
+      "id": "broader-value",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 4
+        }
+      ]
+    },
+    {
+      "id": "discount-one",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 14
+        }
+      ]
+    },
+    {
+      "id": "discount-two",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 10
+        }
+      ]
+    },
+    {
+      "id": "discount-scope",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 28
+        }
+      ]
+    },
+    {
+      "id": "source",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 38
+        }
+      ]
+    }
+  ],
+  "coin_bounds": {
+    "left": 851.5,
+    "top": 242.1875,
+    "right": 1051.5,
+    "bottom": 442.1875,
+    "width": 200,
+    "height": 200
+  },
+  "whole_coin_upper_75_percent_verified": true,
+  "integration": {
+    "method": "Exact original coin PNG seated within a physical brass recess in processor hardware, with compatible cyan lighting and contact shadow",
+    "artwork": "Original uniformly scaled PNG; original portrait, lettering and circular rim preserved",
+    "image_generation_role": "Text-free conceptual semiconductor wafer and processor environment only",
+    "topic": "S&P 500 technology-sector forward price-to-earnings multiple from October 2025 peak to November 2026 report, relative to the broader index",
+    "category_badge": "STOCK MARKET",
+    "background_credit_on_graphic": false,
+    "background_provenance": "Conceptual semiconductor environment; not documentary evidence, a stock-price chart, or quantitative data"
+  },
+  "generation_prompts": [
+    "Create a sophisticated text-free editorial background for MONEYBERG NEWS BRIEF, portrait9:16 Instagram story, target1080x1920. Topic: dramatic reset in S&P500 technology-sector forward earnings valuations, from the2025peak to the reported2026level. Distinct graphite black, brushed silver, restrained icy cyan and subtle warm copper, very premium tactile semiconductor design. In the bottom quarter, extreme-macro silicon wafer edges, a precision unbranded processor package with silver heat spreader and understated circuit traces on a dark graphite board, beautifully photographed with controlled side light; do not include any figures, numbers, stock charts or readable markings. Upper75% left and center must be a very quiet, nearly uniform deep graphite backdrop with a gentle cool vignette, excellent negative space for later large financial typography. At far upper-right, integrate a vertical small brushed-metal equipment plate that belongs to the scene, not a full-height wall column. It has ONE front-facing circular EMPTY BRASS RECESS centered around91.5%canvaswidth and18%canvasheight, diameter14%canvaswidth, with a realistic shallow inset and natural rim light/contact shadow. Leave the mount completely empty: the real original Moneyberg coin will be fitted afterward, do not create a coin,portrait,letteringorlogo. This entire mount sits within the top75%, clear of news. All subsequent authored news must fit x104\u2013961,y164\u20131536; keep the leftmost85% clean, with the plate/recess only at the right edge. Later exact typography uses Lato Black900 for headlines/category/numerals and the small compact one-line secondary MONEYBERG NEWS BRIEF brand, Georgia400 for body/sources. Min33px anytext,35pxbody,51pxheadline. Render no text whatsoever; this is only the decorative background. No publisher logos, no ticker screens, no candlesticks, no inventedquantitativeillustrations. The physical semiconductor materials and dramatic restrained lighting suggest technology stock research, not an actual event. Design has depth and visualinterest mostlybelow the newsarea, sharp premium finish, elegant negative space."
+  ],
+  "sources": [
+    "https://www.moomoo.com/news/post/1003917116/for-the-first-time-in-nine-years-us-tech-stocks",
+    "https://www.cls.cn/detail/2528180"
+  ],
+  "source_access": "Read full Moomoo English machine translation and the original Chinese Cailian Press article. Key forward-P/E figures and their interpretation were checked against the Chinese original. Both attribute the reported valuations to Keith Lerner of Truist Wealth. Direct access to the underlying Truist note is not claimed.",
+  "reporting_scope": {
+    "edition_date": "2026-11-08",
+    "edition_timezone": "America/Chicago",
+    "source_published_china": "2026-11-08T08:07:12+08:00",
+    "source_published_utc": "2026-11-08T00:07:12Z",
+    "source_published_chicago": "2026-11-07T18:07:12-06:00",
+    "edition_date_not_misrepresented_as_chicago_publication_date": true,
+    "source": "Cailian Press, syndicated and translated by Moomoo",
+    "attributed_analyst": "Keith Lerner, Truist Wealth chief investment officer",
+    "technology_scope": "S&P 500 information-technology sector, not all technology stocks or Nasdaq",
+    "measure": "Forward price-to-earnings multiple: price divided by expected earnings",
+    "peak_observation_month": "2025-10",
+    "peak_forward_pe_multiple_reported": 32,
+    "current_report_month": "2026-11",
+    "current_forward_pe_multiple_approximate": 17,
+    "broader_sp500_forward_pe_multiple_approximate": 18,
+    "first_relative_discount_since_year": 2017,
+    "no_unverified_exact_closing_timestamp": true,
+    "not_price_returns_or_market_cap_changes": true,
+    "no_price_halving_claim": true,
+    "no_percentage_change_derived_from_rounded_multiples": true,
+    "not_a_daily_market_wrap": true,
+    "no_return_forecast_or_historical_return_study_used": true,
+    "original_source_chart_not_requested_or_used": true
+  },
+  "output_sha256": "68b4979f031c638297ccaa33972a5e01766c696eef1719add81531926c32de7a"
+}
