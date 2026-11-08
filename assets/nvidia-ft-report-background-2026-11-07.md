@@ -1,0 +1,12 @@
+# Nvidia / FT report — background provenance
+Created November 7, 2026 with the image generation tool.
+
+Original output: `/workspace/generated_images/exec-769a7f8a-356d-4fb1-be47-02082fc6e940.png`.
+Committed asset: `assets/nvidia-ft-report-background-2026-11-07.png`.
+
+This fictional technology-lab illustration uses graphite, muted emerald light and GPU/server hardware. It does not depict an actual Nvidia facility, person, meeting, or alleged event. No generated person, chart, data, text or logo is used. The original approved Moneyberg coin is composited into the wall's brass recess without redrawing its artwork. All authored typography is added separately using verified actual Lato Black and Georgia fonts. No background-production footer is shown.
+
+## Exact generation prompt
+```text
+Create a refined editorial background plate for a1080x1920portraitInstagramstory, MONEYBERG NEWS BRIEF, AI INVESTING. Topic is a reported intelligence controversy involving Nvidia, so use restrained high-tech corporate imagery, not a spy-thriller scene. No people, no fabricated photographs, no characters, no surveillance imagery, no romantic imagery, no readable text, no chart, no logos. Design a sophisticated dark graphite and near-black technology lab with very restrained emerald and mint light, clean server infrastructure, a physically detailed large GPU circuit-board structure visible mainly in the bottom20% and lower corners, blackbrushedmetal, subtle greenfibers, matteglass. Keep the entire central content area x104–961,y164–1536 exceptionally quiet and dark for later balanced report and company-response text panels. The original Moneyberg coin will be physically seated in an EMPTY front-facing brass wall recess on a narrow metal column along the far-right edge. Place this circular empty recess at approximatelyx92%width,y35%height,diameter14%ofcanvaswidth. Do not generate a coin,face,letteringorlogos. Make recess part of the architecture with realistic shadowandcompatiblegreenambientlight; exact originalcoinwillbeaddedlater,entirelywithintheupper75%. Subsequent typography will be actual Lato Black900 for headings, compactone-line secondarybrandMONEYBERG NEWS BRIEF andcategory; Georgia400forbody/sources, minimum33pxandbody35px. DO NOT RENDER TEXT. Leave generous uppernegative space. This is fictionaldecorativeeditorialarchitectureandhardware,notdocumentationofanyevent. Premium realisticmaterials, soberbusinessjournalism, subtledepth, unclutteredverticalcomposition.
+```
