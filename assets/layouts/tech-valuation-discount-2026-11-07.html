@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><base href="__ASSET_BASE_URI__">
+<title>Tech trades at a rare discount — S&amp;P 500 sector valuations</title>
+<style>
+@font-face{font-family:"Moneyberg Lato Black";src:url("fonts/lato/Lato-Black.ttf") format("truetype");font-weight:900;font-style:normal}
+@font-face{font-family:"Moneyberg Georgia";src:url("__GEORGIA_FONT_URI__") format("truetype");font-weight:400;font-style:normal}
+*{box-sizing:border-box}html,body{margin:0;width:1080px;height:1920px;overflow:hidden;background:#0c162b}
+#stage{position:relative;width:1080px;height:1920px;isolation:isolate;overflow:hidden}
+#background{position:absolute;inset:0;width:1080px;height:1920px;object-fit:cover}
+.text{position:absolute;margin:0;z-index:5;font-synthesis:none;text-rendering:geometricPrecision;-webkit-font-smoothing:antialiased;white-space:nowrap}
+.lato{font-family:"Moneyberg Lato Black";font-weight:900;color:#f3f6fc}
+.georgia{font-family:"Moneyberg Georgia";font-weight:400;color:#e2e9f4}
+#brand{left:118px;top:174px;font-size:35px;line-height:44px;letter-spacing:.25px}
+#category{left:118px;top:229px;font-size:33px;line-height:42px;letter-spacing:.5px;color:#87b6ff}
+#date{left:118px;top:279px;font-size:33px;line-height:42px;color:#bdc9dc}
+#headline-one,#headline-two{left:118px;font-size:60px;line-height:74px;letter-spacing:-.4px}
+#headline-one{top:327px}#headline-two{top:402px;color:#8ebcff}
+#context{left:118px;top:489px;font-size:35px;line-height:45px}
+#tech-label,#market-label{top:550px;font-size:35px;line-height:44px;letter-spacing:.4px}
+#tech-label{left:118px;color:#a7ccff}#market-label{left:570px;color:#d9e0ee}
+#tech-value,#market-value{top:602px;font-size:98px;line-height:115px;letter-spacing:-1.4px}
+#tech-value{left:118px;color:#a7ccff}#market-value{left:570px;color:#f3f6fc}
+#discount{left:118px;top:726px;font-size:35px;line-height:45px}
+#chart-heading{left:118px;top:781px;font-size:33px;line-height:42px;letter-spacing:.3px;color:#adcfff}
+#chart{position:absolute;left:104px;top:830px;width:857px;height:482.0625px;object-fit:contain;z-index:4;box-shadow:0 10px 30px rgba(0,6,20,.4)}
+#source-panel{position:absolute;left:104px;top:1322px;width:857px;height:208px;background:rgba(11,21,40,.98);z-index:3}
+#study,#exceptions{left:118px;font-size:35px;line-height:45px}
+#study{top:1335px}#exceptions{top:1385px}
+#source{left:118px;top:1480px;font-size:33px;line-height:43px;color:#d7e4f7}
+/* Exact original coin seated in the nickel column's physical brass recess. */
+#coin-installation{position:absolute;left:934px;top:219.3px;width:136px;height:136px;z-index:2;border-radius:50%;background:linear-gradient(135deg,#b7ae91,#3d4c5e 53%,#98866b);border:2px solid #8c7958;box-shadow:inset 3px 5px 8px #253042,3px 6px 10px rgba(1,7,17,.7),-1px -1px 2px #c7c9bb}
+#coin{position:absolute;left:3px;top:3px;width:126px;height:126px;object-fit:contain;filter:saturate(.76) brightness(.88)}
+#coin-contact{position:absolute;inset:2px;border-radius:50%;pointer-events:none;box-shadow:inset 3px 4px 7px rgba(20,34,49,.55),inset -2px -2px 3px rgba(220,225,202,.22);background:linear-gradient(125deg,rgba(160,195,228,.1),transparent 46%,rgba(10,20,35,.12))}
+</style></head><body><main id="stage" aria-label="Tech trades at a rare discount. Yahoo Finance reports S&amp;P 500 technology stocks at approximately 17 times expected earnings versus approximately 18 times for the broader S&amp;P 500, citing a November 5 Truist note. First such discount since 2017. Separate original chart shows historical median S&amp;P 500 returns after four or more losing weeks, based on 33 streaks since 1990, not returns after a technology valuation discount. The dot-com bust and 2008 were exceptions. Article dated November 7, 2026.">
+<img id="background" src="tech-valuation-discount-background-2026-11-07.png" alt="">
+<div id="coin-installation" data-scene-element aria-hidden="true"><img id="coin" src="moneyberg-coin-original.png" alt=""><div id="coin-contact" data-scene-element></div></div>
+<div id="brand" class="text lato" data-news-text>MONEYBERG NEWS BRIEF</div>
+<div id="category" class="text lato" data-news-text>STOCK MARKET</div>
+<div id="date" class="text lato" data-news-text>NOVEMBER 7, 2026</div>
+<div id="headline-one" class="text lato" data-news-text data-text-role="headline">TECH TRADES AT</div>
+<div id="headline-two" class="text lato" data-news-text data-text-role="headline">A RARE DISCOUNT</div>
+<div id="context" class="text georgia" data-news-text data-text-role="body">Expected earnings • Truist, Nov. 5 note</div>
+<div id="tech-label" class="text lato" data-news-text>S&amp;P 500 TECH</div>
+<div id="market-label" class="text lato" data-news-text>S&amp;P 500</div>
+<div id="tech-value" class="text lato" data-news-text data-text-role="headline">~17×</div>
+<div id="market-value" class="text lato" data-news-text data-text-role="headline">~18×</div>
+<div id="discount" class="text georgia" data-news-text data-text-role="body">First discount to the S&amp;P 500 since 2017.</div>
+<div id="chart-heading" class="text lato" data-news-text>S&amp;P 500 AFTER 4+ LOSING WEEKS</div>
+<img id="chart" data-news-panel src="tech-valuation-discount-chart-original-2026-11-07.png" alt="Complete original Yahoo Finance chart. Median S&amp;P 500 returns after four straight losing weeks versus any week since 1990: 1.9% versus 1.2% one month later; 6.0% versus 3.2% three months later; 10.3% versus 5.7% six months later; 16.5% versus 11.9% one year later. Sample: 33 streaks of four or more weekly losses. Complete title, legend, data labels, periods, source and Yahoo Finance branding retained.">
+<div id="source-panel" data-news-panel></div>
+<div id="study" class="text georgia" data-news-text data-text-role="body">Historical study: 33 streaks since 1990.</div>
+<div id="exceptions" class="text georgia" data-news-text data-text-role="body">Dot-com bust and 2008 were exceptions.</div>
+<div id="source" class="text georgia" data-news-text data-text-role="source">Yahoo Finance • November 7, 2026</div>
+</main></body></html>

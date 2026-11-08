@@ -1,0 +1,39 @@
+{
+  "source_article": "https://finance.yahoo.com/markets/article/tech-stocks-are-now-cheaper-than-the-sp-500-for-the-first-time-since-2017--heres-what-history-says-comes-next-chart-of-the-day-130131812.html",
+  "article_title": "Tech stocks are now cheaper than the S&P 500 for the first time since 2017 — here’s what history says comes next: Chart of the Day",
+  "author": "Jared Blikre",
+  "article_published_utc": "2026-11-07T13:01:31Z",
+  "article_published_chicago": "2026-11-07T07:01:31-06:00",
+  "url": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/sp500-after-4-losing-weeks-1_8061.png",
+  "dimensions": [
+    2400,
+    1350
+  ],
+  "bytes": 204008,
+  "sha256": "977456f33d678de498d3908cc327eba520ea6cc1a0ff58006eb83f63d9875315",
+  "source_image_modified": false,
+  "title": "After 4 straight losing weeks, the S&P 500 has usually done better than normal",
+  "subtitle": "Median S&P 500 return, since 1990",
+  "source_credit": "Yahoo Finance calculations. 33 streaks of four or more weekly losses since 1990.",
+  "metric": "Median subsequent S&P 500 return after losing streaks, compared with median subsequent return after any week. NOT a valuation-discount study.",
+  "median_returns_percent": {
+    "after_4_or_more_losing_weeks": {
+      "1_month": 1.9,
+      "3_months": 6.0,
+      "6_months": 10.3,
+      "1_year": 16.5
+    },
+    "after_any_week": {
+      "1_month": 1.2,
+      "3_months": 3.2,
+      "6_months": 5.7,
+      "1_year": 11.9
+    }
+  },
+  "qualifiers": [
+    "Historic sample, not a forecast.",
+    "Dot-com bust and 2008 financial crisis were exceptions discussed in the article.",
+    "No inference that a 17x technology forward P/E produces these returns."
+  ],
+  "primary_calculations_independently_recomputed": false
+}

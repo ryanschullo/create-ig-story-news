@@ -1,0 +1,752 @@
+{
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "inner_bounds": [
+    104,
+    164,
+    961,
+    1536
+  ],
+  "minimum_authored_font_size_px": 33,
+  "minimum_body_font_size_px": 35,
+  "minimum_headline_font_size_px": 51,
+  "font_size_minimum_verified": true,
+  "renderer": "Chromium via Playwright; HTML/CSS screenshot",
+  "background_sha256": "203272c6d8fef9ea986c854f313d5c6455f46e3cd8873d9106ecdadabf2b0e99",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
+  "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
+  "georgia_redistributed": false,
+  "layout": {
+    "text": [
+      {
+        "id": "brand",
+        "text": "MONEYBERG NEWS BRIEF",
+        "bounds": {
+          "left": 118,
+          "top": 175,
+          "right": 562.109375,
+          "bottom": 217,
+          "width": 444.109375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 174,
+          "right": 562.109375,
+          "bottom": 218,
+          "width": 444.109375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "category",
+        "text": "STOCK MARKET",
+        "bounds": {
+          "left": 118,
+          "top": 230,
+          "right": 378.515625,
+          "bottom": 270,
+          "width": 260.515625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 229,
+          "right": 378.515625,
+          "bottom": 271,
+          "width": 260.515625,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "date",
+        "text": "NOVEMBER 7, 2026",
+        "bounds": {
+          "left": 118,
+          "top": 280,
+          "right": 424.421875,
+          "bottom": 320,
+          "width": 306.421875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 279,
+          "right": 424.421875,
+          "bottom": 321,
+          "width": 306.421875,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "headline-one",
+        "text": "TECH TRADES AT",
+        "bounds": {
+          "left": 118,
+          "top": 328,
+          "right": 597.359375,
+          "bottom": 400,
+          "width": 479.359375,
+          "height": 72
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 327,
+          "right": 597.359375,
+          "bottom": 401,
+          "width": 479.359375,
+          "height": 74
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "60px"
+      },
+      {
+        "id": "headline-two",
+        "text": "A RARE DISCOUNT",
+        "bounds": {
+          "left": 118,
+          "top": 403,
+          "right": 646.609375,
+          "bottom": 475,
+          "width": 528.609375,
+          "height": 72
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 402,
+          "right": 646.609375,
+          "bottom": 476,
+          "width": 528.609375,
+          "height": 74
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "60px"
+      },
+      {
+        "id": "context",
+        "text": "Expected earnings \u2022 Truist, Nov. 5 note",
+        "bounds": {
+          "left": 118,
+          "top": 491,
+          "right": 720.890625,
+          "bottom": 531,
+          "width": 602.890625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 489,
+          "right": 720.890625,
+          "bottom": 534,
+          "width": 602.890625,
+          "height": 45
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "tech-label",
+        "text": "S&P 500 TECH",
+        "bounds": {
+          "left": 118,
+          "top": 551,
+          "right": 355.84375,
+          "bottom": 593,
+          "width": 237.84375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 550,
+          "right": 355.84375,
+          "bottom": 594,
+          "width": 237.84375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "market-label",
+        "text": "S&P 500",
+        "bounds": {
+          "left": 570,
+          "top": 551,
+          "right": 707.75,
+          "bottom": 593,
+          "width": 137.75,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 570,
+          "top": 550,
+          "right": 707.75,
+          "bottom": 594,
+          "width": 137.75,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "tech-value",
+        "text": "~17\u00d7",
+        "bounds": {
+          "left": 118,
+          "top": 600,
+          "right": 339.765625,
+          "bottom": 718,
+          "width": 221.765625,
+          "height": 118
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 602,
+          "right": 339.765625,
+          "bottom": 717,
+          "width": 221.765625,
+          "height": 115
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "98px"
+      },
+      {
+        "id": "market-value",
+        "text": "~18\u00d7",
+        "bounds": {
+          "left": 570,
+          "top": 600,
+          "right": 791.765625,
+          "bottom": 718,
+          "width": 221.765625,
+          "height": 118
+        },
+        "element_bounds": {
+          "left": 570,
+          "top": 602,
+          "right": 791.765625,
+          "bottom": 717,
+          "width": 221.765625,
+          "height": 115
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "98px"
+      },
+      {
+        "id": "discount",
+        "text": "First discount to the S&P 500 since 2017.",
+        "bounds": {
+          "left": 118,
+          "top": 728,
+          "right": 752.59375,
+          "bottom": 768,
+          "width": 634.59375,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 726,
+          "right": 752.59375,
+          "bottom": 771,
+          "width": 634.59375,
+          "height": 45
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "chart-heading",
+        "text": "S&P 500 AFTER 4+ LOSING WEEKS",
+        "bounds": {
+          "left": 118,
+          "top": 782,
+          "right": 659.265625,
+          "bottom": 822,
+          "width": 541.265625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 781,
+          "right": 659.265625,
+          "bottom": 823,
+          "width": 541.265625,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "study",
+        "text": "Historical study: 33 streaks since 1990.",
+        "bounds": {
+          "left": 118,
+          "top": 1337,
+          "right": 721.84375,
+          "bottom": 1377,
+          "width": 603.84375,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1335,
+          "right": 721.84375,
+          "bottom": 1380,
+          "width": 603.84375,
+          "height": 45
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "exceptions",
+        "text": "Dot-com bust and 2008 were exceptions.",
+        "bounds": {
+          "left": 118,
+          "top": 1387,
+          "right": 752.625,
+          "bottom": 1427,
+          "width": 634.625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1385,
+          "right": 752.625,
+          "bottom": 1430,
+          "width": 634.625,
+          "height": 45
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "source",
+        "text": "Yahoo Finance \u2022 November 7, 2026",
+        "bounds": {
+          "left": 118,
+          "top": 1483,
+          "right": 632.21875,
+          "bottom": 1520,
+          "width": 514.21875,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1480,
+          "right": 632.21875,
+          "bottom": 1523,
+          "width": 514.21875,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      }
+    ],
+    "panels": [
+      {
+        "id": "chart",
+        "bounds": {
+          "left": 104,
+          "top": 830,
+          "right": 961,
+          "bottom": 1312.0625,
+          "width": 857,
+          "height": 482.0625
+        }
+      },
+      {
+        "id": "source-panel",
+        "bounds": {
+          "left": 104,
+          "top": 1322,
+          "right": 961,
+          "bottom": 1530,
+          "width": 857,
+          "height": 208
+        }
+      }
+    ],
+    "scene_elements": [
+      {
+        "id": "coin-installation",
+        "bounds": {
+          "left": 934,
+          "top": 219.296875,
+          "right": 1070,
+          "bottom": 355.296875,
+          "width": 136,
+          "height": 136
+        },
+        "box_shadow": "rgb(37, 48, 66) 3px 5px 8px 0px inset, rgba(1, 7, 17, 0.7) 3px 6px 10px 0px, rgb(199, 201, 187) -1px -1px 2px 0px",
+        "background": "linear-gradient(135deg, rgb(183, 174, 145), rgb(61, 76, 94) 53%, rgb(152, 134, 107))"
+      },
+      {
+        "id": "coin-contact",
+        "bounds": {
+          "left": 938,
+          "top": 223.296875,
+          "right": 1066,
+          "bottom": 351.296875,
+          "width": 128,
+          "height": 128
+        },
+        "box_shadow": "rgba(20, 34, 49, 0.55) 3px 4px 7px 0px inset, rgba(220, 225, 202, 0.22) -2px -2px 3px 0px inset",
+        "background": "linear-gradient(125deg, rgba(160, 195, 228, 0.1), rgba(0, 0, 0, 0) 46%, rgba(10, 20, 35, 0.12))"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Moneyberg Lato Black",
+        "weight": "900",
+        "status": "loaded"
+      },
+      {
+        "family": "Moneyberg Georgia",
+        "weight": "400",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "id": "background",
+        "natural_width": 916,
+        "natural_height": 1717,
+        "object_fit": "cover",
+        "clip_path": "none",
+        "bounds": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        }
+      },
+      {
+        "id": "coin",
+        "natural_width": 2084,
+        "natural_height": 2084,
+        "object_fit": "contain",
+        "clip_path": "none",
+        "bounds": {
+          "left": 939,
+          "top": 224.296875,
+          "right": 1065,
+          "bottom": 350.296875,
+          "width": 126,
+          "height": 126
+        }
+      },
+      {
+        "id": "chart",
+        "natural_width": 2400,
+        "natural_height": 1350,
+        "object_fit": "contain",
+        "clip_path": "none",
+        "bounds": {
+          "left": 104,
+          "top": 830,
+          "right": 961,
+          "bottom": 1312.0625,
+          "width": 857,
+          "height": 482.0625
+        }
+      }
+    ],
+    "document_width": 1080,
+    "document_height": 1920
+  },
+  "platform_fonts": [
+    {
+      "id": "brand",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "category",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 12
+        }
+      ]
+    },
+    {
+      "id": "date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "headline-one",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 14
+        }
+      ]
+    },
+    {
+      "id": "headline-two",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 15
+        }
+      ]
+    },
+    {
+      "id": "context",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 39
+        }
+      ]
+    },
+    {
+      "id": "tech-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 12
+        }
+      ]
+    },
+    {
+      "id": "market-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 7
+        }
+      ]
+    },
+    {
+      "id": "tech-value",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 4
+        }
+      ]
+    },
+    {
+      "id": "market-value",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 4
+        }
+      ]
+    },
+    {
+      "id": "discount",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 41
+        }
+      ]
+    },
+    {
+      "id": "chart-heading",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 29
+        }
+      ]
+    },
+    {
+      "id": "study",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 40
+        }
+      ]
+    },
+    {
+      "id": "exceptions",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 38
+        }
+      ]
+    },
+    {
+      "id": "source",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 32
+        }
+      ]
+    }
+  ],
+  "coin_bounds": {
+    "left": 939,
+    "top": 224.296875,
+    "right": 1065,
+    "bottom": 350.296875,
+    "width": 126,
+    "height": 126
+  },
+  "whole_coin_upper_75_percent_verified": true,
+  "integration": {
+    "method": "Exact original coin PNG seated in a physical brass recess in a nickel column, with compatible lighting and contact shadow",
+    "artwork": "Original uniformly scaled PNG; original portrait, lettering and circular rim preserved",
+    "image_generation_role": "Text-free conceptual semiconductor and technology-corporate environment only",
+    "topic": "S&P 500 technology-sector expected-earnings valuation relative to the broader index, with a separate historical losing-streak return study",
+    "category_badge": "STOCK MARKET",
+    "background_credit_on_graphic": false,
+    "background_provenance": "Conceptual semiconductor environment; not documentary evidence or quantitative chart data"
+  },
+  "generation_prompts": [
+    "Create a text-free editorial background for MONEYBERG NEWS BRIEF, a 1080x1920 portrait Instagram story about U.S. technology-sector stock valuations falling below the broader S&P500. Distinct refined navy, slate, restrained cobalt blue and brushed nickel palette. Photographic premium materials, subtle directional cool light. Upper80% of canvas nearly uniform deep midnight navy with gentle tonal depth and quiet subtle frosted-glass texture, absolutely uncluttered for later typesetting and a full original financial chart. Bottom18% has a sophisticated macro still life of an unbranded silicon wafer, a small silver processor package on a dark circuit board, and out-of-focus architectural glass towers reflected in a polished research desk, subdued cobalt highlights. No company logos, no readable text or numbers, no chart or trading signals, no bull or bear figures, no people. Far-right narrow edge is a vertical brushed-nickel structural column. Set ONE perfectly circular EMPTY BRASS RECESS in that column, front-facing, centered at92.5% of width and28% of height, diameter13% of canvaswidth. It is a real recessed mount with warm rimlight and realistic contactshadow, not a floating badge. Leave it blank. The exact original Moneyberg coin will be fitted afterward; do not generate a coin, portrait or lettering. Keep the recess entirely within upper75% and above the chart area. All news is later composed atx104\u2013961,y164\u20131536; keep that central region smooth dark navy, except the far-right trim. The actual full landscape historical-return chart is to be placed nearx104,y830,width857,height482; leave room. Subsequent typesetting uses actual Lato Black900 for headlines/category/numericlabels and small one-line secondary 'MONEYBERG NEWS BRIEF', Georgia400 for body and sources. Minimum33px all authoredtext,35px body,51px headline. Render NO TEXT at all. This is decorative technology-stock research imagery, not evidence or a depiction of actual market data. Elegant, restrained, tactile, realistic and spacious."
+  ],
+  "sources": [
+    "https://finance.yahoo.com/markets/article/tech-stocks-are-now-cheaper-than-the-sp-500-for-the-first-time-since-2017--heres-what-history-says-comes-next-chart-of-the-day-130131812.html"
+  ],
+  "source_access": "Full Yahoo Finance article by Jared Blikre and its unmodified original chart. Article reports approximate S&P 500 technology-sector expected-earnings multiples from Keith Lerner's November 5 Truist note. Historical S&P 500 return figures are a separate Yahoo Finance study of losing streaks, not a study of technology valuation discounts.",
+  "original_chart": {
+    "sha256": "977456f33d678de498d3908cc327eba520ea6cc1a0ff58006eb83f63d9875315",
+    "dimensions": [
+      2400,
+      1350
+    ],
+    "rendered_bounds": {
+      "left": 104,
+      "top": 830,
+      "right": 961,
+      "bottom": 1312.0625,
+      "width": 857,
+      "height": 482.0625
+    },
+    "complete_image_preserved": true,
+    "retyped_or_redrawn": false,
+    "embedded_fonts_preserved": true,
+    "title": "After 4 straight losing weeks, the S&P 500 has usually done better than normal",
+    "subtitle": "Median S&P 500 return, since 1990",
+    "units": "Median subsequent S&P 500 return, percent",
+    "source_credit": "Yahoo Finance calculations. 33 streaks of four or more weekly losses since 1990.",
+    "historical_study_of_losing_streaks_not_valuation_discounts": true,
+    "median_returns_percent": {
+      "after_4_or_more_losing_weeks": {
+        "1_month": 1.9,
+        "3_months": 6.0,
+        "6_months": 10.3,
+        "1_year": 16.5
+      },
+      "after_any_week": {
+        "1_month": 1.2,
+        "3_months": 3.2,
+        "6_months": 5.7,
+        "1_year": 11.9
+      }
+    },
+    "sample_size": 33,
+    "sample_start_year": 1990,
+    "exceptions_disclosed": [
+      "dot-com bust",
+      "2008 financial crisis"
+    ],
+    "historical_returns_not_a_forecast": true
+  },
+  "valuation_snapshot": {
+    "kind": "Reported approximate expected-earnings valuation comparison",
+    "article_published_utc": "2026-11-07T13:01:31Z",
+    "article_published_chicago": "2026-11-07T07:01:31-06:00",
+    "attributed_research_note_date": "2026-11-05",
+    "source_analyst": "Keith Lerner, Truist Wealth",
+    "technology_scope": "S&P 500 information-technology sector; article references XLK",
+    "technology_expected_earnings_multiple_approximate": 17,
+    "broader_sp500_expected_earnings_multiple_approximate": 18,
+    "first_relative_discount_since_year": 2017,
+    "not_all_technology_stocks_or_nasdaq": true,
+    "not_assigned_an_unverified_closing_timestamp": true,
+    "not_a_daily_market_wrap": true,
+    "chart_is_a_separate_historical_study": true,
+    "no_inference_that_valuation_discount_predicts_chart_returns": true
+  },
+  "output_sha256": "9691f530cb6e028f881a12d657159d9b91c06a546d344f967a191e683862a6ee"
+}
