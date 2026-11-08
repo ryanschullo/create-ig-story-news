@@ -1,0 +1,20 @@
+{
+  "url": "https://pbs.twimg.com/media/HWjFmhEXMAAlk2_.jpg?format=jpg&name=orig",
+  "source_post": "https://x.com/KobeissiLetter/status/2119160893950828791",
+  "post_published_utc": "2026-11-07T20:11:43Z",
+  "post_published_chicago": "2026-11-07T14:11:43-06:00",
+  "dimensions": [
+    1200,
+    801
+  ],
+  "bytes": 83211,
+  "sha256": "6a36dea23a3c5b7c8376cf3f41c5378cad5cfa9d40e320597e7fd3c508dd5bed",
+  "source_image_modified": false,
+  "title": "Top 10 Daily US Put Option Trading Volumes",
+  "scope": "Cboe put volume across index, ETP and equity options; daily contract counts.",
+  "primary_daily_url": "https://www.cboe.com/us/options/market_statistics/daily/?dt=2026-11-05",
+  "primary_daily_put_contracts": 11225416,
+  "record_session": "2026-11-05",
+  "historical_moving_average_independently_recomputed": false,
+  "chart_contains_moving_average_series": false
+}

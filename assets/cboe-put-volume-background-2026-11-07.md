@@ -1,0 +1,18 @@
+# Cboe put volume — background provenance
+Generated November 7, 2026 using the image generation tool; edited with the same tool to move the empty mounting recess upward, keeping it clear of the original source chart.
+
+Original generation: `/workspace/generated_images/exec-6550c3de-e6dc-43df-bbea-511916babf61.png`.
+Final edited output: `/workspace/generated_images/exec-435ad787-a8c2-4425-8ae4-f1f9ddb3667a.png`.
+Committed asset: `assets/cboe-put-volume-background-2026-11-07.png`.
+
+The fictional trading office is decorative illustration, not documentary evidence of Cboe or any trading event. No generated data, chart, text, or coin artwork is used. The intact original chart and unchanged approved Moneyberg coin are composited separately with actual Lato Black and Georgia fonts. The coin sits in a physical brass wall recess with contact shadow. No background-production footer is displayed.
+
+## Initial generation prompt
+```text
+Create a premium text-free editorial background for a 1080x1920 Instagram story for MONEYBERG NEWS BRIEF, topic OPTIONS INVESTING: unprecedented Cboe put-option trading volume. Full-bleed vertical9:16. Distinct ink-plum, deep indigo and restrained teal palette, elegant options research desk inside a sophisticated trading office at night. In the lower20% place refined tactile objects: dark anodized trading consoles with blank screens, fine parallel fiber-optic cables in muted teal, frosted violet glass partitions and an empty leather chair, polished desk reflections. No readable labels, no numbers, no charts, no tickers, no visible logos, no money symbols, no people. Upper80% centralarea should be very quiet near-black plum with subtle depth, so later news typesetting remains legible. A full original landscape source chart will be composited atx104,y845,width857,height572 on the1080x1920canvas. Keep this rectangle featureless and dark. On the far-right vertical metal wall column, integrate a front-facing perfectly circular EMPTY BRASS RECESS centered aroundx982,y578,diameter154px. This is physical recessed architectural hardware with natural warm rim light, not a floatingbadge. The actual user-supplied original Moneyberg gold coin will be fitted into the recess afterward; do not generate any coin, portrait, lettering or logos. Reserve the whole coin within the upper75% of thecanvas. Authoredcontentwillfitx104–961,y164–1536. Subsequent exact typesetting will use Lato Black900 for headings/category/numberhero and small compact one-line 'MONEYBERG NEWS BRIEF' secondarybrand; Georgia400 forbody/sources. All authoredtextatleast33px,body35px,headlines51px. DO NOT RENDER TEXT. This is only the background. Cinematic but restrained photographic materials, institutional financial research atmosphere, emphasis on negative space, crisp realism and subtleplumteallighting.
+```
+
+## Editing prompt
+```text
+Edit only the empty brass wall recess in this background. MOVE the entire circular recess UPWARD from roughly42% of imageheight to30%ofimageheight, keeping it on the same far-right verticalwallcolumn, the same diameter,front-facingcircularshape,materialandlighting. Remove its old recess seamlessly so the wall is continuous there. It must end up with center aroundx92.4%width,y30%height. Preserve the exact remainder of this text-free background, the navyplumnegative space, tradingdesks,chairs,tealwiring,compositionandpalette. No text,numbers,logos,chart,portraitorcoin. This is a Moneyberg News Brief background; actualoriginalcoinwillbemountedlaterandwe needthecircularrecess entirelyabovethemiddle oftheimage, clear ofthechartareathatstartsat44%height.
+```
