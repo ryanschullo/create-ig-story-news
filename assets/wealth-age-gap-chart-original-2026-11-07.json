@@ -1,0 +1,31 @@
+{
+  "url": "https://pbs.twimg.com/media/HVhxl54aEAEDw7a.jpg?format=jpg&name=orig",
+  "source_post": "https://x.com/unusual_whales/status/2119143095375642746",
+  "post_published_utc": "2026-11-07T19:01:00Z",
+  "post_published_chicago": "2026-11-07T13:01:00-06:00",
+  "dimensions": [
+    900,
+    641
+  ],
+  "bytes": 49510,
+  "sha256": "d73268e9ce3845fb896de2a26fff3b8a3c5efb24d8cd0952104d636c4354daec",
+  "source_image_modified": false,
+  "title": "Net Worth of Youngest and Oldest Age Groups in the US",
+  "chart_credit": "Researcher’s calculations using data from the Survey of Consumer Finances.",
+  "observation_period": "1983–2022",
+  "metric": "Mean household net worth for each age group relative to mean net worth across all households; ratios, not shares of aggregate wealth.",
+  "mean_not_median": true,
+  "approximate_post_figures": {
+    "75_and_older": {
+      "1983_relative_to_overall_mean": 1.05,
+      "2022_relative_to_overall_mean": 1.55
+    },
+    "under_35": {
+      "1983_relative_to_overall_mean": 0.21,
+      "2022_relative_to_overall_mean": 0.16
+    }
+  },
+  "axes": "Independent y-axis ranges: 1.00–1.60 for age75+, 0.05–0.30 for under35.",
+  "researcher_identity_provided": false,
+  "primary_calculations_independently_recomputed": false
+}

@@ -1,0 +1,701 @@
+{
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "inner_bounds": [
+    104,
+    164,
+    961,
+    1536
+  ],
+  "minimum_authored_font_size_px": 33,
+  "minimum_body_font_size_px": 35,
+  "minimum_headline_font_size_px": 51,
+  "font_size_minimum_verified": true,
+  "renderer": "Chromium via Playwright; HTML/CSS screenshot",
+  "background_sha256": "6ae9f49be946e381b4aa5512f1314a73b2f660ae2b60915ea86324c8cd1c2255",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
+  "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
+  "georgia_redistributed": false,
+  "layout": {
+    "text": [
+      {
+        "id": "brand",
+        "text": "MONEYBERG NEWS BRIEF",
+        "bounds": {
+          "left": 118,
+          "top": 175,
+          "right": 562.109375,
+          "bottom": 217,
+          "width": 444.109375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 174,
+          "right": 562.109375,
+          "bottom": 218,
+          "width": 444.109375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "category",
+        "text": "CONSUMER SENTIMENT",
+        "bounds": {
+          "left": 118,
+          "top": 230,
+          "right": 511.296875,
+          "bottom": 270,
+          "width": 393.296875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 229,
+          "right": 511.296875,
+          "bottom": 271,
+          "width": 393.296875,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "date",
+        "text": "NOVEMBER 7, 2026",
+        "bounds": {
+          "left": 118,
+          "top": 280,
+          "right": 424.421875,
+          "bottom": 320,
+          "width": 306.421875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 279,
+          "right": 424.421875,
+          "bottom": 321,
+          "width": 306.421875,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "headline-one",
+        "text": "THE GENERATIONAL",
+        "bounds": {
+          "left": 118,
+          "top": 328,
+          "right": 701.46875,
+          "bottom": 400,
+          "width": 583.46875,
+          "height": 72
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 327,
+          "right": 701.46875,
+          "bottom": 401,
+          "width": 583.46875,
+          "height": 74
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "60px"
+      },
+      {
+        "id": "headline-two",
+        "text": "WEALTH GAP",
+        "bounds": {
+          "left": 118,
+          "top": 403,
+          "right": 499.625,
+          "bottom": 475,
+          "width": 381.625,
+          "height": 72
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 402,
+          "right": 499.625,
+          "bottom": 476,
+          "width": 381.625,
+          "height": 74
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "60px"
+      },
+      {
+        "id": "context",
+        "text": "Mean net worth vs. all households",
+        "bounds": {
+          "left": 118,
+          "top": 491,
+          "right": 644.546875,
+          "bottom": 531,
+          "width": 526.546875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 489,
+          "right": 644.546875,
+          "bottom": 534,
+          "width": 526.546875,
+          "height": 45
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "period",
+        "text": "Approximate ratios \u2022 1983 \u2192 2022",
+        "bounds": {
+          "left": 118,
+          "top": 541,
+          "right": 638.40625,
+          "bottom": 581,
+          "width": 520.40625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 540,
+          "right": 638.40625,
+          "bottom": 582,
+          "width": 520.40625,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "older-label",
+        "text": "AGES 75+",
+        "bounds": {
+          "left": 118,
+          "top": 591,
+          "right": 278.9375,
+          "bottom": 633,
+          "width": 160.9375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 590,
+          "right": 278.9375,
+          "bottom": 634,
+          "width": 160.9375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "younger-label",
+        "text": "UNDER 35",
+        "bounds": {
+          "left": 570,
+          "top": 591,
+          "right": 744.734375,
+          "bottom": 633,
+          "width": 174.734375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 570,
+          "top": 590,
+          "right": 744.734375,
+          "bottom": 634,
+          "width": 174.734375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "older-values",
+        "text": "105% \u2192 155%",
+        "bounds": {
+          "left": 118,
+          "top": 638,
+          "right": 520.0625,
+          "bottom": 712,
+          "width": 402.0625,
+          "height": 74
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 637,
+          "right": 520.0625,
+          "bottom": 714,
+          "width": 402.0625,
+          "height": 77
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "62px"
+      },
+      {
+        "id": "younger-values",
+        "text": "21% \u2192 16%",
+        "bounds": {
+          "left": 570,
+          "top": 638,
+          "right": 901.546875,
+          "bottom": 712,
+          "width": 331.546875,
+          "height": 74
+        },
+        "element_bounds": {
+          "left": 570,
+          "top": 637,
+          "right": 901.546875,
+          "bottom": 714,
+          "width": 331.546875,
+          "height": 77
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "62px"
+      },
+      {
+        "id": "baseline",
+        "text": "100% = average household net worth",
+        "bounds": {
+          "left": 118,
+          "top": 741,
+          "right": 689.90625,
+          "bottom": 781,
+          "width": 571.90625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 739,
+          "right": 689.90625,
+          "bottom": 784,
+          "width": 571.90625,
+          "height": 45
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "source-one",
+        "text": "Source: @unusual_whales \u2022 Nov. 7, 2026",
+        "bounds": {
+          "left": 118,
+          "top": 1434,
+          "right": 718.9375,
+          "bottom": 1471,
+          "width": 600.9375,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1431,
+          "right": 718.9375,
+          "bottom": 1474,
+          "width": 600.9375,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      },
+      {
+        "id": "source-two",
+        "text": "Chart: researcher calculations using SCF",
+        "bounds": {
+          "left": 118,
+          "top": 1483,
+          "right": 707.984375,
+          "bottom": 1520,
+          "width": 589.984375,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1480,
+          "right": 707.984375,
+          "bottom": 1523,
+          "width": 589.984375,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      }
+    ],
+    "panels": [
+      {
+        "id": "chart",
+        "bounds": {
+          "left": 104,
+          "top": 805,
+          "right": 961,
+          "bottom": 1415.359375,
+          "width": 857,
+          "height": 610.359375
+        }
+      },
+      {
+        "id": "source-panel",
+        "bounds": {
+          "left": 104,
+          "top": 1422,
+          "right": 961,
+          "bottom": 1530,
+          "width": 857,
+          "height": 108
+        }
+      }
+    ],
+    "scene_elements": [
+      {
+        "id": "coin-installation",
+        "bounds": {
+          "left": 932.390625,
+          "top": 468.6875,
+          "right": 1068.390625,
+          "bottom": 604.6875,
+          "width": 136,
+          "height": 136
+        },
+        "box_shadow": "rgb(68, 56, 36) 3px 5px 8px 0px inset, rgba(47, 28, 15, 0.65) 3px 6px 10px 0px, rgb(226, 212, 171) -1px -1px 2px 0px",
+        "background": "linear-gradient(135deg, rgb(204, 185, 138), rgb(105, 82, 56) 53%, rgb(174, 143, 94))"
+      },
+      {
+        "id": "coin-contact",
+        "bounds": {
+          "left": 936.390625,
+          "top": 472.6875,
+          "right": 1064.390625,
+          "bottom": 600.6875,
+          "width": 128,
+          "height": 128
+        },
+        "box_shadow": "rgba(45, 33, 20, 0.45) 3px 4px 7px 0px inset, rgba(255, 236, 185, 0.25) -2px -2px 3px 0px inset",
+        "background": "linear-gradient(125deg, rgba(255, 234, 178, 0.12), rgba(0, 0, 0, 0) 46%, rgba(35, 23, 13, 0.1))"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Moneyberg Lato Black",
+        "weight": "900",
+        "status": "loaded"
+      },
+      {
+        "family": "Moneyberg Georgia",
+        "weight": "400",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "id": "background",
+        "natural_width": 916,
+        "natural_height": 1717,
+        "object_fit": "cover",
+        "clip_path": "none",
+        "bounds": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        }
+      },
+      {
+        "id": "coin",
+        "natural_width": 2084,
+        "natural_height": 2084,
+        "object_fit": "contain",
+        "clip_path": "none",
+        "bounds": {
+          "left": 937.390625,
+          "top": 473.6875,
+          "right": 1063.390625,
+          "bottom": 599.6875,
+          "width": 126,
+          "height": 126
+        }
+      },
+      {
+        "id": "chart",
+        "natural_width": 900,
+        "natural_height": 641,
+        "object_fit": "contain",
+        "clip_path": "none",
+        "bounds": {
+          "left": 104,
+          "top": 805,
+          "right": 961,
+          "bottom": 1415.359375,
+          "width": 857,
+          "height": 610.359375
+        }
+      }
+    ],
+    "document_width": 1080,
+    "document_height": 1920
+  },
+  "platform_fonts": [
+    {
+      "id": "brand",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "category",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 18
+        }
+      ]
+    },
+    {
+      "id": "date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "headline-one",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "headline-two",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 10
+        }
+      ]
+    },
+    {
+      "id": "context",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 33
+        }
+      ]
+    },
+    {
+      "id": "period",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 31
+        }
+      ]
+    },
+    {
+      "id": "older-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 8
+        }
+      ]
+    },
+    {
+      "id": "younger-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 8
+        }
+      ]
+    },
+    {
+      "id": "older-values",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 11
+        }
+      ]
+    },
+    {
+      "id": "younger-values",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 9
+        }
+      ]
+    },
+    {
+      "id": "baseline",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 34
+        }
+      ]
+    },
+    {
+      "id": "source-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 38
+        }
+      ]
+    },
+    {
+      "id": "source-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 40
+        }
+      ]
+    }
+  ],
+  "coin_bounds": {
+    "left": 937.390625,
+    "top": 473.6875,
+    "right": 1063.390625,
+    "bottom": 599.6875,
+    "width": 126,
+    "height": 126
+  },
+  "whole_coin_upper_75_percent_verified": true,
+  "integration": {
+    "method": "Exact original coin PNG seated in a physical brass recess in a wood-trimmed wealth-planning environment, with compatible lighting and contact shadow",
+    "artwork": "Original uniformly scaled PNG; original portrait, lettering and circular rim preserved",
+    "image_generation_role": "Text-free conceptual household wealth-planning environment only",
+    "topic": "Mean net worth by household age relative to the average household, as reported by Unusual Whales",
+    "category_badge": "CONSUMER SENTIMENT",
+    "background_credit_on_graphic": false,
+    "background_provenance": "Conceptual wealth-planning setting; not documentary evidence or quantitative chart data"
+  },
+  "generation_prompts": [
+    "Create a premium text-free editorial background for a 1080x1920 Instagram story, portrait9:16, MONEYBERG NEWS BRIEF about the widening gap in average household wealth between younger and older Americans, historical data1983\u20132022. Restrained warm ivory, deep ink, walnut and subtle burgundy palette; refined family financial-planning study. Upper80% is a calm light ivory plaster or paper-like background with very gentle daylight and subtle tactile depth, completely unobstructed for later typography and the full original landscape chart. Bottom18% features a close-up still life on a rich walnut desk: unmarked house keys, reading glasses, a closed burgundy account ledger with NO text, a small elegant wooden house model, with soft windowlight and understated shadows. No people, no readable text, no digits, no charts, no logos, no invented money or currency. Far-right narrow edge has a vertical walnut architectural trim continuing downward to the desk. Integrate one perfectly circular EMPTY BRASS RECESS into that wood trim, front-facing, centered at92.5% of canvaswidth and30% of canvasheight, diameter13% of canvaswidth. The recess is physical architectural hardware, natural contact shadow and warm rim light, not a floating badge. Leave the recess blank; the exact approved original Moneyberg coin will be fitted separately, do not generate a coin or portrait or lettering. Keep all objects except that trim and recess out of x104\u2013961,y164\u20131536 news area. Preserve uninterrupted pale background behind that area, with most meaningful scenery confined belowy1560. Later typesetting uses actual Lato Black900 for headlines and labels and the small one-line MONEYBERG NEWS BRIEF; Georgia400 for body and sources; minimum33px all text,35px body,51px headline. Do not render ANY text. The full original chart will be placed atx104,y805,width857,height610.4. This is only a decorative editorial background, not documentary evidence, tasteful photographic materials, luminous and uncluttered."
+  ],
+  "sources": [
+    "https://x.com/unusual_whales/status/2119143095375642746"
+  ],
+  "source_access": "Full public X post and its unmodified original chart. Numerical ratios attributed to Unusual Whales. The chart credits an unidentified researcher's calculations using Survey of Consumer Finances data; this is not described as an official Federal Reserve chart. Underlying comparison is 1983\u20132022, not a new 2026 wealth survey.",
+  "original_chart": {
+    "sha256": "d73268e9ce3845fb896de2a26fff3b8a3c5efb24d8cd0952104d636c4354daec",
+    "dimensions": [
+      900,
+      641
+    ],
+    "rendered_bounds": {
+      "left": 104,
+      "top": 805,
+      "right": 961,
+      "bottom": 1415.359375,
+      "width": 857,
+      "height": 610.359375
+    },
+    "complete_image_preserved": true,
+    "retyped_or_redrawn": false,
+    "embedded_fonts_preserved": true,
+    "title": "Net Worth of Youngest and Oldest Age Groups in the US",
+    "units": "Mean net worth relative to average household",
+    "source_credit": "Researcher\u2019s calculations using data from the Survey of Consumer Finances",
+    "separately_scaled_source_panels_preserved": true
+  },
+  "wealth_snapshot": {
+    "kind": "Historical relative mean household net-worth comparison",
+    "post_date": "2026-11-07",
+    "comparison_years": [
+      1983,
+      2022
+    ],
+    "ages_75_and_older_percent_of_overall_mean_approximate": [
+      105,
+      155
+    ],
+    "under_35_percent_of_overall_mean_approximate": [
+      21,
+      16
+    ],
+    "baseline_percent": 100,
+    "measure": "Mean net worth of each age group divided by overall mean household net worth",
+    "not_median_or_share_of_total_wealth": true,
+    "does_not_imply_nominal_net_worth_fell": true,
+    "different_age_cohorts_at_each_date_not_same_people": true,
+    "post_date_distinct_from_underlying_survey_dates": true
+  },
+  "output_sha256": "7bb701d24453040ac4151ef402224a24b2c434b941fb6dc955f514b11d2749d9"
+}

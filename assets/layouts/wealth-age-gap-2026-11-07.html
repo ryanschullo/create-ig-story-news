@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><base href="__ASSET_BASE_URI__">
+<title>The generational wealth gap — household net worth by age</title>
+<style>
+@font-face{font-family:"Moneyberg Lato Black";src:url("fonts/lato/Lato-Black.ttf") format("truetype");font-weight:900;font-style:normal}
+@font-face{font-family:"Moneyberg Georgia";src:url("__GEORGIA_FONT_URI__") format("truetype");font-weight:400;font-style:normal}
+*{box-sizing:border-box}html,body{margin:0;width:1080px;height:1920px;overflow:hidden;background:#e9e2d6}
+#stage{position:relative;width:1080px;height:1920px;isolation:isolate;overflow:hidden}
+#background{position:absolute;inset:0;width:1080px;height:1920px;object-fit:cover}
+.text{position:absolute;margin:0;z-index:5;font-synthesis:none;text-rendering:geometricPrecision;-webkit-font-smoothing:antialiased;white-space:nowrap}
+.lato{font-family:"Moneyberg Lato Black";font-weight:900;color:#222d36}
+.georgia{font-family:"Moneyberg Georgia";font-weight:400;color:#303740}
+#brand{left:118px;top:174px;font-size:35px;line-height:44px;letter-spacing:.25px}
+#category{left:118px;top:229px;font-size:33px;line-height:42px;letter-spacing:.5px;color:#792e3c}
+#date{left:118px;top:279px;font-size:33px;line-height:42px;color:#575651}
+#headline-one,#headline-two{left:118px;font-size:60px;line-height:74px;letter-spacing:-.4px}
+#headline-one{top:327px}#headline-two{top:402px;color:#792e3c}
+#context{left:118px;top:489px;font-size:35px;line-height:45px}
+#period{left:118px;top:540px;font-size:33px;line-height:42px;color:#575651}
+#older-label,#younger-label{top:590px;font-size:35px;line-height:44px;letter-spacing:.4px}
+#older-label{left:118px;color:#315d7e}#younger-label{left:570px;color:#343940}
+#older-values,#younger-values{top:637px;font-size:62px;line-height:77px;letter-spacing:-.7px}
+#older-values{left:118px;color:#315d7e}#younger-values{left:570px;color:#343940}
+#baseline{left:118px;top:739px;font-size:35px;line-height:45px}
+#chart{position:absolute;left:104px;top:805px;width:857px;height:610.3744px;object-fit:contain;z-index:4;box-shadow:0 8px 26px rgba(66,47,30,.14)}
+#source-panel{position:absolute;left:104px;top:1422px;width:857px;height:108px;background:#f7f3eb;z-index:3}
+#source-one,#source-two{left:118px;font-size:33px;line-height:43px;color:#303740}
+#source-one{top:1431px}#source-two{top:1480px}
+/* Exact original coin seated within the background's physical brass recess. */
+#coin-installation{position:absolute;left:932.4px;top:468.7px;width:136px;height:136px;z-index:2;border-radius:50%;background:linear-gradient(135deg,#ccb98a,#695238 53%,#ae8f5e);border:2px solid #8c7958;box-shadow:inset 3px 5px 8px #443824,3px 6px 10px rgba(47,28,15,.65),-1px -1px 2px #e2d4ab}
+#coin{position:absolute;left:3px;top:3px;width:126px;height:126px;object-fit:contain;filter:saturate(.8) brightness(.9)}
+#coin-contact{position:absolute;inset:2px;border-radius:50%;pointer-events:none;box-shadow:inset 3px 4px 7px rgba(45,33,20,.45),inset -2px -2px 3px rgba(255,236,185,.25);background:linear-gradient(125deg,rgba(255,234,178,.12),transparent 46%,rgba(35,23,13,.1))}
+</style></head><body><main id="stage" aria-label="The generational wealth gap. Unusual Whales compares mean household net worth by age as a percentage of overall average household net worth. Approximate 1983 to 2022 ratios: households aged 75 and older rise from 105 to 155 percent; households under 35 fall from 21 to 16 percent. Full original researcher chart using Survey of Consumer Finances data preserved. Post dated November 7, 2026; underlying data 1983 through 2022.">
+<img id="background" src="wealth-age-gap-background-2026-11-07.png" alt="">
+<div id="coin-installation" data-scene-element aria-hidden="true"><img id="coin" src="moneyberg-coin-original.png" alt=""><div id="coin-contact" data-scene-element></div></div>
+<div id="brand" class="text lato" data-news-text>MONEYBERG NEWS BRIEF</div>
+<div id="category" class="text lato" data-news-text>CONSUMER SENTIMENT</div>
+<div id="date" class="text lato" data-news-text>NOVEMBER 7, 2026</div>
+<div id="headline-one" class="text lato" data-news-text data-text-role="headline">THE GENERATIONAL</div>
+<div id="headline-two" class="text lato" data-news-text data-text-role="headline">WEALTH GAP</div>
+<div id="context" class="text georgia" data-news-text data-text-role="body">Mean net worth vs. all households</div>
+<div id="period" class="text lato" data-news-text>Approximate ratios • 1983 → 2022</div>
+<div id="older-label" class="text lato" data-news-text>AGES 75+</div>
+<div id="younger-label" class="text lato" data-news-text>UNDER 35</div>
+<div id="older-values" class="text lato" data-news-text data-text-role="headline">105% → 155%</div>
+<div id="younger-values" class="text lato" data-news-text data-text-role="headline">21% → 16%</div>
+<div id="baseline" class="text georgia" data-news-text data-text-role="body">100% = average household net worth</div>
+<img id="chart" data-news-panel src="wealth-age-gap-chart-original-2026-11-07.jpg" alt="Full original chart, Net Worth of Youngest and Oldest Age Groups in the US. Two separately scaled panels compare mean net worth relative to average household net worth for ages 75 and older and under 35, from 1983 through 2022. All original title, labels, axes and source retained. Source: researcher’s calculations using data from the Survey of Consumer Finances.">
+<div id="source-panel" data-news-panel></div>
+<div id="source-one" class="text georgia" data-news-text data-text-role="source">Source: @unusual_whales • Nov. 7, 2026</div>
+<div id="source-two" class="text georgia" data-news-text data-text-role="source">Chart: researcher calculations using SCF</div>
+</main></body></html>
