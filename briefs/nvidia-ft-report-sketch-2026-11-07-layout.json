@@ -1,0 +1,851 @@
+{
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "inner_bounds": [
+    104,
+    164,
+    961,
+    1536
+  ],
+  "minimum_authored_font_size_px": 33,
+  "minimum_body_font_size_px": 35,
+  "minimum_headline_font_size_px": 51,
+  "font_size_minimum_verified": true,
+  "renderer": "Chromium via Playwright; HTML/CSS screenshot",
+  "background_sha256": "67de3bd14c279bcb27dd2beb0263d638511fbf447af987c3e3aa90e44e534493",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "portrait": {
+    "sha256": "8424eb00c44c34b45f12aa88eb7eebcd8ec372497a4dd6d4eee1ac32e39f8ce5",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "rendered_bounds": {
+      "left": 700,
+      "top": 164,
+      "right": 950,
+      "bottom": 539,
+      "width": 250,
+      "height": 375
+    },
+    "complete_image_preserved": true,
+    "no_text_or_coin_overlap": true,
+    "purpose": "Editorial sketch portrait; not depiction or evidence of an alleged event"
+  },
+  "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
+  "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
+  "georgia_redistributed": false,
+  "layout": {
+    "text": [
+      {
+        "id": "brand",
+        "text": "MONEYBERG NEWS BRIEF",
+        "bounds": {
+          "left": 118,
+          "top": 175,
+          "right": 562.109375,
+          "bottom": 217,
+          "width": 444.109375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 174,
+          "right": 562.109375,
+          "bottom": 218,
+          "width": 444.109375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "category",
+        "text": "AI INVESTING",
+        "bounds": {
+          "left": 118,
+          "top": 230,
+          "right": 340.1875,
+          "bottom": 270,
+          "width": 222.1875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 229,
+          "right": 340.1875,
+          "bottom": 271,
+          "width": 222.1875,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "date",
+        "text": "NOVEMBER 7, 2026",
+        "bounds": {
+          "left": 118,
+          "top": 280,
+          "right": 424.421875,
+          "bottom": 320,
+          "width": 306.421875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 279,
+          "right": 424.421875,
+          "bottom": 321,
+          "width": 306.421875,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "headline-one",
+        "text": "FT: MEMO ALLEGES",
+        "bounds": {
+          "left": 118,
+          "top": 332,
+          "right": 583.25,
+          "bottom": 393,
+          "width": 465.25,
+          "height": 61
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 327,
+          "right": 583.25,
+          "bottom": 398,
+          "width": 465.25,
+          "height": 71
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "51px"
+      },
+      {
+        "id": "headline-two",
+        "text": "HUANG RELATIONSHIP",
+        "bounds": {
+          "left": 118,
+          "top": 404,
+          "right": 674,
+          "bottom": 465,
+          "width": 556,
+          "height": 61
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 399,
+          "right": 674,
+          "bottom": 470,
+          "width": 556,
+          "height": 71
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "51px"
+      },
+      {
+        "id": "headline-three",
+        "text": "WITH SUSPECTED SPY",
+        "bounds": {
+          "left": 118,
+          "top": 476,
+          "right": 653.59375,
+          "bottom": 537,
+          "width": 535.59375,
+          "height": 61
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 471,
+          "right": 653.59375,
+          "bottom": 542,
+          "width": 535.59375,
+          "height": 71
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "51px"
+      },
+      {
+        "id": "report-label",
+        "text": "THE REPORT",
+        "bounds": {
+          "left": 128,
+          "top": 591,
+          "right": 344.046875,
+          "bottom": 633,
+          "width": 216.046875,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 128,
+          "top": 590,
+          "right": 344.046875,
+          "bottom": 634,
+          "width": 216.046875,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "report-one",
+        "text": "U.S. intelligence reportedly linked",
+        "bounds": {
+          "left": 128,
+          "top": 643,
+          "right": 699.375,
+          "bottom": 686,
+          "width": 571.375,
+          "height": 43
+        },
+        "element_bounds": {
+          "left": 128,
+          "top": 641,
+          "right": 699.375,
+          "bottom": 688,
+          "width": 571.375,
+          "height": 47
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "38px"
+      },
+      {
+        "id": "report-two",
+        "text": "Nvidia CEO Jensen Huang romantically",
+        "bounds": {
+          "left": 128,
+          "top": 692,
+          "right": 797.15625,
+          "bottom": 735,
+          "width": 669.15625,
+          "height": 43
+        },
+        "element_bounds": {
+          "left": 128,
+          "top": 690,
+          "right": 797.15625,
+          "bottom": 737,
+          "width": 669.15625,
+          "height": 47
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "38px"
+      },
+      {
+        "id": "report-three",
+        "text": "to a Megaspeed executive suspected",
+        "bounds": {
+          "left": 128,
+          "top": 741,
+          "right": 728.078125,
+          "bottom": 784,
+          "width": 600.078125,
+          "height": 43
+        },
+        "element_bounds": {
+          "left": 128,
+          "top": 739,
+          "right": 728.078125,
+          "bottom": 786,
+          "width": 600.078125,
+          "height": 47
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "38px"
+      },
+      {
+        "id": "report-four",
+        "text": "of working for Chinese intelligence.",
+        "bounds": {
+          "left": 128,
+          "top": 790,
+          "right": 720.53125,
+          "bottom": 833,
+          "width": 592.53125,
+          "height": 43
+        },
+        "element_bounds": {
+          "left": 128,
+          "top": 788,
+          "right": 720.53125,
+          "bottom": 835,
+          "width": 592.53125,
+          "height": 47
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "38px"
+      },
+      {
+        "id": "response-label",
+        "text": "NVIDIA\u2019S RESPONSE",
+        "bounds": {
+          "left": 128,
+          "top": 951,
+          "right": 469.53125,
+          "bottom": 993,
+          "width": 341.53125,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 128,
+          "top": 950,
+          "right": 469.53125,
+          "bottom": 994,
+          "width": 341.53125,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "response-one",
+        "text": "Nvidia points to Huang\u2019s description",
+        "bounds": {
+          "left": 128,
+          "top": 1003,
+          "right": 743.109375,
+          "bottom": 1046,
+          "width": 615.109375,
+          "height": 43
+        },
+        "element_bounds": {
+          "left": 128,
+          "top": 1001,
+          "right": 743.109375,
+          "bottom": 1048,
+          "width": 615.109375,
+          "height": 47
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "38px"
+      },
+      {
+        "id": "response-two",
+        "text": "of a typical business relationship",
+        "bounds": {
+          "left": 128,
+          "top": 1052,
+          "right": 675.484375,
+          "bottom": 1095,
+          "width": 547.484375,
+          "height": 43
+        },
+        "element_bounds": {
+          "left": 128,
+          "top": 1050,
+          "right": 675.484375,
+          "bottom": 1097,
+          "width": 547.484375,
+          "height": 47
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "38px"
+      },
+      {
+        "id": "response-three",
+        "text": "and says it neither has nor shares",
+        "bounds": {
+          "left": 128,
+          "top": 1101,
+          "right": 686.71875,
+          "bottom": 1144,
+          "width": 558.71875,
+          "height": 43
+        },
+        "element_bounds": {
+          "left": 128,
+          "top": 1099,
+          "right": 686.71875,
+          "bottom": 1146,
+          "width": 558.71875,
+          "height": 47
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "38px"
+      },
+      {
+        "id": "response-four",
+        "text": "classified information with customers.",
+        "bounds": {
+          "left": 128,
+          "top": 1150,
+          "right": 769.828125,
+          "bottom": 1193,
+          "width": 641.828125,
+          "height": 43
+        },
+        "element_bounds": {
+          "left": 128,
+          "top": 1148,
+          "right": 769.828125,
+          "bottom": 1195,
+          "width": 641.828125,
+          "height": 47
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "38px"
+      },
+      {
+        "id": "source-one",
+        "text": "Sources: FT, via TechCrunch / Bloomberg",
+        "bounds": {
+          "left": 118,
+          "top": 1354,
+          "right": 727.71875,
+          "bottom": 1391,
+          "width": 609.71875,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1351,
+          "right": 727.71875,
+          "bottom": 1394,
+          "width": 609.71875,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      },
+      {
+        "id": "source-two",
+        "text": "Follow-up coverage \u2022 November 7, 2026",
+        "bounds": {
+          "left": 118,
+          "top": 1411,
+          "right": 701.265625,
+          "bottom": 1448,
+          "width": 583.265625,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1408,
+          "right": 701.265625,
+          "bottom": 1451,
+          "width": 583.265625,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      }
+    ],
+    "panels": [
+      {
+        "id": "portrait",
+        "bounds": {
+          "left": 700,
+          "top": 164,
+          "right": 950,
+          "bottom": 539,
+          "width": 250,
+          "height": 375
+        }
+      },
+      {
+        "id": "report-panel",
+        "bounds": {
+          "left": 104,
+          "top": 570,
+          "right": 890,
+          "bottom": 872,
+          "width": 786,
+          "height": 302
+        }
+      },
+      {
+        "id": "response-panel",
+        "bounds": {
+          "left": 104,
+          "top": 930,
+          "right": 890,
+          "bottom": 1232,
+          "width": 786,
+          "height": 302
+        }
+      },
+      {
+        "id": "source-panel",
+        "bounds": {
+          "left": 104,
+          "top": 1337,
+          "right": 961,
+          "bottom": 1493,
+          "width": 857,
+          "height": 156
+        }
+      }
+    ],
+    "scene_elements": [
+      {
+        "id": "coin-installation",
+        "bounds": {
+          "left": 911,
+          "top": 606,
+          "right": 1059,
+          "bottom": 754,
+          "width": 148,
+          "height": 148
+        },
+        "box_shadow": "rgb(23, 37, 25) 3px 5px 8px 0px inset, rgba(1, 7, 3, 0.85) 3px 6px 10px 0px, rgb(186, 195, 155) -1px -1px 2px 0px",
+        "background": "linear-gradient(135deg, rgb(163, 151, 110), rgb(57, 70, 53) 53%, rgb(156, 137, 97))"
+      },
+      {
+        "id": "coin-contact",
+        "bounds": {
+          "left": 915,
+          "top": 610,
+          "right": 1055,
+          "bottom": 750,
+          "width": 140,
+          "height": 140
+        },
+        "box_shadow": "rgba(20, 34, 23, 0.6) 3px 4px 7px 0px inset, rgba(220, 225, 202, 0.2) -2px -2px 3px 0px inset",
+        "background": "linear-gradient(125deg, rgba(160, 195, 162, 0.1), rgba(0, 0, 0, 0) 46%, rgba(10, 20, 15, 0.12))"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Moneyberg Lato Black",
+        "weight": "900",
+        "status": "loaded"
+      },
+      {
+        "family": "Moneyberg Georgia",
+        "weight": "400",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "id": "background",
+        "natural_width": 916,
+        "natural_height": 1717,
+        "object_fit": "cover",
+        "clip_path": "none",
+        "bounds": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        }
+      },
+      {
+        "id": "portrait",
+        "natural_width": 1024,
+        "natural_height": 1536,
+        "object_fit": "contain",
+        "clip_path": "none",
+        "bounds": {
+          "left": 700,
+          "top": 164,
+          "right": 950,
+          "bottom": 539,
+          "width": 250,
+          "height": 375
+        }
+      },
+      {
+        "id": "coin",
+        "natural_width": 2084,
+        "natural_height": 2084,
+        "object_fit": "contain",
+        "clip_path": "none",
+        "bounds": {
+          "left": 916,
+          "top": 611,
+          "right": 1054,
+          "bottom": 749,
+          "width": 138,
+          "height": 138
+        }
+      }
+    ],
+    "document_width": 1080,
+    "document_height": 1920
+  },
+  "platform_fonts": [
+    {
+      "id": "brand",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "category",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 12
+        }
+      ]
+    },
+    {
+      "id": "date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "headline-one",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "headline-two",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 18
+        }
+      ]
+    },
+    {
+      "id": "headline-three",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 18
+        }
+      ]
+    },
+    {
+      "id": "report-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 10
+        }
+      ]
+    },
+    {
+      "id": "report-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 35
+        }
+      ]
+    },
+    {
+      "id": "report-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 36
+        }
+      ]
+    },
+    {
+      "id": "report-three",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 34
+        }
+      ]
+    },
+    {
+      "id": "report-four",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 36
+        }
+      ]
+    },
+    {
+      "id": "response-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 17
+        }
+      ]
+    },
+    {
+      "id": "response-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 36
+        }
+      ]
+    },
+    {
+      "id": "response-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 34
+        }
+      ]
+    },
+    {
+      "id": "response-three",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 34
+        }
+      ]
+    },
+    {
+      "id": "response-four",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 38
+        }
+      ]
+    },
+    {
+      "id": "source-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 39
+        }
+      ]
+    },
+    {
+      "id": "source-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 37
+        }
+      ]
+    }
+  ],
+  "coin_bounds": {
+    "left": 916,
+    "top": 611,
+    "right": 1054,
+    "bottom": 749,
+    "width": 138,
+    "height": 138
+  },
+  "whole_coin_upper_75_percent_verified": true,
+  "integration": {
+    "method": "Exact original coin PNG seated in a brass architectural recess, with compatible green lighting and contact shadow",
+    "artwork": "Original uniformly scaled PNG; original portrait, lettering and circular rim preserved",
+    "image_generation_role": "Text-free conceptual GPU server architecture plus separately generated editorial portrait sketch",
+    "topic": "FT reporting of intelligence-memo allegations involving Nvidia CEO, with Nvidia response",
+    "category_badge": "AI INVESTING",
+    "background_credit_on_graphic": false,
+    "background_provenance": "Conceptual corporate GPU-server environment, not a documentary scene or evidence of an allegation"
+  },
+  "generation_prompts": [
+    "Create a refined editorial background plate for a1080x1920portraitInstagramstory, MONEYBERG NEWS BRIEF, AI INVESTING. Topic is a reported intelligence controversy involving Nvidia, so use restrained high-tech corporate imagery, not a spy-thriller scene. No people, no fabricated photographs, no characters, no surveillance imagery, no romantic imagery, no readable text, no chart, no logos. Design a sophisticated dark graphite and near-black technology lab with very restrained emerald and mint light, clean server infrastructure, a physically detailed large GPU circuit-board structure visible mainly in the bottom20% and lower corners, blackbrushedmetal, subtle greenfibers, matteglass. Keep the entire central content area x104\u2013961,y164\u20131536 exceptionally quiet and dark for later balanced report and company-response text panels. The original Moneyberg coin will be physically seated in an EMPTY front-facing brass wall recess on a narrow metal column along the far-right edge. Place this circular empty recess at approximatelyx92%width,y35%height,diameter14%ofcanvaswidth. Do not generate a coin,face,letteringorlogos. Make recess part of the architecture with realistic shadowandcompatiblegreenambientlight; exact originalcoinwillbeaddedlater,entirelywithintheupper75%. Subsequent typography will be actual Lato Black900 for headings, compactone-line secondarybrandMONEYBERG NEWS BRIEF andcategory; Georgia400forbody/sources, minimum33pxandbody35px. DO NOT RENDER TEXT. Leave generous uppernegative space. This is fictionaldecorativeeditorialarchitectureandhardware,notdocumentationofanyevent. Premium realisticmaterials, soberbusinessjournalism, subtledepth, unclutteredverticalcomposition.",
+    "Transform the provided reference photograph of Jensen Huang into a refined editorial portrait SKETCH for a financial news graphic. Isolate ONLY Jensen Huang, a recognizable head-and-shoulders bust, with his distinctive silver swept hair, dark rectangular thin-rim glasses, broad face and black leather jacket. Use the photograph strictly as a facial-likeness reference. Calm neutral expression, nearly frontal view turned slightly toward the left. No raised hand, no microphone, no other people or objects. Clearly hand-drawn charcoal and graphite linework, fine crosshatching, warm ivory pencil shading and very restrained pale-mint highlights, tasteful newspaper-portrait illustration. Render facial features with enough contrast to remain legible at250\u2013270pxwide on a near-black/emeraldbackground. Not a photorealistic cutout. Entire hairstyle and shoulders contained, generous clear transparent margin, softly broken sketch edges along lower chest. Portrait aspect ratio roughly2:3, center figure in canvas. Fully TRANSPARENT BACKGROUND, not white paper, no backdrop, no border, no framing rectangle, no text, no logo, no watermark. This is an ordinary standalone portrait, no narrative scene or allegations depicted."
+  ],
+  "sources": [
+    "https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790",
+    "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+    "https://www.ndtv.com/world-news/woman-who-targeted-nvidia-ceo-jensen-huang-was-recruited-by-top-china-spy-agency-report-12295987"
+  ],
+  "source_access": "Selected FT article returned HTTP 403. Full public TechCrunch article and Bloomberg report syndicated by NDTV were read; both explicitly attribute the relationship allegation to FT. Direct FT full-text access is not claimed.",
+  "reporting_scope": {
+    "production_reporting_date": "2026-11-07",
+    "original_ft_publication": "Bloomberg describes Friday-night publication, November 6; exact original FT timestamp not independently verified",
+    "techcrunch_published_utc": "2026-11-07T21:17:08Z",
+    "allegations_not_established_findings": true,
+    "nvidia_response_included": true,
+    "response_and_report_body_size_equal": true,
+    "response_describes_prior_comments_not_new_blanket_denial": true,
+    "no_evidence_claim_of_huang_being_a_spy_or_sharing_secrets": true,
+    "no_invented_market_reaction": true
+  },
+  "output_sha256": "813a24c6276a4cdeda1bf95111c916225744ab5c34b42f617046fc0555f36b59"
+}
