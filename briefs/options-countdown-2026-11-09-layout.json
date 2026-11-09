@@ -1,0 +1,484 @@
+{
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "inner_bounds": [
+    104,
+    164,
+    961,
+    1536
+  ],
+  "minimum_authored_font_size_px": 33,
+  "minimum_body_font_size_px": 35,
+  "minimum_headline_font_size_px": 51,
+  "font_size_minimum_verified": true,
+  "renderer": "Chromium via Playwright; HTML/CSS screenshot",
+  "background_sha256": "cebe5a2ac789d19b2f9c8caf9e32f9d4dcf5184ea32dce808b544faf11c303dd",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
+  "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
+  "georgia_redistributed": false,
+  "layout": {
+    "text": [
+      {
+        "id": "brand",
+        "text": "MONEYBERG NEWS BRIEF",
+        "bounds": {
+          "left": 118,
+          "top": 175,
+          "right": 562.109375,
+          "bottom": 217,
+          "width": 444.109375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 174,
+          "right": 562.109375,
+          "bottom": 218,
+          "width": 444.109375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "category",
+        "text": "OPTIONS INVESTING",
+        "bounds": {
+          "left": 118,
+          "top": 230,
+          "right": 457.375,
+          "bottom": 270,
+          "width": 339.375,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 229,
+          "right": 457.375,
+          "bottom": 271,
+          "width": 339.375,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "headline-one",
+        "text": "STOCK",
+        "bounds": {
+          "left": 118,
+          "top": 328,
+          "right": 518.578125,
+          "bottom": 476,
+          "width": 400.578125,
+          "height": 148
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 330,
+          "right": 518.578125,
+          "bottom": 474,
+          "width": 400.578125,
+          "height": 144
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "124px"
+      },
+      {
+        "id": "headline-two",
+        "text": "OPTIONS",
+        "bounds": {
+          "left": 118,
+          "top": 484,
+          "right": 661.6875,
+          "bottom": 632,
+          "width": 543.6875,
+          "height": 148
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 486,
+          "right": 661.6875,
+          "bottom": 630,
+          "width": 543.6875,
+          "height": 144
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "124px"
+      },
+      {
+        "id": "tagline",
+        "text": "Strategy starts with timing.",
+        "bounds": {
+          "left": 118,
+          "top": 653,
+          "right": 573.28125,
+          "bottom": 696,
+          "width": 455.28125,
+          "height": 43
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 650,
+          "right": 573.28125,
+          "bottom": 700,
+          "width": 455.28125,
+          "height": 50
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "38px"
+      }
+    ],
+    "panels": [
+      {
+        "id": "countdown-frame",
+        "bounds": {
+          "left": 184,
+          "top": 804,
+          "right": 896,
+          "bottom": 1116,
+          "width": 712,
+          "height": 312
+        }
+      },
+      {
+        "id": "link-frame",
+        "bounds": {
+          "left": 224,
+          "top": 1194,
+          "right": 856,
+          "bottom": 1336,
+          "width": 632,
+          "height": 142
+        }
+      }
+    ],
+    "scene_elements": [
+      {
+        "id": "coin-installation",
+        "bounds": {
+          "left": 762,
+          "top": 161.390625,
+          "right": 1002,
+          "bottom": 401.390625,
+          "width": 240,
+          "height": 240
+        },
+        "box_shadow": "rgb(83, 61, 36) 4px 5px 9px 0px inset, rgba(13, 5, 19, 0.7) 2px 3px 7px 0px, rgb(220, 197, 143) -1px -1px 2px 0px",
+        "background": "linear-gradient(135deg, rgb(211, 183, 133), rgb(85, 66, 46) 53%, rgb(196, 145, 69))"
+      },
+      {
+        "id": "coin-contact",
+        "bounds": {
+          "left": 762,
+          "top": 161.390625,
+          "right": 1002,
+          "bottom": 401.390625,
+          "width": 240,
+          "height": 240
+        },
+        "box_shadow": "rgba(53, 29, 20, 0.5) 3px 4px 8px 0px inset, rgba(249, 222, 172, 0.24) -2px -2px 3px 0px inset",
+        "background": "linear-gradient(125deg, rgba(213, 174, 230, 0.08), rgba(0, 0, 0, 0) 46%, rgba(22, 12, 35, 0.1))"
+      }
+    ],
+    "sticker_interiors": [
+      {
+        "id": "countdown-interior",
+        "bounds": {
+          "left": 200,
+          "top": 820,
+          "right": 880,
+          "bottom": 1100,
+          "width": 680,
+          "height": 280
+        },
+        "child_count": 0,
+        "text": "",
+        "background_color": "rgba(0, 0, 0, 0)",
+        "background_image": "none",
+        "border_widths": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "box_shadow": "none",
+        "before_content": "none",
+        "after_content": "none"
+      },
+      {
+        "id": "link-interior",
+        "bounds": {
+          "left": 240,
+          "top": 1210,
+          "right": 840,
+          "bottom": 1320,
+          "width": 600,
+          "height": 110
+        },
+        "child_count": 0,
+        "text": "",
+        "background_color": "rgba(0, 0, 0, 0)",
+        "background_image": "none",
+        "border_widths": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "box_shadow": "none",
+        "before_content": "none",
+        "after_content": "none"
+      }
+    ],
+    "sticker_frames": [
+      {
+        "id": "countdown-frame",
+        "interior": "countdown-interior",
+        "bounds": {
+          "left": 184,
+          "top": 804,
+          "right": 896,
+          "bottom": 1116,
+          "width": 712,
+          "height": 312
+        },
+        "child_count": 0,
+        "text": "",
+        "background_color": "rgba(0, 0, 0, 0)",
+        "background_image": "none",
+        "box_shadow": "none",
+        "border_widths": [
+          "1px",
+          "1px",
+          "1px",
+          "1px"
+        ],
+        "border_radius": "24px",
+        "before_content": "none",
+        "after_content": "none"
+      },
+      {
+        "id": "link-frame",
+        "interior": "link-interior",
+        "bounds": {
+          "left": 224,
+          "top": 1194,
+          "right": 856,
+          "bottom": 1336,
+          "width": 632,
+          "height": 142
+        },
+        "child_count": 0,
+        "text": "",
+        "background_color": "rgba(0, 0, 0, 0)",
+        "background_image": "none",
+        "box_shadow": "none",
+        "border_widths": [
+          "1px",
+          "1px",
+          "1px",
+          "1px"
+        ],
+        "border_radius": "24px",
+        "before_content": "none",
+        "after_content": "none"
+      }
+    ],
+    "untracked_visible_text": [],
+    "stage_element_ids": [
+      "background",
+      "coin-installation",
+      "coin",
+      "coin-contact",
+      "brand",
+      "category",
+      "headline-one",
+      "headline-two",
+      "tagline",
+      "countdown-frame",
+      "countdown-interior",
+      "link-frame",
+      "link-interior"
+    ],
+    "fonts": [
+      {
+        "family": "Moneyberg Lato Black",
+        "weight": "900",
+        "status": "loaded"
+      },
+      {
+        "family": "Moneyberg Georgia",
+        "weight": "400",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "id": "background",
+        "natural_width": 941,
+        "natural_height": 1672,
+        "object_fit": "cover",
+        "clip_path": "none",
+        "bounds": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        }
+      },
+      {
+        "id": "coin",
+        "natural_width": 2084,
+        "natural_height": 2084,
+        "object_fit": "contain",
+        "clip_path": "none",
+        "bounds": {
+          "left": 762,
+          "top": 161.390625,
+          "right": 1002,
+          "bottom": 401.390625,
+          "width": 240,
+          "height": 240
+        }
+      }
+    ],
+    "document_width": 1080,
+    "document_height": 1920
+  },
+  "platform_fonts": [
+    {
+      "id": "brand",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "category",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 17
+        }
+      ]
+    },
+    {
+      "id": "headline-one",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 5
+        }
+      ]
+    },
+    {
+      "id": "headline-two",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 7
+        }
+      ]
+    },
+    {
+      "id": "tagline",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 28
+        }
+      ]
+    }
+  ],
+  "coin_bounds": {
+    "left": 762,
+    "top": 161.390625,
+    "right": 1002,
+    "bottom": 401.390625,
+    "width": 240,
+    "height": 240
+  },
+  "whole_coin_upper_75_percent_verified": true,
+  "integration": {
+    "method": "Exact original coin PNG seated inside a physical brass mount in the options-themed environment, with compatible plum/teal light and contact shadow",
+    "artwork": "Original uniformly scaled PNG; original portrait, lettering and circular rim preserved",
+    "image_generation_role": "Text-free conceptual options-investing environment with quiet center and peripheral glass forms only",
+    "topic": "Reusable stock-options Instagram Story with space for native countdown and link stickers",
+    "category_badge": "OPTIONS INVESTING",
+    "background_credit_on_graphic": false,
+    "background_provenance": "Decorative conceptual options environment; peripheral shapes do not encode real financial data"
+  },
+  "generation_prompts": [
+    "Create a striking premium STOCK OPTIONS Instagram Story BACKGROUND, portrait 9:16 targeted 1080x1920. A sophisticated options-trading campaign atmosphere, dark ink-black and deep plum/indigo, luminous restrained teal, tiny warm gold accents. Expensive dimensional materials: smoked glass, brushed graphite, subtle glossy highlights, cinematic depth. Around ONLY the extreme side edges and bottom quarter, abstract sculptural market motifs: translucent vertical trading bars, layered glass contract-like slabs, and elegant opposing curved light ribbons suggesting options strategies and timing. These are decorative shapes only: no plotted data, tick marks, real quotes, numbers, arrows, text, labels, logos, watermarks or characters. Keep the dominant upper center and middle calm and uncluttered, near-black plum with just a subtle ambient glow.\nComposition is built around later typography and interactive Instagram stickers. Later compact one-line MONEYBERG NEWS BRIEF in actual Lato Black900 at35px will sit x118,y174; separate OPTIONS INVESTING label33px below. Large STOCK / OPTIONS hero in actual Lato Black900 at~118px occupies x104\u2013961,y330\u2013610. Georgia400 supporting line38px at~y650. ALL later authored content stays x104\u2013961,y164\u20131536, min33px body35px headline51px. Do NOT render any text.\nReserve a wide totally empty dark matte area in the MIDDLE for the user to add an Instagram countdown sticker: target x180\u2013900,y790\u20131130. Reserve a second totally empty clean area immediately below for link sticker: x220\u2013860,y1180\u20131350. No objects, lines, symbols, decorations, graphics or text intrude into these regions. Do not generate countdown digits, fake stickers, placeholder labels or URL. Their clean outlines will be composed later.\nUpper-right edge includes a small dimensional black glass mounting bracket with one EMPTY front-facing circular brushed brass recess centered targetx940,y270, innerdiameter160px. This physical inset is for the user's exact original gold Moneyberg coin to be mounted later. Do NOT draw any coin, portrait, emblem or lettering; the recess must be entirely empty, simple circular metal with contact shadow and compatible warm light. Whole mounting spot should remain above y600 and clear of the title/brand area. Integrate it into the surrounding glass scene, not a floating badge.\nBottomquarterbelowy1500 can be richly dimensional, with beautifully lit dark glass slabs and abstract teal-violet trading bars rising from a smoked mirrored surface, spaced to feel sleek rather than busy. Flat front-facing blank center, clear visual hierarchy, aspirational financial aesthetic without any promised gains. No physical clock or literal hourglass. No people, no screen UI, no data table, no chart axis, no money piles. Polished editorial campaign quality, dramatic contrast, crisp material realism. Full-bleed background, no border."
+  ],
+  "sources": [],
+  "template_scope": {
+    "kind": "Reusable stock-options Instagram Story sticker template, not a news report",
+    "production_date": "2026-11-09",
+    "visible_edition_date": false,
+    "event_title_prefilled": false,
+    "countdown_rendered": false,
+    "url_rendered": false,
+    "source_attribution_rendered": false,
+    "performance_promise_rendered": false,
+    "placeholder_text_or_icons_rendered": false,
+    "authored_text_element_count": 5,
+    "source_chart_used": false,
+    "native_instagram_stickers_to_be_added_by_user": [
+      "countdown",
+      "link"
+    ]
+  },
+  "sticker_safe_areas": {
+    "countdown": {
+      "left": 200,
+      "top": 820,
+      "right": 880,
+      "bottom": 1100,
+      "width": 680,
+      "height": 280
+    },
+    "link": {
+      "left": 240,
+      "top": 1210,
+      "right": 840,
+      "bottom": 1320,
+      "width": 600,
+      "height": 110
+    },
+    "both_interiors_empty_and_transparent_in_dom": true,
+    "no_authored_text_images_coin_or_scene_overlays_in_interiors": true,
+    "subtle_outline_clearance_px": 16,
+    "no_placeholder_text_numbers_or_icons": true,
+    "background_visual_inspection_required_in_addition_to_dom_checks": true
+  },
+  "output_sha256": "8c9680f29286fa289f42c30985f458ce8e2e642883e99633ad4dab0646b4048a"
+}
