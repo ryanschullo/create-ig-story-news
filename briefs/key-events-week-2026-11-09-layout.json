@@ -1,0 +1,1199 @@
+{
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "inner_bounds": [
+    104,
+    164,
+    961,
+    1536
+  ],
+  "minimum_authored_font_size_px": 33,
+  "minimum_body_font_size_px": 35,
+  "minimum_headline_font_size_px": 51,
+  "font_size_minimum_verified": true,
+  "renderer": "Chromium via Playwright; HTML/CSS screenshot",
+  "background_sha256": "f84ee3744b68fe8878f5c303754b5bdf94a590d6fe57f03a8ef582a9a3565a40",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
+  "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
+  "georgia_redistributed": false,
+  "layout": {
+    "text": [
+      {
+        "id": "brand",
+        "text": "MONEYBERG NEWS BRIEF",
+        "bounds": {
+          "left": 118,
+          "top": 175,
+          "right": 562.109375,
+          "bottom": 217,
+          "width": 444.109375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 174,
+          "right": 562.109375,
+          "bottom": 218,
+          "width": 444.109375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "category",
+        "text": "STOCK MARKET",
+        "bounds": {
+          "left": 118,
+          "top": 230,
+          "right": 378.515625,
+          "bottom": 270,
+          "width": 260.515625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 229,
+          "right": 378.515625,
+          "bottom": 271,
+          "width": 260.515625,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "date",
+        "text": "NOVEMBER 9\u201313, 2026",
+        "bounds": {
+          "left": 118,
+          "top": 280,
+          "right": 481.84375,
+          "bottom": 320,
+          "width": 363.84375,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 279,
+          "right": 481.84375,
+          "bottom": 321,
+          "width": 363.84375,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "headline-one",
+        "text": "THIS WEEK\u2019S",
+        "bounds": {
+          "left": 118,
+          "top": 341,
+          "right": 505.5,
+          "bottom": 418,
+          "width": 387.5,
+          "height": 77
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 341,
+          "right": 505.5,
+          "bottom": 419,
+          "width": 387.5,
+          "height": 78
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "64px"
+      },
+      {
+        "id": "headline-two",
+        "text": "MARKET CATALYSTS",
+        "bounds": {
+          "left": 118,
+          "top": 422,
+          "right": 691.84375,
+          "bottom": 494,
+          "width": 573.84375,
+          "height": 72
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 421,
+          "right": 691.84375,
+          "bottom": 495,
+          "width": 573.84375,
+          "height": 74
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "60px"
+      },
+      {
+        "id": "tue-day",
+        "text": "TUE",
+        "bounds": {
+          "left": 128,
+          "top": 563,
+          "right": 192.390625,
+          "bottom": 603,
+          "width": 64.390625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 128,
+          "top": 562,
+          "right": 192.390625,
+          "bottom": 605,
+          "width": 64.390625,
+          "height": 43
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "tue-date",
+        "text": "NOV. 10",
+        "bounds": {
+          "left": 128,
+          "top": 610,
+          "right": 256.453125,
+          "bottom": 650,
+          "width": 128.453125,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 128,
+          "top": 609,
+          "right": 256.453125,
+          "bottom": 652,
+          "width": 128.453125,
+          "height": 43
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "cpi-title",
+        "text": "October CPI",
+        "bounds": {
+          "left": 330,
+          "top": 564,
+          "right": 537.953125,
+          "bottom": 610,
+          "width": 207.953125,
+          "height": 46
+        },
+        "element_bounds": {
+          "left": 330,
+          "top": 563,
+          "right": 537.953125,
+          "bottom": 611,
+          "width": 207.953125,
+          "height": 48
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "38px"
+      },
+      {
+        "id": "cpi-description",
+        "text": "Consumer inflation",
+        "bounds": {
+          "left": 330,
+          "top": 616,
+          "right": 629.65625,
+          "bottom": 656,
+          "width": 299.65625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 330,
+          "top": 614,
+          "right": 629.65625,
+          "bottom": 659,
+          "width": 299.65625,
+          "height": 45
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "wed-day",
+        "text": "WED",
+        "bounds": {
+          "left": 128,
+          "top": 717,
+          "right": 207.859375,
+          "bottom": 757,
+          "width": 79.859375,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 128,
+          "top": 716,
+          "right": 207.859375,
+          "bottom": 759,
+          "width": 79.859375,
+          "height": 43
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "wed-date",
+        "text": "NOV. 11",
+        "bounds": {
+          "left": 128,
+          "top": 764,
+          "right": 256.453125,
+          "bottom": 804,
+          "width": 128.453125,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 128,
+          "top": 763,
+          "right": 256.453125,
+          "bottom": 806,
+          "width": 128.453125,
+          "height": 43
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "opec-title",
+        "text": "OPEC Monthly Report",
+        "bounds": {
+          "left": 330,
+          "top": 718,
+          "right": 704.859375,
+          "bottom": 764,
+          "width": 374.859375,
+          "height": 46
+        },
+        "element_bounds": {
+          "left": 330,
+          "top": 717,
+          "right": 704.859375,
+          "bottom": 765,
+          "width": 374.859375,
+          "height": 48
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "38px"
+      },
+      {
+        "id": "opec-description",
+        "text": "Oil market outlook",
+        "bounds": {
+          "left": 330,
+          "top": 770,
+          "right": 621.34375,
+          "bottom": 810,
+          "width": 291.34375,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 330,
+          "top": 768,
+          "right": 621.34375,
+          "bottom": 813,
+          "width": 291.34375,
+          "height": 45
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "thu-day",
+        "text": "THU",
+        "bounds": {
+          "left": 128,
+          "top": 887,
+          "right": 198.96875,
+          "bottom": 927,
+          "width": 70.96875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 128,
+          "top": 886,
+          "right": 198.96875,
+          "bottom": 929,
+          "width": 70.96875,
+          "height": 43
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "thu-date",
+        "text": "NOV. 12",
+        "bounds": {
+          "left": 128,
+          "top": 934,
+          "right": 256.453125,
+          "bottom": 974,
+          "width": 128.453125,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 128,
+          "top": 933,
+          "right": 256.453125,
+          "bottom": 976,
+          "width": 128.453125,
+          "height": 43
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "claims-title",
+        "text": "Initial jobless claims",
+        "bounds": {
+          "left": 330,
+          "top": 882,
+          "right": 663.0625,
+          "bottom": 928,
+          "width": 333.0625,
+          "height": 46
+        },
+        "element_bounds": {
+          "left": 330,
+          "top": 881,
+          "right": 663.0625,
+          "bottom": 929,
+          "width": 333.0625,
+          "height": 48
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "38px"
+      },
+      {
+        "id": "housing-title",
+        "text": "October existing home sales",
+        "bounds": {
+          "left": 330,
+          "top": 945,
+          "right": 804.375,
+          "bottom": 991,
+          "width": 474.375,
+          "height": 46
+        },
+        "element_bounds": {
+          "left": 330,
+          "top": 944,
+          "right": 804.375,
+          "bottom": 992,
+          "width": 474.375,
+          "height": 48
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "38px"
+      },
+      {
+        "id": "fri-day",
+        "text": "FRI",
+        "bounds": {
+          "left": 128,
+          "top": 1063,
+          "right": 179.015625,
+          "bottom": 1103,
+          "width": 51.015625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 128,
+          "top": 1062,
+          "right": 179.015625,
+          "bottom": 1105,
+          "width": 51.015625,
+          "height": 43
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "fri-date",
+        "text": "NOV. 13",
+        "bounds": {
+          "left": 128,
+          "top": 1110,
+          "right": 256.453125,
+          "bottom": 1150,
+          "width": 128.453125,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 128,
+          "top": 1109,
+          "right": 256.453125,
+          "bottom": 1152,
+          "width": 128.453125,
+          "height": 43
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "ppi-title",
+        "text": "October PPI",
+        "bounds": {
+          "left": 330,
+          "top": 1064,
+          "right": 536.734375,
+          "bottom": 1110,
+          "width": 206.734375,
+          "height": 46
+        },
+        "element_bounds": {
+          "left": 330,
+          "top": 1063,
+          "right": 536.734375,
+          "bottom": 1111,
+          "width": 206.734375,
+          "height": 48
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "38px"
+      },
+      {
+        "id": "ppi-description",
+        "text": "Producer inflation",
+        "bounds": {
+          "left": 330,
+          "top": 1116,
+          "right": 612.234375,
+          "bottom": 1156,
+          "width": 282.234375,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 330,
+          "top": 1114,
+          "right": 612.234375,
+          "bottom": 1159,
+          "width": 282.234375,
+          "height": 45
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "fed-count",
+        "text": "17",
+        "bounds": {
+          "left": 128,
+          "top": 1229,
+          "right": 250.28125,
+          "bottom": 1359,
+          "width": 122.28125,
+          "height": 130
+        },
+        "element_bounds": {
+          "left": 128,
+          "top": 1230,
+          "right": 250.28125,
+          "bottom": 1358,
+          "width": 122.28125,
+          "height": 128
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "108px"
+      },
+      {
+        "id": "fed-label",
+        "text": "FED SPEAKER EVENTS",
+        "bounds": {
+          "left": 322,
+          "top": 1226,
+          "right": 703.65625,
+          "bottom": 1270,
+          "width": 381.65625,
+          "height": 44
+        },
+        "element_bounds": {
+          "left": 322,
+          "top": 1225,
+          "right": 703.65625,
+          "bottom": 1271,
+          "width": 381.65625,
+          "height": 46
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "36px"
+      },
+      {
+        "id": "fed-context",
+        "text": "Across the week",
+        "bounds": {
+          "left": 322,
+          "top": 1280,
+          "right": 569.484375,
+          "bottom": 1320,
+          "width": 247.484375,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 322,
+          "top": 1278,
+          "right": 569.484375,
+          "bottom": 1323,
+          "width": 247.484375,
+          "height": 45
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "fed-attribution",
+        "text": "Per The Kobeissi Letter",
+        "bounds": {
+          "left": 322,
+          "top": 1332,
+          "right": 662.171875,
+          "bottom": 1369,
+          "width": 340.171875,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 322,
+          "top": 1329,
+          "right": 662.171875,
+          "bottom": 1372,
+          "width": 340.171875,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      },
+      {
+        "id": "source-one",
+        "text": "Calendars: BLS, OPEC, NAR, FRED",
+        "bounds": {
+          "left": 118,
+          "top": 1434,
+          "right": 640.15625,
+          "bottom": 1471,
+          "width": 522.15625,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1431,
+          "right": 640.15625,
+          "bottom": 1474,
+          "width": 522.15625,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      },
+      {
+        "id": "source-two",
+        "text": "Week brief: The Kobeissi Letter \u2022 Nov. 8",
+        "bounds": {
+          "left": 118,
+          "top": 1483,
+          "right": 701.875,
+          "bottom": 1520,
+          "width": 583.875,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1480,
+          "right": 701.875,
+          "bottom": 1523,
+          "width": 583.875,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      }
+    ],
+    "panels": [
+      {
+        "id": "tue-panel",
+        "bounds": {
+          "left": 104,
+          "top": 550,
+          "right": 961,
+          "bottom": 682,
+          "width": 857,
+          "height": 132
+        }
+      },
+      {
+        "id": "wed-panel",
+        "bounds": {
+          "left": 104,
+          "top": 704,
+          "right": 961,
+          "bottom": 836,
+          "width": 857,
+          "height": 132
+        }
+      },
+      {
+        "id": "thu-panel",
+        "bounds": {
+          "left": 104,
+          "top": 858,
+          "right": 961,
+          "bottom": 1028,
+          "width": 857,
+          "height": 170
+        }
+      },
+      {
+        "id": "fri-panel",
+        "bounds": {
+          "left": 104,
+          "top": 1050,
+          "right": 961,
+          "bottom": 1182,
+          "width": 857,
+          "height": 132
+        }
+      },
+      {
+        "id": "fed-panel",
+        "bounds": {
+          "left": 104,
+          "top": 1208,
+          "right": 961,
+          "bottom": 1390,
+          "width": 857,
+          "height": 182
+        }
+      },
+      {
+        "id": "source-panel",
+        "bounds": {
+          "left": 104,
+          "top": 1422,
+          "right": 961,
+          "bottom": 1530,
+          "width": 857,
+          "height": 108
+        }
+      }
+    ],
+    "scene_elements": [
+      {
+        "id": "coin-installation",
+        "bounds": {
+          "left": 858.296875,
+          "top": 152.390625,
+          "right": 1024.296875,
+          "bottom": 318.390625,
+          "width": 166,
+          "height": 166
+        },
+        "box_shadow": "rgb(100, 78, 49) 3px 5px 8px 0px inset, rgba(53, 33, 13, 0.6) 2px 3px 6px 0px, rgb(216, 199, 160) -1px -1px 2px 0px",
+        "background": "linear-gradient(135deg, rgb(208, 187, 142), rgb(112, 83, 49) 53%, rgb(172, 134, 80))"
+      },
+      {
+        "id": "coin-contact",
+        "bounds": {
+          "left": 858.296875,
+          "top": 152.390625,
+          "right": 1024.296875,
+          "bottom": 318.390625,
+          "width": 166,
+          "height": 166
+        },
+        "box_shadow": "rgba(61, 39, 19, 0.48) 3px 4px 7px 0px inset, rgba(255, 234, 186, 0.25) -2px -2px 3px 0px inset",
+        "background": "linear-gradient(125deg, rgba(252, 224, 169, 0.1), rgba(0, 0, 0, 0) 46%, rgba(42, 27, 13, 0.09))"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Moneyberg Lato Black",
+        "weight": "900",
+        "status": "loaded"
+      },
+      {
+        "family": "Moneyberg Georgia",
+        "weight": "400",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "id": "background",
+        "natural_width": 941,
+        "natural_height": 1672,
+        "object_fit": "cover",
+        "clip_path": "none",
+        "bounds": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        }
+      },
+      {
+        "id": "coin",
+        "natural_width": 2084,
+        "natural_height": 2084,
+        "object_fit": "contain",
+        "clip_path": "none",
+        "bounds": {
+          "left": 858.296875,
+          "top": 152.390625,
+          "right": 1024.296875,
+          "bottom": 318.390625,
+          "width": 166,
+          "height": 166
+        }
+      }
+    ],
+    "document_width": 1080,
+    "document_height": 1920
+  },
+  "platform_fonts": [
+    {
+      "id": "brand",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "category",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 12
+        }
+      ]
+    },
+    {
+      "id": "date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 19
+        }
+      ]
+    },
+    {
+      "id": "headline-one",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 11
+        }
+      ]
+    },
+    {
+      "id": "headline-two",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "tue-day",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 3
+        }
+      ]
+    },
+    {
+      "id": "tue-date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 7
+        }
+      ]
+    },
+    {
+      "id": "cpi-title",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 11
+        }
+      ]
+    },
+    {
+      "id": "cpi-description",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 18
+        }
+      ]
+    },
+    {
+      "id": "wed-day",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 3
+        }
+      ]
+    },
+    {
+      "id": "wed-date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 7
+        }
+      ]
+    },
+    {
+      "id": "opec-title",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 19
+        }
+      ]
+    },
+    {
+      "id": "opec-description",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 18
+        }
+      ]
+    },
+    {
+      "id": "thu-day",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 3
+        }
+      ]
+    },
+    {
+      "id": "thu-date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 7
+        }
+      ]
+    },
+    {
+      "id": "claims-title",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 22
+        }
+      ]
+    },
+    {
+      "id": "housing-title",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 27
+        }
+      ]
+    },
+    {
+      "id": "fri-day",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 3
+        }
+      ]
+    },
+    {
+      "id": "fri-date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 7
+        }
+      ]
+    },
+    {
+      "id": "ppi-title",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 11
+        }
+      ]
+    },
+    {
+      "id": "ppi-description",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 18
+        }
+      ]
+    },
+    {
+      "id": "fed-count",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 2
+        }
+      ]
+    },
+    {
+      "id": "fed-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 18
+        }
+      ]
+    },
+    {
+      "id": "fed-context",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 15
+        }
+      ]
+    },
+    {
+      "id": "fed-attribution",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 23
+        }
+      ]
+    },
+    {
+      "id": "source-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 31
+        }
+      ]
+    },
+    {
+      "id": "source-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 40
+        }
+      ]
+    }
+  ],
+  "coin_bounds": {
+    "left": 858.296875,
+    "top": 152.390625,
+    "right": 1024.296875,
+    "bottom": 318.390625,
+    "width": 166,
+    "height": 166
+  },
+  "whole_coin_upper_75_percent_verified": true,
+  "integration": {
+    "method": "Exact original coin PNG seated within a physical brass binder-clasp recess, with compatible warm light and contact shadow",
+    "artwork": "Original uniformly scaled PNG; original portrait, lettering and circular rim preserved",
+    "image_generation_role": "Text-free conceptual financial-planning environment only",
+    "topic": "Market calendar for November 9\u201313, 2026: consumer and producer inflation, oil outlook, labor, housing and Federal Reserve speaking events",
+    "category_badge": "STOCK MARKET",
+    "background_credit_on_graphic": false,
+    "background_provenance": "Conceptual planning desk and financial architecture, not documentary calendar evidence or market data"
+  },
+  "generation_prompts": [
+    "Create a premium text-free editorial background for MONEYBERG NEWS BRIEF, portrait9:16 Instagram Story targeted1080x1920. Subject: weekly U.S. economic calendar with inflation releases, employment, housing, OPEC and Fed speakers. Distinct light warm ivory, limestone gray, graphite and restrained amber palette. A beautiful financial-planning desk seen front-facing with generous near-uniform matte ivory negative space covering the upper80% of the composition. Delicate paper/linen texture, soft controlled daylight, high legibility for later dark typography. In the bottom18%, place a handsome blank ivory weekly planner with thick unmarked pages and subtle tabbed edges, a refined dark graphite fountain pen, brushed steel paperweight, and a small tasteful classical stone architectural model evoking an institutional economics office. No real seals, no logos, no readable characters, no numbers, no calendar grid with dates, no charts or financial ticks. Keep all busy detail belowy1560 on targetcanvas. Upper-right edge: a short physical graphite leather folio clasp with brushed metal trim, integrated naturally into the stationery scene rather than a full-height wall column. The clasp contains ONE front-facing EMPTY circular BRASS RECESS centered around92%canvaswidth and17%canvasheight, diameter14%canvaswidth, a real shallow inset with soft warm rim light and contact shadow. The actual original user-provided gold Moneyberg coin will be seated there later. Do not create a coin, portrait, lettering or logo. Reserve it wholly inside upper75%, keep left85% clean. The headline, four calendar rows and speaker-count band will be composed later withinx104\u2013961,y164\u20131536. Later typography uses actual Lato Black900 for headlines, weekday/date labels, numericcount and small secondary single-line MONEYBERG NEWS BRIEF; Georgia400 for explanations and sources. Allauthoredtextminimum33px,body35px,headlines51px. Do not render any text. This is decorative economic-planning imagery, not documentary evidence or an actual official calendar. Elegantly lit photographic material realism, warmneutralspaciouscomposition, restrained sophisticatedfinancialeditorialstyle."
+  ],
+  "sources": [
+    "https://x.com/KobeissiLetter/status/2119436396020600848",
+    "https://www.bls.gov/schedule/2026/11_sched.htm",
+    "https://www.opec.org/monthly-oil-market-report.html",
+    "https://www.nar.realtor/research-and-statistics/housing-statistics/existing-home-sales",
+    "https://fred.stlouisfed.org/releases/calendar?rid=180&y=2026&m=11"
+  ],
+  "source_access": "Read the complete public Kobeissi Letter post. Release dates checked against the BLS November 2026 calendar, OPEC Monthly Oil Market Report schedule, NAR existing-home-sales schedule and FRED calendar for the unemployment-insurance weekly-claims release. The count of 17 Federal Reserve speaking events is explicitly attributed to The Kobeissi Letter and was not independently recounted.",
+  "reporting_scope": {
+    "edition_date": "2026-11-09",
+    "edition_timezone": "America/Chicago",
+    "week_start": "2026-11-09",
+    "week_end": "2026-11-13",
+    "source_post_published_utc": "2026-11-08T14:26:28Z",
+    "source_post_published_chicago": "2026-11-08T08:26:28-06:00",
+    "scheduled_releases": [
+      {
+        "date": "2026-11-10",
+        "weekday": "Tuesday",
+        "release": "Consumer Price Index",
+        "reference_month": "2026-10",
+        "calendar": "BLS"
+      },
+      {
+        "date": "2026-11-11",
+        "weekday": "Wednesday",
+        "release": "Monthly Oil Market Report",
+        "calendar": "OPEC"
+      },
+      {
+        "date": "2026-11-12",
+        "weekday": "Thursday",
+        "release": "Initial jobless claims",
+        "calendar": "FRED, Unemployment Insurance Weekly Claims Report"
+      },
+      {
+        "date": "2026-11-12",
+        "weekday": "Thursday",
+        "release": "Existing-home sales",
+        "reference_month": "2026-10",
+        "calendar": "NAR"
+      },
+      {
+        "date": "2026-11-13",
+        "weekday": "Friday",
+        "release": "Producer Price Index",
+        "reference_month": "2026-10",
+        "calendar": "BLS"
+      }
+    ],
+    "scheduled_release_count": 5,
+    "calendar_weekdays_verified": true,
+    "release_times_not_displayed": true,
+    "fed_speaking_event_count": 17,
+    "fed_count_source": "The Kobeissi Letter",
+    "fed_event_count_independently_recounted": false,
+    "fed_count_not_unique_officials_or_rate_votes": true,
+    "not_a_federal_reserve_rate_decision_announcement": true,
+    "no_unreleased_economic_values_or_forecasts": true,
+    "not_a_daily_market_wrap": true,
+    "source_chart_used": false
+  },
+  "output_sha256": "f00b08c5c30623060de88f83fb26c1951f83d256dd6277610f66dd507742dd38"
+}
