@@ -1,0 +1,606 @@
+{
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "inner_bounds": [
+    104,
+    164,
+    961,
+    1536
+  ],
+  "minimum_authored_font_size_px": 33,
+  "minimum_body_font_size_px": 35,
+  "minimum_headline_font_size_px": 51,
+  "font_size_minimum_verified": true,
+  "renderer": "Chromium via Playwright; HTML/CSS screenshot",
+  "background_sha256": "7dc05f8987cb18f4743ed92f10a5266df5d11478706aa4bf0202750a51deafef",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
+  "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
+  "georgia_redistributed": false,
+  "layout": {
+    "text": [
+      {
+        "id": "brand",
+        "text": "MONEYBERG NEWS BRIEF",
+        "bounds": {
+          "left": 118,
+          "top": 175,
+          "right": 562.109375,
+          "bottom": 217,
+          "width": 444.109375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 174,
+          "right": 562.109375,
+          "bottom": 218,
+          "width": 444.109375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "category",
+        "text": "ENTREPRENEURSHIP",
+        "bounds": {
+          "left": 118,
+          "top": 230,
+          "right": 456.75,
+          "bottom": 270,
+          "width": 338.75,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 229,
+          "right": 456.75,
+          "bottom": 271,
+          "width": 338.75,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "date",
+        "text": "NOV. 11, 2026 EDITION",
+        "bounds": {
+          "left": 118,
+          "top": 280,
+          "right": 480.65625,
+          "bottom": 320,
+          "width": 362.65625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 279,
+          "right": 480.65625,
+          "bottom": 321,
+          "width": 362.65625,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "headline-one",
+        "text": "MUSK\u2019S TEXAS",
+        "bounds": {
+          "left": 118,
+          "top": 384,
+          "right": 631.390625,
+          "bottom": 473,
+          "width": 513.390625,
+          "height": 89
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 384,
+          "right": 631.390625,
+          "bottom": 473,
+          "width": 513.390625,
+          "height": 89
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "74px"
+      },
+      {
+        "id": "headline-two",
+        "text": "ADVANTAGE",
+        "bounds": {
+          "left": 118,
+          "top": 473,
+          "right": 561.53125,
+          "bottom": 562,
+          "width": 443.53125,
+          "height": 89
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 473,
+          "right": 561.53125,
+          "bottom": 562,
+          "width": 443.53125,
+          "height": 89
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "74px"
+      },
+      {
+        "id": "headline-three",
+        "text": "COULD CHANGE",
+        "bounds": {
+          "left": 118,
+          "top": 562,
+          "right": 697.375,
+          "bottom": 651,
+          "width": 579.375,
+          "height": 89
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 562,
+          "right": 697.375,
+          "bottom": 651,
+          "width": 579.375,
+          "height": 89
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "74px"
+      },
+      {
+        "id": "quote-one",
+        "text": "\u201cElon Musk-run companies like SpaceX",
+        "bounds": {
+          "left": 128,
+          "top": 1183,
+          "right": 862.796875,
+          "bottom": 1231,
+          "width": 734.796875,
+          "height": 48
+        },
+        "element_bounds": {
+          "left": 128,
+          "top": 1180,
+          "right": 862.796875,
+          "bottom": 1234,
+          "width": 734.796875,
+          "height": 54
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "42px"
+      },
+      {
+        "id": "quote-two",
+        "text": "and Tesla have flourished in Texas",
+        "bounds": {
+          "left": 128,
+          "top": 1237,
+          "right": 766.0625,
+          "bottom": 1285,
+          "width": 638.0625,
+          "height": 48
+        },
+        "element_bounds": {
+          "left": 128,
+          "top": 1234,
+          "right": 766.0625,
+          "bottom": 1288,
+          "width": 638.0625,
+          "height": 54
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "42px"
+      },
+      {
+        "id": "quote-three",
+        "text": "thanks to white-glove treatment from",
+        "bounds": {
+          "left": 128,
+          "top": 1291,
+          "right": 821.453125,
+          "bottom": 1339,
+          "width": 693.453125,
+          "height": 48
+        },
+        "element_bounds": {
+          "left": 128,
+          "top": 1288,
+          "right": 821.453125,
+          "bottom": 1342,
+          "width": 693.453125,
+          "height": 54
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "42px"
+      },
+      {
+        "id": "quote-four",
+        "text": "elected officials. But that is about",
+        "bounds": {
+          "left": 128,
+          "top": 1345,
+          "right": 742.734375,
+          "bottom": 1393,
+          "width": 614.734375,
+          "height": 48
+        },
+        "element_bounds": {
+          "left": 128,
+          "top": 1342,
+          "right": 742.734375,
+          "bottom": 1396,
+          "width": 614.734375,
+          "height": 54
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "42px"
+      },
+      {
+        "id": "quote-five",
+        "text": "to change, Texas Democrats say.\u201d",
+        "bounds": {
+          "left": 128,
+          "top": 1399,
+          "right": 745,
+          "bottom": 1447,
+          "width": 617,
+          "height": 48
+        },
+        "element_bounds": {
+          "left": 128,
+          "top": 1396,
+          "right": 745,
+          "bottom": 1450,
+          "width": 617,
+          "height": 54
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "42px"
+      },
+      {
+        "id": "source",
+        "text": "Source: The Wall Street Journal",
+        "bounds": {
+          "left": 118,
+          "top": 1483,
+          "right": 582.84375,
+          "bottom": 1520,
+          "width": 464.84375,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1480,
+          "right": 582.84375,
+          "bottom": 1523,
+          "width": 464.84375,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      }
+    ],
+    "panels": [
+      {
+        "id": "quote-panel",
+        "bounds": {
+          "left": 104,
+          "top": 1178,
+          "right": 961,
+          "bottom": 1456,
+          "width": 857,
+          "height": 278
+        }
+      },
+      {
+        "id": "source-panel",
+        "bounds": {
+          "left": 104,
+          "top": 1469,
+          "right": 961,
+          "bottom": 1533,
+          "width": 857,
+          "height": 64
+        }
+      }
+    ],
+    "scene_elements": [
+      {
+        "id": "coin-installation",
+        "bounds": {
+          "left": 875,
+          "top": 284,
+          "right": 1049,
+          "bottom": 458,
+          "width": 174,
+          "height": 174
+        },
+        "box_shadow": "rgb(108, 92, 67) 3px 4px 8px 0px inset, rgba(70, 56, 35, 0.45) 2px 3px 7px 0px, rgb(228, 216, 179) -1px -1px 2px 0px",
+        "background": "linear-gradient(135deg, rgb(182, 166, 125), rgb(107, 93, 67) 53%, rgb(175, 146, 86))"
+      },
+      {
+        "id": "coin-contact",
+        "bounds": {
+          "left": 875,
+          "top": 284,
+          "right": 1049,
+          "bottom": 458,
+          "width": 174,
+          "height": 174
+        },
+        "box_shadow": "rgba(63, 46, 27, 0.48) 3px 4px 8px 0px inset, rgba(244, 228, 181, 0.28) -2px -2px 3px 0px inset",
+        "background": "linear-gradient(125deg, rgba(240, 222, 181, 0.1), rgba(0, 0, 0, 0) 46%, rgba(46, 32, 21, 0.1))"
+      }
+    ],
+    "illustrations": [
+      {
+        "id": "hero-region",
+        "bounds": {
+          "left": 104,
+          "top": 675,
+          "right": 961,
+          "bottom": 1170,
+          "width": 857,
+          "height": 495
+        }
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Moneyberg Lato Black",
+        "weight": "900",
+        "status": "loaded"
+      },
+      {
+        "family": "Moneyberg Georgia",
+        "weight": "400",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "id": "background",
+        "natural_width": 941,
+        "natural_height": 1672,
+        "object_fit": "cover",
+        "clip_path": "none",
+        "bounds": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        }
+      },
+      {
+        "id": "coin",
+        "natural_width": 2084,
+        "natural_height": 2084,
+        "object_fit": "contain",
+        "clip_path": "none",
+        "bounds": {
+          "left": 875,
+          "top": 284,
+          "right": 1049,
+          "bottom": 458,
+          "width": 174,
+          "height": 174
+        }
+      }
+    ],
+    "document_width": 1080,
+    "document_height": 1920
+  },
+  "platform_fonts": [
+    {
+      "id": "brand",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "category",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 21
+        }
+      ]
+    },
+    {
+      "id": "headline-one",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 12
+        }
+      ]
+    },
+    {
+      "id": "headline-two",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 9
+        }
+      ]
+    },
+    {
+      "id": "headline-three",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 12
+        }
+      ]
+    },
+    {
+      "id": "quote-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 36
+        }
+      ]
+    },
+    {
+      "id": "quote-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 34
+        }
+      ]
+    },
+    {
+      "id": "quote-three",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 36
+        }
+      ]
+    },
+    {
+      "id": "quote-four",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 36
+        }
+      ]
+    },
+    {
+      "id": "quote-five",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 32
+        }
+      ]
+    },
+    {
+      "id": "source",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 31
+        }
+      ]
+    }
+  ],
+  "coin_bounds": {
+    "left": 875,
+    "top": 284,
+    "right": 1049,
+    "bottom": 458,
+    "width": 174,
+    "height": 174
+  },
+  "whole_coin_upper_75_percent_verified": true,
+  "integration": {
+    "method": "Exact original coin PNG seated in a circular brass-and-stone architectural inset, with compatible warm light and contact shadow",
+    "artwork": "Original uniformly scaled PNG; original portrait, lettering and circular rim preserved",
+    "image_generation_role": "Conceptual editorial sketch of Elon Musk, an electric vehicle, a rocket and Texas Capitol architecture; no actual-event photograph claimed",
+    "topic": "User-supplied WSJ excerpt on Musk-run companies' treatment in Texas and Texas Democrats' stated intention of change",
+    "category_badge": "ENTREPRENEURSHIP",
+    "background_credit_on_graphic": false,
+    "background_provenance": "Conceptual illustration, not evidence of a meeting, event, enacted policy or a quantitative chart"
+  },
+  "generation_prompts": [
+    "Create a sophisticated editorial illustration BACKGROUND for a 1080x1920 portrait Instagram news story about Elon Musk's companies and their relationship with elected officials in Texas. Distinct from dark tech graphics: warm ivory stone, pale limestone, graphite ink, muted terracotta and restrained deep burgundy accents. Elegant financial-magazine illustration with fine engraving/pencil texture; clearly an illustrated montage, not a news photograph or depiction of an actual meeting. Mostly clean pale ivory with ample quiet space for later black typography. No text, words, numbers, labels, watermarks, generated logos, charts or symbols conveying financial data.\n\nImportant layout: all subject illustration must fit within x120\u2013940,y620\u2013980 on the intended1080x1920canvas, a wide horizontal visual band. In this band, on the RIGHT, a recognizable calm neutral waist-up or bust portrait of Elon Musk, using graphite and light watercolor editorial sketch style, charcoal jacket, realistic facial likeness, no caricature, no gestures. The top of his head should be aroundy640 and torso fade into paper byy980. On the LEFT of the same band, an elegant black electric passenger vehicle reminiscent of Tesla's business, a slim brushed-steel orbital rocket reminiscent of SpaceX infrastructure, and a small distant pink-granite Texas Capitol dome. These are symbolic business/policy motifs, not claims of a specific event. Keep them balanced and subordinate to the portrait. No explosions, flags, political party emblems, slogans or dramatic angry expressions. Do not generate brand logos. Keep the entire portrait/car/rocket/dome illustration within those news-content bounds, including rocket tip and car bumpers. Use a soft ink wash and paper edges so the band fades naturally into the ivory field, no hard picture frame.\n\nAt the upper RIGHT edge of the composition, integrate a SINGLE EMPTY front-facing circular brass-lined recess carved into a light limestone architectural vertical strip. Target center x951,y230, internaldiameter155px. The original supplied Moneyberg gold coin will later be composed into this recess exactly; do NOT generate any coin, face, inscription or lettering. Make the empty circular seat physically embedded in the stone with subtle natural light and contact shadow; keep it small and to the right ofx860. No other circular ornaments. This single recess must remain fully visible and above y350.\n\nKeep x104\u2013961,y164\u2013590 extremely clean ivory for later headline, compact small single-line MONEYBERG NEWS BRIEF brand label, ENTREPRENEURSHIP category and edition date. Keep x104\u2013961,y1010\u20131536 equally clean for the later exact quote in Georgia and source credit. All actual text will be composed later with real Lato Black(weight900) for headlines/labels and Georgia for quotation/source. Minimum33pxalltext,35pxbody,51pxheadline; headlineabout70px andquoteabout40px. Do NOT render any of these words. Main headline later is MUSK\u2019S TEXAS / ADVANTAGE / COULD CHANGE; source will clearly attribute future plans to Texas Democrats as reported by The Wall Street Journal. This background is just conceptual editorial artwork.\n\nBelow y1560 add subtle decorative limestone/graphite architectural details and a restrained terracotta floor shadow for depth; no main human figure or narrative subject down there. Keep visual hierarchy editorial, refined and calm, with a paper/stone texture faint enough for highly legible black news typography. Portrait9:16 preferably1080x1920.",
+    "Revise this existing portrait editorial background, preserving its warm ivory limestone, restrained terracotta, graphite sketch style, right column, floor and empty brass circular recess. Critical required correction: the entire Musk/car/rocket/Capitol illustration group is too large. SHRINK the whole narrative illustration montage to approximately FIFTY PERCENT of its current linear size, keeping every subject in correct proportions, and MOVE it UP into a small compact centered horizontal band. Leave the empty coin recess in the architectural column; do not generate a coin.\n\nUse the image's actual 941x1672 coordinates: ALL important narrative art, including Musk's entire head and bust, car bumpers, rocket tip and Capitol dome, must lie inside x100\u2013825 and y545\u2013865. Center the reduced montage around x470,y705. The scene must NOT extend to the left/right canvas edges. The Musk portrait may be at right of that small group, the car/rocket/capitol at left, but all must fit with at least100px to the left edge and116px to right edge. Keep it subtle and natural, with soft paper fade edges. Do NOT crop off subjects, deform faces, stretch anything or leave a hard rectangular cutout. Remove the large existing version completely from its old position, restoring clean warm ivory paper there. There must be only one small montage, not a duplicate.\n\nKeep x91\u2013837,y142\u2013520 clean ivory for later brand/headline. Keep x91\u2013837,y892\u20131338 clean ivory for the later quotation/source. This corresponds to intended news content safe area x104\u2013961,y164\u20131536 at1080x1920; the narrative art will be at x115\u2013947,y626\u2013993. The top and lower text areas must have NO portrait/vehicle/rocket/dome. Do not change the main stone architectural frame and floor details, which are just decoration. The empty upper-right circular gold recess can remain where it is if fully inside the upper75% and clear of the central headline space.\n\nNo typography at all. Later authored text is exact small single-line MONEYBERG NEWS BRIEF, compact ENTREPRENEURSHIP category and NOV.11,2026 EDITION, plus MUSK\u2019S TEXAS / ADVANTAGE / COULD CHANGE in real Lato Black900. Quotation and source will be actual Georgia. All text min33px, body35px, headline51px. These are added separately, not by you. Retain recognizable neutral Musk illustration, generic emblemless electric car and rocket, Texas Capitol motif. Maintain illustrated montage, not photoreal documentary event. No new people, labels, logos or political symbols. The ONLY substantive edit is shrinking and repositioning the narrative illustration group and clearing its former area."
+  ],
+  "sources": [
+    "https://www.wsj.com/politics/policy/elon-musk-texas-midterm-elections-b993e58d"
+  ],
+  "source_access": "The user supplied the excerpt. A normal public WSJ request returned proxy tunnel HTTP 403; full article text was unavailable. A public Google News entry resolved the exact article ID and title but did not independently verify the excerpt. No paywall bypass, alternate-host bypass or archive bypass was used; full-body verification is not claimed.",
+  "reporting_scope": {
+    "rendered_at_utc": "2026-11-12T03:40:17.225575+00:00",
+    "production_date_chicago": "2026-11-11",
+    "edition_date": "2026-11-11",
+    "edition_label": "NOV. 11, 2026 EDITION",
+    "edition_date_is_not_source_publication_date": true,
+    "indexed_article_title": "Elon Musk Staked His Empire on Texas. Now State Democrats Want to Rein Him In.",
+    "source_publication_time_independently_verified": false,
+    "search_index_timestamp_utc": "2026-11-07T03:00:00Z",
+    "search_index_timestamp_chicago": "2026-11-06T21:00:00-06:00",
+    "index_timestamp_is_not_publisher_metadata": true,
+    "content_basis": "Exact user-supplied excerpt with explicit Wall Street Journal attribution",
+    "displayed_excerpt": "\u201cElon Musk-run companies like SpaceX and Tesla have flourished in Texas thanks to white-glove treatment from elected officials. But that is about to change, Texas Democrats say.\u201d",
+    "texas_democrats_attribution_retained": true,
+    "statement_is_intention_or_prediction_not_enacted_policy": true,
+    "no_invented_policy_tax_election_or_business_loss_details": true,
+    "no_new_today_breaking_claim": true,
+    "no_chart_or_stock_performance": true,
+    "illustration_contains_no_claim_of_documentary_accuracy": true
+  },
+  "output_sha256": "d89e10ca8faae605f1255f614840dad7d08e5d5105e3c12ec104aeea3bff0498"
+}
