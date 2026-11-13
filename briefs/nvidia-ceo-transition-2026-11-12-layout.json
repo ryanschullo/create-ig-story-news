@@ -1,0 +1,699 @@
+{
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "inner_bounds": [
+    104,
+    164,
+    961,
+    1536
+  ],
+  "minimum_authored_font_size_px": 33,
+  "minimum_body_font_size_px": 35,
+  "minimum_headline_font_size_px": 51,
+  "font_size_minimum_verified": true,
+  "renderer": "Chromium via Playwright; HTML/CSS screenshot",
+  "background_sha256": "e2c851de43ca04652b39707a65c33ac963800ad35fc5a93466fb3a891804da2d",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
+  "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
+  "georgia_redistributed": false,
+  "layout": {
+    "text": [
+      {
+        "id": "brand",
+        "text": "MONEYBERG NEWS BRIEF",
+        "bounds": {
+          "left": 118,
+          "top": 175,
+          "right": 562.109375,
+          "bottom": 217,
+          "width": 444.109375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 174,
+          "right": 562.109375,
+          "bottom": 218,
+          "width": 444.109375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "category",
+        "text": "AI INVESTING",
+        "bounds": {
+          "left": 118,
+          "top": 230,
+          "right": 340.1875,
+          "bottom": 270,
+          "width": 222.1875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 229,
+          "right": 340.1875,
+          "bottom": 271,
+          "width": 222.1875,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "date",
+        "text": "NOVEMBER 12, 2026",
+        "bounds": {
+          "left": 118,
+          "top": 280,
+          "right": 443.5625,
+          "bottom": 320,
+          "width": 325.5625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 279,
+          "right": 443.5625,
+          "bottom": 321,
+          "width": 325.5625,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "headline-one",
+        "text": "JENSEN HUANG",
+        "bounds": {
+          "left": 118,
+          "top": 376,
+          "right": 704.859375,
+          "bottom": 470,
+          "width": 586.859375,
+          "height": 94
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 376,
+          "right": 704.859375,
+          "bottom": 470,
+          "width": 586.859375,
+          "height": 94
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "78px"
+      },
+      {
+        "id": "headline-two",
+        "text": "RESIGNS AS",
+        "bounds": {
+          "left": 118,
+          "top": 470,
+          "right": 547.484375,
+          "bottom": 564,
+          "width": 429.484375,
+          "height": 94
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 470,
+          "right": 547.484375,
+          "bottom": 564,
+          "width": 429.484375,
+          "height": 94
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "78px"
+      },
+      {
+        "id": "headline-three",
+        "text": "NVIDIA CEO",
+        "bounds": {
+          "left": 118,
+          "top": 564,
+          "right": 562.609375,
+          "bottom": 658,
+          "width": 444.609375,
+          "height": 94
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 564,
+          "right": 562.609375,
+          "bottom": 658,
+          "width": 444.609375,
+          "height": 94
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "78px"
+      },
+      {
+        "id": "timing",
+        "text": "EFFECTIVE IMMEDIATELY",
+        "bounds": {
+          "left": 118,
+          "top": 705,
+          "right": 526.15625,
+          "bottom": 745,
+          "width": 408.15625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 703,
+          "right": 526.15625,
+          "bottom": 747,
+          "width": 408.15625,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "body-one",
+        "text": "Huang leaves his roles as",
+        "bounds": {
+          "left": 118,
+          "top": 776,
+          "right": 581.609375,
+          "bottom": 824,
+          "width": 463.609375,
+          "height": 48
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 772,
+          "right": 581.609375,
+          "bottom": 828,
+          "width": 463.609375,
+          "height": 56
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "42px"
+      },
+      {
+        "id": "body-two",
+        "text": "president, CEO and director.",
+        "bounds": {
+          "left": 118,
+          "top": 833,
+          "right": 649.84375,
+          "bottom": 881,
+          "width": 531.84375,
+          "height": 48
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 829,
+          "right": 649.84375,
+          "bottom": 885,
+          "width": 531.84375,
+          "height": 56
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "42px"
+      },
+      {
+        "id": "interim-label",
+        "text": "INTERIM CEO",
+        "bounds": {
+          "left": 132,
+          "top": 977,
+          "right": 367.875,
+          "bottom": 1019,
+          "width": 235.875,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 132,
+          "top": 975,
+          "right": 367.875,
+          "bottom": 1021,
+          "width": 235.875,
+          "height": 46
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "interim-name",
+        "text": "COLETTE KRESS",
+        "bounds": {
+          "left": 132,
+          "top": 1042,
+          "right": 629.046875,
+          "bottom": 1121,
+          "width": 497.046875,
+          "height": 79
+        },
+        "element_bounds": {
+          "left": 132,
+          "top": 1040,
+          "right": 629.046875,
+          "bottom": 1124,
+          "width": 497.046875,
+          "height": 84
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "66px"
+      },
+      {
+        "id": "interim-detail",
+        "text": "Kress also retains her CFO role.",
+        "bounds": {
+          "left": 132,
+          "top": 1162,
+          "right": 647.25,
+          "bottom": 1204,
+          "width": 515.25,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 132,
+          "top": 1158,
+          "right": 647.25,
+          "bottom": 1208,
+          "width": 515.25,
+          "height": 50
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "37px"
+      },
+      {
+        "id": "search-one",
+        "text": "The board begins a search for a",
+        "bounds": {
+          "left": 118,
+          "top": 1294,
+          "right": 667.359375,
+          "bottom": 1340,
+          "width": 549.359375,
+          "height": 46
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1290,
+          "right": 667.359375,
+          "bottom": 1344,
+          "width": 549.359375,
+          "height": 54
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "40px"
+      },
+      {
+        "id": "search-two",
+        "text": "permanent CEO.",
+        "bounds": {
+          "left": 118,
+          "top": 1348,
+          "right": 414.390625,
+          "bottom": 1394,
+          "width": 296.390625,
+          "height": 46
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1344,
+          "right": 414.390625,
+          "bottom": 1398,
+          "width": 296.390625,
+          "height": 54
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "40px"
+      },
+      {
+        "id": "source",
+        "text": "Source: NVIDIA company announcement",
+        "bounds": {
+          "left": 118,
+          "top": 1472,
+          "right": 723.625,
+          "bottom": 1509,
+          "width": 605.625,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1469,
+          "right": 723.625,
+          "bottom": 1512,
+          "width": 605.625,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      }
+    ],
+    "panels": [
+      {
+        "id": "transition-panel",
+        "bounds": {
+          "left": 104,
+          "top": 956,
+          "right": 961,
+          "bottom": 1232,
+          "width": 857,
+          "height": 276
+        }
+      },
+      {
+        "id": "source-panel",
+        "bounds": {
+          "left": 104,
+          "top": 1450,
+          "right": 961,
+          "bottom": 1530,
+          "width": 857,
+          "height": 80
+        }
+      }
+    ],
+    "scene_elements": [
+      {
+        "id": "coin-installation",
+        "bounds": {
+          "left": 877,
+          "top": 136,
+          "right": 1061,
+          "bottom": 320,
+          "width": 184,
+          "height": 184
+        },
+        "box_shadow": "rgb(38, 61, 43) 3px 4px 8px 0px inset, rgba(1, 10, 8, 0.8) 2px 3px 7px 0px, rgb(169, 197, 140) -1px -1px 2px 0px",
+        "background": "linear-gradient(135deg, rgb(163, 175, 119), rgb(52, 71, 52) 53%, rgb(155, 146, 89))"
+      },
+      {
+        "id": "coin-contact",
+        "bounds": {
+          "left": 877,
+          "top": 136,
+          "right": 1061,
+          "bottom": 320,
+          "width": 184,
+          "height": 184
+        },
+        "box_shadow": "rgba(14, 38, 25, 0.55) 3px 4px 8px 0px inset, rgba(213, 233, 171, 0.25) -2px -2px 3px 0px inset",
+        "background": "linear-gradient(125deg, rgba(167, 218, 97, 0.1), rgba(0, 0, 0, 0) 46%, rgba(8, 24, 15, 0.12))"
+      }
+    ],
+    "illustrations": [],
+    "fonts": [
+      {
+        "family": "Moneyberg Lato Black",
+        "weight": "900",
+        "status": "loaded"
+      },
+      {
+        "family": "Moneyberg Georgia",
+        "weight": "400",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "id": "background",
+        "natural_width": 941,
+        "natural_height": 1672,
+        "object_fit": "cover",
+        "clip_path": "none",
+        "bounds": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        }
+      },
+      {
+        "id": "coin",
+        "natural_width": 2084,
+        "natural_height": 2084,
+        "object_fit": "contain",
+        "clip_path": "none",
+        "bounds": {
+          "left": 877,
+          "top": 136,
+          "right": 1061,
+          "bottom": 320,
+          "width": 184,
+          "height": 184
+        }
+      }
+    ],
+    "document_width": 1080,
+    "document_height": 1920
+  },
+  "platform_fonts": [
+    {
+      "id": "brand",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "category",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 12
+        }
+      ]
+    },
+    {
+      "id": "date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 17
+        }
+      ]
+    },
+    {
+      "id": "headline-one",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 12
+        }
+      ]
+    },
+    {
+      "id": "headline-two",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 10
+        }
+      ]
+    },
+    {
+      "id": "headline-three",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 10
+        }
+      ]
+    },
+    {
+      "id": "timing",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 21
+        }
+      ]
+    },
+    {
+      "id": "body-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 25
+        }
+      ]
+    },
+    {
+      "id": "body-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 28
+        }
+      ]
+    },
+    {
+      "id": "interim-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 11
+        }
+      ]
+    },
+    {
+      "id": "interim-name",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 13
+        }
+      ]
+    },
+    {
+      "id": "interim-detail",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 32
+        }
+      ]
+    },
+    {
+      "id": "search-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 31
+        }
+      ]
+    },
+    {
+      "id": "search-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 14
+        }
+      ]
+    },
+    {
+      "id": "source",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 35
+        }
+      ]
+    }
+  ],
+  "coin_bounds": {
+    "left": 877,
+    "top": 136,
+    "right": 1061,
+    "bottom": 320,
+    "width": 184,
+    "height": 184
+  },
+  "whole_coin_upper_75_percent_verified": true,
+  "integration": {
+    "method": "Exact original coin PNG seated in the generated circular brass recess of a semiconductor-laboratory cabinet, with compatible green light and contact shadow",
+    "artwork": "Original uniformly scaled PNG; portrait, lettering and circular rim preserved",
+    "image_generation_role": "Text-free conceptual AI semiconductor infrastructure only, no documentary event image or generated logo",
+    "topic": "NVIDIA confirms immediate resignation of Jensen Huang and appointment of Colette Kress as interim CEO",
+    "category_badge": "AI INVESTING",
+    "background_credit_on_graphic": false,
+    "background_provenance": "Conceptual chip and server environment, not a quantitative chart or actual facility photograph"
+  },
+  "generation_prompts": [
+    "Create only a premium text-free editorial BACKGROUND for a 9:16 Instagram Story, intended final canvas1080x1920, about a confirmed CEO transition at NVIDIA. A distinct AI semiconductor visual in very dark midnight navy, graphite, restrained electric NVIDIA-like green highlights and subtle silver/brass details. Quiet luxurious modern chip-fabrication or server-laboratory architecture, front-facing dark matte panels, fine circuit traces at extreme side margins, no readable labels. In the bottom 20%, a large elegant unbranded AI accelerator chip mounted on a circuit substrate, macro depth with green light traveling along understated pathways, sleek hardware detail. Architecture is conceptual, not a documentary photograph. No people, no company logos, no arrows, graphs, stock charts, fabricated market data or decorative lettering.\n\nMost of the center and upper80% must be almost uniformly very dark navy with only faint gradient and subtle texture so later white and green typography reads clearly. Reserve all area x104\u2013961,y164\u20131536 for later content: compact one-line MONEYBERG NEWS BRIEF brand in real Lato Black900 at35px, categoryAI INVESTING, dateNOVEMBER12,2026, large3-line headline 'JENSEN HUANG / RESIGNS AS / NVIDIA CEO' aroundy390\u2013650 in Lato Black900 at76px. A prominent interim-leadership panel aroundy790\u20131060 and Georgia body at39\u201342px below. Source attribution Georgia33px aroundy1470. DO NOT RENDER any of these words, letters or numbers; typography will be added using those actual font files. All authored type will meet33pxminimum, body35px, headlines51px, and inside the usable bounds x104\u2013961,y164\u20131536. No content-area rectangle.\n\nCreate one EMPTY circular front-facing physical medallion seat integrated into a narrow dark brushed-metal server cabinet at the UPPER RIGHT edge. Intended center x955,y230 on1080x1920, innerdiameter160px. Exact circular opening, not an ellipse; very thin brushed-brass bezel, recessed dark empty disk, subtle shadows and compatible green/white reflections. Entire seat fully inside frame. Seat to the right ofx865 and entirely abovey340; leave center and header to itsleft empty. This recess will receive the user's exact original Moneyberg gold coin later, uniformly scaled with original portrait/rim letters; DO NOT generate a coin, portrait, face or text in the recess. It must feel anchored to the semiconductor facility, not like a floating badge. Coin must ultimately stay entirely in upper75%, y0\u20131440.\n\nMake hardware detail primarily belowy1550 and atveryrightedge, keep text area calm. No logos, words, numbers, watermarks, labels or fonts rendered in this background. Strong elegant editorial composition with realistic material depth."
+  ],
+  "sources": [
+    "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
+  ],
+  "source_access": "Full official NVIDIA company announcement read from saved HTML/text; publication date visibly November 12, 2026. Independent ABC and AP corroboration documented in /tmp/nov12-markets.md. No exact source publication clock is asserted.",
+  "reporting_scope": {
+    "edition_date": "2026-11-12",
+    "source_publication_date": "2026-11-12",
+    "exact_source_time_not_exposed": true,
+    "content_basis": "Confirmed company leadership action in primary announcement",
+    "outgoing_executive": "Jensen Huang",
+    "departing_roles": [
+      "President",
+      "Chief Executive Officer",
+      "Director"
+    ],
+    "effective": "Immediately",
+    "interim_ceo": "Colette Kress",
+    "cfo_role_retained": true,
+    "permanent_search_initiated": true,
+    "permanent_appointment_not_claimed": true,
+    "no_personal_allegations": true,
+    "no_stock_performance_or_market_wrap": true,
+    "no_generated_chart_or_logo": true,
+    "conceptual_background_not_documentary": true
+  },
+  "output_sha256": "d64351dde924d4d3b5b5649ffbf00121272f9059fbabda02e6534815bcd1ef00"
+}

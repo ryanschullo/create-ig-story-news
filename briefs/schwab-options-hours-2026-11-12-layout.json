@@ -1,0 +1,741 @@
+{
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "inner_bounds": [
+    104,
+    164,
+    961,
+    1536
+  ],
+  "minimum_authored_font_size_px": 33,
+  "minimum_body_font_size_px": 35,
+  "minimum_headline_font_size_px": 51,
+  "font_size_minimum_verified": true,
+  "renderer": "Chromium via Playwright; HTML/CSS screenshot",
+  "background_sha256": "fa2dc4dd64bce4697b2bae6ea4c7d03e06ab556806ad376121150e00ab40d4c8",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
+  "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
+  "georgia_redistributed": false,
+  "layout": {
+    "text": [
+      {
+        "id": "brand",
+        "text": "MONEYBERG NEWS BRIEF",
+        "bounds": {
+          "left": 118,
+          "top": 175,
+          "right": 562.109375,
+          "bottom": 217,
+          "width": 444.109375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 174,
+          "right": 562.109375,
+          "bottom": 218,
+          "width": 444.109375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "category",
+        "text": "OPTIONS INVESTING",
+        "bounds": {
+          "left": 118,
+          "top": 230,
+          "right": 465.875,
+          "bottom": 270,
+          "width": 347.875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 229,
+          "right": 465.875,
+          "bottom": 271,
+          "width": 347.875,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "date",
+        "text": "NOVEMBER 12, 2026",
+        "bounds": {
+          "left": 118,
+          "top": 280,
+          "right": 443.5625,
+          "bottom": 320,
+          "width": 325.5625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 279,
+          "right": 443.5625,
+          "bottom": 321,
+          "width": 325.5625,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "headline-one",
+        "text": "SCHWAB EXTENDS",
+        "bounds": {
+          "left": 118,
+          "top": 370,
+          "right": 811.1875,
+          "bottom": 462,
+          "width": 693.1875,
+          "height": 92
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 370,
+          "right": 811.1875,
+          "bottom": 462,
+          "width": 693.1875,
+          "height": 92
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "77px"
+      },
+      {
+        "id": "headline-two",
+        "text": "OPTIONS HOURS",
+        "bounds": {
+          "left": 118,
+          "top": 462,
+          "right": 745.34375,
+          "bottom": 554,
+          "width": 627.34375,
+          "height": 92
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 462,
+          "right": 745.34375,
+          "bottom": 554,
+          "width": 627.34375,
+          "height": 92
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "77px"
+      },
+      {
+        "id": "subtitle",
+        "text": "More time to trade selected options.",
+        "bounds": {
+          "left": 118,
+          "top": 581,
+          "right": 753.625,
+          "bottom": 627,
+          "width": 635.625,
+          "height": 46
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 577,
+          "right": 753.625,
+          "bottom": 631,
+          "width": 635.625,
+          "height": 54
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "40px"
+      },
+      {
+        "id": "early-label",
+        "text": "PRE-MARKET",
+        "bounds": {
+          "left": 142,
+          "top": 703,
+          "right": 387.40625,
+          "bottom": 747,
+          "width": 245.40625,
+          "height": 44
+        },
+        "element_bounds": {
+          "left": 142,
+          "top": 702,
+          "right": 387.40625,
+          "bottom": 749,
+          "width": 245.40625,
+          "height": 47
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "36px"
+      },
+      {
+        "id": "early-time",
+        "text": "7:30\u20139:25",
+        "bounds": {
+          "left": 140,
+          "top": 762,
+          "right": 606.71875,
+          "bottom": 888,
+          "width": 466.71875,
+          "height": 126
+        },
+        "element_bounds": {
+          "left": 140,
+          "top": 762,
+          "right": 606.71875,
+          "bottom": 888,
+          "width": 466.71875,
+          "height": 126
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "105px"
+      },
+      {
+        "id": "early-zone",
+        "text": "AM ET",
+        "bounds": {
+          "left": 778,
+          "top": 812,
+          "right": 909.96875,
+          "bottom": 863,
+          "width": 131.96875,
+          "height": 51
+        },
+        "element_bounds": {
+          "left": 778,
+          "top": 810,
+          "right": 909.96875,
+          "bottom": 866,
+          "width": 131.96875,
+          "height": 56
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "43px"
+      },
+      {
+        "id": "late-label",
+        "text": "POST-MARKET",
+        "bounds": {
+          "left": 142,
+          "top": 990,
+          "right": 413.4375,
+          "bottom": 1034,
+          "width": 271.4375,
+          "height": 44
+        },
+        "element_bounds": {
+          "left": 142,
+          "top": 989,
+          "right": 413.4375,
+          "bottom": 1036,
+          "width": 271.4375,
+          "height": 47
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "36px"
+      },
+      {
+        "id": "late-time",
+        "text": "4:00\u20134:15",
+        "bounds": {
+          "left": 140,
+          "top": 1049,
+          "right": 606.71875,
+          "bottom": 1175,
+          "width": 466.71875,
+          "height": 126
+        },
+        "element_bounds": {
+          "left": 140,
+          "top": 1049,
+          "right": 606.71875,
+          "bottom": 1175,
+          "width": 466.71875,
+          "height": 126
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "105px"
+      },
+      {
+        "id": "late-zone",
+        "text": "PM ET",
+        "bounds": {
+          "left": 778,
+          "top": 1099,
+          "right": 906.75,
+          "bottom": 1150,
+          "width": 128.75,
+          "height": 51
+        },
+        "element_bounds": {
+          "left": 778,
+          "top": 1097,
+          "right": 906.75,
+          "bottom": 1153,
+          "width": 128.75,
+          "height": 56
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "43px"
+      },
+      {
+        "id": "days",
+        "text": "MONDAY\u2013FRIDAY",
+        "bounds": {
+          "left": 118,
+          "top": 1255,
+          "right": 423.375,
+          "bottom": 1296,
+          "width": 305.375,
+          "height": 41
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1254,
+          "right": 423.375,
+          "bottom": 1298,
+          "width": 305.375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "34px"
+      },
+      {
+        "id": "scope-one",
+        "text": "Selected stock, ETF and index options,",
+        "bounds": {
+          "left": 118,
+          "top": 1324,
+          "right": 747.71875,
+          "bottom": 1366,
+          "width": 629.71875,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1320,
+          "right": 747.71875,
+          "bottom": 1370,
+          "width": 629.71875,
+          "height": 50
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "37px"
+      },
+      {
+        "id": "scope-two",
+        "text": "including the Magnificent Seven.",
+        "bounds": {
+          "left": 118,
+          "top": 1374,
+          "right": 654.5625,
+          "bottom": 1416,
+          "width": 536.5625,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1370,
+          "right": 654.5625,
+          "bottom": 1420,
+          "width": 536.5625,
+          "height": 50
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "37px"
+      },
+      {
+        "id": "source",
+        "text": "Source: Charles Schwab \u2022 Nov. 12, 2026",
+        "bounds": {
+          "left": 118,
+          "top": 1473,
+          "right": 696.8125,
+          "bottom": 1510,
+          "width": 578.8125,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1470,
+          "right": 696.8125,
+          "bottom": 1513,
+          "width": 578.8125,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      }
+    ],
+    "panels": [
+      {
+        "id": "early-panel",
+        "bounds": {
+          "left": 104,
+          "top": 678,
+          "right": 961,
+          "bottom": 914,
+          "width": 857,
+          "height": 236
+        }
+      },
+      {
+        "id": "late-panel",
+        "bounds": {
+          "left": 104,
+          "top": 965,
+          "right": 961,
+          "bottom": 1201,
+          "width": 857,
+          "height": 236
+        }
+      }
+    ],
+    "scene_elements": [
+      {
+        "id": "coin-installation",
+        "bounds": {
+          "left": 866,
+          "top": 212,
+          "right": 1035,
+          "bottom": 381,
+          "width": 169,
+          "height": 169
+        },
+        "box_shadow": "rgb(75, 60, 42) 3px 4px 8px 0px inset, rgba(0, 0, 0, 0.65) 2px 3px 7px 0px, rgb(196, 177, 138) -1px -1px 2px 0px",
+        "background": "linear-gradient(135deg, rgb(183, 161, 106), rgb(92, 77, 54) 53%, rgb(170, 139, 82))"
+      },
+      {
+        "id": "coin-contact",
+        "bounds": {
+          "left": 866,
+          "top": 212,
+          "right": 1035,
+          "bottom": 381,
+          "width": 169,
+          "height": 169
+        },
+        "box_shadow": "rgba(24, 20, 34, 0.54) 3px 4px 8px 0px inset, rgba(229, 217, 172, 0.2) -2px -2px 3px 0px inset",
+        "background": "linear-gradient(125deg, rgba(189, 206, 211, 0.1), rgba(0, 0, 0, 0) 46%, rgba(30, 22, 48, 0.16))"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Moneyberg Lato Black",
+        "weight": "900",
+        "status": "loaded"
+      },
+      {
+        "family": "Moneyberg Georgia",
+        "weight": "400",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "id": "background",
+        "natural_width": 941,
+        "natural_height": 1672,
+        "object_fit": "cover",
+        "clip_path": "none",
+        "bounds": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        }
+      },
+      {
+        "id": "coin",
+        "natural_width": 2084,
+        "natural_height": 2084,
+        "object_fit": "contain",
+        "clip_path": "none",
+        "bounds": {
+          "left": 866,
+          "top": 212,
+          "right": 1035,
+          "bottom": 381,
+          "width": 169,
+          "height": 169
+        }
+      }
+    ],
+    "document_width": 1080,
+    "document_height": 1920
+  },
+  "platform_fonts": [
+    {
+      "id": "brand",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "category",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 17
+        }
+      ]
+    },
+    {
+      "id": "date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 17
+        }
+      ]
+    },
+    {
+      "id": "headline-one",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 14
+        }
+      ]
+    },
+    {
+      "id": "headline-two",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 13
+        }
+      ]
+    },
+    {
+      "id": "subtitle",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 36
+        }
+      ]
+    },
+    {
+      "id": "early-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 10
+        }
+      ]
+    },
+    {
+      "id": "early-time",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 9
+        }
+      ]
+    },
+    {
+      "id": "early-zone",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 5
+        }
+      ]
+    },
+    {
+      "id": "late-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 11
+        }
+      ]
+    },
+    {
+      "id": "late-time",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 9
+        }
+      ]
+    },
+    {
+      "id": "late-zone",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 5
+        }
+      ]
+    },
+    {
+      "id": "days",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 13
+        }
+      ]
+    },
+    {
+      "id": "scope-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 38
+        }
+      ]
+    },
+    {
+      "id": "scope-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 32
+        }
+      ]
+    },
+    {
+      "id": "source",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 38
+        }
+      ]
+    }
+  ],
+  "coin_bounds": {
+    "left": 866,
+    "top": 212,
+    "right": 1035,
+    "bottom": 381,
+    "width": 169,
+    "height": 169
+  },
+  "whole_coin_upper_75_percent_verified": true,
+  "integration": {
+    "method": "Exact original coin PNG seated inside a brass architectural timekeeping recess, with matching scene lighting and contact shadows",
+    "artwork": "Original uniformly scaled PNG; original portrait, lettering and full circular rim preserved",
+    "image_generation_role": "Text-free conceptual brokerage observatory with dawn/evening clock motifs only",
+    "topic": "Schwab extends access to selected stock, ETF and index options in pre-market and post-market sessions",
+    "category_badge": "OPTIONS INVESTING",
+    "background_credit_on_graphic": false,
+    "background_provenance": "Conceptual financial timekeeping environment, not a documentary photo, quantitative chart or brokerage product screenshot"
+  },
+  "generation_prompts": [
+    "Create a sophisticated text-free editorial background for an OPTIONS INVESTING Instagram Story about Charles Schwab extending options trading hours. Portrait 9:16, intended1080x1920. Distinct ink, indigo and deep plum palette with restrained luminous teal and soft violet edge lighting. A premium financial-market observatory or brokerage lounge at the transition between dawn and evening. Keep almost all of the upper80% an elegant smooth dark plum-to-ink matte field with subtle glass reflections, perfectly quiet and high-contrast for later typography. Architectural details should stay narrow at the far right edge or belowy1570.\n\nBottom20%: a sculptural unnumbered analog clock, thin concentric machined rings, an elegant dark glass desk, and distant city office windows transitioning from pale teal dawn on the left to subdued indigo night on the right. These are purely decorative time/session motifs, not a chart or an actual photo of Schwab premises. The clock has no numbers, no letters and no recognizable brand. No fake candlestick charts, trading data, screens with symbols, arrows or currency imagery.\n\nUpper-right side: a small empty front-facing circular metal recess physically integrated into a narrow indigo architectural column or the side housing of a refined timekeeping instrument. Target center x950,y250 and diameter170px on1080x1920. The recess should be completely circular, not an ellipse, with a slender satin-brass retaining ring and compatible warm contact shadow. Its interior is completely blank dark metal. This will receive the user's exact original Moneyberg gold coin as a separately composited image later. Generate NO coin, portrait, engraving, letters or substitute logo. Keep the complete recess abovey420 and mostly rightofx850 so it does not compete with the header or headline. The entire eventual coin must remain within y0\u20131440.\n\nThe final news layout will place all content inside x104\u2013961,y164\u20131536: compact one-line MONEYBERG NEWS BRIEF at35px, OPTIONS INVESTING category andNovember12date33px, headline SCHWAB EXTENDS / OPTIONS HOURS in actual Lato Black900 at77px, two large time-session panels aroundy700\u20131210, eligible-products caveat and source atbottom. All later headings/labels use actual Lato Black900; body/captions/source use actual Georgia400. Minimums33px all text,35px body,51px headlines. Do NOT render any text or cards in this background; those will be added using actual font files after generation. Leave substantial quiet clear space for those panels and text. Full-bleed understated luxury editorial environment, premium realistic materials and depth. No watermarks, logos, signage, digits or authored text anywhere."
+  ],
+  "sources": [
+    "https://www.businesswire.com/news/home/20261112652629/en/Schwab-Announces-Platform-Enhancements-Including-MCP-Server-to-Connect-Clients-AI-Platforms-With-Their-Schwab-Accounts",
+    "https://www.tradersmagazine.com/news/schwab-announces-platform-enhancements/"
+  ],
+  "source_access": "Read the complete Charles Schwab primary release on Business Wire, including its extended options hours section and JSON publication timestamp; checked the complete Traders Magazine republication. Evidence preserved in /tmp/nov12-options/a20.html and a20.txt, with secondary a13.html and a13.txt.",
+  "reporting_scope": {
+    "production_date": "2026-11-12",
+    "edition_date": "2026-11-12",
+    "source_published_utc": "2026-11-12T13:30:00Z",
+    "source_published_chicago": "2026-11-12T07:30:00-06:00",
+    "source_type": "Charles Schwab primary company release via Business Wire",
+    "eligible_products": "Selected stock, ETF and index options, including the Magnificent Seven",
+    "source_coverage_description": "Approximately 30 popular stocks, ETFs and indexes; five index options including SPX, VIX and RUT are cited",
+    "exact_product_count_omitted_to_avoid_conflicting_approximately_30_and_30_plus_wording": true,
+    "early_session": {
+      "start": "07:30",
+      "end": "09:25",
+      "timezone": "America/New_York",
+      "display": "7:30\u20139:25 AM ET"
+    },
+    "late_session": {
+      "start": "16:00",
+      "end": "16:15",
+      "timezone": "America/New_York",
+      "display": "4:00\u20134:15 PM ET"
+    },
+    "weekdays": "Monday\u2013Friday",
+    "all_options_claim": false,
+    "twenty_four_hour_claim": false,
+    "unrelated_ai_pilot_features_omitted": true,
+    "no_chart_or_investment_advice": true,
+    "no_invented_market_signals": true
+  },
+  "output_sha256": "f9b089abcd8b1e6ec2e3f481a32231edc4fbddc72295f8d8849553969861991b"
+}
