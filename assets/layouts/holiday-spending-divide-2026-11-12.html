@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><base href="__ASSET_BASE_URI__">
+<title>A two-speed holiday — November 12, 2026</title>
+<style>
+@font-face{font-family:"Moneyberg Lato Black";src:url("fonts/lato/Lato-Black.ttf") format("truetype");font-weight:900;font-style:normal}
+@font-face{font-family:"Moneyberg Georgia";src:url("__GEORGIA_FONT_URI__") format("truetype");font-weight:400;font-style:normal}
+*{box-sizing:border-box}html,body{margin:0;width:1080px;height:1920px;overflow:hidden;background:#f3ede4}
+#stage{position:relative;width:1080px;height:1920px;isolation:isolate;overflow:hidden}
+#background{position:absolute;inset:0;width:1080px;height:1920px;object-fit:cover}
+.text{position:absolute;margin:0;z-index:5;font-synthesis:none;text-rendering:geometricPrecision;-webkit-font-smoothing:antialiased;white-space:nowrap}
+.lato{font-family:"Moneyberg Lato Black";font-weight:900;color:#42282b}
+.georgia{font-family:"Moneyberg Georgia";font-weight:400;color:#443435}
+#brand{left:104px;top:172px;font-size:35px;line-height:44px;letter-spacing:.2px}
+#category{left:104px;top:232px;font-size:33px;line-height:42px;letter-spacing:.4px;color:#8e3243}
+#date{left:104px;top:283px;font-size:33px;line-height:42px;color:#746563}
+.headline{left:104px;font-size:83px;line-height:101px;letter-spacing:-.7px}
+#headline-one{top:350px}#headline-two{top:456px;color:#8e3243}
+#summary-one,#summary-two{left:104px;font-size:40px;line-height:54px}
+#summary-one{top:572px}#summary-two{top:625px}
+#scope{left:104px;top:714px;font-size:35px;line-height:44px;letter-spacing:.3px}
+.stat-panel{position:absolute;top:780px;width:416px;height:306px;z-index:3;border-top:3px solid #ad7e51;box-shadow:0 8px 25px rgba(72,40,32,.08)}
+#higher-panel{left:104px;background:rgba(246,234,215,.94)}
+#lower-panel{left:545px;background:rgba(110,32,50,.97);border-color:#ca9a74}
+.income-label{top:803px;font-size:33px;line-height:43px;letter-spacing:0}
+#higher-income-label{left:124px}#lower-income-label{left:565px;color:#f9eee4}
+.income-scope{top:851px;font-size:36px;line-height:46px}
+#higher-scope{left:124px}#lower-scope{left:565px;color:#f9eee4}
+.stat-value{top:918px;font-size:123px;line-height:148px;letter-spacing:-3px}
+#higher-value{left:124px;color:#765226}
+#lower-value{left:565px;color:#fff5e8}
+#definition-one,#definition-two{left:104px;font-size:36px;line-height:49px}
+#definition-one{top:1124px}#definition-two{top:1173px}
+#qualification{left:104px;top:1250px;font-size:35px;line-height:48px;color:#765a58}
+#source{left:104px;top:1371px;font-size:34px;line-height:45px}
+#survey-period{left:104px;top:1420px;font-size:33px;line-height:44px}
+#survey-sample{left:104px;top:1467px;font-size:33px;line-height:44px}
+/* Exact original artwork seated in the generated leather wallet's brass recess. */
+#coin-installation{position:absolute;left:840px;top:43px;width:204px;height:204px;z-index:2;border-radius:50%;background:linear-gradient(135deg,#d0b474,#5c4127 57%,#b88c46);box-shadow:inset 3px 4px 7px #4b2b1d,2px 4px 7px rgba(45,19,17,.8),-1px -1px 2px #e1c897}
+#coin{position:absolute;left:0;top:0;width:204px;height:204px;object-fit:contain;filter:saturate(.88) brightness(.97)}
+#coin-contact{position:absolute;inset:0;border-radius:50%;pointer-events:none;box-shadow:inset 3px 4px 7px rgba(61,27,13,.55),inset -2px -2px 3px rgba(250,224,171,.3);background:linear-gradient(125deg,rgba(246,206,136,.09),transparent 45%,rgba(55,22,17,.12))}
+</style></head><body><main id="stage" aria-label="A two-speed holiday. Higher-income households plan more holiday spending, lower-income households less. Net respondent balance is plus 18 percent for household income above 100,000 dollars and minus 26 percent for household income below 100,000 dollars. This is the share planning to spend more minus the share planning to spend less, not changes in dollar spending. Source: Alvarez and Marsal, survey of over 2,000 U.S. adults in late August and early September 2026, released November 12, 2026.">
+<img id="background" src="holiday-spending-divide-2026-11-12-background.png" alt="">
+<div id="coin-installation" data-scene-element aria-hidden="true"><img id="coin" src="moneyberg-coin-original.png" alt=""><div id="coin-contact" data-scene-element></div></div>
+<div id="brand" class="text lato" data-news-text>MONEYBERG NEWS BRIEF</div>
+<div id="category" class="text lato" data-news-text>CONSUMER SENTIMENT</div>
+<div id="date" class="text lato" data-news-text>NOVEMBER 12, 2026</div>
+<div id="headline-one" class="text lato headline" data-news-text data-text-role="headline">A TWO-SPEED</div>
+<div id="headline-two" class="text lato headline" data-news-text data-text-role="headline">HOLIDAY</div>
+<div id="summary-one" class="text georgia" data-news-text data-text-role="body">Holiday shopping plans diverge</div>
+<div id="summary-two" class="text georgia" data-news-text data-text-role="body">sharply by household income.</div>
+<div id="scope" class="text lato" data-news-text>NET HOLIDAY SPENDING INTENT</div>
+<div id="higher-panel" class="stat-panel" data-news-panel></div>
+<div id="lower-panel" class="stat-panel" data-news-panel></div>
+<div id="higher-income-label" class="text lato income-label" data-news-text>HOUSEHOLD INCOME</div>
+<div id="lower-income-label" class="text lato income-label" data-news-text>HOUSEHOLD INCOME</div>
+<div id="higher-scope" class="text lato income-scope" data-news-text>ABOVE $100K</div>
+<div id="lower-scope" class="text lato income-scope" data-news-text>BELOW $100K</div>
+<div id="higher-value" class="text lato stat-value" data-news-text data-text-role="headline">+18%</div>
+<div id="lower-value" class="text lato stat-value" data-news-text data-text-role="headline">−26%</div>
+<div id="definition-one" class="text georgia" data-news-text data-text-role="body">Net share planning to spend more vs. less</div>
+<div id="definition-two" class="text georgia" data-news-text data-text-role="body">than last holiday season.</div>
+<div id="qualification" class="text georgia" data-news-text data-text-role="body">Intentions, not changes in dollars spent.</div>
+<div id="source" class="text georgia" data-news-text data-text-role="source">Source: Alvarez &amp; Marsal</div>
+<div id="survey-period" class="text georgia" data-news-text>Survey: late Aug.–early Sept. 2026</div>
+<div id="survey-sample" class="text georgia" data-news-text>2,000+ U.S. adults • Released Nov. 12</div>
+</main></body></html>
