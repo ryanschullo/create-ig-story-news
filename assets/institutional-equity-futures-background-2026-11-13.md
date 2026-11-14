@@ -2,11 +2,21 @@
 
 ## Purpose and provenance
 
-New text-free conceptual institutional trading-hall environment generated with the image-generation tool for the November 13, 2026 edition. It is not a documentary photograph or data chart. Source image: `/workspace/generated_images/exec-778c382c-e17e-4bb5-a5cf-b7f3e7dd5fb1.png`, 941 × 1672 pixels. The browser fits the background to the final verified 1080 × 1920 canvas without changing the archived PNG.
+New text-free conceptual institutional trading-hall environment generated with the image-generation tool for the November 13, 2026 edition, then refined with that tool for the user's chart revision. It is not a documentary photograph or data chart. Initial image: `/workspace/generated_images/exec-778c382c-e17e-4bb5-a5cf-b7f3e7dd5fb1.png`, 941 × 1672 pixels. Current edited image: `/workspace/generated_images/exec-5338f1b1-c7a3-4848-800e-f52661eb31cf.png`, also 941 × 1672 pixels, SHA-256 `32fd0d17848f5b1a72a85c4000439090730f6a8d28f5e1cd0977c4a7e1cb8caf`. The browser fits the background to the final verified 1080 × 1920 canvas without changing the archived PNG.
 
 The image leaves a warm limestone central wall for exact-font typography and includes teal trading-floor imagery at the bottom. A physical brass recess is reserved at the upper right. The renderer seats the unchanged original `assets/moneyberg-coin-original.png` in that recess with compatible light and contact shadows. The full original coin remains circular and within the top 75%; no generated coin is used.
 
 No image pixels were edited with Python. The image-generation tool creates the environment; HTML/CSS composes the unchanged assets with actual Lato Black 900 and runtime-only Georgia 400.
+
+## Chart revision
+
+At the user's request to always include the Kobeissi charts, the image-generation tool edited only the decorative background to soften the central wall for an intact original-chart panel. The final background is copied unchanged from `/workspace/generated_images/exec-5338f1b1-c7a3-4848-800e-f52661eb31cf.png`; the earlier generated output remains available separately. The chart and coin are original assets placed by the browser, never generated or redrawn.
+
+## Chart-layout editing prompt
+
+```text
+Refine this existing text-free 9:16 ivory, teal and brass institutional trading-hall background for a chart-focused Instagram Story. Preserve the architectural composition, stone wall, dark teal trading desks at the bottom, lighting and especially the EMPTY perfectly circular brass mounting recess in its exact existing upper-right location and diameter. Do not put a coin, lettering or portrait in the recess. The unchanged original Moneyberg coin will be composited there later. Subtly soften the stone texture and seams in the central chart region corresponding to x=104–961,y=835–1367 on a 1080x1920 canvas; keep it an elegant natural ivory wall so a complete original white-background chart can sit cleanly over it. Keep the upper center quiet for the headline and large statistic, lower region y=1370–1536 quiet for readable source and chart-date qualification. Maintain the same premium bright limestone / deep teal / brass visual identity and subject-specific institutional finance environment. Do not draw the chart, chart data, text, arrows, logos, portraits, coins, badges, or numbers anywhere; all final news content is applied with exact original assets and real fonts in the browser. All news content will fit x=104–961,y=164–1536, including a compact one-line secondary 'MONEYBERG NEWS BRIEF' label in Lato Black900 at35px; authored labels/dates≥33px, headlineLatoBlack≥51px; actual Georgia400 body≥35px, captions/source≥33px. These font specifications are only the downstream composition contract: DO NOT render any text in the background. This is decorative illustration, not an actual documentary photo or factual graph. Preserve the entire empty recess and keep it in the upper75% of the canvas.
+```
 
 ## Generation prompt
 

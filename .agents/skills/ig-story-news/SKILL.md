@@ -384,6 +384,35 @@ facts. Label intraday figures with their observation time. Use America/Chicago
 for deciding what the user means by today, preserving source time zones in
 market timestamps.
 
+### The Kobeissi Letter: always include source charts
+
+For every new or revised graphic based on a **The Kobeissi Letter** post,
+**always include the actual attached chart or charts**, even when the user
+does not repeat “include the chart.” This is a standing user preference and
+supersedes earlier decisions to omit a chart in favor of large statistic panels.
+
+- Retrieve the actual selected post's media, excluding charts from replies or
+  unrelated posts. Archive the original source bytes and provenance.
+- Preserve the complete chart artwork, original aspect ratio, title, axes,
+  tick labels, legend, annotations and credits. Do not redraw, retype, crop,
+  distort, modify data, or silently replace source date labels.
+- Make the chart a primary visual. Shorten or reflow surrounding copy and
+  enlarge the complete chart for readability. If one Story cannot accommodate
+  everything legibly, add a dedicated chart slide; do not omit the chart.
+  Multiple attached charts should remain included across the necessary slides.
+- Original charts retain their embedded typography. Current minimum font sizes
+  apply to all newly authored labels, summaries, qualifications and sources.
+- Verify the chart against the post and distinguish the observation period
+  from the post/edition date. If material dates or claims conflict, preserve
+  the source artwork and add a clear, readable on-image qualification. Do not
+  assert that a contradictory or unverified chart depicts today's data.
+- If the selected post has no attached chart, do not invent one. If attached
+  media cannot be retrieved, explain the specific missing source and seek the
+  original rather than silently substituting an unrelated or generated chart.
+
+Apply this to new work and requested revisions. Leave unrelated historical
+exports unchanged unless the user asks to revise them.
+
 ### NUCLEAR ENERGY INVESTING
 
 Assign nuclear-power-focused stories primarily to **NUCLEAR ENERGY INVESTING**

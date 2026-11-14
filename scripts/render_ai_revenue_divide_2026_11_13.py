@@ -32,10 +32,12 @@ ROOT = Path(__file__).resolve().parents[1]
 TEMPLATE = ROOT / "assets/layouts/ai-revenue-divide-2026-11-13.html"
 BACKGROUND = ROOT / "assets/ai-revenue-divide-background-2026-11-13.png"
 COIN = ROOT / "assets/moneyberg-coin-original.png"
+CHART = ROOT / "assets/source-charts/ai-revenue-us-china-2026-11-13-chart.webp"
 LATO = ROOT / "assets/fonts/lato/Lato-Black.ttf"
 OUTPUT = ROOT / "exports/ai-revenue-divide-2026-11-13.png"
 AUDIT = ROOT / "briefs/ai-revenue-divide-2026-11-13-layout.json"
 COIN_HASH = "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716"
+CHART_HASH = "204c774c53eb377b5da597cdafcd3b82cb2c9528e6f9818b6b1c701a5f56a882"
 INNER = (104, 164, 961, 1536)
 PROMPT_DOCUMENT = (ROOT / "assets/ai-revenue-divide-background-2026-11-13.md").read_text()
 GENERATION_PROMPTS = re.findall(r"```text\n(.*?)\n```", PROMPT_DOCUMENT, flags=re.DOTALL)
@@ -73,6 +75,7 @@ def runtime_document(georgia: Path):
             "/assets/fonts/lato/Lato-Black.ttf": (LATO, "font/ttf"),
             "/assets/ai-revenue-divide-background-2026-11-13.png": (BACKGROUND, "image/png"),
             "/assets/moneyberg-coin-original.png": (COIN, "image/png"),
+            "/assets/source-charts/ai-revenue-us-china-2026-11-13-chart.webp": (CHART, "image/webp"),
         }
 
         class AssetHandler(BaseHTTPRequestHandler):
@@ -113,6 +116,8 @@ async def render(georgia: Path, background_source: Path | None):
     verify_font(georgia, "Georgia", 400)
     if sha256(COIN) != COIN_HASH:
         raise ValueError("The original coin master has changed")
+    if sha256(CHART) != CHART_HASH:
+        raise ValueError("The exact original Kobeissi source chart has changed")
     if background_source is not None:
         if BACKGROUND.exists() and sha256(BACKGROUND) != sha256(background_source):
             raise ValueError("A different background already exists; refusing to overwrite it")
@@ -175,6 +180,14 @@ async def render(georgia: Path, background_source: Path | None):
                 raise ValueError(f"Original coin violates whole-coin upper-75% or aspect rule: {coin_bounds}")
             if coin["object_fit"] != "contain" or coin["clip_path"] != "none":
                 raise ValueError("Original coin may be cropped")
+            chart = next(image for image in layout["images"] if image["id"] == "source-chart")
+            chart_bounds = chart["bounds"]
+            if (chart["natural_width"], chart["natural_height"]) != (1560, 1041):
+                raise ValueError("The browser did not load the complete original source chart")
+            if (chart["object_fit"] != "contain" or chart["clip_path"] != "none"
+                    or abs(chart_bounds["width"] - 857) > 0.01
+                    or abs(chart_bounds["height"] - chart_bounds["width"] * 1041 / 1560) > 0.02):
+                raise ValueError(f"The original chart is cropped, distorted, or not full width: {chart}")
             for entry in layout["text"] + layout["panels"] + layout["illustrations"]:
                 box=entry["bounds"]
                 if (box["left"] < coin_bounds["right"] and box["right"] > coin_bounds["left"]
@@ -191,7 +204,7 @@ async def render(georgia: Path, background_source: Path | None):
                 raise ValueError("Scene integration is missing recess/contact shading")
             if any("Background:" in item["text"] for item in layout["text"]):
                 raise ValueError("An unwanted background-production credit remains")
-            required = {'brand': 'MONEYBERG NEWS BRIEF', 'category': 'AI INVESTING', 'date': 'NOVEMBER 13, 2026 EDITION', 'headline-one': 'AI REVENUE', 'headline-two': 'DIVIDE', 'metric': 'EST. ANNUALIZED REVENUE RUN RATE', 'period': 'Estimates as of end-September 2026', 'us-value': '$105B', 'us-label': 'OPENAI + ANTHROPIC', 'china-value': '$11B', 'china-label': 'SIX CHINESE AI COMPANIES', 'companies-one': 'Alibaba, ByteDance, DeepSeek,', 'companies-two': 'Z.ai, Moonshot AI and MiniMax', 'ratio': 'NEARLY 10× ACROSS THESE SELECTED FIRMS', 'qualifier': 'Run rate is not actual annual revenue.', 'source-one': 'Source: The Kobeissi Letter on X', 'source-two': 'Data credited to Epoch AI / Nikkei Asia'}
+            required = {'brand': 'MONEYBERG NEWS BRIEF', 'category': 'AI INVESTING', 'date': 'NOVEMBER 13, 2026 EDITION', 'headline': 'AI REVENUE DIVIDE', 'metric': 'EST. ANNUALIZED REVENUE RUN RATE', 'period': 'Estimates as of end-September 2026', 'us-value': '$105B', 'us-label': 'OPENAI + ANTHROPIC', 'china-value': '$11B', 'china-label': '6 CHINESE AI FIRMS', 'qualifier': 'Run rate is not actual annual revenue.', 'source-one': 'Source: The Kobeissi Letter on X', 'source-two': 'Data credited to Epoch AI / Nikkei Asia'}
             actual_copy = {item["id"]: item["text"] for item in layout["text"]}
             for key, text in required.items():
                 if actual_copy.get(key) != text:
@@ -250,16 +263,22 @@ async def render(georgia: Path, background_source: Path | None):
              "lato_black_sha256": sha256(LATO), "georgia_runtime_sha256": sha256(georgia),
              "georgia_redistributed": False, "layout": layout, "platform_fonts": platform_fonts,
              "coin_bounds": coin_bounds, "whole_coin_upper_75_percent_verified": True,
+             "source_chart": {"path": str(CHART.relative_to(ROOT)), "sha256": sha256(CHART), "bytes": CHART.stat().st_size,
+                              "source_url": "https://pbs.twimg.com/media/HW6nFOvWoAA36_C?format=webp&name=large",
+                              "natural_dimensions": [1560, 1041], "bounds": chart_bounds, "object_fit": chart["object_fit"],
+                              "full_original_artwork_preserved": True, "original_aspect_ratio_verified": True,
+                              "full_content_width_verified": True, "title_axes_labels_legend_credits_preserved": True,
+                              "source_artwork_typography_not_retyped": True, "no_clipping_or_redrawing": True},
              "integration": INTEGRATION, "generation_prompts": GENERATION_PROMPTS,
              'sources': ['https://x.com/KobeissiLetter/status/2121038722435064127'],
              'source_access': 'Full public X post and its attached original chart inspected; chart credits Epoch AI and Nikkei Asia; underlying company accounts not independently verified.',
-             'reporting_scope': {'edition_date': '2026-11-13', 'post_utc': '2026-11-13T00:33:33Z', 'post_chicago': '2026-11-12T18:33:33-06:00', 'observation_period': 'end-September 2026', 'metric': 'estimated annualized revenue run rate', 'currency': 'USD', 'us_sample': ['OpenAI', 'Anthropic'], 'us_sample_estimate_billion': 105, 'china_sample': ['Alibaba Group', 'ByteDance', 'DeepSeek', 'Z.ai', 'Moonshot AI', 'MiniMax'], 'china_sample_estimate_billion': 11, 'ratio_description': 'nearly ten times, not exactly ten times', 'not_entire_national_AI_industries': True, 'not_realized_full_year_revenue': True, 'underlying_data_not_independently_verified': True, 'reported_source_chart_credits': ['Epoch AI', 'Nikkei Asia'], 'no_generated_chart_or_logo': True, 'source_chart_archived_not_rendered': True, 'reason_chart_not_rendered': 'No chart requested; source labels become too small within story width; comparison presented as large typographic statistics', 'conceptual_background_not_documentary': True},
+             'reporting_scope': {'edition_date': '2026-11-13', 'post_utc': '2026-11-13T00:33:33Z', 'post_chicago': '2026-11-12T18:33:33-06:00', 'observation_period': 'end-September 2026', 'metric': 'estimated annualized revenue run rate', 'currency': 'USD', 'us_sample': ['OpenAI', 'Anthropic'], 'us_sample_estimate_billion': 105, 'china_sample': ['Alibaba Group', 'ByteDance', 'DeepSeek', 'Z.ai', 'Moonshot AI', 'MiniMax'], 'china_sample_estimate_billion': 11, 'ratio_description': 'nearly ten times, not exactly ten times', 'not_entire_national_AI_industries': True, 'not_realized_full_year_revenue': True, 'underlying_data_not_independently_verified': True, 'reported_source_chart_credits': ['Epoch AI', 'Nikkei Asia'], 'no_generated_chart_or_logo': True, 'source_chart_included_complete': True, 'conceptual_background_not_documentary': True},
              "output_sha256": sha256(OUTPUT)}
     AUDIT.parent.mkdir(parents=True, exist_ok=True)
     AUDIT.write_text(json.dumps(audit, indent=2) + "\n", encoding="utf-8")
     print(f"Rendered {OUTPUT.relative_to(ROOT)} at 1080 × 1920")
     print(f"Verified {len(layout['text'])} text elements, {len(layout['panels'])} panels, and actual browser fonts.")
-    print("Original coin, attributed estimates and sample scope verified; Georgia runtime-only; Python does not edit image pixels.")
+    print("Original coin and complete source chart verified; actual fonts and source scope verified; Georgia runtime-only; Python does not edit image pixels.")
 
 
 if __name__ == "__main__":

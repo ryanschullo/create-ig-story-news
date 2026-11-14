@@ -27,7 +27,7 @@ The original attached chart is archived unchanged as `assets/source-charts/ai-re
 - Chart title: “Estimated Annualized Revenue Run Rate of US vs. Chinese AI Companies, September 2026.”
 - Both bars and their company labels agree with the comparison above. Footer credits Epoch AI and Nikkei Asia.
 
-The user did not explicitly request this chart. Its embedded company/source labels become small at the maximum Story content width, so the final uses large typographic statistic panels instead. No original chart was cropped, redrawn, retyped, or altered. The preserved artwork remains source evidence. The new panels are not proportional bars or a substitute rendering of the chart.
+The user's standing instruction now requires the actual attached chart on every Kobeissi graphic. The final includes this complete unchanged original chart at the full usable width: **x104–961, y855–1426.875**, displayed at **857 × 571.875 CSS px** with its original 1560:1041 aspect ratio, browser subpixel rounding, and `object-fit: contain`. Title, axes, company labels, annotations, TKL logo, credits and full footer remain visible. No source chart content was cropped, redrawn, retyped or altered. The original chart retains its embedded typography; all newly authored text around it follows the current minimum sizes. Two concise statistic panels above it repeat the key figures with explicit company scope. The optional separate six-company list was removed because the full chart retains those names.
 
 ## Design and reproducibility
 
@@ -36,7 +36,7 @@ The user did not explicitly request this chart. Its embedded company/source labe
 - Renderer: `scripts/render_ai_revenue_divide_2026_11_13.py`.
 - Audit: `briefs/ai-revenue-divide-2026-11-13-layout.json`.
 - Generated background and exact prompt: `assets/ai-revenue-divide-background-2026-11-13.png` and matching `.md`.
-- Distinct indigo/lavender and copper conceptual AI-server environment; no generated chart, company logo or documentary claim.
+- Distinct indigo/lavender and copper conceptual AI-server environment, refined with the image tool for a quiet central chart region; no generated chart, company logo or documentary claim. Both exact generation/edit prompts are retained in the asset document and layout audit. Original generated outputs remain unchanged in `/workspace/generated_images`.
 - All authored text and containing panels fit inside x104–961, y164–1536. Actual font files: Lato Black 900 for labels/headlines/figures and Georgia 400 for body/qualifiers/sources. Every text node is checked using Chromium's actual-platform-font API, with minimums 33 px overall, 35 px body, and 51 px headlines.
 - The exact approved `assets/moneyberg-coin-original.png` is uniformly scaled to 180 × 180 at x843–1023, y183–363. Its master SHA-256 remains `4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716`. Its original portrait/rim are preserved inside a physical architectural recess, with compatible ambient light and contact shadows. The complete coin is within the upper 75% and clear of news content.
 - Original Georgia font is runtime-only and not redistributed. Background production credits are omitted from the graphic as requested; provenance is recorded here and in the asset document.
@@ -47,7 +47,7 @@ Render with an installed Playwright/fontTools runtime and genuine Georgia:
 python scripts/render_ai_revenue_divide_2026_11_13.py --georgia-font /path/to/Georgia.TTF
 ```
 
-The renderer verifies dimensions, fonts, source scope, all content bounds, non-overlap and coin integrity before saving the PNG. The final export was visually inspected for layout, legibility and coin integration.
+The renderer verifies dimensions, actual rendered fonts, source scope, all content bounds, non-overlap, original coin integrity and original chart integrity before saving the PNG. Chart checks cover its SHA-256, 1560 × 1041 natural resolution, 857 px display width, complete aspect ratio, `contain` fit, no clip path, and bounds. The final export was visually inspected for layout, legibility, complete chart artwork and coin integration.
 
 ## Delivery
 

@@ -14,7 +14,7 @@
   "minimum_headline_font_size_px": 51,
   "font_size_minimum_verified": true,
   "renderer": "Chromium via Playwright; HTML/CSS screenshot",
-  "background_sha256": "34f145b8e24321aca3257d37d8336fc379448a94ffb3a2de8e8b0ae76529192b",
+  "background_sha256": "32fd0d17848f5b1a72a85c4000439090730f6a8d28f5e1cd0977c4a7e1cb8caf",
   "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
   "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
   "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
@@ -166,190 +166,166 @@
         "font_size": "65px"
       },
       {
-        "id": "approximate",
-        "text": "Approximately",
-        "bounds": {
-          "left": 118,
-          "top": 649,
-          "right": 366.96875,
-          "bottom": 692,
-          "width": 248.96875,
-          "height": 43
-        },
-        "element_bounds": {
-          "left": 118,
-          "top": 646,
-          "right": 366.96875,
-          "bottom": 696,
-          "width": 248.96875,
-          "height": 50
-        },
-        "text_role": "body",
-        "font_family": "\"Moneyberg Georgia\"",
-        "font_weight": "400",
-        "font_size": "38px"
-      },
-      {
         "id": "hero",
-        "text": "$330B",
+        "text": "~$330B",
         "bounds": {
-          "left": 108,
-          "top": 698,
-          "right": 644.875,
-          "bottom": 926,
-          "width": 536.875,
-          "height": 228
+          "left": 110,
+          "top": 648,
+          "right": 484,
+          "bottom": 780,
+          "width": 374,
+          "height": 132
         },
         "element_bounds": {
-          "left": 108,
-          "top": 700,
-          "right": 644.875,
-          "bottom": 925,
-          "width": 536.875,
-          "height": 225
+          "left": 110,
+          "top": 648,
+          "right": 484,
+          "bottom": 780,
+          "width": 374,
+          "height": 132
         },
         "text_role": "headline",
         "font_family": "\"Moneyberg Lato Black\"",
         "font_weight": "900",
-        "font_size": "190px"
+        "font_size": "110px"
       },
       {
-        "id": "definition",
-        "text": "Non-dealer U.S. equity-index futures",
+        "id": "definition-one",
+        "text": "Non-dealer net longs",
         "bounds": {
-          "left": 118,
-          "top": 948,
-          "right": 753.96875,
-          "bottom": 993,
-          "width": 635.96875,
-          "height": 45
+          "left": 535,
+          "top": 664,
+          "right": 859.5,
+          "bottom": 704,
+          "width": 324.5,
+          "height": 40
         },
         "element_bounds": {
-          "left": 118,
-          "top": 944,
-          "right": 753.96875,
-          "bottom": 997,
-          "width": 635.96875,
-          "height": 53
+          "left": 535,
+          "top": 661,
+          "right": 859.5,
+          "bottom": 707,
+          "width": 324.5,
+          "height": 46
         },
         "text_role": "body",
         "font_family": "\"Moneyberg Georgia\"",
         "font_weight": "400",
-        "font_size": "39px"
+        "font_size": "35px"
+      },
+      {
+        "id": "definition-two",
+        "text": "U.S. equity-index futures",
+        "bounds": {
+          "left": 535,
+          "top": 711,
+          "right": 921.890625,
+          "bottom": 751,
+          "width": 386.890625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 535,
+          "top": 708,
+          "right": 921.890625,
+          "bottom": 754,
+          "width": 386.890625,
+          "height": 46
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
       },
       {
         "id": "change",
-        "text": "+$100B",
+        "text": "UP $100B OVER SIX MONTHS",
         "bounds": {
-          "left": 133,
-          "top": 1060,
-          "right": 475,
-          "bottom": 1179,
-          "width": 342,
-          "height": 119
+          "left": 118,
+          "top": 787,
+          "right": 609.96875,
+          "bottom": 829,
+          "width": 491.96875,
+          "height": 42
         },
         "element_bounds": {
-          "left": 133,
-          "top": 1060,
-          "right": 475,
-          "bottom": 1180,
-          "width": 342,
-          "height": 120
+          "left": 118,
+          "top": 785,
+          "right": 609.96875,
+          "bottom": 831,
+          "width": 491.96875,
+          "height": 46
         },
-        "text_role": "headline",
+        "text_role": "label",
         "font_family": "\"Moneyberg Lato Black\"",
         "font_weight": "900",
-        "font_size": "99px"
+        "font_size": "35px"
       },
       {
-        "id": "change-period",
-        "text": "over six months",
+        "id": "chart-note",
+        "text": "Chart label: Dec. 9, 2026; post: Nov. 13.",
         "bounds": {
-          "left": 136,
-          "top": 1197,
-          "right": 430.484375,
-          "bottom": 1245,
-          "width": 294.484375,
-          "height": 48
+          "left": 118,
+          "top": 1386,
+          "right": 696.421875,
+          "bottom": 1423,
+          "width": 578.421875,
+          "height": 37
         },
         "element_bounds": {
-          "left": 136,
-          "top": 1193,
-          "right": 430.484375,
-          "bottom": 1249,
-          "width": 294.484375,
-          "height": 56
+          "left": 118,
+          "top": 1383,
+          "right": 696.421875,
+          "bottom": 1426,
+          "width": 578.421875,
+          "height": 43
         },
-        "text_role": "body",
+        "text_role": "source",
         "font_family": "\"Moneyberg Georgia\"",
         "font_weight": "400",
-        "font_size": "42px"
+        "font_size": "33px"
       },
       {
-        "id": "record",
-        "text": "Second-highest on record",
+        "id": "chart-qualifier",
+        "text": "Chart observation date unverified.",
         "bounds": {
           "left": 118,
-          "top": 1330,
-          "right": 712.40625,
-          "bottom": 1393,
-          "width": 594.40625,
-          "height": 63
+          "top": 1430,
+          "right": 616.3125,
+          "bottom": 1467,
+          "width": 498.3125,
+          "height": 37
         },
         "element_bounds": {
           "left": 118,
-          "top": 1328,
-          "right": 712.40625,
-          "bottom": 1396,
-          "width": 594.40625,
-          "height": 68
+          "top": 1427,
+          "right": 616.3125,
+          "bottom": 1470,
+          "width": 498.3125,
+          "height": 43
         },
-        "text_role": "headline",
-        "font_family": "\"Moneyberg Lato Black\"",
-        "font_weight": "900",
-        "font_size": "53px"
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
       },
       {
         "id": "source",
-        "text": "Source: The Kobeissi Letter on X",
+        "text": "Source: The Kobeissi Letter / Goldman Sachs",
         "bounds": {
           "left": 118,
-          "top": 1433,
-          "right": 595.28125,
-          "bottom": 1470,
-          "width": 477.28125,
+          "top": 1483,
+          "right": 776.875,
+          "bottom": 1520,
+          "width": 658.875,
           "height": 37
         },
         "element_bounds": {
           "left": 118,
-          "top": 1430,
-          "right": 595.28125,
-          "bottom": 1473,
-          "width": 477.28125,
-          "height": 43
-        },
-        "text_role": "source",
-        "font_family": "\"Moneyberg Georgia\"",
-        "font_weight": "400",
-        "font_size": "33px"
-      },
-      {
-        "id": "source-date",
-        "text": "Post dated November 13, 2026",
-        "bounds": {
-          "left": 118,
-          "top": 1481,
-          "right": 564.828125,
-          "bottom": 1518,
-          "width": 446.828125,
-          "height": 37
-        },
-        "element_bounds": {
-          "left": 118,
-          "top": 1478,
-          "right": 564.828125,
-          "bottom": 1521,
-          "width": 446.828125,
+          "top": 1480,
+          "right": 776.875,
+          "bottom": 1523,
+          "width": 658.875,
           "height": 43
         },
         "text_role": "source",
@@ -358,19 +334,7 @@
         "font_size": "33px"
       }
     ],
-    "panels": [
-      {
-        "id": "change-panel",
-        "bounds": {
-          "left": 104,
-          "top": 1043,
-          "right": 961,
-          "bottom": 1286,
-          "width": 857,
-          "height": 243
-        }
-      }
-    ],
+    "panels": [],
     "scene_elements": [
       {
         "id": "coin-installation",
@@ -399,7 +363,19 @@
         "background": "linear-gradient(125deg, rgba(252, 221, 142, 0.1), rgba(0, 0, 0, 0) 48%, rgba(45, 31, 8, 0.12))"
       }
     ],
-    "illustrations": [],
+    "illustrations": [
+      {
+        "id": "source-chart",
+        "bounds": {
+          "left": 104,
+          "top": 850,
+          "right": 961,
+          "bottom": 1367.046875,
+          "width": 857,
+          "height": 517.046875
+        }
+      }
+    ],
     "fonts": [
       {
         "family": "Moneyberg Lato Black",
@@ -419,6 +395,10 @@
         "natural_height": 1672,
         "object_fit": "cover",
         "clip_path": "none",
+        "transform": "none",
+        "filter": "none",
+        "border_radius": "0px",
+        "opacity": "1",
         "bounds": {
           "left": 0,
           "top": 0,
@@ -434,6 +414,10 @@
         "natural_height": 2084,
         "object_fit": "contain",
         "clip_path": "none",
+        "transform": "none",
+        "filter": "saturate(0.78) brightness(0.94)",
+        "border_radius": "0px",
+        "opacity": "1",
         "bounds": {
           "left": 775,
           "top": 221,
@@ -441,6 +425,25 @@
           "bottom": 415,
           "width": 194,
           "height": 194
+        }
+      },
+      {
+        "id": "source-chart",
+        "natural_width": 1200,
+        "natural_height": 724,
+        "object_fit": "contain",
+        "clip_path": "none",
+        "transform": "none",
+        "filter": "none",
+        "border_radius": "0px",
+        "opacity": "1",
+        "bounds": {
+          "left": 104,
+          "top": 850,
+          "right": 961,
+          "bottom": 1367.046875,
+          "width": 857,
+          "height": 517.046875
         }
       }
     ],
@@ -515,40 +518,7 @@
       ]
     },
     {
-      "id": "approximate",
-      "fonts": [
-        {
-          "familyName": "Georgia",
-          "postScriptName": "Georgia",
-          "isCustomFont": true,
-          "glyphCount": 13
-        }
-      ]
-    },
-    {
       "id": "hero",
-      "fonts": [
-        {
-          "familyName": "Lato",
-          "postScriptName": "Lato-Black",
-          "isCustomFont": true,
-          "glyphCount": 5
-        }
-      ]
-    },
-    {
-      "id": "definition",
-      "fonts": [
-        {
-          "familyName": "Georgia",
-          "postScriptName": "Georgia",
-          "isCustomFont": true,
-          "glyphCount": 36
-        }
-      ]
-    },
-    {
-      "id": "change",
       "fonts": [
         {
           "familyName": "Lato",
@@ -559,18 +529,29 @@
       ]
     },
     {
-      "id": "change-period",
+      "id": "definition-one",
       "fonts": [
         {
           "familyName": "Georgia",
           "postScriptName": "Georgia",
           "isCustomFont": true,
-          "glyphCount": 15
+          "glyphCount": 20
         }
       ]
     },
     {
-      "id": "record",
+      "id": "definition-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 25
+        }
+      ]
+    },
+    {
+      "id": "change",
       "fonts": [
         {
           "familyName": "Lato",
@@ -581,24 +562,35 @@
       ]
     },
     {
+      "id": "chart-note",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 41
+        }
+      ]
+    },
+    {
+      "id": "chart-qualifier",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 34
+        }
+      ]
+    },
+    {
       "id": "source",
       "fonts": [
         {
           "familyName": "Georgia",
           "postScriptName": "Georgia",
           "isCustomFont": true,
-          "glyphCount": 32
-        }
-      ]
-    },
-    {
-      "id": "source-date",
-      "fonts": [
-        {
-          "familyName": "Georgia",
-          "postScriptName": "Georgia",
-          "isCustomFont": true,
-          "glyphCount": 28
+          "glyphCount": 43
         }
       ]
     }
@@ -612,6 +604,22 @@
     "height": 194
   },
   "whole_coin_upper_75_percent_verified": true,
+  "original_chart_sha256": "8c40b0f452dd1f07ac66f2dd84735da9b1044f65366951c35f8d20beceb4d60c",
+  "original_chart_natural_dimensions": [
+    1200,
+    724
+  ],
+  "chart_bounds": {
+    "left": 104,
+    "top": 850,
+    "right": 961,
+    "bottom": 1367.046875,
+    "width": 857,
+    "height": 517.046875
+  },
+  "full_original_chart_aspect_and_bounds_verified": true,
+  "chart_original_typography_preserved": true,
+  "chart_date_conflict_disclosed": true,
   "integration": {
     "method": "Exact original coin PNG seated in the generated circular brass recess of a institutional trading-hall limestone wall, with compatible warm brass light and contact shadow",
     "artwork": "Original uniformly scaled PNG; portrait, lettering and circular rim preserved",
@@ -622,12 +630,13 @@
     "background_provenance": "Conceptual ivory, teal and brass institutional trading environment, not a quantitative chart or actual trading-floor photograph"
   },
   "generation_prompts": [
+    "Refine this existing text-free 9:16 ivory, teal and brass institutional trading-hall background for a chart-focused Instagram Story. Preserve the architectural composition, stone wall, dark teal trading desks at the bottom, lighting and especially the EMPTY perfectly circular brass mounting recess in its exact existing upper-right location and diameter. Do not put a coin, lettering or portrait in the recess. The unchanged original Moneyberg coin will be composited there later. Subtly soften the stone texture and seams in the central chart region corresponding to x=104\u2013961,y=835\u20131367 on a 1080x1920 canvas; keep it an elegant natural ivory wall so a complete original white-background chart can sit cleanly over it. Keep the upper center quiet for the headline and large statistic, lower region y=1370\u20131536 quiet for readable source and chart-date qualification. Maintain the same premium bright limestone / deep teal / brass visual identity and subject-specific institutional finance environment. Do not draw the chart, chart data, text, arrows, logos, portraits, coins, badges, or numbers anywhere; all final news content is applied with exact original assets and real fonts in the browser. All news content will fit x=104\u2013961,y=164\u20131536, including a compact one-line secondary 'MONEYBERG NEWS BRIEF' label in Lato Black900 at35px; authored labels/dates\u226533px, headlineLatoBlack\u226551px; actual Georgia400 body\u226535px, captions/source\u226533px. These font specifications are only the downstream composition contract: DO NOT render any text in the background. This is decorative illustration, not an actual documentary photo or factual graph. Preserve the entire empty recess and keep it in the upper75% of the canvas.",
     "Create a portrait 9:16 premium financial-news background, intended for a final 1080 x 1920 Instagram Story. New image, text-free decorative environment only. Distinct sophisticated institutional trading hall: warm ivory limestone architecture, brushed brass detailing, dark teal glass, elegant financial-office ambience, softly lit rows of abstract unreadable trading terminals ONLY at the lower edge y=1580\u20131920 and along the extreme side edges. A restrained cinematic editorial environment, modern, tactile and realistic, no people. Main palette warm pale ivory, deep teal and antique brass, brighter than a typical black trading-room graphic. Composition: a nearly flat, quiet, very pale ivory front-facing architectural wall fills x=75\u2013990 and y=140\u20131540 for legible typography, with subtle soft natural lighting, no complicated lines or visible objects crossing that central content zone. At the upper right, on the front-facing wall, include a small perfectly circular EMPTY shallow brass medallion mounting recess centered near x=968,y=228, diameter about184px on the 1080x1920 composition; recess must face camera without perspective warping, be fully within the frame and above y=1440, and appear physically carved into the stone with a refined brass lip, realistic contact shadows and compatible warm light. Leave its center blank and dark brass. The actual approved original Moneyberg coin will be inserted unchanged into this recess later; do NOT draw any coin, portrait, logo or inscription. Make the room and architecture visibly continue around it so it belongs to the scene. Lower 20% reveals an attractive sophisticated institutional trading floor or trading desk through teal-tinted architectural glazing, abstract screens with no readable information and no numerical chart curves. No text, numbers, letters, logos, tickers, graphs, graphs posing as data, visible border frames, charts, extra medallions or badges anywhere. Composition contract for downstream typography: all added content confined to x=104\u2013961,y=164\u20131536; a compact single-line 'MONEYBERG NEWS BRIEF' in actual Lato Black 900 at35px; category/date minimum33px; headlines Lato Black minimum51px; body/source attribution actual Georgia400 minimum35px/body and33px/source. Do not render any of this typography in the image; leave quiet space for later exact-font browser rendering. Source story is attributed non-dealer U.S. equity-index futures positioning, not an actual photographed trading event. Photoreal material, exceptionally clean composition, no decorative financial line charts."
   ],
   "sources": [
     "https://x.com/KobeissiLetter/status/2121282186816913716"
   ],
-  "source_access": "Complete public X post and original attached Goldman Sachs chart inspected. Post publication 2026-11-13T16:40:59Z (10:40:59 CST). All three displayed figures are attributed to the post; independent Goldman series unavailable. The original chart has a future 9 Dec 2026 label relative to the post and is archived but omitted from this graphic.",
+  "source_access": "Complete public X post and original attached Goldman Sachs chart inspected. Post publication 2026-11-13T16:40:59Z (10:40:59 CST). Both displayed figures are attributed to the post; independent Goldman series unavailable. The original chart has a future 9 Dec 2026 label relative to the post and is preserved intact with the complete chart, and the discrepancy is disclosed visibly on the graphic.",
   "reporting_scope": {
     "edition_date": "2026-11-13",
     "source_publication_time_utc": "2026-11-13T16:40:59Z",
@@ -636,14 +645,17 @@
     "metric": "Non-dealer net long U.S. equity-index futures positioning",
     "reported_position_usd_billions_approximate": 330,
     "reported_six_month_increase_usd_billions": 100,
-    "reported_rank": "Second-highest on record",
+    "optional_rank_omitted_for_chart_space": true,
     "not_options": true,
     "not_cash_inflows": true,
     "no_market_wrap": true,
-    "original_chart_omitted_due_to_conflicting_date_label": true,
+    "original_chart_included_unchanged": true,
+    "chart_label_conflicts_with_post_date": true,
+    "chart_observation_date_unverified": true,
+    "visible_date_conflict_note": true,
     "omitted_historical_comparison": "Never exceeded $150B in 2010\u20132023; inconsistent with original chart",
     "no_generated_chart_or_logo": true,
     "conceptual_background_not_documentary": true
   },
-  "output_sha256": "961fda38f76c5040aaca6b0bb4139dff484032303f979c72d73230e649864592"
+  "output_sha256": "9d61362ffcb52f7739fb830b1f401e2cd4a4a5bd865ad980f4154bba2baf8bf3"
 }

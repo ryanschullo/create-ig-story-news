@@ -13,21 +13,18 @@
 #brand{left:118px;top:174px;font-size:35px;line-height:44px;letter-spacing:.25px}
 #category{left:118px;top:232px;font-size:33px;line-height:42px;letter-spacing:.5px;color:#c3b5f6}
 #date{left:118px;top:285px;font-size:33px;line-height:42px;color:#ccc5e2}
-.headline{left:118px;font-size:81px;line-height:96px;letter-spacing:-.7px}
-#headline-one{top:359px}#headline-two{top:466px;color:#c8b9ff}
-#metric{left:118px;top:585px;font-size:33px;line-height:43px;letter-spacing:.3px}
-#period{left:118px;top:635px;font-size:35px;line-height:47px;color:#d4cce6}
-.panel{position:absolute;left:104px;width:857px;z-index:3;background:linear-gradient(110deg,rgba(21,20,43,.97),rgba(17,17,34,.88));box-shadow:0 10px 20px #07071044}
-#us-panel{top:710px;height:239px;border-left:4px solid #baabff}
-#china-panel{top:989px;height:311px;border-left:4px solid #e8b985}
-#us-value{left:130px;top:708px;font-size:145px;line-height:168px;letter-spacing:-4px;color:#e0d7ff}
-#us-label{left:134px;top:885px;font-size:38px;line-height:48px;letter-spacing:.3px}
-#china-value{left:132px;top:986px;font-size:111px;line-height:137px;letter-spacing:-2px;color:#f1c99c}
-#china-label{left:134px;top:1132px;font-size:36px;line-height:46px;letter-spacing:.1px}
-.companies{left:134px;font-size:35px;line-height:47px;color:#eee2d5}
-#companies-one{top:1192px}#companies-two{top:1239px}
-#ratio{left:118px;top:1326px;font-size:36px;line-height:47px;color:#e1d6ff}
-#qualifier{left:118px;top:1380px;font-size:35px;line-height:47px;color:#dbd5e8}
+#headline{left:118px;top:369px;font-size:72px;line-height:88px;letter-spacing:-.8px;color:#ded5ff}
+#metric{left:118px;top:476px;font-size:33px;line-height:43px;letter-spacing:.3px}
+#period{left:118px;top:525px;font-size:35px;line-height:47px;color:#d4cce6}
+.panel{position:absolute;top:597px;height:177px;z-index:3;background:linear-gradient(110deg,rgba(21,20,43,.97),rgba(17,17,34,.88));box-shadow:0 10px 20px #07071044}
+#us-panel{left:104px;width:414px;border-left:4px solid #baabff}
+#china-panel{left:547px;width:414px;border-left:4px solid #e8b985}
+#us-value{left:124px;top:592px;font-size:96px;line-height:116px;letter-spacing:-2px;color:#e0d7ff}
+#us-label{left:126px;top:720px;font-size:33px;line-height:43px;letter-spacing:0}
+#china-value{left:567px;top:592px;font-size:96px;line-height:116px;letter-spacing:-2px;color:#f1c99c}
+#china-label{left:569px;top:720px;font-size:33px;line-height:43px;letter-spacing:0}
+#qualifier{left:118px;top:791px;font-size:35px;line-height:47px;color:#dbd5e8}
+#source-chart{position:absolute;left:104px;top:855px;width:857px;height:auto;object-fit:contain;z-index:4;display:block}
 #source-one,#source-two{left:118px;font-size:33px;line-height:43px;color:#d7d0e3}
 #source-one{top:1450px}#source-two{top:1491px}
 #coin-installation{position:absolute;left:843px;top:183px;width:180px;height:180px;z-index:2;border-radius:50%;background:linear-gradient(135deg,#b6a0ad,#453545 53%,#a47f59);box-shadow:inset 3px 4px 8px #2a1b31,2px 4px 8px rgba(4,3,12,.8),-1px -1px 2px #d6aac1}
@@ -39,8 +36,7 @@
 <div id="brand" class="text lato" data-news-text>MONEYBERG NEWS BRIEF</div>
 <div id="category" class="text lato" data-news-text>AI INVESTING</div>
 <div id="date" class="text lato" data-news-text>NOVEMBER 13, 2026 EDITION</div>
-<div id="headline-one" class="text lato headline" data-news-text data-text-role="headline">AI REVENUE</div>
-<div id="headline-two" class="text lato headline" data-news-text data-text-role="headline">DIVIDE</div>
+<div id="headline" class="text lato" data-news-text data-text-role="headline">AI REVENUE DIVIDE</div>
 <div id="metric" class="text lato" data-news-text>EST. ANNUALIZED REVENUE RUN RATE</div>
 <div id="period" class="text georgia" data-news-text data-text-role="body">Estimates as of end-September 2026</div>
 <div id="us-panel" class="panel" data-news-panel></div>
@@ -48,11 +44,9 @@
 <div id="us-label" class="text lato" data-news-text>OPENAI + ANTHROPIC</div>
 <div id="china-panel" class="panel" data-news-panel></div>
 <div id="china-value" class="text lato" data-news-text data-text-role="headline">$11B</div>
-<div id="china-label" class="text lato" data-news-text>SIX CHINESE AI COMPANIES</div>
-<div id="companies-one" class="text georgia companies" data-news-text data-text-role="body">Alibaba, ByteDance, DeepSeek,</div>
-<div id="companies-two" class="text georgia companies" data-news-text data-text-role="body">Z.ai, Moonshot AI and MiniMax</div>
-<div id="ratio" class="text lato" data-news-text>NEARLY 10× ACROSS THESE SELECTED FIRMS</div>
+<div id="china-label" class="text lato" data-news-text>6 CHINESE AI FIRMS</div>
 <div id="qualifier" class="text georgia" data-news-text data-text-role="body">Run rate is not actual annual revenue.</div>
+<img id="source-chart" data-news-illustration src="source-charts/ai-revenue-us-china-2026-11-13-chart.webp" alt="Original chart: Estimated Annualized Revenue Run Rate of US vs. Chinese AI Companies, September 2026. OpenAI and Anthropic: $105B; Alibaba Group, ByteDance, DeepSeek, Z.ai, Moonshot AI and MiniMax: $11B. Source: Epoch AI, Nikkei Asia; The Kobeissi Letter. Complete original chart artwork.">
 <div id="source-one" class="text georgia" data-news-text data-text-role="source">Source: The Kobeissi Letter on X</div>
 <div id="source-two" class="text georgia" data-news-text data-text-role="source">Data credited to Epoch AI / Nikkei Asia</div>
 </main></body></html>

@@ -32,6 +32,8 @@ ROOT = Path(__file__).resolve().parents[1]
 TEMPLATE = ROOT / "assets/layouts/institutional-equity-futures-2026-11-13.html"
 BACKGROUND = ROOT / "assets/institutional-equity-futures-background-2026-11-13.png"
 COIN = ROOT / "assets/moneyberg-coin-original.png"
+CHART = ROOT / "assets/source-charts/institutional-equity-futures-2026-11-13.png"
+CHART_HASH = "8c40b0f452dd1f07ac66f2dd84735da9b1044f65366951c35f8d20beceb4d60c"
 LATO = ROOT / "assets/fonts/lato/Lato-Black.ttf"
 OUTPUT = ROOT / "exports/institutional-equity-futures-2026-11-13.png"
 AUDIT = ROOT / "briefs/institutional-equity-futures-2026-11-13-layout.json"
@@ -81,6 +83,7 @@ def runtime_document(georgia: Path):
             "/assets/fonts/lato/Lato-Black.ttf": (LATO, "font/ttf"),
             "/assets/institutional-equity-futures-background-2026-11-13.png": (BACKGROUND, "image/png"),
             "/assets/moneyberg-coin-original.png": (COIN, "image/png"),
+            "/assets/source-charts/institutional-equity-futures-2026-11-13.png": (CHART, "image/png"),
         }
 
         class AssetHandler(BaseHTTPRequestHandler):
@@ -119,6 +122,8 @@ def runtime_document(georgia: Path):
 async def render(georgia: Path, background_source: Path | None):
     verify_font(LATO, "Lato", 900)
     verify_font(georgia, "Georgia", 400)
+    if sha256(CHART) != CHART_HASH:
+        raise ValueError("The original source chart has changed")
     if sha256(COIN) != COIN_HASH:
         raise ValueError("The original coin master has changed")
     if background_source is not None:
@@ -168,10 +173,23 @@ async def render(georgia: Path, background_source: Path | None):
                   images:Array.from(document.images).map(image => ({id:image.id,
                     natural_width:image.naturalWidth, natural_height:image.naturalHeight,
                     object_fit:getComputedStyle(image).objectFit, clip_path:getComputedStyle(image).clipPath,
+                    transform:getComputedStyle(image).transform, filter:getComputedStyle(image).filter,
+                    border_radius:getComputedStyle(image).borderRadius, opacity:getComputedStyle(image).opacity,
                     bounds:rect(image.getBoundingClientRect())})),
                   document_width:document.documentElement.scrollWidth,
                   document_height:document.documentElement.scrollHeight};
             }""")
+
+            chart = next(image for image in layout["images"] if image["id"] == "source-chart")
+            chart_bounds = chart["bounds"]
+            if (chart["natural_width"], chart["natural_height"]) != (1200, 724):
+                raise ValueError("The browser did not load the full original chart")
+            if abs(chart_bounds["width"] / chart_bounds["height"] - 1200 / 724) > 0.0001:
+                raise ValueError("Original chart aspect ratio was altered")
+            if (chart["object_fit"] != "contain" or chart["clip_path"] != "none"
+                    or chart["transform"] != "none" or chart["filter"] != "none"
+                    or chart["border_radius"] != "0px" or chart["opacity"] != "1"):
+                raise ValueError("Original chart has been cropped, transformed or visually altered")
 
             coin = next(image for image in layout["images"] if image["id"] == "coin")
             coin_bounds = coin["bounds"]
@@ -199,7 +217,7 @@ async def render(georgia: Path, background_source: Path | None):
                 raise ValueError("Scene integration is missing recess/contact shading")
             if any("Background:" in item["text"] for item in layout["text"]):
                 raise ValueError("An unwanted background-production credit remains")
-            required = {'brand': 'MONEYBERG NEWS BRIEF', 'category': 'STOCK MARKET', 'date': 'NOVEMBER 13, 2026', 'attribution': 'KOBEISSI REPORTS', 'headline-one': 'EQUITY FUTURES', 'headline-two': 'NET LONG POSITIONING', 'approximate': 'Approximately', 'hero': '$330B', 'definition': 'Non-dealer U.S. equity-index futures', 'change': '+$100B', 'change-period': 'over six months', 'record': 'Second-highest on record', 'source': 'Source: The Kobeissi Letter on X', 'source-date': 'Post dated November 13, 2026'}
+            required = {'brand': 'MONEYBERG NEWS BRIEF', 'category': 'STOCK MARKET', 'date': 'NOVEMBER 13, 2026', 'attribution': 'KOBEISSI REPORTS', 'headline-one': 'EQUITY FUTURES', 'headline-two': 'NET LONG POSITIONING', 'hero': '~$330B', 'definition-one': 'Non-dealer net longs', 'definition-two': 'U.S. equity-index futures', 'change': 'UP $100B OVER SIX MONTHS', 'chart-note': 'Chart label: Dec. 9, 2026; post: Nov. 13.', 'chart-qualifier': 'Chart observation date unverified.', 'source': 'Source: The Kobeissi Letter / Goldman Sachs'}
             actual_copy = {item["id"]: item["text"] for item in layout["text"]}
             for key, text in required.items():
                 if actual_copy.get(key) != text:
@@ -258,10 +276,13 @@ async def render(georgia: Path, background_source: Path | None):
              "lato_black_sha256": sha256(LATO), "georgia_runtime_sha256": sha256(georgia),
              "georgia_redistributed": False, "layout": layout, "platform_fonts": platform_fonts,
              "coin_bounds": coin_bounds, "whole_coin_upper_75_percent_verified": True,
+             "original_chart_sha256": sha256(CHART), "original_chart_natural_dimensions": [1200, 724],
+             "chart_bounds": chart_bounds, "full_original_chart_aspect_and_bounds_verified": True,
+             "chart_original_typography_preserved": True, "chart_date_conflict_disclosed": True,
              "integration": INTEGRATION, "generation_prompts": GENERATION_PROMPTS,
              'sources': ['https://x.com/KobeissiLetter/status/2121282186816913716'],
-             'source_access': 'Complete public X post and original attached Goldman Sachs chart inspected. Post publication 2026-11-13T16:40:59Z (10:40:59 CST). All three displayed figures are attributed to the post; independent Goldman series unavailable. The original chart has a future 9 Dec 2026 label relative to the post and is archived but omitted from this graphic.',
-             'reporting_scope': {'edition_date': '2026-11-13', 'source_publication_time_utc': '2026-11-13T16:40:59Z', 'source_publication_time_chicago': '2026-11-13T10:40:59-06:00', 'content_basis': 'Figures explicitly attributed to The Kobeissi Letter post; no independent verification of Goldman Sachs underlying series claimed', 'metric': 'Non-dealer net long U.S. equity-index futures positioning', 'reported_position_usd_billions_approximate': 330, 'reported_six_month_increase_usd_billions': 100, 'reported_rank': 'Second-highest on record', 'not_options': True, 'not_cash_inflows': True, 'no_market_wrap': True, 'original_chart_omitted_due_to_conflicting_date_label': True, 'omitted_historical_comparison': 'Never exceeded $150B in 2010–2023; inconsistent with original chart', 'no_generated_chart_or_logo': True, 'conceptual_background_not_documentary': True},
+             'source_access': 'Complete public X post and original attached Goldman Sachs chart inspected. Post publication 2026-11-13T16:40:59Z (10:40:59 CST). Both displayed figures are attributed to the post; independent Goldman series unavailable. The original chart has a future 9 Dec 2026 label relative to the post and is preserved intact with the complete chart, and the discrepancy is disclosed visibly on the graphic.',
+             'reporting_scope': {'edition_date': '2026-11-13', 'source_publication_time_utc': '2026-11-13T16:40:59Z', 'source_publication_time_chicago': '2026-11-13T10:40:59-06:00', 'content_basis': 'Figures explicitly attributed to The Kobeissi Letter post; no independent verification of Goldman Sachs underlying series claimed', 'metric': 'Non-dealer net long U.S. equity-index futures positioning', 'reported_position_usd_billions_approximate': 330, 'reported_six_month_increase_usd_billions': 100, 'optional_rank_omitted_for_chart_space': True, 'not_options': True, 'not_cash_inflows': True, 'no_market_wrap': True, 'original_chart_included_unchanged': True, 'chart_label_conflicts_with_post_date': True, 'chart_observation_date_unverified': True, 'visible_date_conflict_note': True, 'omitted_historical_comparison': 'Never exceeded $150B in 2010–2023; inconsistent with original chart', 'no_generated_chart_or_logo': True, 'conceptual_background_not_documentary': True},
              "output_sha256": sha256(OUTPUT)}
     AUDIT.parent.mkdir(parents=True, exist_ok=True)
     AUDIT.write_text(json.dumps(audit, indent=2) + "\n", encoding="utf-8")

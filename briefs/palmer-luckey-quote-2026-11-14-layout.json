@@ -1,0 +1,653 @@
+{
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "inner_bounds": [
+    104,
+    164,
+    961,
+    1536
+  ],
+  "minimum_authored_font_size_px": 33,
+  "minimum_body_font_size_px": 35,
+  "minimum_headline_font_size_px": 51,
+  "font_size_minimum_verified": true,
+  "renderer": "Chromium via Playwright; HTML/CSS screenshot",
+  "background_sha256": "3559942391b46b7fb50bbda00049fecfe3460fcc99b0bb9957effd5427aa241f",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
+  "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
+  "georgia_redistributed": false,
+  "layout": {
+    "text": [
+      {
+        "id": "brand",
+        "text": "MONEYBERG NEWS BRIEF",
+        "bounds": {
+          "left": 118,
+          "top": 175,
+          "right": 562.109375,
+          "bottom": 217,
+          "width": 444.109375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 174,
+          "right": 562.109375,
+          "bottom": 218,
+          "width": 444.109375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "category",
+        "text": "AI INVESTING",
+        "bounds": {
+          "left": 118,
+          "top": 235,
+          "right": 340.1875,
+          "bottom": 275,
+          "width": 222.1875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 234,
+          "right": 340.1875,
+          "bottom": 276,
+          "width": 222.1875,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "date",
+        "text": "POSTED NOVEMBER 12, 2026",
+        "bounds": {
+          "left": 118,
+          "top": 289,
+          "right": 581.03125,
+          "bottom": 329,
+          "width": 463.03125,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 288,
+          "right": 581.03125,
+          "bottom": 330,
+          "width": 463.03125,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "headline-one",
+        "text": "PALMER",
+        "bounds": {
+          "left": 118,
+          "top": 445,
+          "right": 420.515625,
+          "bottom": 537,
+          "width": 302.515625,
+          "height": 92
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 443,
+          "right": 420.515625,
+          "bottom": 539,
+          "width": 302.515625,
+          "height": 96
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "77px"
+      },
+      {
+        "id": "headline-two",
+        "text": "LUCKEY",
+        "bounds": {
+          "left": 118,
+          "top": 548,
+          "right": 409.734375,
+          "bottom": 640,
+          "width": 291.734375,
+          "height": 92
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 546,
+          "right": 409.734375,
+          "bottom": 642,
+          "width": 291.734375,
+          "height": 96
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "77px"
+      },
+      {
+        "id": "role",
+        "text": "Anduril founder",
+        "bounds": {
+          "left": 118,
+          "top": 668,
+          "right": 375,
+          "bottom": 709,
+          "width": 257,
+          "height": 41
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 665,
+          "right": 375,
+          "bottom": 713,
+          "width": 257,
+          "height": 48
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "36px"
+      },
+      {
+        "id": "context-one",
+        "text": "ON JENSEN",
+        "bounds": {
+          "left": 118,
+          "top": 767,
+          "right": 313.03125,
+          "bottom": 808,
+          "width": 195.03125,
+          "height": 41
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 766,
+          "right": 313.03125,
+          "bottom": 810,
+          "width": 195.03125,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "34px"
+      },
+      {
+        "id": "context-two",
+        "text": "HUANG",
+        "bounds": {
+          "left": 118,
+          "top": 813,
+          "right": 248.828125,
+          "bottom": 854,
+          "width": 130.828125,
+          "height": 41
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 812,
+          "right": 248.828125,
+          "bottom": 856,
+          "width": 130.828125,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "34px"
+      },
+      {
+        "id": "quote-one",
+        "text": "\u201cChina wants Jensen",
+        "bounds": {
+          "left": 118,
+          "top": 1060,
+          "right": 778.5,
+          "bottom": 1145,
+          "width": 660.5,
+          "height": 85
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1052,
+          "right": 778.5,
+          "bottom": 1154,
+          "width": 660.5,
+          "height": 102
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "75px"
+      },
+      {
+        "id": "quote-two",
+        "text": "out, so I want him in.\u201d",
+        "bounds": {
+          "left": 118,
+          "top": 1168,
+          "right": 815.640625,
+          "bottom": 1253,
+          "width": 697.640625,
+          "height": 85
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1160,
+          "right": 815.640625,
+          "bottom": 1262,
+          "width": 697.640625,
+          "height": 102
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "75px"
+      },
+      {
+        "id": "timing-one",
+        "text": "Posted before Huang\u2019s",
+        "bounds": {
+          "left": 118,
+          "top": 1335,
+          "right": 465.203125,
+          "bottom": 1375,
+          "width": 347.203125,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1332,
+          "right": 465.203125,
+          "bottom": 1378,
+          "width": 347.203125,
+          "height": 46
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "timing-two",
+        "text": "NVIDIA departure was announced.",
+        "bounds": {
+          "left": 118,
+          "top": 1381,
+          "right": 662.53125,
+          "bottom": 1421,
+          "width": 544.53125,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1378,
+          "right": 662.53125,
+          "bottom": 1424,
+          "width": 544.53125,
+          "height": 46
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "source-one",
+        "text": "Quote: @PalmerLuckey on X",
+        "bounds": {
+          "left": 118,
+          "top": 1453,
+          "right": 540.734375,
+          "bottom": 1490,
+          "width": 422.734375,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1450,
+          "right": 540.734375,
+          "bottom": 1493,
+          "width": 422.734375,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      },
+      {
+        "id": "source-two",
+        "text": "Context: The Verge",
+        "bounds": {
+          "left": 118,
+          "top": 1495,
+          "right": 397.90625,
+          "bottom": 1532,
+          "width": 279.90625,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1492,
+          "right": 397.90625,
+          "bottom": 1535,
+          "width": 279.90625,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      }
+    ],
+    "panels": [],
+    "scene_elements": [
+      {
+        "id": "coin-installation",
+        "bounds": {
+          "left": 760,
+          "top": 172,
+          "right": 998,
+          "bottom": 410,
+          "width": 238,
+          "height": 238
+        },
+        "box_shadow": "rgb(38, 51, 42) 4px 5px 9px 0px inset, rgba(1, 10, 8, 0.8) 2px 5px 9px 0px, rgb(213, 185, 128) -1px -1px 2px 0px",
+        "background": "linear-gradient(135deg, rgb(170, 142, 87), rgb(48, 64, 57) 53%, rgb(182, 139, 69))"
+      },
+      {
+        "id": "coin-contact",
+        "bounds": {
+          "left": 760,
+          "top": 172,
+          "right": 998,
+          "bottom": 410,
+          "width": 238,
+          "height": 238
+        },
+        "box_shadow": "rgba(18, 35, 29, 0.5) 4px 5px 8px 0px inset, rgba(234, 208, 153, 0.26) -2px -2px 4px 0px inset",
+        "background": "linear-gradient(125deg, rgba(164, 195, 168, 0.07), rgba(0, 0, 0, 0) 46%, rgba(6, 26, 18, 0.13))"
+      }
+    ],
+    "illustrations": [
+      {
+        "id": "portrait-region",
+        "bounds": {
+          "left": 535,
+          "top": 500,
+          "right": 961,
+          "bottom": 974,
+          "width": 426,
+          "height": 474
+        }
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Moneyberg Lato Black",
+        "weight": "900",
+        "status": "loaded"
+      },
+      {
+        "family": "Moneyberg Georgia",
+        "weight": "400",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "id": "background",
+        "natural_width": 941,
+        "natural_height": 1671,
+        "object_fit": "cover",
+        "clip_path": "none",
+        "bounds": {
+          "left": -40,
+          "top": 0,
+          "right": 1040,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        }
+      },
+      {
+        "id": "coin",
+        "natural_width": 2084,
+        "natural_height": 2084,
+        "object_fit": "contain",
+        "clip_path": "none",
+        "bounds": {
+          "left": 760,
+          "top": 172,
+          "right": 998,
+          "bottom": 410,
+          "width": 238,
+          "height": 238
+        }
+      }
+    ],
+    "document_width": 1080,
+    "document_height": 1920
+  },
+  "platform_fonts": [
+    {
+      "id": "brand",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "category",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 12
+        }
+      ]
+    },
+    {
+      "id": "date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 24
+        }
+      ]
+    },
+    {
+      "id": "headline-one",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 6
+        }
+      ]
+    },
+    {
+      "id": "headline-two",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 6
+        }
+      ]
+    },
+    {
+      "id": "role",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 15
+        }
+      ]
+    },
+    {
+      "id": "context-one",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 9
+        }
+      ]
+    },
+    {
+      "id": "context-two",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 5
+        }
+      ]
+    },
+    {
+      "id": "quote-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 19
+        }
+      ]
+    },
+    {
+      "id": "quote-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 23
+        }
+      ]
+    },
+    {
+      "id": "timing-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 21
+        }
+      ]
+    },
+    {
+      "id": "timing-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 31
+        }
+      ]
+    },
+    {
+      "id": "source-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 25
+        }
+      ]
+    },
+    {
+      "id": "source-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 18
+        }
+      ]
+    }
+  ],
+  "coin_bounds": {
+    "left": 760,
+    "top": 172,
+    "right": 998,
+    "bottom": 410,
+    "width": 238,
+    "height": 238
+  },
+  "whole_coin_upper_75_percent_verified": true,
+  "integration": {
+    "method": "Exact original coin seated in generated brass architectural studio recess, with compatible ambient tone and contact shadow",
+    "artwork": "Original uniformly scaled PNG, portrait, lettering and circular rim preserved",
+    "image_generation_role": "Conceptual engineering studio and clearly illustrated Palmer Luckey portrait based on a verified photographic likeness reference; no documentary event image",
+    "topic": "Palmer Luckey quotation about Jensen Huang, posted before his NVIDIA departure announcement",
+    "category_badge": "AI INVESTING",
+    "background_credit_on_graphic": false,
+    "background_provenance": "Editorial portrait and conceptual studio; original photo by Xuthoria CC BY-SA4.0 with attribution and adaptation notice in accompanying asset provenance"
+  },
+  "generation_prompts": [
+    "Create a premium text-free background WITH A CLEARLY ILLUSTRATED EDITORIAL PORTRAIT for a 9:16 Instagram Story, intended final canvas1080x1920. Subject is Palmer Luckey. Use the supplied authentic Palmer Luckey photograph ONLY as a likeness reference: preserve his recognizable dark wavy hair, rounded face, distinct pointed chin goatee and teal patterned Hawaiian-style shirt. Transform him into a sophisticated hand-drawn ink-and-wash editorial portrait with visible fine crosshatching, warm ivory ink highlights, muted teal fabric, tasteful copper accents; not a photoreal documentary scene. Show his head and upper shoulders with hands absent, neutral thoughtful expression, slightly toward viewer. No new gesture or props. Keep the entire portrait drawing strictly within x590\u2013947,y405\u2013845 on the final1080x1920 canvas. No portrait details, shoulders or hair may extend outside that reserved rectangle. No frame around it; it should emerge elegantly against the dark drawing surface.\n\nComposition: dark graphite and petrol-blue matte architectural drawing-studio wall, subtle embossed precision-engineering traces along extreme side margins, a few physical brass and steel structural edges. Below y1590, show the quiet corner of an advanced hardware design studio, a folded unbranded engineering blueprint, a precision metal component and warm side lighting. No weapons, flags, maps, China-related allegory, corporate logos, equations, numeric charts, screens with fabricated data, or dramatic event depiction. The overall mood is a strong technology-founder quote portrait, not a news event photograph. Subject portrait remains the only person.\n\nLeave all area x104\u2013961,y164\u20131536 calm and dark for later readable typography except the reserved portrait rectangle. Especially keep x104\u2013565,y360\u2013850 EMPTY for later name, and x104\u2013961,y890\u20131536 EMPTY for the large exact quote and source. The typography will be added separately using genuine font files: MONEYBERG NEWS BRIEF small one line in Lato Black900 at35px nearx118,y174; AI INVESTING and POSTED NOVEMBER12,2026 below; PALMER / LUCKEY atx118,y410\u2013580 in LatoBlack900 at75px; Anduril founder and ON JENSEN HUANG beneath. Then the exact quote \u201cChina wants Jensen out, so I want him in.\u201d in Georgia400 ataround80px, across3lines aroundy930\u20131250. Sources in Georgia400 at33px below. Do not render ANY of these words or any lettering. Actual typography must have33pxhardminimum,35pxbodyminimum,51pxheadlineminimum, all inside x104\u2013961,y164\u20131536. No bounding rectangle or editorial-illustration credit.\n\nCreate a SINGLE EMPTY circular brass medallion recess integrated into the upper-right vertical architectural metal trim, intended centerx940,y245, innerdiameter170px. Front-facing true circle, fully inside frame; empty dark interior with narrow antique brass bezel, contact shadows and compatible cool daylight/warmbrassreflection. This physical recess will receive the user's EXACT original gold Moneyberg coin artwork later, uniformly scaled with portrait/rimlettering unchanged. DO NOT generate a coin, face or text inside it. All of its rim must end above y375, keeping it clear of the separate Palmer portrait beginningy405. Entire eventual coin stays inupper75%,y0\u20131440. No floating badge.\n\nOutput ONLY the illustrated environment and the carefully placed illustrated Palmer portrait. No text, numbers, logos, quotation marks, watermarks or fake coin.",
+    "Edit this illustrated Palmer Luckey quote-card background ONLY to reduce and reposition the portrait. Preserve the entire dark teal precision-studio environment, brass rim medallion recess at top right, blank wall, and lower workbench. The existing portrait is much too large. REMOVE the existing large portrait completely, restoring wall texture behind it, then place the SAME clearly illustrated recognizable Palmer Luckey portrait at roughly 65% of its current width and height, shifted to the upper right. On the intended1080x1920 final canvas, EVERY part of his hair, face, shirt and shoulders MUST fit within x590\u2013945,y410\u2013835. Leave all x104\u2013565,y360\u2013870 completely empty and all x104\u2013961,y880\u20131536 completely empty for added text. Do not extend his shirt toward center or past right945. Head and upper shoulders only, no hands. Keep the original illustrated face likeness, wavy hair, goatee and teal Hawaiian shirt. It must remain clearly drawn, not a documentary photo. Do not duplicate him. This is a strict layout correction, not a new composition.\n\nDo not draw any typography, logo, coin, chart or labels. Later actual typography uses the exact compact one-line MONEYBERG NEWS BRIEF in Lato Black900 at35px, Lato Black900 name/headings at75px, and the exact quote \u201cChina wants Jensen out, so I want him in.\u201d in Georgia400 at80px. All added text remains x104\u2013961,y164\u20131536, minimum33pxoverall/35pxbody/51pxheadline. The original Moneyberg coin will be composited unchanged into the existing empty brass recess, fullrimupper75%, preservingexactportraitandlettering. Do not render a coin or alter that recess. No background credit."
+  ],
+  "sources": [
+    "https://x.com/PalmerLuckey/status/2120770412741263858",
+    "https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions",
+    "https://nypost.com/2026/11/12/business/elon-musk-he-would-hire-jensen-huang-after-of-nvidia-resignation/"
+  ],
+  "source_access": "Full public X post and metadata read; full The Verge and New York Post articles corroborate the referent and chronology. The quoted opinion about China is not independently asserted as fact.",
+  "reporting_scope": {
+    "edition_date": "2026-11-14",
+    "post_utc": "2026-11-12T06:47:23Z",
+    "post_chicago": "2026-11-12T00:47:23-06:00",
+    "exact_quote": "China wants Jensen out, so I want him in.",
+    "quote_is_complete": true,
+    "no_ellipsis_or_word_changes": true,
+    "speaker": "Palmer Luckey",
+    "role": "Anduril founder",
+    "referred_person": "Jensen Huang",
+    "identity_context_source": "The Verge, corroborated by New York Post",
+    "chronology": "Post preceded the public announcement of Huang departure",
+    "attributed_opinion_not_verified_China_position": true,
+    "no_attached_chart_or_media": true,
+    "no_generated_chart_or_logo": true,
+    "portrait_region_manual_visual_check": true,
+    "conceptual_background_not_documentary": true
+  },
+  "output_sha256": "bab52667c93db167850779edc04c486a34b25d28dffe4fd0bf300c2a57a4fe74"
+}

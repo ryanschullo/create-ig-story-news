@@ -67,6 +67,17 @@ Assign nuclear-power-focused stories primarily to `NUCLEAR ENERGY INVESTING`,
 counting each story once. Follow the skill's nuclear scope, project-milestone,
 capacity, financial, and subject-specific design guidance.
 
+For every new or revised graphic based on **The Kobeissi Letter**, always
+include the actual chart or charts attached to the selected post. Preserve
+the complete original artwork, aspect ratio, title, axes, labels, legend and
+credits. Do not omit the chart in favor of statistic panels, including for
+readability: reflow or shorten surrounding copy, enlarge the chart, or add a
+dedicated Story slide when needed. Keep original chart typography intact and
+apply the current minimums to all newly authored text. Preserve any conflicting
+source labels and explain material discrepancies visibly; never silently fix
+the source chart or present unverified timing as fact. If no chart is attached,
+do not invent one. Follow the skill's full Kobeissi-chart rule.
+
 For `OPTIONS INVESTING`, actively seek multiple fresh candidates and include
 strong options stories when available. Keep its category badge separate from
 the compact `MONEYBERG NEWS BRIEF` brand label. Follow the skill's options
