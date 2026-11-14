@@ -1,0 +1,782 @@
+{
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "inner_bounds": [
+    104,
+    164,
+    961,
+    1536
+  ],
+  "minimum_authored_font_size_px": 33,
+  "minimum_body_font_size_px": 35,
+  "minimum_headline_font_size_px": 51,
+  "font_size_minimum_verified": true,
+  "renderer": "Chromium via Playwright; HTML/CSS screenshot",
+  "background_sha256": "83b3de8d1ff8e61f04c922d4d2890666f2263533792dfd9ee6b7f669947e2e1f",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
+  "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
+  "georgia_redistributed": false,
+  "layout": {
+    "text": [
+      {
+        "id": "brand",
+        "text": "MONEYBERG NEWS BRIEF",
+        "bounds": {
+          "left": 118,
+          "top": 175,
+          "right": 562.109375,
+          "bottom": 217,
+          "width": 444.109375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 174,
+          "right": 562.109375,
+          "bottom": 218,
+          "width": 444.109375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "category",
+        "text": "AI INVESTING",
+        "bounds": {
+          "left": 118,
+          "top": 233,
+          "right": 340.1875,
+          "bottom": 273,
+          "width": 222.1875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 232,
+          "right": 340.1875,
+          "bottom": 274,
+          "width": 222.1875,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "date",
+        "text": "NOVEMBER 13, 2026 EDITION",
+        "bounds": {
+          "left": 118,
+          "top": 286,
+          "right": 587.6875,
+          "bottom": 326,
+          "width": 469.6875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 285,
+          "right": 587.6875,
+          "bottom": 327,
+          "width": 469.6875,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "headline-one",
+        "text": "AI REVENUE",
+        "bounds": {
+          "left": 118,
+          "top": 358,
+          "right": 583.640625,
+          "bottom": 455,
+          "width": 465.640625,
+          "height": 97
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 359,
+          "right": 583.640625,
+          "bottom": 455,
+          "width": 465.640625,
+          "height": 96
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "81px"
+      },
+      {
+        "id": "headline-two",
+        "text": "DIVIDE",
+        "bounds": {
+          "left": 118,
+          "top": 465,
+          "right": 389.53125,
+          "bottom": 562,
+          "width": 271.53125,
+          "height": 97
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 466,
+          "right": 389.53125,
+          "bottom": 562,
+          "width": 271.53125,
+          "height": 96
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "81px"
+      },
+      {
+        "id": "metric",
+        "text": "EST. ANNUALIZED REVENUE RUN RATE",
+        "bounds": {
+          "left": 118,
+          "top": 586,
+          "right": 737.328125,
+          "bottom": 626,
+          "width": 619.328125,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 585,
+          "right": 737.328125,
+          "bottom": 628,
+          "width": 619.328125,
+          "height": 43
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "period",
+        "text": "Estimates as of end-September 2026",
+        "bounds": {
+          "left": 118,
+          "top": 638,
+          "right": 686.125,
+          "bottom": 678,
+          "width": 568.125,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 635,
+          "right": 686.125,
+          "bottom": 682,
+          "width": 568.125,
+          "height": 47
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "us-value",
+        "text": "$105B",
+        "bounds": {
+          "left": 130,
+          "top": 705,
+          "right": 542.609375,
+          "bottom": 879,
+          "width": 412.609375,
+          "height": 174
+        },
+        "element_bounds": {
+          "left": 130,
+          "top": 708,
+          "right": 542.609375,
+          "bottom": 876,
+          "width": 412.609375,
+          "height": 168
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "145px"
+      },
+      {
+        "id": "us-label",
+        "text": "OPENAI + ANTHROPIC",
+        "bounds": {
+          "left": 134,
+          "top": 886,
+          "right": 546.109375,
+          "bottom": 932,
+          "width": 412.109375,
+          "height": 46
+        },
+        "element_bounds": {
+          "left": 134,
+          "top": 885,
+          "right": 546.109375,
+          "bottom": 933,
+          "width": 412.109375,
+          "height": 48
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "38px"
+      },
+      {
+        "id": "china-value",
+        "text": "$11B",
+        "bounds": {
+          "left": 132,
+          "top": 987,
+          "right": 390.796875,
+          "bottom": 1121,
+          "width": 258.796875,
+          "height": 134
+        },
+        "element_bounds": {
+          "left": 132,
+          "top": 986,
+          "right": 390.796875,
+          "bottom": 1123,
+          "width": 258.796875,
+          "height": 137
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "111px"
+      },
+      {
+        "id": "china-label",
+        "text": "SIX CHINESE AI COMPANIES",
+        "bounds": {
+          "left": 134,
+          "top": 1133,
+          "right": 615.578125,
+          "bottom": 1177,
+          "width": 481.578125,
+          "height": 44
+        },
+        "element_bounds": {
+          "left": 134,
+          "top": 1132,
+          "right": 615.578125,
+          "bottom": 1178,
+          "width": 481.578125,
+          "height": 46
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "36px"
+      },
+      {
+        "id": "companies-one",
+        "text": "Alibaba, ByteDance, DeepSeek,",
+        "bounds": {
+          "left": 134,
+          "top": 1195,
+          "right": 616.140625,
+          "bottom": 1235,
+          "width": 482.140625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 134,
+          "top": 1192,
+          "right": 616.140625,
+          "bottom": 1239,
+          "width": 482.140625,
+          "height": 47
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "companies-two",
+        "text": "Z.ai, Moonshot AI and MiniMax",
+        "bounds": {
+          "left": 134,
+          "top": 1242,
+          "right": 629.828125,
+          "bottom": 1282,
+          "width": 495.828125,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 134,
+          "top": 1239,
+          "right": 629.828125,
+          "bottom": 1286,
+          "width": 495.828125,
+          "height": 47
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "ratio",
+        "text": "NEARLY 10\u00d7 ACROSS THESE SELECTED FIRMS",
+        "bounds": {
+          "left": 118,
+          "top": 1327,
+          "right": 888.265625,
+          "bottom": 1371,
+          "width": 770.265625,
+          "height": 44
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1326,
+          "right": 888.265625,
+          "bottom": 1373,
+          "width": 770.265625,
+          "height": 47
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "36px"
+      },
+      {
+        "id": "qualifier",
+        "text": "Run rate is not actual annual revenue.",
+        "bounds": {
+          "left": 118,
+          "top": 1383,
+          "right": 704.90625,
+          "bottom": 1423,
+          "width": 586.90625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1380,
+          "right": 704.90625,
+          "bottom": 1427,
+          "width": 586.90625,
+          "height": 47
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "source-one",
+        "text": "Source: The Kobeissi Letter on X",
+        "bounds": {
+          "left": 118,
+          "top": 1453,
+          "right": 595.28125,
+          "bottom": 1490,
+          "width": 477.28125,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1450,
+          "right": 595.28125,
+          "bottom": 1493,
+          "width": 477.28125,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      },
+      {
+        "id": "source-two",
+        "text": "Data credited to Epoch AI / Nikkei Asia",
+        "bounds": {
+          "left": 118,
+          "top": 1494,
+          "right": 693.15625,
+          "bottom": 1531,
+          "width": 575.15625,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1491,
+          "right": 693.15625,
+          "bottom": 1534,
+          "width": 575.15625,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      }
+    ],
+    "panels": [
+      {
+        "id": "us-panel",
+        "bounds": {
+          "left": 104,
+          "top": 710,
+          "right": 961,
+          "bottom": 949,
+          "width": 857,
+          "height": 239
+        }
+      },
+      {
+        "id": "china-panel",
+        "bounds": {
+          "left": 104,
+          "top": 989,
+          "right": 961,
+          "bottom": 1300,
+          "width": 857,
+          "height": 311
+        }
+      }
+    ],
+    "scene_elements": [
+      {
+        "id": "coin-installation",
+        "bounds": {
+          "left": 843,
+          "top": 183,
+          "right": 1023,
+          "bottom": 363,
+          "width": 180,
+          "height": 180
+        },
+        "box_shadow": "rgb(42, 27, 49) 3px 4px 8px 0px inset, rgba(4, 3, 12, 0.8) 2px 4px 8px 0px, rgb(214, 170, 193) -1px -1px 2px 0px",
+        "background": "linear-gradient(135deg, rgb(182, 160, 173), rgb(69, 53, 69) 53%, rgb(164, 127, 89))"
+      },
+      {
+        "id": "coin-contact",
+        "bounds": {
+          "left": 843,
+          "top": 183,
+          "right": 1023,
+          "bottom": 363,
+          "width": 180,
+          "height": 180
+        },
+        "box_shadow": "rgba(33, 19, 52, 0.48) 3px 4px 8px 0px inset, rgba(235, 208, 164, 0.25) -2px -2px 3px 0px inset",
+        "background": "linear-gradient(125deg, rgba(158, 130, 210, 0.09), rgba(0, 0, 0, 0) 46%, rgba(19, 10, 33, 0.12))"
+      }
+    ],
+    "illustrations": [],
+    "fonts": [
+      {
+        "family": "Moneyberg Lato Black",
+        "weight": "900",
+        "status": "loaded"
+      },
+      {
+        "family": "Moneyberg Georgia",
+        "weight": "400",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "id": "background",
+        "natural_width": 941,
+        "natural_height": 1672,
+        "object_fit": "cover",
+        "clip_path": "none",
+        "bounds": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        }
+      },
+      {
+        "id": "coin",
+        "natural_width": 2084,
+        "natural_height": 2084,
+        "object_fit": "contain",
+        "clip_path": "none",
+        "bounds": {
+          "left": 843,
+          "top": 183,
+          "right": 1023,
+          "bottom": 363,
+          "width": 180,
+          "height": 180
+        }
+      }
+    ],
+    "document_width": 1080,
+    "document_height": 1920
+  },
+  "platform_fonts": [
+    {
+      "id": "brand",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "category",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 12
+        }
+      ]
+    },
+    {
+      "id": "date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 25
+        }
+      ]
+    },
+    {
+      "id": "headline-one",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 10
+        }
+      ]
+    },
+    {
+      "id": "headline-two",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 6
+        }
+      ]
+    },
+    {
+      "id": "metric",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 32
+        }
+      ]
+    },
+    {
+      "id": "period",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 34
+        }
+      ]
+    },
+    {
+      "id": "us-value",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 5
+        }
+      ]
+    },
+    {
+      "id": "us-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 18
+        }
+      ]
+    },
+    {
+      "id": "china-value",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 4
+        }
+      ]
+    },
+    {
+      "id": "china-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 24
+        }
+      ]
+    },
+    {
+      "id": "companies-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 29
+        }
+      ]
+    },
+    {
+      "id": "companies-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 29
+        }
+      ]
+    },
+    {
+      "id": "ratio",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 38
+        }
+      ]
+    },
+    {
+      "id": "qualifier",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 38
+        }
+      ]
+    },
+    {
+      "id": "source-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 32
+        }
+      ]
+    },
+    {
+      "id": "source-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 39
+        }
+      ]
+    }
+  ],
+  "coin_bounds": {
+    "left": 843,
+    "top": 183,
+    "right": 1023,
+    "bottom": 363,
+    "width": 180,
+    "height": 180
+  },
+  "whole_coin_upper_75_percent_verified": true,
+  "integration": {
+    "method": "Exact original coin PNG seated in a generated copper-brass architectural recess within an AI-server environment, with matching violet ambient light and contact shadows",
+    "artwork": "Original uniformly scaled PNG; portrait, lettering and circular rim preserved",
+    "image_generation_role": "Text-free conceptual AI computing architecture; no company logos, quantitative graphs or generated coin",
+    "topic": "Reported estimated annualized AI revenue run rates for OpenAI plus Anthropic versus six selected Chinese AI companies",
+    "category_badge": "AI INVESTING",
+    "background_credit_on_graphic": false,
+    "background_provenance": "Conceptual computing environment, not an actual corporate facility photograph"
+  },
+  "generation_prompts": [
+    "Create ONLY a premium text-free editorial background for a portrait 9:16 Instagram Story, intended final size 1080x1920, about the revenue gap between two leading US AI companies and six Chinese AI companies. Use a distinct AI-business visual language: midnight indigo and ink black, luminous icy lavender, restrained warm copper, elegant brushed titanium. A cinematic architectural view of two banks of sophisticated unbranded AI server hardware along the extreme edges, with a central broad front-facing matte dark indigo wall for typography. The bottom 20% contains intricate photoreal conceptual AI computing hardware, optical-fiber links, and two elegant differently lit server banks at the left and right; visual storytelling about competing AI businesses, not a literal quantitative chart. No people, maps, flags, company logos, letters, numbers, stock graphs, invented prices, or captions.\n\nKeep the entire central content zone x104\u2013961,y164\u20131536 mostly quiet, very dark indigo with smooth atmospheric tonal variation and subtle fine texture, allowing large later type. Small hardware details can live at x0\u201380 and x990\u20131080 and below y1580. The scene has depth and directional soft light, fine metal machining, a luxurious polished finance editorial feeling. No glowing arrows and no giant generic AI letters.\n\nPlan a SINGLE empty circular physical medallion recess in a narrow metal architectural column near the UPPER RIGHT corner, approximately center x947,y245, inner diameter178px. The entire recess inside frame; front-facing circle, not ellipse; dark empty center, narrow copper-brass bezel, physically anchored to the column with shallow contact shadow and matching ambient violet light. This is a seat for the exact original Moneyberg gold coin which will be composited later, preserving its circular shape, portrait, hair and rim lettering. DO NOT draw a coin, face, symbols or text. The later coin must be entirely in the top75%, y0\u20131440, and clear of content. Leave all content left of x835 above y350 clear.\n\nThe later layout will use the exact small one-line label MONEYBERG NEWS BRIEF in genuine Lato Black900 at35px near x118,y174, AI INVESTING and NOVEMBER13,2026 EDITION below it, and a large Lato Black900 headline AI REVENUE / DIVIDE around y360\u2013530 at80px. Two very large dollar figures and scope labels will occupy y680\u20131260 with ample dark negative space: $105B for OpenAI+Anthropic and $11B for six Chinese AI companies. Typography will be added separately with actual font files. Lato Black900 for headline/figures/labels; Georgia400 for body, estimate qualifiers and sources. Hard minimum33px for authored text,35px body,51px headline. All news text, source and any panels entirely within x104\u2013961,y164\u20131536. Do not render any of these words or figures. No red bounding rectangle. No footer, watermark or credits. Output ONLY the text-free environment, with no logos or actual coin."
+  ],
+  "sources": [
+    "https://x.com/KobeissiLetter/status/2121038722435064127"
+  ],
+  "source_access": "Full public X post and its attached original chart inspected; chart credits Epoch AI and Nikkei Asia; underlying company accounts not independently verified.",
+  "reporting_scope": {
+    "edition_date": "2026-11-13",
+    "post_utc": "2026-11-13T00:33:33Z",
+    "post_chicago": "2026-11-12T18:33:33-06:00",
+    "observation_period": "end-September 2026",
+    "metric": "estimated annualized revenue run rate",
+    "currency": "USD",
+    "us_sample": [
+      "OpenAI",
+      "Anthropic"
+    ],
+    "us_sample_estimate_billion": 105,
+    "china_sample": [
+      "Alibaba Group",
+      "ByteDance",
+      "DeepSeek",
+      "Z.ai",
+      "Moonshot AI",
+      "MiniMax"
+    ],
+    "china_sample_estimate_billion": 11,
+    "ratio_description": "nearly ten times, not exactly ten times",
+    "not_entire_national_AI_industries": true,
+    "not_realized_full_year_revenue": true,
+    "underlying_data_not_independently_verified": true,
+    "reported_source_chart_credits": [
+      "Epoch AI",
+      "Nikkei Asia"
+    ],
+    "no_generated_chart_or_logo": true,
+    "source_chart_archived_not_rendered": true,
+    "reason_chart_not_rendered": "No chart requested; source labels become too small within story width; comparison presented as large typographic statistics",
+    "conceptual_background_not_documentary": true
+  },
+  "output_sha256": "880bc7ebd9f6254d3391f7f464fb21abf7ba8b03654b43ab0a5e846fb68c191a"
+}

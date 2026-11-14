@@ -1,0 +1,649 @@
+{
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "inner_bounds": [
+    104,
+    164,
+    961,
+    1536
+  ],
+  "minimum_authored_font_size_px": 33,
+  "minimum_body_font_size_px": 35,
+  "minimum_headline_font_size_px": 51,
+  "font_size_minimum_verified": true,
+  "renderer": "Chromium via Playwright; HTML/CSS screenshot",
+  "background_sha256": "34f145b8e24321aca3257d37d8336fc379448a94ffb3a2de8e8b0ae76529192b",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
+  "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
+  "georgia_redistributed": false,
+  "layout": {
+    "text": [
+      {
+        "id": "brand",
+        "text": "MONEYBERG NEWS BRIEF",
+        "bounds": {
+          "left": 118,
+          "top": 181,
+          "right": 561.109375,
+          "bottom": 223,
+          "width": 443.109375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 180,
+          "right": 561.109375,
+          "bottom": 224,
+          "width": 443.109375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "category",
+        "text": "STOCK MARKET",
+        "bounds": {
+          "left": 118,
+          "top": 240,
+          "right": 380.921875,
+          "bottom": 280,
+          "width": 262.921875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 239,
+          "right": 380.921875,
+          "bottom": 281,
+          "width": 262.921875,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "date",
+        "text": "NOVEMBER 13, 2026",
+        "bounds": {
+          "left": 118,
+          "top": 293,
+          "right": 443.5625,
+          "bottom": 333,
+          "width": 325.5625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 292,
+          "right": 443.5625,
+          "bottom": 334,
+          "width": 325.5625,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "attribution",
+        "text": "KOBEISSI REPORTS",
+        "bounds": {
+          "left": 118,
+          "top": 402,
+          "right": 451,
+          "bottom": 444,
+          "width": 333,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 400,
+          "right": 451,
+          "bottom": 446,
+          "width": 333,
+          "height": 46
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "headline-one",
+        "text": "EQUITY FUTURES",
+        "bounds": {
+          "left": 118,
+          "top": 465,
+          "right": 739.953125,
+          "bottom": 556,
+          "width": 621.953125,
+          "height": 91
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 465,
+          "right": 739.953125,
+          "bottom": 556,
+          "width": 621.953125,
+          "height": 91
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "76px"
+      },
+      {
+        "id": "headline-two",
+        "text": "NET LONG POSITIONING",
+        "bounds": {
+          "left": 118,
+          "top": 559,
+          "right": 871.328125,
+          "bottom": 637,
+          "width": 753.328125,
+          "height": 78
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 558,
+          "right": 871.328125,
+          "bottom": 638,
+          "width": 753.328125,
+          "height": 80
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "65px"
+      },
+      {
+        "id": "approximate",
+        "text": "Approximately",
+        "bounds": {
+          "left": 118,
+          "top": 649,
+          "right": 366.96875,
+          "bottom": 692,
+          "width": 248.96875,
+          "height": 43
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 646,
+          "right": 366.96875,
+          "bottom": 696,
+          "width": 248.96875,
+          "height": 50
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "38px"
+      },
+      {
+        "id": "hero",
+        "text": "$330B",
+        "bounds": {
+          "left": 108,
+          "top": 698,
+          "right": 644.875,
+          "bottom": 926,
+          "width": 536.875,
+          "height": 228
+        },
+        "element_bounds": {
+          "left": 108,
+          "top": 700,
+          "right": 644.875,
+          "bottom": 925,
+          "width": 536.875,
+          "height": 225
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "190px"
+      },
+      {
+        "id": "definition",
+        "text": "Non-dealer U.S. equity-index futures",
+        "bounds": {
+          "left": 118,
+          "top": 948,
+          "right": 753.96875,
+          "bottom": 993,
+          "width": 635.96875,
+          "height": 45
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 944,
+          "right": 753.96875,
+          "bottom": 997,
+          "width": 635.96875,
+          "height": 53
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "39px"
+      },
+      {
+        "id": "change",
+        "text": "+$100B",
+        "bounds": {
+          "left": 133,
+          "top": 1060,
+          "right": 475,
+          "bottom": 1179,
+          "width": 342,
+          "height": 119
+        },
+        "element_bounds": {
+          "left": 133,
+          "top": 1060,
+          "right": 475,
+          "bottom": 1180,
+          "width": 342,
+          "height": 120
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "99px"
+      },
+      {
+        "id": "change-period",
+        "text": "over six months",
+        "bounds": {
+          "left": 136,
+          "top": 1197,
+          "right": 430.484375,
+          "bottom": 1245,
+          "width": 294.484375,
+          "height": 48
+        },
+        "element_bounds": {
+          "left": 136,
+          "top": 1193,
+          "right": 430.484375,
+          "bottom": 1249,
+          "width": 294.484375,
+          "height": 56
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "42px"
+      },
+      {
+        "id": "record",
+        "text": "Second-highest on record",
+        "bounds": {
+          "left": 118,
+          "top": 1330,
+          "right": 712.40625,
+          "bottom": 1393,
+          "width": 594.40625,
+          "height": 63
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1328,
+          "right": 712.40625,
+          "bottom": 1396,
+          "width": 594.40625,
+          "height": 68
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "53px"
+      },
+      {
+        "id": "source",
+        "text": "Source: The Kobeissi Letter on X",
+        "bounds": {
+          "left": 118,
+          "top": 1433,
+          "right": 595.28125,
+          "bottom": 1470,
+          "width": 477.28125,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1430,
+          "right": 595.28125,
+          "bottom": 1473,
+          "width": 477.28125,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      },
+      {
+        "id": "source-date",
+        "text": "Post dated November 13, 2026",
+        "bounds": {
+          "left": 118,
+          "top": 1481,
+          "right": 564.828125,
+          "bottom": 1518,
+          "width": 446.828125,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1478,
+          "right": 564.828125,
+          "bottom": 1521,
+          "width": 446.828125,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      }
+    ],
+    "panels": [
+      {
+        "id": "change-panel",
+        "bounds": {
+          "left": 104,
+          "top": 1043,
+          "right": 961,
+          "bottom": 1286,
+          "width": 857,
+          "height": 243
+        }
+      }
+    ],
+    "scene_elements": [
+      {
+        "id": "coin-installation",
+        "bounds": {
+          "left": 775,
+          "top": 221,
+          "right": 969,
+          "bottom": 415,
+          "width": 194,
+          "height": 194
+        },
+        "box_shadow": "rgb(103, 73, 29) 3px 4px 8px 0px inset, rgba(56, 37, 12, 0.55) 2px 4px 6px 0px, rgb(238, 213, 155) -1px -1px 2px 0px",
+        "background": "linear-gradient(135deg, rgb(161, 139, 68), rgb(85, 64, 28) 55%, rgb(209, 181, 113))"
+      },
+      {
+        "id": "coin-contact",
+        "bounds": {
+          "left": 775,
+          "top": 221,
+          "right": 969,
+          "bottom": 415,
+          "width": 194,
+          "height": 194
+        },
+        "box_shadow": "rgba(83, 53, 15, 0.4) 3px 5px 8px 0px inset, rgba(255, 236, 178, 0.23) -2px -2px 3px 0px inset",
+        "background": "linear-gradient(125deg, rgba(252, 221, 142, 0.1), rgba(0, 0, 0, 0) 48%, rgba(45, 31, 8, 0.12))"
+      }
+    ],
+    "illustrations": [],
+    "fonts": [
+      {
+        "family": "Moneyberg Lato Black",
+        "weight": "900",
+        "status": "loaded"
+      },
+      {
+        "family": "Moneyberg Georgia",
+        "weight": "400",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "id": "background",
+        "natural_width": 941,
+        "natural_height": 1672,
+        "object_fit": "cover",
+        "clip_path": "none",
+        "bounds": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        }
+      },
+      {
+        "id": "coin",
+        "natural_width": 2084,
+        "natural_height": 2084,
+        "object_fit": "contain",
+        "clip_path": "none",
+        "bounds": {
+          "left": 775,
+          "top": 221,
+          "right": 969,
+          "bottom": 415,
+          "width": 194,
+          "height": 194
+        }
+      }
+    ],
+    "document_width": 1080,
+    "document_height": 1920
+  },
+  "platform_fonts": [
+    {
+      "id": "brand",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "category",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 12
+        }
+      ]
+    },
+    {
+      "id": "date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 17
+        }
+      ]
+    },
+    {
+      "id": "attribution",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "headline-one",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 14
+        }
+      ]
+    },
+    {
+      "id": "headline-two",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "approximate",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 13
+        }
+      ]
+    },
+    {
+      "id": "hero",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 5
+        }
+      ]
+    },
+    {
+      "id": "definition",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 36
+        }
+      ]
+    },
+    {
+      "id": "change",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 6
+        }
+      ]
+    },
+    {
+      "id": "change-period",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 15
+        }
+      ]
+    },
+    {
+      "id": "record",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 24
+        }
+      ]
+    },
+    {
+      "id": "source",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 32
+        }
+      ]
+    },
+    {
+      "id": "source-date",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 28
+        }
+      ]
+    }
+  ],
+  "coin_bounds": {
+    "left": 775,
+    "top": 221,
+    "right": 969,
+    "bottom": 415,
+    "width": 194,
+    "height": 194
+  },
+  "whole_coin_upper_75_percent_verified": true,
+  "integration": {
+    "method": "Exact original coin PNG seated in the generated circular brass recess of a institutional trading-hall limestone wall, with compatible warm brass light and contact shadow",
+    "artwork": "Original uniformly scaled PNG; portrait, lettering and circular rim preserved",
+    "image_generation_role": "Text-free conceptual institutional trading hall only, no documentary event image, quantitative chart or generated logo",
+    "topic": "The Kobeissi Letter reports approximately $330 billion in non-dealer net long U.S. equity-index futures positioning",
+    "category_badge": "STOCK MARKET",
+    "background_credit_on_graphic": false,
+    "background_provenance": "Conceptual ivory, teal and brass institutional trading environment, not a quantitative chart or actual trading-floor photograph"
+  },
+  "generation_prompts": [
+    "Create a portrait 9:16 premium financial-news background, intended for a final 1080 x 1920 Instagram Story. New image, text-free decorative environment only. Distinct sophisticated institutional trading hall: warm ivory limestone architecture, brushed brass detailing, dark teal glass, elegant financial-office ambience, softly lit rows of abstract unreadable trading terminals ONLY at the lower edge y=1580\u20131920 and along the extreme side edges. A restrained cinematic editorial environment, modern, tactile and realistic, no people. Main palette warm pale ivory, deep teal and antique brass, brighter than a typical black trading-room graphic. Composition: a nearly flat, quiet, very pale ivory front-facing architectural wall fills x=75\u2013990 and y=140\u20131540 for legible typography, with subtle soft natural lighting, no complicated lines or visible objects crossing that central content zone. At the upper right, on the front-facing wall, include a small perfectly circular EMPTY shallow brass medallion mounting recess centered near x=968,y=228, diameter about184px on the 1080x1920 composition; recess must face camera without perspective warping, be fully within the frame and above y=1440, and appear physically carved into the stone with a refined brass lip, realistic contact shadows and compatible warm light. Leave its center blank and dark brass. The actual approved original Moneyberg coin will be inserted unchanged into this recess later; do NOT draw any coin, portrait, logo or inscription. Make the room and architecture visibly continue around it so it belongs to the scene. Lower 20% reveals an attractive sophisticated institutional trading floor or trading desk through teal-tinted architectural glazing, abstract screens with no readable information and no numerical chart curves. No text, numbers, letters, logos, tickers, graphs, graphs posing as data, visible border frames, charts, extra medallions or badges anywhere. Composition contract for downstream typography: all added content confined to x=104\u2013961,y=164\u20131536; a compact single-line 'MONEYBERG NEWS BRIEF' in actual Lato Black 900 at35px; category/date minimum33px; headlines Lato Black minimum51px; body/source attribution actual Georgia400 minimum35px/body and33px/source. Do not render any of this typography in the image; leave quiet space for later exact-font browser rendering. Source story is attributed non-dealer U.S. equity-index futures positioning, not an actual photographed trading event. Photoreal material, exceptionally clean composition, no decorative financial line charts."
+  ],
+  "sources": [
+    "https://x.com/KobeissiLetter/status/2121282186816913716"
+  ],
+  "source_access": "Complete public X post and original attached Goldman Sachs chart inspected. Post publication 2026-11-13T16:40:59Z (10:40:59 CST). All three displayed figures are attributed to the post; independent Goldman series unavailable. The original chart has a future 9 Dec 2026 label relative to the post and is archived but omitted from this graphic.",
+  "reporting_scope": {
+    "edition_date": "2026-11-13",
+    "source_publication_time_utc": "2026-11-13T16:40:59Z",
+    "source_publication_time_chicago": "2026-11-13T10:40:59-06:00",
+    "content_basis": "Figures explicitly attributed to The Kobeissi Letter post; no independent verification of Goldman Sachs underlying series claimed",
+    "metric": "Non-dealer net long U.S. equity-index futures positioning",
+    "reported_position_usd_billions_approximate": 330,
+    "reported_six_month_increase_usd_billions": 100,
+    "reported_rank": "Second-highest on record",
+    "not_options": true,
+    "not_cash_inflows": true,
+    "no_market_wrap": true,
+    "original_chart_omitted_due_to_conflicting_date_label": true,
+    "omitted_historical_comparison": "Never exceeded $150B in 2010\u20132023; inconsistent with original chart",
+    "no_generated_chart_or_logo": true,
+    "conceptual_background_not_documentary": true
+  },
+  "output_sha256": "961fda38f76c5040aaca6b0bb4139dff484032303f979c72d73230e649864592"
+}
