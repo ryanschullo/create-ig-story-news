@@ -1,0 +1,935 @@
+{
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "inner_bounds": [
+    104,
+    164,
+    961,
+    1536
+  ],
+  "minimum_authored_font_size_px": 33,
+  "minimum_body_font_size_px": 35,
+  "minimum_headline_font_size_px": 51,
+  "font_size_minimum_verified": true,
+  "renderer": "Chromium via Playwright; HTML/CSS screenshot",
+  "background_sha256": "09729895a980d4a00cebe9c4301323bfc990fd14c13a343eb009e7f07b3df33f",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
+  "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
+  "georgia_redistributed": false,
+  "layout": {
+    "text": [
+      {
+        "id": "brand",
+        "text": "MONEYBERG NEWS BRIEF",
+        "bounds": {
+          "left": 118,
+          "top": 175,
+          "right": 562.109375,
+          "bottom": 217,
+          "width": 444.109375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 174,
+          "right": 562.109375,
+          "bottom": 218,
+          "width": 444.109375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "category",
+        "text": "OIL & GAS",
+        "bounds": {
+          "left": 118,
+          "top": 230,
+          "right": 280.15625,
+          "bottom": 270,
+          "width": 162.15625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 229,
+          "right": 280.15625,
+          "bottom": 271,
+          "width": 162.15625,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "date",
+        "text": "NOVEMBER 15, 2026",
+        "bounds": {
+          "left": 118,
+          "top": 280,
+          "right": 443.5625,
+          "bottom": 320,
+          "width": 325.5625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 279,
+          "right": 443.5625,
+          "bottom": 321,
+          "width": 325.5625,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "headline-one",
+        "text": "DIESEL FALLS",
+        "bounds": {
+          "left": 118,
+          "top": 365,
+          "right": 608.15625,
+          "bottom": 460,
+          "width": 490.15625,
+          "height": 95
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 365,
+          "right": 608.15625,
+          "bottom": 461,
+          "width": 490.15625,
+          "height": 96
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "79px"
+      },
+      {
+        "id": "headline-two",
+        "text": "BELOW $6",
+        "bounds": {
+          "left": 118,
+          "top": 460,
+          "right": 550.15625,
+          "bottom": 566,
+          "width": 432.15625,
+          "height": 106
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 460,
+          "right": 550.15625,
+          "bottom": 566,
+          "width": 432.15625,
+          "height": 106
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "88px"
+      },
+      {
+        "id": "diesel-price",
+        "text": "$5.998",
+        "bounds": {
+          "left": 113,
+          "top": 579,
+          "right": 540.609375,
+          "bottom": 749,
+          "width": 427.609375,
+          "height": 170
+        },
+        "element_bounds": {
+          "left": 113,
+          "top": 581,
+          "right": 540.609375,
+          "bottom": 747,
+          "width": 427.609375,
+          "height": 166
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "142px"
+      },
+      {
+        "id": "diesel-unit",
+        "text": "PER U.S. GALLON",
+        "bounds": {
+          "left": 118,
+          "top": 751,
+          "right": 391.46875,
+          "bottom": 791,
+          "width": 273.46875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 750,
+          "right": 391.46875,
+          "bottom": 793,
+          "width": 273.46875,
+          "height": 43
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "diesel-scope",
+        "text": "GasBuddy U.S. retail average \u2022 Nov. 14",
+        "bounds": {
+          "left": 118,
+          "top": 807,
+          "right": 713.203125,
+          "bottom": 847,
+          "width": 595.203125,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 804,
+          "right": 713.203125,
+          "bottom": 850,
+          "width": 595.203125,
+          "height": 46
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "body-one",
+        "text": "A two-month low, down from the",
+        "bounds": {
+          "left": 118,
+          "top": 885,
+          "right": 674.6875,
+          "bottom": 928,
+          "width": 556.6875,
+          "height": 43
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 882,
+          "right": 674.6875,
+          "bottom": 932,
+          "width": 556.6875,
+          "height": 50
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "38px"
+      },
+      {
+        "id": "body-two",
+        "text": "Sept. 22 record of $6.519 per gallon.",
+        "bounds": {
+          "left": 118,
+          "top": 935,
+          "right": 724.015625,
+          "bottom": 978,
+          "width": 606.015625,
+          "height": 43
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 932,
+          "right": 724.015625,
+          "bottom": 982,
+          "width": 606.015625,
+          "height": 50
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "38px"
+      },
+      {
+        "id": "body-three",
+        "text": "Easing tensions and weaker demand",
+        "bounds": {
+          "left": 118,
+          "top": 1003,
+          "right": 729.1875,
+          "bottom": 1046,
+          "width": 611.1875,
+          "height": 43
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1000,
+          "right": 729.1875,
+          "bottom": 1050,
+          "width": 611.1875,
+          "height": 50
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "38px"
+      },
+      {
+        "id": "body-four",
+        "text": "help bring prices down.",
+        "bounds": {
+          "left": 118,
+          "top": 1053,
+          "right": 511.828125,
+          "bottom": 1096,
+          "width": 393.828125,
+          "height": 43
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1050,
+          "right": 511.828125,
+          "bottom": 1100,
+          "width": 393.828125,
+          "height": 50
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "38px"
+      },
+      {
+        "id": "benchmark-scope",
+        "text": "CRUDE CONTEXT \u2022 NOV. 13 SETTLEMENTS",
+        "bounds": {
+          "left": 118,
+          "top": 1133,
+          "right": 787.3125,
+          "bottom": 1173,
+          "width": 669.3125,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1132,
+          "right": 787.3125,
+          "bottom": 1175,
+          "width": 669.3125,
+          "height": 43
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "brent-label",
+        "text": "BRENT \u2022 JAN 2027",
+        "bounds": {
+          "left": 126,
+          "top": 1210,
+          "right": 413.5625,
+          "bottom": 1250,
+          "width": 287.5625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 126,
+          "top": 1209,
+          "right": 413.5625,
+          "bottom": 1252,
+          "width": 287.5625,
+          "height": 43
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "wti-label",
+        "text": "WTI \u2022 DEC 2026",
+        "bounds": {
+          "left": 567,
+          "top": 1210,
+          "right": 816.359375,
+          "bottom": 1250,
+          "width": 249.359375,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 567,
+          "top": 1209,
+          "right": 816.359375,
+          "bottom": 1252,
+          "width": 249.359375,
+          "height": 43
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "brent-price",
+        "text": "$95.84",
+        "bounds": {
+          "left": 126,
+          "top": 1259,
+          "right": 377.328125,
+          "bottom": 1357,
+          "width": 251.328125,
+          "height": 98
+        },
+        "element_bounds": {
+          "left": 126,
+          "top": 1259,
+          "right": 377.328125,
+          "bottom": 1358,
+          "width": 251.328125,
+          "height": 99
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "82px"
+      },
+      {
+        "id": "wti-price",
+        "text": "$88.56",
+        "bounds": {
+          "left": 567,
+          "top": 1259,
+          "right": 818.328125,
+          "bottom": 1357,
+          "width": 251.328125,
+          "height": 98
+        },
+        "element_bounds": {
+          "left": 567,
+          "top": 1259,
+          "right": 818.328125,
+          "bottom": 1358,
+          "width": 251.328125,
+          "height": 99
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "82px"
+      },
+      {
+        "id": "brent-change",
+        "text": "US$/BBL \u2022 +0.02%",
+        "bounds": {
+          "left": 126,
+          "top": 1368,
+          "right": 410.0625,
+          "bottom": 1408,
+          "width": 284.0625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 126,
+          "top": 1367,
+          "right": 410.0625,
+          "bottom": 1410,
+          "width": 284.0625,
+          "height": 43
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "wti-change",
+        "text": "US$/BBL \u2022 \u22120.20%",
+        "bounds": {
+          "left": 567,
+          "top": 1368,
+          "right": 851.0625,
+          "bottom": 1408,
+          "width": 284.0625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 567,
+          "top": 1367,
+          "right": 851.0625,
+          "bottom": 1410,
+          "width": 284.0625,
+          "height": 43
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "source-one",
+        "text": "Diesel: Reuters, citing GasBuddy",
+        "bounds": {
+          "left": 118,
+          "top": 1447,
+          "right": 595.828125,
+          "bottom": 1484,
+          "width": 477.828125,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1444,
+          "right": 595.828125,
+          "bottom": 1487,
+          "width": 477.828125,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      },
+      {
+        "id": "source-two",
+        "text": "Crude futures: EnergyNow",
+        "bounds": {
+          "left": 118,
+          "top": 1489,
+          "right": 507.65625,
+          "bottom": 1526,
+          "width": 389.65625,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1486,
+          "right": 507.65625,
+          "bottom": 1529,
+          "width": 389.65625,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      }
+    ],
+    "panels": [
+      {
+        "id": "brent-panel",
+        "bounds": {
+          "left": 104,
+          "top": 1193,
+          "right": 520,
+          "bottom": 1422,
+          "width": 416,
+          "height": 229
+        }
+      },
+      {
+        "id": "wti-panel",
+        "bounds": {
+          "left": 545,
+          "top": 1193,
+          "right": 961,
+          "bottom": 1422,
+          "width": 416,
+          "height": 229
+        }
+      },
+      {
+        "id": "source-panel",
+        "bounds": {
+          "left": 104,
+          "top": 1440,
+          "right": 961,
+          "bottom": 1530,
+          "width": 857,
+          "height": 90
+        }
+      }
+    ],
+    "scene_elements": [
+      {
+        "id": "coin-installation",
+        "bounds": {
+          "left": 780,
+          "top": 34,
+          "right": 1042,
+          "bottom": 296,
+          "width": 262,
+          "height": 262
+        },
+        "box_shadow": "rgb(62, 43, 23) 4px 5px 9px 0px inset, rgba(9, 7, 3, 0.733) 3px 4px 8px 0px, rgb(221, 188, 122) -1px -1px 2px 0px",
+        "background": "linear-gradient(135deg, rgb(187, 150, 91), rgb(71, 53, 27) 53%, rgb(155, 119, 60))"
+      },
+      {
+        "id": "coin-contact",
+        "bounds": {
+          "left": 780,
+          "top": 34,
+          "right": 1042,
+          "bottom": 296,
+          "width": 262,
+          "height": 262
+        },
+        "box_shadow": "rgba(44, 28, 14, 0.467) 4px 5px 10px 0px inset, rgba(243, 212, 151, 0.267) -2px -2px 3px 0px inset",
+        "background": "linear-gradient(125deg, rgba(235, 176, 90, 0.086), rgba(0, 0, 0, 0) 46%, rgba(27, 22, 12, 0.133))"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Moneyberg Lato Black",
+        "weight": "900",
+        "status": "loaded"
+      },
+      {
+        "family": "Moneyberg Georgia",
+        "weight": "400",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "id": "background",
+        "natural_width": 916,
+        "natural_height": 1717,
+        "object_fit": "cover",
+        "clip_path": "none",
+        "bounds": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        }
+      },
+      {
+        "id": "coin",
+        "natural_width": 2084,
+        "natural_height": 2084,
+        "object_fit": "contain",
+        "clip_path": "none",
+        "bounds": {
+          "left": 780,
+          "top": 34,
+          "right": 1042,
+          "bottom": 296,
+          "width": 262,
+          "height": 262
+        }
+      }
+    ],
+    "document_width": 1080,
+    "document_height": 1920
+  },
+  "platform_fonts": [
+    {
+      "id": "brand",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "category",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 9
+        }
+      ]
+    },
+    {
+      "id": "date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 17
+        }
+      ]
+    },
+    {
+      "id": "headline-one",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 12
+        }
+      ]
+    },
+    {
+      "id": "headline-two",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 8
+        }
+      ]
+    },
+    {
+      "id": "diesel-price",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 6
+        }
+      ]
+    },
+    {
+      "id": "diesel-unit",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 15
+        }
+      ]
+    },
+    {
+      "id": "diesel-scope",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 38
+        }
+      ]
+    },
+    {
+      "id": "body-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 30
+        }
+      ]
+    },
+    {
+      "id": "body-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 37
+        }
+      ]
+    },
+    {
+      "id": "body-three",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 33
+        }
+      ]
+    },
+    {
+      "id": "body-four",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 23
+        }
+      ]
+    },
+    {
+      "id": "benchmark-scope",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 35
+        }
+      ]
+    },
+    {
+      "id": "brent-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "wti-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 14
+        }
+      ]
+    },
+    {
+      "id": "brent-price",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 6
+        }
+      ]
+    },
+    {
+      "id": "wti-price",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 6
+        }
+      ]
+    },
+    {
+      "id": "brent-change",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "wti-change",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "source-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 32
+        }
+      ]
+    },
+    {
+      "id": "source-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 24
+        }
+      ]
+    }
+  ],
+  "coin_bounds": {
+    "left": 780,
+    "top": 34,
+    "right": 1042,
+    "bottom": 296,
+    "width": 262,
+    "height": 262
+  },
+  "whole_coin_upper_75_percent_verified": true,
+  "integration": {
+    "method": "Exact original coin PNG seated in an upper-right industrial brass socket, with compatible warm scene lighting and CSS contact shading",
+    "artwork": "Original uniformly scaled PNG; original portrait, lettering and circular rim preserved",
+    "image_generation_role": "Text-free conceptual diesel pump and freight truck background only",
+    "topic": "U.S. retail diesel below six dollars per gallon, with dated Brent and WTI futures context",
+    "category_badge": "OIL & GAS",
+    "background_credit_on_graphic": false,
+    "background_provenance": "Conceptual industrial illustration, not documentary evidence of a specific fuel station or transaction"
+  },
+  "generation_prompts": [
+    "Create a premium editorial Instagram Story BACKGROUND ONLY for a final 1080x1920 Moneyberg News Brief about US retail diesel prices easing below six dollars per gallon. Portrait 9:16. Oil-and-gas visual identity: deep petroleum charcoal, graphite, restrained warm amber highlights, a hint of dark steel blue, tactile brushed metal. A sophisticated cinematic roadside diesel-fuel and logistics still life at dusk: a heavy metallic diesel nozzle with hose and a cropped fuel dispenser at the lower-left edge, a clean silver tanker truck or freight truck at the bottom-right, distant refinery storage tanks and soft amber industrial lights below the main story area. All imagery illustrative and decorative, no accident, no fire, no specific geographic location. Central background from x104\u2013961,y164\u20131536 should be dark clean mostly uniform graphite negative space with subtle material texture for very large clear typography; avoid busy objects or lights behind those future text areas. Decorative logistics imagery concentrated below y1550, with only faint shadowed structures at outer edges. Reserve an EMPTY front-facing round brushed-brass equipment recess at upper right, approximately center x925,y265, diameter210px, fully clear of future text. The user's exact original Moneyberg coin will be uniformly composited into this recess with compatible warm directional illumination and contact shadow. Do not generate any coin face, inscription or logo. Entire eventual coin must remain within y0\u20131440. Design the recess as a real integral part of the industrial metal panel, not a floating circle. Production instructions only: recurring brand MONEYBERG NEWS BRIEF will be typeset on one compact line35px; actual Lato Black900 for headings, dates and labels and actual Georgia400 for body, sources and qualifiers. Authored-text minima33px all,35px body,51px headlines. All factual text and news panels will be typeset separately within x104\u2013961,y164\u20131536. Do NOT render any words, numerals, fuelprices, symbols, charts, logos, fake quantitative signals, watermarks or credits. No generated text. Produce only the beautiful dark industrial background with deliberate negative space, strong material realism and refined amber lighting."
+  ],
+  "sources": [
+    "https://www.marketscreener.com/news/us-diesel-below-6-a-gallon-at-2-month-low-on-easing-tensions-weaker-demand-ce785ededd80f520",
+    "https://www.nst.com.my/amp/business/economy/2026/11/1578066/us-diesel-below-us6-gallon-2-month-low-easing-tensions-weaker",
+    "https://energynow.com/2026/11/oil-prices-fall-for-second-straight-week-as-global-supply-surplus-emerges-wti-closes-at-88-56-brent-at-95-84/",
+    "https://thepeninsulaqatar.com/article/15/11/2026/oil-prices-set-for-second-straight-weekly-drop-on-signs-of-growing-supply-surplus"
+  ],
+  "source_access": "Full public Reuters republications read in New Straits Times and Economic Times; MarketScreener returned 403 and Reuters direct returned 401. GasBuddy observation attributed through Reuters, not independently pulled from its blocked website. EnergyNow final-settlement report read in full; both dollar prices corroborated by the full Peninsula report.",
+  "reporting_scope": {
+    "edition_date": "2026-11-15",
+    "diesel_observation_date": "2026-11-14",
+    "diesel_series": "GasBuddy U.S. national average retail diesel, as reported by Reuters",
+    "diesel_usd_per_us_gallon": 5.998,
+    "diesel_first_below_six_since": "2026-09-10",
+    "diesel_record_price_usd_per_us_gallon": 6.519,
+    "diesel_record_date": "2026-09-22",
+    "diesel_primary_tracker_not_independently_retrieved": true,
+    "aaa_is_a_different_series_not_combined": true,
+    "drivers_attributed_to_reuters": [
+      "Lower crude prices",
+      "Easing geopolitical tensions",
+      "Softer seasonal demand"
+    ],
+    "no_measured_consumer_inflation_decline_claim": true,
+    "futures_context_observation_date": "2026-11-13",
+    "futures_context_basis": "Same-session final settlements, not Sunday live prices",
+    "futures_context_units": "USD per barrel, distinct from retail diesel per U.S. gallon",
+    "brent": {
+      "contract": "January 2027",
+      "settlement_usd_per_barrel": 95.84,
+      "daily_change_usd": 0.02,
+      "daily_change_percent": 0.02
+    },
+    "wti": {
+      "contract": "December 2026",
+      "settlement_usd_per_barrel": 88.56,
+      "daily_change_usd": -0.18,
+      "daily_change_percent": -0.2
+    },
+    "both_benchmarks_same_date_and_basis_verified": true,
+    "no_source_chart_in_article": true
+  },
+  "output_sha256": "0d51ebebc5ba56cd99a1d62d17816700f0611f3b0459411aff68975e9e8ea732"
+}
