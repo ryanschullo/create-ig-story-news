@@ -1,0 +1,1025 @@
+{
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "inner_bounds": [
+    104,
+    164,
+    961,
+    1536
+  ],
+  "minimum_authored_font_size_px": 33,
+  "minimum_body_font_size_px": 35,
+  "minimum_headline_font_size_px": 51,
+  "font_size_minimum_verified": true,
+  "renderer": "Chromium via Playwright; HTML/CSS screenshot",
+  "background_sha256": "75e76b705d9123a4a776ceaeabec47dd71d0b813d5b7ca5ad5c502dd31b59b23",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
+  "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
+  "georgia_redistributed": false,
+  "layout": {
+    "text": [
+      {
+        "id": "brand",
+        "text": "MONEYBERG NEWS BRIEF",
+        "bounds": {
+          "left": 118,
+          "top": 175,
+          "right": 562.109375,
+          "bottom": 217,
+          "width": 444.109375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 174,
+          "right": 562.109375,
+          "bottom": 218,
+          "width": 444.109375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "category",
+        "text": "CONSUMER SENTIMENT",
+        "bounds": {
+          "left": 118,
+          "top": 235,
+          "right": 511.296875,
+          "bottom": 275,
+          "width": 393.296875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 234,
+          "right": 511.296875,
+          "bottom": 276,
+          "width": 393.296875,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "date",
+        "text": "NOVEMBER 15, 2026 EDITION",
+        "bounds": {
+          "left": 118,
+          "top": 288,
+          "right": 587.6875,
+          "bottom": 328,
+          "width": 469.6875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 287,
+          "right": 587.6875,
+          "bottom": 329,
+          "width": 469.6875,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "headline",
+        "text": "WHEN $100K",
+        "bounds": {
+          "left": 113,
+          "top": 404,
+          "right": 803.28125,
+          "bottom": 539,
+          "width": 690.28125,
+          "height": 135
+        },
+        "element_bounds": {
+          "left": 113,
+          "top": 405,
+          "right": 803.28125,
+          "bottom": 539,
+          "width": 690.28125,
+          "height": 134
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "112px"
+      },
+      {
+        "id": "headline-two",
+        "text": "IS LOWER-MIDDLE CLASS",
+        "bounds": {
+          "left": 118,
+          "top": 551,
+          "right": 805.0625,
+          "bottom": 620,
+          "width": 687.0625,
+          "height": 69
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 550,
+          "right": 805.0625,
+          "bottom": 622,
+          "width": 687.0625,
+          "height": 72
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "58px"
+      },
+      {
+        "id": "dek",
+        "text": "Annual household income in 12 states,under MoneyLion\u2019s classification.",
+        "bounds": {
+          "left": 118,
+          "top": 649,
+          "right": 761.796875,
+          "bottom": 742,
+          "width": 643.796875,
+          "height": 93
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 646,
+          "right": 761.796875,
+          "bottom": 746,
+          "width": 643.796875,
+          "height": 100
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "38px"
+      },
+      {
+        "id": "state-ma",
+        "text": "Massachusetts",
+        "bounds": {
+          "left": 132,
+          "top": 806,
+          "right": 370.609375,
+          "bottom": 848,
+          "width": 238.609375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 132,
+          "top": 802,
+          "right": 370.609375,
+          "bottom": 852,
+          "width": 238.609375,
+          "height": 50
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "37px"
+      },
+      {
+        "id": "state-nj",
+        "text": "New Jersey",
+        "bounds": {
+          "left": 132,
+          "top": 860,
+          "right": 318.765625,
+          "bottom": 902,
+          "width": 186.765625,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 132,
+          "top": 856,
+          "right": 318.765625,
+          "bottom": 906,
+          "width": 186.765625,
+          "height": 50
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "37px"
+      },
+      {
+        "id": "state-md",
+        "text": "Maryland",
+        "bounds": {
+          "left": 132,
+          "top": 914,
+          "right": 290.671875,
+          "bottom": 956,
+          "width": 158.671875,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 132,
+          "top": 910,
+          "right": 290.671875,
+          "bottom": 960,
+          "width": 158.671875,
+          "height": 50
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "37px"
+      },
+      {
+        "id": "state-hi",
+        "text": "Hawaii",
+        "bounds": {
+          "left": 132,
+          "top": 968,
+          "right": 248.40625,
+          "bottom": 1010,
+          "width": 116.40625,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 132,
+          "top": 964,
+          "right": 248.40625,
+          "bottom": 1014,
+          "width": 116.40625,
+          "height": 50
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "37px"
+      },
+      {
+        "id": "state-ca",
+        "text": "California",
+        "bounds": {
+          "left": 132,
+          "top": 1022,
+          "right": 294.3125,
+          "bottom": 1064,
+          "width": 162.3125,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 132,
+          "top": 1018,
+          "right": 294.3125,
+          "bottom": 1068,
+          "width": 162.3125,
+          "height": 50
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "37px"
+      },
+      {
+        "id": "state-nh",
+        "text": "New Hampshire",
+        "bounds": {
+          "left": 132,
+          "top": 1076,
+          "right": 398.421875,
+          "bottom": 1118,
+          "width": 266.421875,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 132,
+          "top": 1072,
+          "right": 398.421875,
+          "bottom": 1122,
+          "width": 266.421875,
+          "height": 50
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "37px"
+      },
+      {
+        "id": "state-wa",
+        "text": "Washington",
+        "bounds": {
+          "left": 566,
+          "top": 806,
+          "right": 764.390625,
+          "bottom": 848,
+          "width": 198.390625,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 566,
+          "top": 802,
+          "right": 764.390625,
+          "bottom": 852,
+          "width": 198.390625,
+          "height": 50
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "37px"
+      },
+      {
+        "id": "state-co",
+        "text": "Colorado",
+        "bounds": {
+          "left": 566,
+          "top": 860,
+          "right": 715.234375,
+          "bottom": 902,
+          "width": 149.234375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 566,
+          "top": 856,
+          "right": 715.234375,
+          "bottom": 906,
+          "width": 149.234375,
+          "height": 50
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "37px"
+      },
+      {
+        "id": "state-ut",
+        "text": "Utah",
+        "bounds": {
+          "left": 566,
+          "top": 914,
+          "right": 646.9375,
+          "bottom": 956,
+          "width": 80.9375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 566,
+          "top": 910,
+          "right": 646.9375,
+          "bottom": 960,
+          "width": 80.9375,
+          "height": 50
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "37px"
+      },
+      {
+        "id": "state-ct",
+        "text": "Connecticut",
+        "bounds": {
+          "left": 566,
+          "top": 968,
+          "right": 762.59375,
+          "bottom": 1010,
+          "width": 196.59375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 566,
+          "top": 964,
+          "right": 762.59375,
+          "bottom": 1014,
+          "width": 196.59375,
+          "height": 50
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "37px"
+      },
+      {
+        "id": "state-ak",
+        "text": "Alaska",
+        "bounds": {
+          "left": 566,
+          "top": 1022,
+          "right": 674.515625,
+          "bottom": 1064,
+          "width": 108.515625,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 566,
+          "top": 1018,
+          "right": 674.515625,
+          "bottom": 1068,
+          "width": 108.515625,
+          "height": 50
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "37px"
+      },
+      {
+        "id": "state-va",
+        "text": "Virginia",
+        "bounds": {
+          "left": 566,
+          "top": 1076,
+          "right": 697.6875,
+          "bottom": 1118,
+          "width": 131.6875,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 566,
+          "top": 1072,
+          "right": 697.6875,
+          "bottom": 1122,
+          "width": 131.6875,
+          "height": 50
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "37px"
+      },
+      {
+        "id": "threshold-label",
+        "text": "MASSACHUSETTS \u2022 HIGHEST THRESHOLD",
+        "bounds": {
+          "left": 118,
+          "top": 1163,
+          "right": 784.125,
+          "bottom": 1203,
+          "width": 666.125,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1162,
+          "right": 784.125,
+          "bottom": 1204,
+          "width": 666.125,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "threshold",
+        "text": "ABOUT $116,500",
+        "bounds": {
+          "left": 118,
+          "top": 1211,
+          "right": 628.71875,
+          "bottom": 1289,
+          "width": 510.71875,
+          "height": 78
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1210,
+          "right": 628.71875,
+          "bottom": 1290,
+          "width": 510.71875,
+          "height": 80
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "65px"
+      },
+      {
+        "id": "threshold-detail",
+        "text": "Top of the lower-middle income band.",
+        "bounds": {
+          "left": 118,
+          "top": 1301,
+          "right": 708.5,
+          "bottom": 1341,
+          "width": 590.5,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1298,
+          "right": 708.5,
+          "bottom": 1344,
+          "width": 590.5,
+          "height": 46
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "source-one",
+        "text": "MoneyLion analysis \u2022 2024 Census ACS",
+        "bounds": {
+          "left": 118,
+          "top": 1385,
+          "right": 696.09375,
+          "bottom": 1422,
+          "width": 578.09375,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1382,
+          "right": 696.09375,
+          "bottom": 1425,
+          "width": 578.09375,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      },
+      {
+        "id": "source-two",
+        "text": "Analysis: Apr. 16, 2026 \u2022 Post: Nov. 14",
+        "bounds": {
+          "left": 118,
+          "top": 1430,
+          "right": 675.171875,
+          "bottom": 1467,
+          "width": 557.171875,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1427,
+          "right": 675.171875,
+          "bottom": 1470,
+          "width": 557.171875,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      },
+      {
+        "id": "source-three",
+        "text": "Via @unusual_whales on X",
+        "bounds": {
+          "left": 118,
+          "top": 1475,
+          "right": 519.375,
+          "bottom": 1512,
+          "width": 401.375,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1472,
+          "right": 519.375,
+          "bottom": 1515,
+          "width": 401.375,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      }
+    ],
+    "panels": [
+      {
+        "id": "states-panel",
+        "bounds": {
+          "left": 104,
+          "top": 781,
+          "right": 961,
+          "bottom": 1135,
+          "width": 857,
+          "height": 354
+        }
+      },
+      {
+        "id": "sources-panel",
+        "bounds": {
+          "left": 104,
+          "top": 1371,
+          "right": 961,
+          "bottom": 1536,
+          "width": 857,
+          "height": 165
+        }
+      }
+    ],
+    "scene_elements": [
+      {
+        "id": "coin-installation",
+        "bounds": {
+          "left": 795,
+          "top": 132,
+          "right": 1035,
+          "bottom": 372,
+          "width": 240,
+          "height": 240
+        },
+        "box_shadow": "rgb(99, 69, 31) 3px 4px 9px 0px inset, rgba(94, 67, 42, 0.4) 3px 5px 10px 0px, rgb(255, 243, 197) -1px -1px 2px 0px",
+        "background": "linear-gradient(135deg, rgb(216, 182, 104), rgb(126, 91, 37) 60%, rgb(206, 172, 104))"
+      },
+      {
+        "id": "coin-contact",
+        "bounds": {
+          "left": 795,
+          "top": 132,
+          "right": 1035,
+          "bottom": 372,
+          "width": 240,
+          "height": 240
+        },
+        "box_shadow": "rgba(75, 53, 29, 0.333) 4px 5px 10px 0px inset, rgba(255, 241, 189, 0.4) -2px -2px 3px 0px inset",
+        "background": "linear-gradient(130deg, rgba(255, 246, 209, 0.067), rgba(0, 0, 0, 0) 45%, rgba(96, 63, 33, 0.1))"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Moneyberg Lato Black",
+        "weight": "900",
+        "status": "loaded"
+      },
+      {
+        "family": "Moneyberg Georgia",
+        "weight": "400",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "id": "background",
+        "natural_width": 916,
+        "natural_height": 1717,
+        "object_fit": "cover",
+        "clip_path": "none",
+        "bounds": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        }
+      },
+      {
+        "id": "coin",
+        "natural_width": 2084,
+        "natural_height": 2084,
+        "object_fit": "contain",
+        "clip_path": "none",
+        "bounds": {
+          "left": 795,
+          "top": 132,
+          "right": 1035,
+          "bottom": 372,
+          "width": 240,
+          "height": 240
+        }
+      }
+    ],
+    "document_width": 1080,
+    "document_height": 1920
+  },
+  "platform_fonts": [
+    {
+      "id": "brand",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "category",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 18
+        }
+      ]
+    },
+    {
+      "id": "date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 25
+        }
+      ]
+    },
+    {
+      "id": "headline",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 10
+        }
+      ]
+    },
+    {
+      "id": "headline-two",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 21
+        }
+      ]
+    },
+    {
+      "id": "dek",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 70
+        }
+      ]
+    },
+    {
+      "id": "state-ma",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 13
+        }
+      ]
+    },
+    {
+      "id": "state-nj",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 10
+        }
+      ]
+    },
+    {
+      "id": "state-md",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 8
+        }
+      ]
+    },
+    {
+      "id": "state-hi",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 6
+        }
+      ]
+    },
+    {
+      "id": "state-ca",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 10
+        }
+      ]
+    },
+    {
+      "id": "state-nh",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 13
+        }
+      ]
+    },
+    {
+      "id": "state-wa",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 10
+        }
+      ]
+    },
+    {
+      "id": "state-co",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 8
+        }
+      ]
+    },
+    {
+      "id": "state-ut",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 4
+        }
+      ]
+    },
+    {
+      "id": "state-ct",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 11
+        }
+      ]
+    },
+    {
+      "id": "state-ak",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 6
+        }
+      ]
+    },
+    {
+      "id": "state-va",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 8
+        }
+      ]
+    },
+    {
+      "id": "threshold-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 33
+        }
+      ]
+    },
+    {
+      "id": "threshold",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 14
+        }
+      ]
+    },
+    {
+      "id": "threshold-detail",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 36
+        }
+      ]
+    },
+    {
+      "id": "source-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 36
+        }
+      ]
+    },
+    {
+      "id": "source-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 39
+        }
+      ]
+    },
+    {
+      "id": "source-three",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 24
+        }
+      ]
+    }
+  ],
+  "coin_bounds": {
+    "left": 795,
+    "top": 132,
+    "right": 1035,
+    "bottom": 372,
+    "width": 240,
+    "height": 240
+  },
+  "whole_coin_upper_75_percent_verified": true,
+  "integration": {
+    "method": "Exact original coin PNG seated in an upper-right residential plaster wall recess, with compatible warm scene lighting and CSS contact shading",
+    "artwork": "Original uniformly scaled PNG; original portrait, lettering and circular rim preserved",
+    "image_generation_role": "Text-free conceptual residential houses and warm plaster wall only",
+    "topic": "MoneyLion classifies $100,000 annual household income as lower-middle class in 12 states",
+    "category_badge": "CONSUMER SENTIMENT",
+    "background_credit_on_graphic": false,
+    "background_provenance": "Conceptual residential backdrop, not documentary evidence of household wealth or actual properties"
+  },
+  "generation_prompts": [
+    "Create a beautiful high-end editorial Instagram Story BACKGROUND ONLY, portrait 9:16 for a final 1080x1920 Moneyberg News Brief about the classification of $100,000 annual household income in twelve US states. Consumer-finance design: luminous warm ivory, dark ink accents, restrained oxblood burgundy, soft brass details. Refined architectural paper model aesthetic, matte cream plaster wall or paper surface covering the central upper 80 percent, rich subtle tactile paper grain, tasteful warm directional morning lighting from upper left. Along the bottom 20 percent, a detailed sculptural miniature American residential streetscape with two or three detached homes, fine windows, front porches, trees, a discreet house key and plain household budget papers; all conceptual and decorative, no factual or geographic claim. Cropped subtle architecture at outer edges, but quiet exceptionally clean cream negative space for text throughout x104\u2013961 y164\u20131536 on the final 1080x1920 canvas. No obvious white rectangular card; the entire wall is the editorial surface. Reserve a small circular brass architectural socket centered at x933,y273, diameter180px, on the upper-right wall, physically set into the material with subtle brushed brass rim and contact shadow: the user's exact original Moneyberg coin will be composited there, uniformly scaled and unchanged. Do NOT generate a coin, portrait, inscription, or another logo. Make the empty socket simple, aligned frontally, unwarped. Its whole coin will remain within upper75% y0\u20131440 and clear of news text. Production context ONLY, do not render any of this text: recurring brand 'MONEYBERG NEWS BRIEF' on one compact line at35px; actual Lato Black900 for headings/labels/date and Georgia400 for body/sources will be separately typeset. Required authored font minima33px all text,35px body,51px headline. All news text and panels stay x104\u2013961,y164\u20131536. No generated text, numbers, charts, axes, logos, watermarks or production credits anywhere. Warm polished magazine art direction, highly legible quiet space, deliberate asymmetry, premium architectural still-life photography mixed with tactile paper sculpture. Output background only."
+  ],
+  "sources": [
+    "https://www.moneylion.com/trending/money/100k-dollars-is-still-considered-lower-middle-class-in-these-states",
+    "https://x.com/unusual_whales/status/2121710009083888079"
+  ],
+  "source_access": "Read the selected Unusual Whales post and original MoneyLion analysis. Household-income classifications are MoneyLion definitions using 2024 American Community Survey data, not an official Census class definition or cost-of-living adjustment.",
+  "reporting_scope": {
+    "edition_date": "2026-11-15",
+    "edition_date_basis": "User environment date, UTC",
+    "selected_post_published_utc": "2026-11-14T21:01:00Z",
+    "original_analysis_published": "2026-04-16",
+    "original_analysis_updated": "2026-04-24",
+    "data_year": 2024,
+    "data_as_of": "2026-04-01",
+    "income_basis": "Annual household income, not an individual salary",
+    "classification": "MoneyLion divides a middle-class band of two-thirds to twice state median household income into thirds; the bottom third is lower-middle class.",
+    "not_official_census_class_definition": true,
+    "not_cost_of_living_adjusted": true,
+    "annual_household_income_usd": 100000,
+    "number_of_states": 12,
+    "states": [
+      "Massachusetts",
+      "New Jersey",
+      "Maryland",
+      "Hawaii",
+      "California",
+      "New Hampshire",
+      "Washington",
+      "Colorado",
+      "Utah",
+      "Connecticut",
+      "Alaska",
+      "Virginia"
+    ],
+    "massachusetts_lower_middle_upper_threshold_usd": 116476,
+    "massachusetts_rounded_threshold_usd": 116500,
+    "no_chart_attached_to_selected_post": true
+  },
+  "output_sha256": "f1ccfb96725106821f6919e6d8fc6479e4539fa4f7961eb6ec908bca20ede6bd"
+}
