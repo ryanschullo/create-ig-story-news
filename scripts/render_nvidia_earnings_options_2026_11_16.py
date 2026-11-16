@@ -30,6 +30,9 @@ ROOT = Path(__file__).resolve().parents[1]
 TEMPLATE = ROOT / "assets/layouts/nvidia-earnings-options-2026-11-16.html"
 BACKGROUND = ROOT / "assets/nvidia-earnings-options-background-2026-11-16.png"
 COIN = ROOT / "assets/moneyberg-coin-original.png"
+NVIDIA_LOGO = ROOT / "assets/logos/nvidia/nvidia-logo-horiz-wht-original.png"
+NVIDIA_LOGO_HASH = "b4937f65c1f3a07536507865c2947d9c65a66131f2f137c661bb41aa43fce2ca"
+NVIDIA_LOGO_ART = (552, 820, 2736, 520)
 LATO = ROOT / "assets/fonts/lato/Lato-Black.ttf"
 OUTPUT = ROOT / "exports/nvidia-earnings-options-2026-11-16.png"
 AUDIT = ROOT / "briefs/nvidia-earnings-options-2026-11-16-layout.json"
@@ -42,9 +45,9 @@ if not GENERATION_PROMPTS:
 if not GENERATION_PROMPTS or any(not prompt.strip() or prompt.strip().lower() in {"undefined", "null"} for prompt in GENERATION_PROMPTS):
     raise ValueError("All original generation and editing prompts are required")
 INTEGRATION = {
-    "method": "Exact original coin PNG seated in an upper-right brass recess in a plum-and-teal GPU hardware scene, with compatible lighting and contact shading",
+    "method": "Exact original coin PNG seated in an upper-right brass recess in a NVIDIA-green and carbon-black GPU hardware scene, with compatible lighting and contact shading",
     "artwork": "Original uniformly scaled PNG; original portrait, lettering and circular rim preserved",
-    "image_generation_role": "Text-free conceptual unbranded GPU hardware and options-focused plum-and-teal backdrop only",
+    "image_generation_role": "Text-free conceptual unbranded GPU hardware with NVIDIA-green edge light against carbon-black metal; the official NVIDIA logo is composited separately from its unchanged original asset",
     "topic": "Benzinga reports options implying an 8.27% Nvidia earnings move in either direction",
     "category_badge": "OPTIONS INVESTING",
     "background_credit_on_graphic": False,
@@ -80,6 +83,7 @@ def runtime_document(georgia: Path):
             "/assets/fonts/lato/Lato-Black.ttf": (LATO, "font/ttf"),
             "/assets/nvidia-earnings-options-background-2026-11-16.png": (BACKGROUND, "image/png"),
             "/assets/moneyberg-coin-original.png": (COIN, "image/png"),
+            "/assets/logos/nvidia/nvidia-logo-horiz-wht-original.png": (NVIDIA_LOGO, "image/png"),
         }
 
         class AssetHandler(BaseHTTPRequestHandler):
@@ -120,6 +124,11 @@ async def render(georgia: Path, background_source: Path | None):
     verify_font(georgia, "Georgia", 400)
     if sha256(COIN) != COIN_HASH:
         raise ValueError("The original coin master has changed")
+    logo_bytes = NVIDIA_LOGO.read_bytes()
+    if (sha256(NVIDIA_LOGO) != NVIDIA_LOGO_HASH
+            or logo_bytes[:8] != b"\x89PNG\r\n\x1a\n"
+            or struct.unpack(">II", logo_bytes[16:24]) != (3840, 2160)):
+        raise ValueError("The unchanged official NVIDIA logo master has changed")
     if background_source is not None:
         if BACKGROUND.exists() and sha256(BACKGROUND) != sha256(background_source):
             raise ValueError("A different background already exists; refusing to overwrite it")
@@ -152,19 +161,23 @@ async def render(georgia: Path, background_source: Path | None):
                   const css = getComputedStyle(element);
                   return {id:element.id, text:element.textContent,
                     bounds:rect(range.getBoundingClientRect()), element_bounds:rect(element.getBoundingClientRect()),
-                    text_role:element.dataset.textRole || "label", font_family:css.fontFamily, font_weight:css.fontWeight, font_size:css.fontSize};
+                    text_role:element.dataset.textRole || "label", font_family:css.fontFamily, font_weight:css.fontWeight, font_size:css.fontSize, color:css.color};
                 });
                 const panels = Array.from(document.querySelectorAll('[data-news-panel]')).map(element =>
+                  ({id:element.id, bounds:rect(element.getBoundingClientRect())}));
+                const illustrations = Array.from(document.querySelectorAll('[data-news-illustration]')).map(element =>
                   ({id:element.id, bounds:rect(element.getBoundingClientRect())}));
                 const scene_elements = Array.from(document.querySelectorAll('[data-scene-element]')).map(element => {
                   const css=getComputedStyle(element);
                   return {id:element.id, bounds:rect(element.getBoundingClientRect()), box_shadow:css.boxShadow, background:css.backgroundImage};
                 });
-                return {text, panels, scene_elements, fonts:Array.from(document.fonts).map(face =>
+                return {text, panels, illustrations, scene_elements, fonts:Array.from(document.fonts).map(face =>
                   ({family:face.family, weight:face.weight, status:face.status})),
                   images:Array.from(document.images).map(image => ({id:image.id,
                     natural_width:image.naturalWidth, natural_height:image.naturalHeight,
                     object_fit:getComputedStyle(image).objectFit, clip_path:getComputedStyle(image).clipPath,
+                    filter:getComputedStyle(image).filter, transform:getComputedStyle(image).transform,
+                    opacity:getComputedStyle(image).opacity,
                     bounds:rect(image.getBoundingClientRect())})),
                   document_width:document.documentElement.scrollWidth,
                   document_height:document.documentElement.scrollHeight};
@@ -180,7 +193,36 @@ async def render(georgia: Path, background_source: Path | None):
                 raise ValueError(f"Original coin violates whole-coin upper-75% or aspect rule: {coin_bounds}")
             if coin["object_fit"] != "contain" or coin["clip_path"] != "none":
                 raise ValueError("Original coin may be cropped")
+            logo = next(image for image in layout["images"] if image["id"] == "nvidia-logo")
+            logo_viewport = next(item for item in layout["illustrations"] if item["id"] == "nvidia-logo-viewport")
+            if (logo["natural_width"], logo["natural_height"]) != (3840, 2160):
+                raise ValueError("The browser did not load the complete official NVIDIA logo master")
+            if (logo["object_fit"] != "contain" or logo["clip_path"] != "none"
+                    or logo["filter"] != "none" or logo["transform"] != "none" or logo["opacity"] != "1"):
+                raise ValueError("Official NVIDIA logo pixels may be altered")
+            logo_scale = logo["bounds"]["width"] / 3840
+            if abs(logo["bounds"]["height"] - 2160 * logo_scale) > 0.02:
+                raise ValueError("The NVIDIA logo is not uniformly scaled")
+            logo_art_bounds = {
+                "left": logo["bounds"]["left"] + NVIDIA_LOGO_ART[0] * logo_scale,
+                "top": logo["bounds"]["top"] + NVIDIA_LOGO_ART[1] * logo_scale,
+                "width": NVIDIA_LOGO_ART[2] * logo_scale,
+                "height": NVIDIA_LOGO_ART[3] * logo_scale,
+            }
+            logo_art_bounds["right"] = logo_art_bounds["left"] + logo_art_bounds["width"]
+            logo_art_bounds["bottom"] = logo_art_bounds["top"] + logo_art_bounds["height"]
+            viewport = logo_viewport["bounds"]
+            if (logo_art_bounds["left"] < viewport["left"]
+                    or logo_art_bounds["top"] < viewport["top"]
+                    or logo_art_bounds["right"] > viewport["right"]
+                    or logo_art_bounds["bottom"] > viewport["bottom"]):
+                raise ValueError("NVIDIA viewport crops actual artwork, not merely unused solid-black padding")
             for entry in layout["text"] + layout["panels"]:
+                box = entry["bounds"]
+                if (box["left"] < viewport["right"] and box["right"] > viewport["left"]
+                        and box["top"] < viewport["bottom"] and box["bottom"] > viewport["top"]):
+                    raise ValueError(f"Official NVIDIA logo overlaps news content: {entry['id']}")
+            for entry in layout["text"] + layout["panels"] + layout["illustrations"]:
                 box=entry["bounds"]
                 if (box["left"] < coin_bounds["right"] and box["right"] > coin_bounds["left"]
                         and box["top"] < coin_bounds["bottom"] and box["bottom"] > coin_bounds["top"]):
@@ -224,7 +266,7 @@ async def render(georgia: Path, background_source: Path | None):
                 role_minimum = {"headline": 51, "body": 35}.get(entry["text_role"], 33)
                 if size < role_minimum:
                     raise ValueError(f"Text role minimum not met: {entry['id']} ({size}px < {role_minimum}px)")
-            for entry in layout["text"] + layout["panels"]:
+            for entry in layout["text"] + layout["panels"] + layout["illustrations"]:
                 box = entry["bounds"]
                 if (box["left"] < INNER[0] or box["top"] < INNER[1]
                         or box["right"] > INNER[2] or box["bottom"] > INNER[3]):
@@ -265,6 +307,18 @@ async def render(georgia: Path, background_source: Path | None):
              "georgia_redistributed": False, "layout": layout, "platform_fonts": platform_fonts,
              "coin_bounds": coin_bounds, "whole_coin_upper_75_percent_verified": True,
              "integration": INTEGRATION, "generation_prompts": GENERATION_PROMPTS,
+             "nvidia_logo": {
+                 "path": str(NVIDIA_LOGO.relative_to(ROOT)), "sha256": sha256(NVIDIA_LOGO),
+                 "original_dimensions": [3840, 2160], "original_bytes": NVIDIA_LOGO.stat().st_size,
+                 "original_art_bounds_xywh": NVIDIA_LOGO_ART,
+                 "rendered_art_bounds": logo_art_bounds, "viewport_bounds": viewport,
+                 "uniform_scale_verified": True, "only_unused_solid_black_padding_excluded": True,
+                 "source_has_alpha_channel_but_is_fully_opaque": True,
+                 "official_gallery": "https://nvidianews.nvidia.com/multimedia/corporate/nvidia-logos",
+                 "original_asset_url": "https://iprsoftwaremedia.com/219/files/202512/nvidia-logo-horiz-wht-16x9.png?download=true",
+                 "master_unchanged": True,
+             },
+             "requested_revision": "Official NVIDIA logo and NVIDIA-green / black / white color scheme; all 15 factual text elements unchanged",
              "sources": [
                  "https://www.benzinga.com/markets/options/26/11/63277522/nvidia-earnings-without-jensen-huang-could-trigger-341-billion-stock-swing-as-options-traders-brace-for-volatility",
                  "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter-Financial-Results/default.aspx",

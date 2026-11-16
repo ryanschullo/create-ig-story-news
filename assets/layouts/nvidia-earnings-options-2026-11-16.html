@@ -4,39 +4,42 @@
 <style>
 @font-face{font-family:"Moneyberg Lato Black";src:url("fonts/lato/Lato-Black.ttf") format("truetype");font-weight:900;font-style:normal}
 @font-face{font-family:"Moneyberg Georgia";src:url("__GEORGIA_FONT_URI__") format("truetype");font-weight:400;font-style:normal}
-*{box-sizing:border-box}html,body{margin:0;width:1080px;height:1920px;overflow:hidden;background:#140e20}
+*{box-sizing:border-box}html,body{margin:0;width:1080px;height:1920px;overflow:hidden;background:#080b07}
 #stage{position:relative;width:1080px;height:1920px;isolation:isolate;overflow:hidden}
 #background{position:absolute;inset:0;width:1080px;height:1920px;object-fit:cover}
 .text{position:absolute;margin:0;z-index:5;font-synthesis:none;text-rendering:geometricPrecision;-webkit-font-smoothing:antialiased;white-space:nowrap}
-.lato{font-family:"Moneyberg Lato Black";font-weight:900;color:#f8f4fc}
-.georgia{font-family:"Moneyberg Georgia";font-weight:400;color:#eae4f0}
+.lato{font-family:"Moneyberg Lato Black";font-weight:900;color:#f6f8f1}
+.georgia{font-family:"Moneyberg Georgia";font-weight:400;color:#e5e9df}
 #brand{left:118px;top:174px;font-size:35px;line-height:44px;letter-spacing:.25px}
-#category{left:118px;top:234px;font-size:33px;line-height:42px;letter-spacing:.6px;color:#9ae5d9}
-#date{left:118px;top:287px;font-size:33px;line-height:42px;color:#c5bcd6}
-#headline-one{left:118px;top:390px;font-size:79px;line-height:96px;letter-spacing:-.8px}
-#headline-two{left:118px;top:488px;font-size:74px;line-height:90px;letter-spacing:-.8px}
-#implied-move{left:112px;top:610px;font-size:150px;line-height:180px;letter-spacing:-4px;color:#a6f0e0}
-#move-label{left:118px;top:817px;font-size:33px;line-height:43px;letter-spacing:.4px;color:#d2c6e5}
-#direction{left:118px;top:872px;font-size:42px;line-height:56px}
-#value-panel{position:absolute;left:104px;top:965px;width:857px;height:287px;z-index:3;background:linear-gradient(110deg,rgba(32,27,50,.97),rgba(25,26,43,.95));border-left:3px solid #a1e6d8;border-top:1px solid #60716f;box-shadow:0 8px 25px #0003}
-#value{left:128px;top:984px;font-size:100px;line-height:120px;letter-spacing:-1.2px;color:#f2e0b8}
+#category{left:118px;top:234px;font-size:33px;line-height:42px;letter-spacing:.6px;color:#76b900}
+#date{left:118px;top:287px;font-size:33px;line-height:42px;color:#c2cbb7}
+#nvidia-logo-viewport{position:absolute;left:118px;top:342px;width:302px;height:60px;overflow:hidden;z-index:5}
+#nvidia-logo{position:absolute;left:-59.5263158px;top:-88.9122807px;width:421.0526316px;height:236.8421053px;object-fit:contain}
+#headline-one{left:118px;top:426px;font-size:79px;line-height:96px;letter-spacing:-.8px}
+#headline-two{left:118px;top:524px;font-size:74px;line-height:90px;letter-spacing:-.8px}
+#implied-move{left:112px;top:638px;font-size:150px;line-height:180px;letter-spacing:-4px;color:#76b900}
+#move-label{left:118px;top:837px;font-size:33px;line-height:43px;letter-spacing:.4px;color:#d2dbc5}
+#direction{left:118px;top:892px;font-size:42px;line-height:56px}
+#value-panel{position:absolute;left:104px;top:965px;width:857px;height:287px;z-index:3;background:linear-gradient(110deg,rgba(28,34,23,.97),rgba(17,22,15,.96));border-left:3px solid #76b900;border-top:1px solid #68794c;box-shadow:0 8px 25px #0003}
+#value{left:128px;top:984px;font-size:100px;line-height:120px;letter-spacing:-1.2px;color:#f4f6ed}
 #value-detail-one,#value-detail-two{left:130px;font-size:38px;line-height:50px}
 #value-detail-one{top:1120px}#value-detail-two{top:1174px}
-#earnings-panel{position:absolute;left:104px;top:1289px;width:857px;height:86px;z-index:3;background:rgba(18,32,40,.96);border-top:1px solid #42685f}
-#earnings{left:126px;top:1310px;font-size:35px;line-height:45px;color:#b6efe0;letter-spacing:0}
-#source-panel{position:absolute;left:104px;top:1389px;width:857px;height:147px;background:rgba(18,13,29,.96);z-index:3}
-#qualifier{left:118px;top:1395px;font-size:35px;line-height:46px;color:#e2d7eb}
-#source-one,#source-two{left:118px;font-size:33px;line-height:43px;color:#c9bdd7}
+#earnings-panel{position:absolute;left:104px;top:1289px;width:857px;height:86px;z-index:3;background:rgba(21,31,12,.97);border-top:1px solid #50752b}
+#earnings{left:126px;top:1310px;font-size:35px;line-height:45px;color:#b6e967;letter-spacing:0}
+#source-panel{position:absolute;left:104px;top:1389px;width:857px;height:147px;background:rgba(8,12,6,.96);z-index:3}
+#qualifier{left:118px;top:1395px;font-size:35px;line-height:46px;color:#e0e6d8}
+#source-one,#source-two{left:118px;font-size:33px;line-height:43px;color:#c2cbb7}
 #source-one{top:1450px}#source-two{top:1492px}
-#coin-installation{position:absolute;left:774px;top:144px;width:240px;height:240px;z-index:2;border-radius:50%;background:linear-gradient(135deg,#bfa77b,#443425 57%,#a0864e);box-shadow:inset 4px 5px 10px #2f211a,3px 4px 8px #05040abb,-1px -1px 2px #dec9a1}
+#coin-installation{position:absolute;left:769px;top:98px;width:240px;height:240px;z-index:2;border-radius:50%;background:linear-gradient(135deg,#bfa77b,#443425 57%,#a0864e);box-shadow:inset 4px 5px 10px #2f211a,3px 4px 8px #050708bb,-1px -1px 2px #dec9a1}
 #coin{position:absolute;inset:0;width:240px;height:240px;object-fit:contain;filter:saturate(.8) brightness(.86)}
-#coin-contact{position:absolute;inset:0;border-radius:50%;pointer-events:none;box-shadow:inset 4px 5px 9px #2c213a77,inset -2px -2px 3px #c6e5c544;background:linear-gradient(125deg,#ead7b211,transparent 46%,#1b765a20)}
+#coin-contact{position:absolute;inset:0;border-radius:50%;pointer-events:none;box-shadow:inset 4px 5px 9px #272f1577,inset -2px -2px 3px #d3ee9344;background:linear-gradient(125deg,#ead7b211,transparent 46%,#76b90018)}
 </style></head><body><main id="stage" aria-label="NVIDIA options imply an 8.27 percent move in either direction around earnings, as reported by Benzinga on November 15, 2026. Approximately 341 billion dollars in market value using its reported 4.13 trillion dollar valuation. Actual movement may differ. NVIDIA confirms November 17 earnings after the close. November 16 edition.">
 <img id="background" src="nvidia-earnings-options-background-2026-11-16.png" alt="">
 <div id="coin-installation" data-scene-element aria-hidden="true"><img id="coin" src="moneyberg-coin-original.png" alt=""><div id="coin-contact" data-scene-element></div></div>
 <div id="brand" class="text lato" data-news-text>MONEYBERG NEWS BRIEF</div>
 <div id="category" class="text lato" data-news-text>OPTIONS INVESTING</div>
 <div id="date" class="text lato" data-news-text>NOVEMBER 16, 2026</div>
+<div id="nvidia-logo-viewport" data-news-illustration><img id="nvidia-logo" src="logos/nvidia/nvidia-logo-horiz-wht-original.png" alt="Official NVIDIA logo"></div>
 <div id="headline-one" class="text lato" data-news-text data-text-role="headline">NVIDIA OPTIONS</div>
 <div id="headline-two" class="text lato" data-news-text data-text-role="headline">SIGNAL A BIG MOVE</div>
 <div id="implied-move" class="text lato" data-news-text data-text-role="headline">±8.27%</div>

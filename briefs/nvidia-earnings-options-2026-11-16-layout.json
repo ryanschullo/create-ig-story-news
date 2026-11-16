@@ -14,7 +14,7 @@
   "minimum_headline_font_size_px": 51,
   "font_size_minimum_verified": true,
   "renderer": "Chromium via Playwright; HTML/CSS screenshot",
-  "background_sha256": "e75bff68a8fe9d6ad9c662ca1c67d4686b08c9cbe9b330aed1d688b8c58df01c",
+  "background_sha256": "9103468b557086764035dea8b4ef08b7ef7d7c90f56ca51c92b7eb790baa6d6e",
   "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
   "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
   "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
@@ -43,7 +43,8 @@
         "text_role": "label",
         "font_family": "\"Moneyberg Lato Black\"",
         "font_weight": "900",
-        "font_size": "35px"
+        "font_size": "35px",
+        "color": "rgb(246, 248, 241)"
       },
       {
         "id": "category",
@@ -67,7 +68,8 @@
         "text_role": "label",
         "font_family": "\"Moneyberg Lato Black\"",
         "font_weight": "900",
-        "font_size": "33px"
+        "font_size": "33px",
+        "color": "rgb(118, 185, 0)"
       },
       {
         "id": "date",
@@ -91,127 +93,133 @@
         "text_role": "label",
         "font_family": "\"Moneyberg Lato Black\"",
         "font_weight": "900",
-        "font_size": "33px"
+        "font_size": "33px",
+        "color": "rgb(194, 203, 183)"
       },
       {
         "id": "headline-one",
         "text": "NVIDIA OPTIONS",
         "bounds": {
           "left": 118,
-          "top": 390,
+          "top": 426,
           "right": 756.859375,
-          "bottom": 485,
+          "bottom": 521,
           "width": 638.859375,
           "height": 95
         },
         "element_bounds": {
           "left": 118,
-          "top": 390,
+          "top": 426,
           "right": 756.859375,
-          "bottom": 486,
+          "bottom": 522,
           "width": 638.859375,
           "height": 96
         },
         "text_role": "headline",
         "font_family": "\"Moneyberg Lato Black\"",
         "font_weight": "900",
-        "font_size": "79px"
+        "font_size": "79px",
+        "color": "rgb(246, 248, 241)"
       },
       {
         "id": "headline-two",
         "text": "SIGNAL A BIG MOVE",
         "bounds": {
           "left": 118,
-          "top": 488,
+          "top": 524,
           "right": 814.578125,
-          "bottom": 577,
+          "bottom": 613,
           "width": 696.578125,
           "height": 89
         },
         "element_bounds": {
           "left": 118,
-          "top": 488,
+          "top": 524,
           "right": 814.578125,
-          "bottom": 578,
+          "bottom": 614,
           "width": 696.578125,
           "height": 90
         },
         "text_role": "headline",
         "font_family": "\"Moneyberg Lato Black\"",
         "font_weight": "900",
-        "font_size": "74px"
+        "font_size": "74px",
+        "color": "rgb(246, 248, 241)"
       },
       {
         "id": "implied-move",
         "text": "\u00b18.27%",
         "bounds": {
           "left": 112,
-          "top": 610,
+          "top": 638,
           "right": 595.765625,
-          "bottom": 790,
+          "bottom": 818,
           "width": 483.765625,
           "height": 180
         },
         "element_bounds": {
           "left": 112,
-          "top": 610,
+          "top": 638,
           "right": 595.765625,
-          "bottom": 790,
+          "bottom": 818,
           "width": 483.765625,
           "height": 180
         },
         "text_role": "headline",
         "font_family": "\"Moneyberg Lato Black\"",
         "font_weight": "900",
-        "font_size": "150px"
+        "font_size": "150px",
+        "color": "rgb(118, 185, 0)"
       },
       {
         "id": "move-label",
         "text": "IMPLIED MOVE AROUND EARNINGS",
         "bounds": {
           "left": 118,
-          "top": 818,
+          "top": 838,
           "right": 697.3125,
-          "bottom": 858,
+          "bottom": 878,
           "width": 579.3125,
           "height": 40
         },
         "element_bounds": {
           "left": 118,
-          "top": 817,
+          "top": 837,
           "right": 697.3125,
-          "bottom": 860,
+          "bottom": 880,
           "width": 579.3125,
           "height": 43
         },
         "text_role": "label",
         "font_family": "\"Moneyberg Lato Black\"",
         "font_weight": "900",
-        "font_size": "33px"
+        "font_size": "33px",
+        "color": "rgb(210, 219, 197)"
       },
       {
         "id": "direction",
         "text": "In either direction.",
         "bounds": {
           "left": 118,
-          "top": 876,
+          "top": 896,
           "right": 467.09375,
-          "bottom": 924,
+          "bottom": 944,
           "width": 349.09375,
           "height": 48
         },
         "element_bounds": {
           "left": 118,
-          "top": 872,
+          "top": 892,
           "right": 467.09375,
-          "bottom": 928,
+          "bottom": 948,
           "width": 349.09375,
           "height": 56
         },
         "text_role": "body",
         "font_family": "\"Moneyberg Georgia\"",
         "font_weight": "400",
-        "font_size": "42px"
+        "font_size": "42px",
+        "color": "rgb(229, 233, 223)"
       },
       {
         "id": "value",
@@ -235,7 +243,8 @@
         "text_role": "headline",
         "font_family": "\"Moneyberg Lato Black\"",
         "font_weight": "900",
-        "font_size": "100px"
+        "font_size": "100px",
+        "color": "rgb(244, 246, 237)"
       },
       {
         "id": "value-detail-one",
@@ -259,7 +268,8 @@
         "text_role": "body",
         "font_family": "\"Moneyberg Georgia\"",
         "font_weight": "400",
-        "font_size": "38px"
+        "font_size": "38px",
+        "color": "rgb(229, 233, 223)"
       },
       {
         "id": "value-detail-two",
@@ -283,7 +293,8 @@
         "text_role": "body",
         "font_family": "\"Moneyberg Georgia\"",
         "font_weight": "400",
-        "font_size": "38px"
+        "font_size": "38px",
+        "color": "rgb(229, 233, 223)"
       },
       {
         "id": "earnings",
@@ -307,7 +318,8 @@
         "text_role": "label",
         "font_family": "\"Moneyberg Lato Black\"",
         "font_weight": "900",
-        "font_size": "35px"
+        "font_size": "35px",
+        "color": "rgb(182, 233, 103)"
       },
       {
         "id": "qualifier",
@@ -331,7 +343,8 @@
         "text_role": "body",
         "font_family": "\"Moneyberg Georgia\"",
         "font_weight": "400",
-        "font_size": "35px"
+        "font_size": "35px",
+        "color": "rgb(224, 230, 216)"
       },
       {
         "id": "source-one",
@@ -355,7 +368,8 @@
         "text_role": "source",
         "font_family": "\"Moneyberg Georgia\"",
         "font_weight": "400",
-        "font_size": "33px"
+        "font_size": "33px",
+        "color": "rgb(194, 203, 183)"
       },
       {
         "id": "source-two",
@@ -379,7 +393,8 @@
         "text_role": "source",
         "font_family": "\"Moneyberg Georgia\"",
         "font_weight": "400",
-        "font_size": "33px"
+        "font_size": "33px",
+        "color": "rgb(194, 203, 183)"
       }
     ],
     "panels": [
@@ -417,32 +432,45 @@
         }
       }
     ],
+    "illustrations": [
+      {
+        "id": "nvidia-logo-viewport",
+        "bounds": {
+          "left": 118,
+          "top": 342,
+          "right": 420,
+          "bottom": 402,
+          "width": 302,
+          "height": 60
+        }
+      }
+    ],
     "scene_elements": [
       {
         "id": "coin-installation",
         "bounds": {
-          "left": 774,
-          "top": 144,
-          "right": 1014,
-          "bottom": 384,
+          "left": 769,
+          "top": 98,
+          "right": 1009,
+          "bottom": 338,
           "width": 240,
           "height": 240
         },
-        "box_shadow": "rgb(47, 33, 26) 4px 5px 10px 0px inset, rgba(5, 4, 10, 0.733) 3px 4px 8px 0px, rgb(222, 201, 161) -1px -1px 2px 0px",
+        "box_shadow": "rgb(47, 33, 26) 4px 5px 10px 0px inset, rgba(5, 7, 8, 0.733) 3px 4px 8px 0px, rgb(222, 201, 161) -1px -1px 2px 0px",
         "background": "linear-gradient(135deg, rgb(191, 167, 123), rgb(68, 52, 37) 57%, rgb(160, 134, 78))"
       },
       {
         "id": "coin-contact",
         "bounds": {
-          "left": 774,
-          "top": 144,
-          "right": 1014,
-          "bottom": 384,
+          "left": 769,
+          "top": 98,
+          "right": 1009,
+          "bottom": 338,
           "width": 240,
           "height": 240
         },
-        "box_shadow": "rgba(44, 33, 58, 0.467) 4px 5px 9px 0px inset, rgba(198, 229, 197, 0.267) -2px -2px 3px 0px inset",
-        "background": "linear-gradient(125deg, rgba(234, 215, 178, 0.067), rgba(0, 0, 0, 0) 46%, rgba(27, 118, 90, 0.125))"
+        "box_shadow": "rgba(39, 47, 21, 0.467) 4px 5px 9px 0px inset, rgba(211, 238, 147, 0.267) -2px -2px 3px 0px inset",
+        "background": "linear-gradient(125deg, rgba(234, 215, 178, 0.067), rgba(0, 0, 0, 0) 46%, rgba(118, 185, 0, 0.094))"
       }
     ],
     "fonts": [
@@ -460,10 +488,13 @@
     "images": [
       {
         "id": "background",
-        "natural_width": 941,
-        "natural_height": 1672,
+        "natural_width": 916,
+        "natural_height": 1717,
         "object_fit": "cover",
         "clip_path": "none",
+        "filter": "none",
+        "transform": "none",
+        "opacity": "1",
         "bounds": {
           "left": 0,
           "top": 0,
@@ -479,13 +510,34 @@
         "natural_height": 2084,
         "object_fit": "contain",
         "clip_path": "none",
+        "filter": "saturate(0.8) brightness(0.86)",
+        "transform": "none",
+        "opacity": "1",
         "bounds": {
-          "left": 774,
-          "top": 144,
-          "right": 1014,
-          "bottom": 384,
+          "left": 769,
+          "top": 98,
+          "right": 1009,
+          "bottom": 338,
           "width": 240,
           "height": 240
+        }
+      },
+      {
+        "id": "nvidia-logo",
+        "natural_width": 3840,
+        "natural_height": 2160,
+        "object_fit": "contain",
+        "clip_path": "none",
+        "filter": "none",
+        "transform": "none",
+        "opacity": "1",
+        "bounds": {
+          "left": 58.484375,
+          "top": 253.09375,
+          "right": 479.53125,
+          "bottom": 489.921875,
+          "width": 421.046875,
+          "height": 236.828125
         }
       }
     ],
@@ -660,26 +712,65 @@
     }
   ],
   "coin_bounds": {
-    "left": 774,
-    "top": 144,
-    "right": 1014,
-    "bottom": 384,
+    "left": 769,
+    "top": 98,
+    "right": 1009,
+    "bottom": 338,
     "width": 240,
     "height": 240
   },
   "whole_coin_upper_75_percent_verified": true,
   "integration": {
-    "method": "Exact original coin PNG seated in an upper-right brass recess in a plum-and-teal GPU hardware scene, with compatible lighting and contact shading",
+    "method": "Exact original coin PNG seated in an upper-right brass recess in a NVIDIA-green and carbon-black GPU hardware scene, with compatible lighting and contact shading",
     "artwork": "Original uniformly scaled PNG; original portrait, lettering and circular rim preserved",
-    "image_generation_role": "Text-free conceptual unbranded GPU hardware and options-focused plum-and-teal backdrop only",
+    "image_generation_role": "Text-free conceptual unbranded GPU hardware with NVIDIA-green edge light against carbon-black metal; the official NVIDIA logo is composited separately from its unchanged original asset",
     "topic": "Benzinga reports options implying an 8.27% Nvidia earnings move in either direction",
     "category_badge": "OPTIONS INVESTING",
     "background_credit_on_graphic": false,
     "background_provenance": "Conceptual unbranded hardware imagery, not evidence of a particular Nvidia product or future stock-market result"
   },
   "generation_prompts": [
-    "Create a premium editorial Instagram Story BACKGROUND ONLY, portrait 9:16 for final 1080x1920. Subject is NVIDIA stock options and earnings volatility, not a market crash. Distinct OPTIONS INVESTING visual identity: very deep indigo and plum-black, restrained crisp teal highlights, small warm brass accents. Make a beautiful cinematic conceptual computing-and-derivatives environment with tactile midnight anodized metal, subtle smoked glass, understated fine structural lines. Along the bottom20 percent, show a sophisticated GPU accelerator board and cooling fins, a dark unbranded silicon chip with a restrained teal edge glow, and two balanced sculptural translucent ribbon forms diverging symmetrically to suggest uncertainty in either direction; these are abstract physical forms, NOT a plotted graph or price path. Keep all imagery conceptual: no actual performance data, chart axes, tickers, numerical displays, fake trading screens, company logos, words or letters. The central upper80 percent must be elegantly dark and very quiet for exceptionally legible large editorial text. All final authored news content will be separately typeset within x104\u2013961,y164\u20131536 on1080x1920. Leave that entire region free of busy hardware or competing highlights. Reserve an empty simple circular brass mounting recess in the upper-right dark industrial panel, centered approximately x925,y270 with diameter200px, facing the camera directly. It must be physically recessed into a surface with a realistic rim, compatible teal ambient spill and warm upper-left contact light. The user's exact original Moneyberg coin artwork will be composited there unchanged and uniformly scaled; do NOT generate any coin portrait, face, rim lettering, logo or replacement emblem. Wholecoin will stay within y0\u20131440, upper75%, separate from news text. Production context only, DO NOT RENDER: exact recurring brand MONEYBERG NEWS BRIEF on one compact line35px, separate OPTIONS INVESTING category; actual Lato Black900 for headings/brand/dates/numeric labels and actual Georgia400 for summaries/sources/qualifiers. Authored type minimum33px overall,35px body,51px headlines. No background-production footer. Target polished high-end financial magazine art direction: rich plum and teal depth, clear negative space, realistic metal material, an unbranded GPU/chip composition at bottom, subtle symmetrical abstract volatility motif. Background only, no generated words, numbers, charts, logos or coin."
+    "Create a premium editorial Instagram Story BACKGROUND ONLY, portrait 9:16 for final 1080x1920. Subject is NVIDIA stock options and earnings volatility, not a market crash. Distinct OPTIONS INVESTING visual identity: very deep indigo and plum-black, restrained crisp teal highlights, small warm brass accents. Make a beautiful cinematic conceptual computing-and-derivatives environment with tactile midnight anodized metal, subtle smoked glass, understated fine structural lines. Along the bottom20 percent, show a sophisticated GPU accelerator board and cooling fins, a dark unbranded silicon chip with a restrained teal edge glow, and two balanced sculptural translucent ribbon forms diverging symmetrically to suggest uncertainty in either direction; these are abstract physical forms, NOT a plotted graph or price path. Keep all imagery conceptual: no actual performance data, chart axes, tickers, numerical displays, fake trading screens, company logos, words or letters. The central upper80 percent must be elegantly dark and very quiet for exceptionally legible large editorial text. All final authored news content will be separately typeset within x104\u2013961,y164\u20131536 on1080x1920. Leave that entire region free of busy hardware or competing highlights. Reserve an empty simple circular brass mounting recess in the upper-right dark industrial panel, centered approximately x925,y270 with diameter200px, facing the camera directly. It must be physically recessed into a surface with a realistic rim, compatible teal ambient spill and warm upper-left contact light. The user's exact original Moneyberg coin artwork will be composited there unchanged and uniformly scaled; do NOT generate any coin portrait, face, rim lettering, logo or replacement emblem. Wholecoin will stay within y0\u20131440, upper75%, separate from news text. Production context only, DO NOT RENDER: exact recurring brand MONEYBERG NEWS BRIEF on one compact line35px, separate OPTIONS INVESTING category; actual Lato Black900 for headings/brand/dates/numeric labels and actual Georgia400 for summaries/sources/qualifiers. Authored type minimum33px overall,35px body,51px headlines. No background-production footer. Target polished high-end financial magazine art direction: rich plum and teal depth, clear negative space, realistic metal material, an unbranded GPU/chip composition at bottom, subtle symmetrical abstract volatility motif. Background only, no generated words, numbers, charts, logos or coin.",
+    "Edit the supplied TEXT-FREE background into a premium NVIDIA-themed GREEN AND BLACK design for the same 1080x1920 Instagram Story. Keep the concept of detailed semiconductor accelerator hardware and cooling fins along the bottom, a quiet upper central dark metal surface for text, and the small circular brass mounting recess at upper-right. Replace ALL plum, purple, indigo and cyan/teal lighting with NVIDIA's distinctive vivid yellow-green (#76B900) against neutral carbon black and charcoal. Give the bottom GPU chip and hardware edges restrained sharp green light; keep the surface realistic, sophisticated and tactile, not a cartoon and not an actual labeled product. The two abstract translucent uncertainty ribbons may be retained with subtle green light; they are decorative physical forms, not a price chart or forecast. Preserve large quiet negative space for legible editorial content. Keep the empty circular bronze recess near x894,y264, diameter240px on the final1080x1920, directly front-facing; the user's actual original gold Moneyberg coin will be composited unchanged there with a compatible contact shadow and green ambient light. Do NOT generate a coin, face, portrait, inscriptions, logos, numbers or text. In particular, do not generate a guessed NVIDIA logo: the actual official NVIDIA logo will be composited separately in the finished Story. All separately authored news content and the logo must fit x104\u2013961,y164\u20131536. Coin full rim must fit within upper75%,y0\u20131440 and not overlap news. Production context ONLY, DO NOT RENDER: recurring exact brand MONEYBERG NEWS BRIEF compact one-line35px, category OPTIONS INVESTING; exact Lato Black900 for headlines/labels/dates and exact Georgia400 for body/sources/qualifiers; authored minimum33px,body35px,headlines51px. No background-production footer. Preserve dramatic but restrained editorial depth and shift the visual identity clearly to recognizable NVIDIA green, black and white. Output only the new background, with no text, no logo and no coin."
   ],
+  "nvidia_logo": {
+    "path": "assets/logos/nvidia/nvidia-logo-horiz-wht-original.png",
+    "sha256": "b4937f65c1f3a07536507865c2947d9c65a66131f2f137c661bb41aa43fce2ca",
+    "original_dimensions": [
+      3840,
+      2160
+    ],
+    "original_bytes": 63664,
+    "original_art_bounds_xywh": [
+      552,
+      820,
+      2736,
+      520
+    ],
+    "rendered_art_bounds": {
+      "left": 119.00986328125,
+      "top": 343.0048014322917,
+      "width": 299.9958984375,
+      "height": 57.016764322916664,
+      "right": 419.00576171875,
+      "bottom": 400.02156575520837
+    },
+    "viewport_bounds": {
+      "left": 118,
+      "top": 342,
+      "right": 420,
+      "bottom": 402,
+      "width": 302,
+      "height": 60
+    },
+    "uniform_scale_verified": true,
+    "only_unused_solid_black_padding_excluded": true,
+    "source_has_alpha_channel_but_is_fully_opaque": true,
+    "official_gallery": "https://nvidianews.nvidia.com/multimedia/corporate/nvidia-logos",
+    "original_asset_url": "https://iprsoftwaremedia.com/219/files/202512/nvidia-logo-horiz-wht-16x9.png?download=true",
+    "master_unchanged": true
+  },
+  "requested_revision": "Official NVIDIA logo and NVIDIA-green / black / white color scheme; all 15 factual text elements unchanged",
   "sources": [
     "https://www.benzinga.com/markets/options/26/11/63277522/nvidia-earnings-without-jensen-huang-could-trigger-341-billion-stock-swing-as-options-traders-brace-for-volatility",
     "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter-Financial-Results/default.aspx"
@@ -706,5 +797,5 @@
     "company_schedule_published": "2026-10-28",
     "no_source_chart": true
   },
-  "output_sha256": "782b3233c1be98623c9fa6e5a4aec76e1ca2f3c7438a4e9961810e55cf06240e"
+  "output_sha256": "0da712cfbd280bf46115ff8cda4a36100cc1a962afbeadf326bff0abd22431aa"
 }
