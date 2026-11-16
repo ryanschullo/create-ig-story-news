@@ -1,0 +1,1006 @@
+{
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "inner_bounds": [
+    104,
+    164,
+    961,
+    1536
+  ],
+  "minimum_authored_font_size_px": 33,
+  "minimum_body_font_size_px": 35,
+  "minimum_headline_font_size_px": 51,
+  "font_size_minimum_verified": true,
+  "renderer": "Chromium via Playwright; HTML/CSS screenshot",
+  "background_sha256": "ad8fe37a8312404bf390d0cb7bf2a59ff63860f939cbede7f6aa44ed63d9308b",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
+  "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
+  "georgia_redistributed": false,
+  "layout": {
+    "text": [
+      {
+        "id": "brand",
+        "text": "MONEYBERG NEWS BRIEF",
+        "bounds": {
+          "left": 118,
+          "top": 175,
+          "right": 562.109375,
+          "bottom": 217,
+          "width": 444.109375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 174,
+          "right": 562.109375,
+          "bottom": 218,
+          "width": 444.109375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "category",
+        "text": "AI INVESTING",
+        "bounds": {
+          "left": 118,
+          "top": 235,
+          "right": 341.390625,
+          "bottom": 275,
+          "width": 223.390625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 234,
+          "right": 341.390625,
+          "bottom": 276,
+          "width": 223.390625,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "date",
+        "text": "NOV. 16, 2026 \u2022 12:45 A.M. CST",
+        "bounds": {
+          "left": 118,
+          "top": 288,
+          "right": 601.234375,
+          "bottom": 328,
+          "width": 483.234375,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 287,
+          "right": 601.234375,
+          "bottom": 329,
+          "width": 483.234375,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "headline-one",
+        "text": "JENSEN CLIMBS IN",
+        "bounds": {
+          "left": 118,
+          "top": 375,
+          "right": 744.53125,
+          "bottom": 461,
+          "width": 626.53125,
+          "height": 86
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 374,
+          "right": 744.53125,
+          "bottom": 462,
+          "width": 626.53125,
+          "height": 88
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "72px"
+      },
+      {
+        "id": "headline-two",
+        "text": "NVIDIA CEO ODDS",
+        "bounds": {
+          "left": 118,
+          "top": 462,
+          "right": 746.703125,
+          "bottom": 548,
+          "width": 628.703125,
+          "height": 86
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 461,
+          "right": 746.703125,
+          "bottom": 549,
+          "width": 628.703125,
+          "height": 88
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "72px"
+      },
+      {
+        "id": "scope",
+        "text": "Next permanent CEO \u2022 before Jan. 1, 2029",
+        "bounds": {
+          "left": 118,
+          "top": 574,
+          "right": 774.578125,
+          "bottom": 614,
+          "width": 656.578125,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 571,
+          "right": 774.578125,
+          "bottom": 617,
+          "width": 656.578125,
+          "height": 46
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "rank-label",
+        "text": "KALSHI\u2019S TOP 3 \u2022 IMPLIED CHANCES",
+        "bounds": {
+          "left": 118,
+          "top": 643,
+          "right": 700.640625,
+          "bottom": 683,
+          "width": 582.640625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 642,
+          "right": 700.640625,
+          "bottom": 684,
+          "width": 582.640625,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "rene",
+        "text": "Rene Haas",
+        "bounds": {
+          "left": 125,
+          "top": 727,
+          "right": 290.203125,
+          "bottom": 769,
+          "width": 165.203125,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 125,
+          "top": 726,
+          "right": 290.203125,
+          "bottom": 770,
+          "width": 165.203125,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "jensen",
+        "text": "Jensen Huang",
+        "bounds": {
+          "left": 413,
+          "top": 727,
+          "right": 631.5,
+          "bottom": 769,
+          "width": 218.5,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 413,
+          "top": 726,
+          "right": 631.5,
+          "bottom": 770,
+          "width": 218.5,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "ian",
+        "text": "Ian Buck",
+        "bounds": {
+          "left": 713,
+          "top": 727,
+          "right": 848.0625,
+          "bottom": 769,
+          "width": 135.0625,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 713,
+          "top": 726,
+          "right": 848.0625,
+          "bottom": 770,
+          "width": 135.0625,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "rene-chance",
+        "text": "21%",
+        "bounds": {
+          "left": 125,
+          "top": 779,
+          "right": 293.859375,
+          "bottom": 885,
+          "width": 168.859375,
+          "height": 106
+        },
+        "element_bounds": {
+          "left": 125,
+          "top": 779,
+          "right": 293.859375,
+          "bottom": 885,
+          "width": 168.859375,
+          "height": 106
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "88px"
+      },
+      {
+        "id": "jensen-chance",
+        "text": "17%",
+        "bounds": {
+          "left": 418,
+          "top": 779,
+          "right": 586.859375,
+          "bottom": 885,
+          "width": 168.859375,
+          "height": 106
+        },
+        "element_bounds": {
+          "left": 418,
+          "top": 779,
+          "right": 586.859375,
+          "bottom": 885,
+          "width": 168.859375,
+          "height": 106
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "88px"
+      },
+      {
+        "id": "ian-chance",
+        "text": "14%",
+        "bounds": {
+          "left": 713,
+          "top": 779,
+          "right": 881.859375,
+          "bottom": 885,
+          "width": 168.859375,
+          "height": 106
+        },
+        "element_bounds": {
+          "left": 713,
+          "top": 779,
+          "right": 881.859375,
+          "bottom": 885,
+          "width": 168.859375,
+          "height": 106
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "88px"
+      },
+      {
+        "id": "chart-title",
+        "text": "ONE-WEEK VIEW \u2022 TOP THREE",
+        "bounds": {
+          "left": 118,
+          "top": 931,
+          "right": 630.59375,
+          "bottom": 973,
+          "width": 512.59375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 930,
+          "right": 630.59375,
+          "bottom": 975,
+          "width": 512.59375,
+          "height": 45
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "history",
+        "text": "1W selected; available history starts Nov. 11.",
+        "bounds": {
+          "left": 118,
+          "top": 1393,
+          "right": 757.765625,
+          "bottom": 1430,
+          "width": 639.765625,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1390,
+          "right": 757.765625,
+          "bottom": 1433,
+          "width": 639.765625,
+          "height": 43
+        },
+        "text_role": "caption",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      },
+      {
+        "id": "rules",
+        "text": "Interim and acting appointments excluded.",
+        "bounds": {
+          "left": 118,
+          "top": 1440,
+          "right": 785.625,
+          "bottom": 1480,
+          "width": 667.625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1437,
+          "right": 785.625,
+          "bottom": 1483,
+          "width": 667.625,
+          "height": 46
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "source",
+        "text": "Source: Kalshi \u2022 Market-implied chances.",
+        "bounds": {
+          "left": 118,
+          "top": 1493,
+          "right": 719.09375,
+          "bottom": 1530,
+          "width": 601.09375,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1490,
+          "right": 719.09375,
+          "bottom": 1533,
+          "width": 601.09375,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      }
+    ],
+    "panels": [
+      {
+        "id": "rene-panel",
+        "bounds": {
+          "left": 104,
+          "top": 705,
+          "right": 375,
+          "bottom": 900,
+          "width": 271,
+          "height": 195
+        }
+      },
+      {
+        "id": "jensen-panel",
+        "bounds": {
+          "left": 397,
+          "top": 705,
+          "right": 668,
+          "bottom": 900,
+          "width": 271,
+          "height": 195
+        }
+      },
+      {
+        "id": "ian-panel",
+        "bounds": {
+          "left": 690,
+          "top": 705,
+          "right": 961,
+          "bottom": 900,
+          "width": 271,
+          "height": 195
+        }
+      }
+    ],
+    "scene_elements": [
+      {
+        "id": "coin-installation",
+        "bounds": {
+          "left": 820,
+          "top": 76,
+          "right": 1034,
+          "bottom": 290,
+          "width": 214,
+          "height": 214
+        },
+        "box_shadow": "rgb(71, 51, 29) 4px 5px 10px 0px inset, rgba(60, 44, 24, 0.333) 3px 4px 8px 0px, rgb(248, 223, 172) -1px -1px 2px 0px",
+        "background": "linear-gradient(135deg, rgb(230, 202, 138), rgb(119, 96, 61) 57%, rgb(196, 166, 109))"
+      },
+      {
+        "id": "coin-contact",
+        "bounds": {
+          "left": 820,
+          "top": 76,
+          "right": 1034,
+          "bottom": 290,
+          "width": 214,
+          "height": 214
+        },
+        "box_shadow": "rgba(74, 50, 28, 0.267) 4px 5px 9px 0px inset, rgba(255, 244, 216, 0.4) -2px -2px 3px 0px inset",
+        "background": "linear-gradient(125deg, rgba(234, 215, 178, 0.067), rgba(0, 0, 0, 0) 46%, rgba(35, 79, 56, 0.07))"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Moneyberg Lato Black",
+        "weight": "900",
+        "status": "loaded"
+      },
+      {
+        "family": "Moneyberg Georgia",
+        "weight": "400",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "id": "background",
+        "natural_width": 916,
+        "natural_height": 1717,
+        "object_fit": "cover",
+        "clip_path": "none",
+        "filter": "none",
+        "transform": "none",
+        "opacity": "1",
+        "ancestors": [
+          {
+            "id": "stage",
+            "bounds": {
+              "left": 0,
+              "top": 0,
+              "right": 1080,
+              "bottom": 1920,
+              "width": 1080,
+              "height": 1920
+            },
+            "overflow_x": "hidden",
+            "overflow_y": "hidden",
+            "clip_path": "none",
+            "transform": "none",
+            "filter": "none",
+            "opacity": "1"
+          },
+          {
+            "id": "BODY",
+            "bounds": {
+              "left": 0,
+              "top": 0,
+              "right": 1080,
+              "bottom": 1920,
+              "width": 1080,
+              "height": 1920
+            },
+            "overflow_x": "hidden",
+            "overflow_y": "hidden",
+            "clip_path": "none",
+            "transform": "none",
+            "filter": "none",
+            "opacity": "1"
+          },
+          {
+            "id": "HTML",
+            "bounds": {
+              "left": 0,
+              "top": 0,
+              "right": 1080,
+              "bottom": 1920,
+              "width": 1080,
+              "height": 1920
+            },
+            "overflow_x": "hidden",
+            "overflow_y": "hidden",
+            "clip_path": "none",
+            "transform": "none",
+            "filter": "none",
+            "opacity": "1"
+          }
+        ],
+        "bounds": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        }
+      },
+      {
+        "id": "coin",
+        "natural_width": 2084,
+        "natural_height": 2084,
+        "object_fit": "contain",
+        "clip_path": "none",
+        "filter": "saturate(0.8) brightness(0.93)",
+        "transform": "none",
+        "opacity": "1",
+        "ancestors": [
+          {
+            "id": "coin-installation",
+            "bounds": {
+              "left": 820,
+              "top": 76,
+              "right": 1034,
+              "bottom": 290,
+              "width": 214,
+              "height": 214
+            },
+            "overflow_x": "visible",
+            "overflow_y": "visible",
+            "clip_path": "none",
+            "transform": "none",
+            "filter": "none",
+            "opacity": "1"
+          },
+          {
+            "id": "stage",
+            "bounds": {
+              "left": 0,
+              "top": 0,
+              "right": 1080,
+              "bottom": 1920,
+              "width": 1080,
+              "height": 1920
+            },
+            "overflow_x": "hidden",
+            "overflow_y": "hidden",
+            "clip_path": "none",
+            "transform": "none",
+            "filter": "none",
+            "opacity": "1"
+          },
+          {
+            "id": "BODY",
+            "bounds": {
+              "left": 0,
+              "top": 0,
+              "right": 1080,
+              "bottom": 1920,
+              "width": 1080,
+              "height": 1920
+            },
+            "overflow_x": "hidden",
+            "overflow_y": "hidden",
+            "clip_path": "none",
+            "transform": "none",
+            "filter": "none",
+            "opacity": "1"
+          },
+          {
+            "id": "HTML",
+            "bounds": {
+              "left": 0,
+              "top": 0,
+              "right": 1080,
+              "bottom": 1920,
+              "width": 1080,
+              "height": 1920
+            },
+            "overflow_x": "hidden",
+            "overflow_y": "hidden",
+            "clip_path": "none",
+            "transform": "none",
+            "filter": "none",
+            "opacity": "1"
+          }
+        ],
+        "bounds": {
+          "left": 820,
+          "top": 76,
+          "right": 1034,
+          "bottom": 290,
+          "width": 214,
+          "height": 214
+        }
+      },
+      {
+        "id": "source-chart",
+        "natural_width": 1536,
+        "natural_height": 692,
+        "object_fit": "contain",
+        "clip_path": "none",
+        "filter": "none",
+        "transform": "none",
+        "opacity": "1",
+        "ancestors": [
+          {
+            "id": "stage",
+            "bounds": {
+              "left": 0,
+              "top": 0,
+              "right": 1080,
+              "bottom": 1920,
+              "width": 1080,
+              "height": 1920
+            },
+            "overflow_x": "hidden",
+            "overflow_y": "hidden",
+            "clip_path": "none",
+            "transform": "none",
+            "filter": "none",
+            "opacity": "1"
+          },
+          {
+            "id": "BODY",
+            "bounds": {
+              "left": 0,
+              "top": 0,
+              "right": 1080,
+              "bottom": 1920,
+              "width": 1080,
+              "height": 1920
+            },
+            "overflow_x": "hidden",
+            "overflow_y": "hidden",
+            "clip_path": "none",
+            "transform": "none",
+            "filter": "none",
+            "opacity": "1"
+          },
+          {
+            "id": "HTML",
+            "bounds": {
+              "left": 0,
+              "top": 0,
+              "right": 1080,
+              "bottom": 1920,
+              "width": 1080,
+              "height": 1920
+            },
+            "overflow_x": "hidden",
+            "overflow_y": "hidden",
+            "clip_path": "none",
+            "transform": "none",
+            "filter": "none",
+            "opacity": "1"
+          }
+        ],
+        "bounds": {
+          "left": 104,
+          "top": 990,
+          "right": 961,
+          "bottom": 1376.09375,
+          "width": 857,
+          "height": 386.09375
+        }
+      }
+    ],
+    "document_width": 1080,
+    "document_height": 1920
+  },
+  "platform_fonts": [
+    {
+      "id": "brand",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "category",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 12
+        }
+      ]
+    },
+    {
+      "id": "date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 30
+        }
+      ]
+    },
+    {
+      "id": "headline-one",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "headline-two",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 15
+        }
+      ]
+    },
+    {
+      "id": "scope",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 40
+        }
+      ]
+    },
+    {
+      "id": "rank-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 32
+        }
+      ]
+    },
+    {
+      "id": "rene",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 9
+        }
+      ]
+    },
+    {
+      "id": "jensen",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 12
+        }
+      ]
+    },
+    {
+      "id": "ian",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 8
+        }
+      ]
+    },
+    {
+      "id": "rene-chance",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 3
+        }
+      ]
+    },
+    {
+      "id": "jensen-chance",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 3
+        }
+      ]
+    },
+    {
+      "id": "ian-chance",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 3
+        }
+      ]
+    },
+    {
+      "id": "chart-title",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 25
+        }
+      ]
+    },
+    {
+      "id": "history",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 46
+        }
+      ]
+    },
+    {
+      "id": "rules",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 41
+        }
+      ]
+    },
+    {
+      "id": "source",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 40
+        }
+      ]
+    }
+  ],
+  "coin_bounds": {
+    "left": 820,
+    "top": 76,
+    "right": 1034,
+    "bottom": 290,
+    "width": 214,
+    "height": 214
+  },
+  "whole_coin_upper_75_percent_verified": true,
+  "integration": {
+    "method": "Exact original coin PNG uniformly seated in the generated upper-right background recess with compatible lighting and contact shading",
+    "artwork": "Original uniformly scaled PNG; original portrait, lettering and circular rim preserved",
+    "image_generation_role": "Text-free pale stone boardroom architecture and unbranded processor sculpture only",
+    "topic": "Kalshi prediction-market probabilities for Nvidia\u2019s next chief executive",
+    "category_badge": "AI INVESTING",
+    "background_credit_on_graphic": false,
+    "background_provenance": "Conceptual executive-boardroom architecture and processor sculpture, not documentary imagery of NVIDIA facilities or evidence of a CEO appointment"
+  },
+  "generation_prompts": [
+    "Create a premium editorial Instagram Story BACKGROUND ONLY in portrait 9:16 for a final1080x1920 Moneyberg News Brief about prediction-market odds for the next permanent NVIDIA CEO. Distinct AI-leadership design, different from dark stock-option graphics: pale mineral ivory and cool mist-gray architectural surfaces, deep petroleum green accents, restrained brass, a quiet sophisticated executive-boardroom and semiconductor aesthetic. High-end architectural still life. The central upper80percent is an elegant largely uniform ivory stone wall with extremely subtle grain, generous negative space for dark factual typography and an unchanged white source chart. At the bottom20percent below y1550, show a refined long boardroom table edge and an abstract unbranded silicon processor sculpture, soft glass partitions and distant green-lit server fins; conceptual only, not a real company headquarters. No people or portraits. Keep all main visual objects below news content and atouteredges. All separately added headlines, rankings, chart and sources mustfit x104\u2013961,y164\u20131536. Reserve a small flat circular bronze architectural recess at upperright centeredapproximatelyx925,y265,diameter190px, directlyfront-facing, embedded in the stonewall with realisticmaterialrim and subtlecontactshadow. The actual original gold Moneyberg coin willbe composited thereunchanged anduniformlyscaled; doNOT generateacoin,face,inscription,logo orsubstituteemblem. Its wholecircularrim mustremainwithinupper75percent y0\u20131440 andclearofnews. ProductioncontextONLY, DO NOTrender: brand MONEYBERG NEWS BRIEF compactone-line35px, categoryAIINVESTING. ActualLatoBlack900 forheadline/brand/date/rankinglabels; actualGeorgia400 forbody/captions/sources. Allauthoredtextmin33px,body35px,headline51px. TheoriginalKalshi1Weekchartwillbeinsertedunchanged; donotcreateanychart,graph,pricepath,numerals,marketprobabilities,logos,words,watermarksorcredits. Warm upper-leftdaylight andcoolgreenambienttouches, quietprecisearchitecturalphotography, premiumfinancialeditorialfeel. Backgroundonly, no generated text or coin.\n"
+  ],
+  "source_chart": {
+    "path": "assets/source-charts/kalshi-nvidia-ceo-1w-2026-11-16.png",
+    "sha256": "f8316efb1168cb396da0a5d255a4a9ea5e65d9e596633b9c2d20339b4a02fc14",
+    "bytes": 74718,
+    "natural_dimensions": [
+      1536,
+      692
+    ],
+    "bounds": {
+      "left": 104,
+      "top": 990,
+      "right": 961,
+      "bottom": 1376.09375,
+      "width": 857,
+      "height": 386.09375
+    },
+    "object_fit": "contain",
+    "complete_original_screenshot": true,
+    "no_crop_redraw_retyping_or_data_changes": true
+  },
+  "sources": [
+    "https://kalshi.com/markets/kxnvdaceo/next-nvidia-ceo/kxnvdaceo-29jan"
+  ],
+  "source_access": "The actual public Kalshi page was rendered in Chromium, its signup modal dismissed, and the real 1W chart control selected. The complete chart, original labels, axes, legend and selected-period control were captured without redrawing or relabeling pixels.",
+  "reporting_scope": {
+    "edition_date": "2026-11-16",
+    "captured_utc": "2026-11-16T06:45:11.695351+00:00",
+    "captured_chicago": "2026-11-16T00:45:11.695351-06:00",
+    "chart_period_selected": "1W",
+    "available_history_note": "Event markets opened November 11\u201312, so available history is shorter than seven days.",
+    "not_full_seven_days_of_observations": true,
+    "displayed_market_probabilities_percent": {
+      "Rene Haas": 21,
+      "Jensen Huang": 17,
+      "Ian Buck": 14
+    },
+    "event_ticker": "KXNVDACEO-29JAN",
+    "resolution_deadline": "Before January 1, 2029",
+    "interim_and_acting_appointments_excluded": true,
+    "official_company_announcement_sufficient_for_resolution": true,
+    "top_three_not_exhaustive": true,
+    "probabilities_not_renormalized_to_100_percent": true,
+    "jensen_rising_trend": "Qualitative trend visible in original chart and verified in public hourly YES-ask candle data; no default candidate-list change is labeled as a one-week change.",
+    "probabilities_not_confirmed_appointments": true,
+    "default_candidate_changes_not_presented_as_weekly_changes": true,
+    "not_a_company_forecast_or_poll": true,
+    "source_chart_dimensions": [
+      1536,
+      692
+    ],
+    "chart_original_typography_preserved": true
+  },
+  "output_sha256": "2d725cbcb7f2480f64439b7de636e1c44c6440741c32fa6df1b467a4ad2cd1d9"
+}

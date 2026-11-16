@@ -1,0 +1,76 @@
+{
+  "post_url": "https://x.com/KobeissiLetter/status/2122078940093427779",
+  "author": "The Kobeissi Letter (@KobeissiLetter)",
+  "created_at_utc": "2026-11-15T21:27:00.000Z",
+  "created_at_chicago": "2026-11-15 15:27:00 CST",
+  "post_text": "US hiring is showing no signs of a recovery.\n\nNew job postings on Indeed fell -4.8% YoY in the week ending October 16th.\n\nSince April 2022, new job postings have now declined -46.7%.\n\nAs a result, the number of new available vacancies in the US is -0.8% below pre-pandemic levels recorded in February 2020.\n\nOver the last several months, the pace of decline has slowed, but there have been no signs of a rebound in hiring either.\n\nThis suggests a lack of a significant recovery in official BLS job openings data, which lags job postings data by a few weeks.\n\nThe US labor market remains weak beneath the surface.",
+  "chart": {
+    "url": "https://pbs.twimg.com/media/HXK1x7mbgAAfpOh.jpg?format=jpg&name=orig",
+    "path": "assets/source-charts/indeed-job-postings-2026-11-16.jpg",
+    "width": 1200,
+    "height": 801,
+    "bytes": 69023,
+    "sha256": "0ecdd9cc78aea88157b04b689ac2524ce8f392dd5e319d5eb7aee0be372e634d",
+    "title": "US New Job Postings on Indeed",
+    "credits": [
+      "Source: Indeed",
+      "TKL / THE KOBEISSI LETTER",
+      "Follow us @KobeissiLetter"
+    ],
+    "endpoint_label": "99.2",
+    "x_axis_years": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "y_axis_min": 0,
+    "y_axis_max": 200,
+    "y_axis_step": 20
+  },
+  "primary_data_url": "https://raw.githubusercontent.com/hiring-lab/job_postings_tracker/master/US/aggregate_job_postings_US.csv",
+  "primary_readme_url": "https://github.com/hiring-lab/job_postings_tracker/blob/master/README.md",
+  "fred_series_url": "https://fred.stlouisfed.org/series/IHLIDXNEWUS",
+  "observations": {
+    "2026-10-16": {
+      "date": "2026-10-16",
+      "jobcountry": "US",
+      "indeed_job_postings_index_SA": "99.19",
+      "indeed_job_postings_index_NSA": "100.64",
+      "variable": "new postings"
+    },
+    "2025-10-16": {
+      "date": "2025-10-16",
+      "jobcountry": "US",
+      "indeed_job_postings_index_SA": "104.16",
+      "indeed_job_postings_index_NSA": "105.69",
+      "variable": "new postings"
+    },
+    "2026-11-06": {
+      "date": "2026-11-06",
+      "jobcountry": "US",
+      "indeed_job_postings_index_SA": "94.39",
+      "indeed_job_postings_index_NSA": "99.09",
+      "variable": "new postings"
+    }
+  },
+  "calculated_yoy_percent": -4.771505376344088,
+  "calculated_vs_baseline_percent": -0.8100000000000023,
+  "unsupported_source_comparison": {
+    "post_claim": "-46.7% since April 2022",
+    "april_2022_max": 179.77,
+    "change_from_april_max": -44.82394170328754,
+    "actual_series_peak": {
+      "date": "2022-02-23",
+      "jobcountry": "US",
+      "indeed_job_postings_index_SA": "186.22",
+      "indeed_job_postings_index_NSA": "183.23",
+      "variable": "new postings"
+    },
+    "change_from_peak": -46.7350445709376
+  },
+  "recommended_category": "JOBS & EMPLOYMENT"
+}

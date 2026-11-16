@@ -1,0 +1,27 @@
+{
+  "url": "https://kalshi.com/markets/kxnvdaceo/next-nvidia-ceo/kxnvdaceo-29jan",
+  "captured_utc": "2026-11-16T06:45:11.695351+00:00",
+  "captured_chicago": "2026-11-16T00:45:11.695351-06:00",
+  "viewport": {
+    "width": 768,
+    "height": 1100
+  },
+  "device_scale_factor": 2,
+  "clip_css_px": {
+    "x": 0,
+    "y": 306.5,
+    "width": 768,
+    "height": 346
+  },
+  "one_week_selected": "true",
+  "chart_text": "Rene Haas\n21%\nJensen Huang\n17%\nIan Buck\n14%\nNov 11\nNov 12\nNov 13\nNov 14\nNov 16\n0%\n12.5%\n25%\n37.5%\n50%\n$11,764,143 vol\n1D\n1W\n1M\nALL\nPick up to 4 markets\nLoading more...",
+  "method": "Unmodified public Kalshi website rendered in Chromium; network resources fetched through TLS-verified requests using environment CA. Public signup modal closed and actual 1W control selected. Screenshot includes full chart and original labels.",
+  "file": "assets/source-charts/kalshi-nvidia-ceo-1w-2026-11-16.png",
+  "sha256": "f8316efb1168cb396da0a5d255a4a9ea5e65d9e596633b9c2d20339b4a02fc14",
+  "pixel_dimensions": [
+    1536,
+    692
+  ],
+  "verification": "Visually inspected complete chart. All three legend labels and endpoint probabilities are visible; percent axis, dates and selected 1W are uncut. No source chart pixels redrawn or relabeled.",
+  "history_note": "1W is selected. Event markets opened Nov 11\u201312, so available history is shorter than seven days. Do not present the default candidate-list changes as one-week changes."
+}
