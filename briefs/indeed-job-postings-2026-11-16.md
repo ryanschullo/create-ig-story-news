@@ -21,7 +21,7 @@ The post says new postings have declined 46.7% since April 2022. The current pri
 - MONEYBERG NEWS BRIEF
 - JOBS & EMPLOYMENT
 - NOVEMBER 16, 2026 EDITION
-- NEW JOB POSTINGS / SLIP BELOW 2020
+- NEW JOB POSTINGS / SLIP BELOW FEB 2020
 - −4.8% / YEAR OVER YEAR
 - −0.8% / VS. FEB. 1, 2020
 - U.S. • Week ending October 16, 2026

@@ -119,21 +119,21 @@
       },
       {
         "id": "headline-two",
-        "text": "SLIP BELOW 2020",
+        "text": "SLIP BELOW FEB 2020",
         "bounds": {
           "left": 118,
           "top": 450,
-          "right": 660.5,
+          "right": 792.8125,
           "bottom": 529,
-          "width": 542.5,
+          "width": 674.8125,
           "height": 79
         },
         "element_bounds": {
           "left": 118,
           "top": 450,
-          "right": 660.5,
+          "right": 792.8125,
           "bottom": 530,
-          "width": 542.5,
+          "width": 674.8125,
           "height": 80
         },
         "text_role": "headline",
@@ -537,7 +537,7 @@
           "familyName": "Lato",
           "postScriptName": "Lato-Black",
           "isCustomFont": true,
-          "glyphCount": 15
+          "glyphCount": 19
         }
       ]
     },
@@ -739,5 +739,5 @@
       "change_from_peak": -46.7350445709376
     }
   },
-  "output_sha256": "2be262b69c9fa78a2bb2113d654f18f73034777ba0ae26870c0330828075e1d1"
+  "output_sha256": "aac8ac340334569161a98dcd8c58084f14efec16bee68736b6e4428810208568"
 }

@@ -204,7 +204,7 @@ async def render(georgia: Path, background_source: Path | None):
                 raise ValueError("Scene integration is missing recess/contact shading")
             if any("Background:" in item["text"] for item in layout["text"]):
                 raise ValueError("An unwanted background-production credit remains")
-            required = {'brand': 'MONEYBERG NEWS BRIEF', 'category': 'JOBS & EMPLOYMENT', 'date': 'NOVEMBER 16, 2026 EDITION', 'headline-one': 'NEW JOB POSTINGS', 'headline-two': 'SLIP BELOW 2020', 'yoy-value': '−4.8%', 'yoy-label': 'YEAR OVER YEAR', 'baseline-value': '−0.8%', 'baseline-label': 'VS. FEB. 1, 2020', 'period': 'U.S. • Week ending October 16, 2026', 'method': 'Seasonally adjusted • 7-day average', 'source-one': 'Source: Indeed / The Kobeissi Letter', 'source-two': 'X post: Nov. 15 • Chart shown in full', 'scope': 'New postings are ads, not actual hires.'}
+            required = {'brand': 'MONEYBERG NEWS BRIEF', 'category': 'JOBS & EMPLOYMENT', 'date': 'NOVEMBER 16, 2026 EDITION', 'headline-one': 'NEW JOB POSTINGS', 'headline-two': 'SLIP BELOW FEB 2020', 'yoy-value': '−4.8%', 'yoy-label': 'YEAR OVER YEAR', 'baseline-value': '−0.8%', 'baseline-label': 'VS. FEB. 1, 2020', 'period': 'U.S. • Week ending October 16, 2026', 'method': 'Seasonally adjusted • 7-day average', 'source-one': 'Source: Indeed / The Kobeissi Letter', 'source-two': 'X post: Nov. 15 • Chart shown in full', 'scope': 'New postings are ads, not actual hires.'}
             actual_copy = {item["id"]: item["text"] for item in layout["text"]}
             for key, text in required.items():
                 if actual_copy.get(key) != text:
