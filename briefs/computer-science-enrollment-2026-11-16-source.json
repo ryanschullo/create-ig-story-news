@@ -1,0 +1,168 @@
+{
+  "schema_version": 1,
+  "graphic_slug": "computer-science-enrollment-2026-11-16",
+  "edition_date": "2026-11-16",
+  "category": "JOBS & EMPLOYMENT",
+  "user_selected_source": {
+    "url": "https://x.com/unusual_whales/status/2122011999315882011",
+    "account": "@unusual_whales",
+    "post_id": "2122011999315882011",
+    "created_at_utc": "2026-11-15T17:01:00.000Z",
+    "created_at_america_chicago": "2026-11-15T11:01:00-06:00",
+    "complete_text": "Students are fleeing computer science.\n\nUS enrollment in computer and information science programs fell more than 12% for undergraduates and more than 10% for graduate students this fall, per preliminary data from the National Student Clearinghouse.\n\nOver two years, undergraduate enrollment is down 18.4% and graduate enrollment 27.1%, reversing years of growth as AI cuts into entry-level coding jobs.",
+    "full_text_verification": "Complete full-note wording independently present in the official X page h1 and its note_tweet payload. Official syndication contains a truncated display text and independently confirms the timestamp.",
+    "attached_media": [],
+    "chart_attached": false,
+    "media_verification": "Selected post official X payload has media_entities2=[]; official syndication has no mediaDetails, photos, video or media fields. The initial successful FxTwitter full-note response also had no attached media. No replies, profile images, invented chart or unrelated media were used.",
+    "syndication_url": "https://cdn.syndication.twimg.com/tweet-result?id=2122011999315882011&lang=en&token=1",
+    "mirror_access_note": "FxTwitter API returned HTTP200 before the environment reset; refetch returned HTTP403. The complete text was reverified using the official public X page after restoration. No access controls bypassed."
+  },
+  "primary_sources": [
+    {
+      "publisher": "National Student Clearinghouse Research Center",
+      "title": "Clearinghouse Enrollment Insights Series: Preliminary Fall Enrollment Trends",
+      "url": "https://nscresearchcenter.org/prelim-fall-enrollment-trends/",
+      "published_date": "2026-10-29",
+      "retrieved_date": "2026-11-16",
+      "http_status": 200,
+      "verified_excerpt": "Enrollment in Computer and Information Science programs continues to decline sharply, with double-digit decreases across institutions (-12.4% at 4-years, -12.3% at 2-years, and -10.4% at graduate institutions).",
+      "additional_scope_excerpt": "The estimates provided in this report are preliminary and subject to revision."
+    },
+    {
+      "publisher": "National Student Clearinghouse",
+      "title": "5 Highlights from the Preliminary Fall Enrollment Trends Report",
+      "url": "https://www.studentclearinghouse.org/nscblog/5-highlights-from-the-preliminary-fall-enrollment-trends-report/",
+      "published_date": "2026-11-02",
+      "retrieved_date": "2026-11-16",
+      "http_status": 200,
+      "verified_excerpt": "Computer and Information Science undergraduate enrollment is declining at both 4-year and 2-year institutions, decreasing by 12.4 percent and 12.3 percent, respectively. Graduate enrollment is also declining by 10.4 percent.",
+      "final_report_timing": "The Research Center will release its Final Fall Enrollment Trends report in January 2027."
+    },
+    {
+      "publisher": "National Student Clearinghouse Research Center",
+      "title": "Preliminary Fall Enrollment Trends: Fall 2026 — Methodological Notes",
+      "url": "https://nscresearchcenter.org/wp-content/uploads/PrelimFall2026-MethodNotes.pdf",
+      "published_month": "2026-10",
+      "retrieved_date": "2026-11-16",
+      "http_status": 200,
+      "verified_excerpt": "The current report reflects approximately 7.92 million enrollments reported as of September 24, 2026, by 46.0 percent of postsecondary institutions in the U.S. that are participating in the Clearinghouse.",
+      "pages_verified": [
+        1,
+        2
+      ]
+    }
+  ],
+  "reporting_scope": {
+    "country": "United States",
+    "field": "Computer and Information Science programs",
+    "measure": "Year-over-year percentage change in enrollment within the reporting institution panel",
+    "current_term": "Fall 2026",
+    "comparison_term": "Fall 2025",
+    "preliminary": true,
+    "subject_to_revision": true,
+    "submission_data_as_of": "2026-09-24",
+    "methodology": "Unweighted enrollment counts from a fixed panel of institutions consistently reporting fall data within the comparable submission window in 2024, 2025 and 2026. Percentage-change analysis controls institutional coverage and submission timing; final report uses different methodology and expanded coverage.",
+    "all_field_report_coverage": {
+      "enrollments_approximately": 7920000,
+      "institution_coverage_percent": 46.0,
+      "enrollment_coverage_percent": 42.4,
+      "coverage_note": "Institution and enrollment coverage use fall 2025 submissions as denominator; these figures describe the overall report, not only computing programs."
+    },
+    "final_report_expected": "2027-01",
+    "not_freshman_only": true,
+    "not_graduation_counts": true,
+    "not_jobs_or_hires": true,
+    "no_demonstrated_ai_causation": true
+  },
+  "verified_graphic_facts": [
+    {
+      "label": "Four-year undergraduates",
+      "annual_enrollment_change_percent": -12.4,
+      "current_term": "Fall 2026",
+      "comparison_term": "Fall 2025",
+      "field": "Computer and Information Science",
+      "status": "preliminary"
+    },
+    {
+      "label": "Two-year undergraduates",
+      "annual_enrollment_change_percent": -12.3,
+      "current_term": "Fall 2026",
+      "comparison_term": "Fall 2025",
+      "field": "Computer and Information Science",
+      "status": "preliminary"
+    },
+    {
+      "label": "Graduate students",
+      "annual_enrollment_change_percent": -10.4,
+      "current_term": "Fall 2026",
+      "comparison_term": "Fall 2025",
+      "field": "Computer and Information Science",
+      "status": "preliminary"
+    }
+  ],
+  "editorial_limits": [
+    "Keep Computer and Information Sciences visible; do not silently broaden the declines to all students or all majors.",
+    "Keep undergraduate institutional levels distinct from graduate enrollment.",
+    "Show preliminary and Fall 2026 versus Fall 2025; distinguish these term comparisons from the November 16 edition date.",
+    "Enrollment changes are not evidence that the same percentage of students dropped out or fled; transitions, new entrants and completions all affect enrollment.",
+    "The post connects enrollment to AI and entry-level coding jobs, but these sources do not establish that causal claim. Do not author it as a measured conclusion.",
+    "The post two-year claims of -18.4% undergraduate and -27.1% graduate enrollment were not independently verified against the underlying dashboard and are omitted from the planned graphic.",
+    "No chart is attached to the selected post; use clearly labeled statistic panels if useful, without inventing an original source chart."
+  ],
+  "recommended_visible_qualifiers": [
+    "Computer & Information Sciences",
+    "Fall 2026 vs. Fall 2025",
+    "Preliminary enrollment data"
+  ],
+  "recommended_source_line": "Source: National Student Clearinghouse Research Center; post: @unusual_whales, Nov. 15, 2026.",
+  "evidence_files": [
+    {
+      "temporary_path": "/tmp/unusual-whales-2122011999315882011/x.html",
+      "bytes": 138131,
+      "sha256": "868a6ba528567e76cfd58a4709fbd6a52619854ab5af65d61ca2d900927372ca",
+      "persistence_note": "Temporary raw evidence may be lost on environment replacement; durable selected excerpts, URLs and verified facts are recorded in this JSON."
+    },
+    {
+      "temporary_path": "/tmp/unusual-whales-2122011999315882011/synd.txt",
+      "bytes": 1046,
+      "sha256": "9f6cb30c1a9129b2d2fbd4a0df58d99ed71c0561e4938b6f49c34fc183a73442",
+      "persistence_note": "Temporary raw evidence may be lost on environment replacement; durable selected excerpts, URLs and verified facts are recorded in this JSON."
+    },
+    {
+      "temporary_path": "/tmp/unusual-whales-2122011999315882011/nsc-report.html",
+      "bytes": 117529,
+      "sha256": "56d0966be5c05a2ab525fb1f20f858dc108cb8d24dc3ec7785a38475fa799983",
+      "persistence_note": "Temporary raw evidence may be lost on environment replacement; durable selected excerpts, URLs and verified facts are recorded in this JSON."
+    },
+    {
+      "temporary_path": "/tmp/unusual-whales-2122011999315882011/nsc-report-text.txt",
+      "bytes": 4669,
+      "sha256": "284c6a8cce7fddeb9a71d9be77452ce8a3275408c5e2dcc27516b09315210fb1",
+      "persistence_note": "Temporary raw evidence may be lost on environment replacement; durable selected excerpts, URLs and verified facts are recorded in this JSON."
+    },
+    {
+      "temporary_path": "/tmp/unusual-whales-2122011999315882011/nsc-highlights.html",
+      "bytes": 295776,
+      "sha256": "01b59aa3b908dabb68c0246af547640eb2f1d1d897f43d7ef965ae92e8d4b13a",
+      "persistence_note": "Temporary raw evidence may be lost on environment replacement; durable selected excerpts, URLs and verified facts are recorded in this JSON."
+    },
+    {
+      "temporary_path": "/tmp/unusual-whales-2122011999315882011/nsc-highlights-text.txt",
+      "bytes": 7689,
+      "sha256": "67243dfe4f61b2be7184da0f3e6a5be7a09367ef0a8dff74c8cad713d88927f0",
+      "persistence_note": "Temporary raw evidence may be lost on environment replacement; durable selected excerpts, URLs and verified facts are recorded in this JSON."
+    },
+    {
+      "temporary_path": "/tmp/unusual-whales-2122011999315882011/methodology.pdf",
+      "bytes": 194847,
+      "sha256": "c57d2eb91577183a35565e6509e90046a2a41307965fd8bc7eab8740889f9e77",
+      "persistence_note": "Temporary raw evidence may be lost on environment replacement; durable selected excerpts, URLs and verified facts are recorded in this JSON."
+    },
+    {
+      "temporary_path": "/tmp/unusual-whales-2122011999315882011/methodology.txt",
+      "bytes": 23522,
+      "sha256": "06386f08036f4fcaed93abde7403a8b543e20b4bfe4e43b031ce10d3198c8168",
+      "persistence_note": "Temporary raw evidence may be lost on environment replacement; durable selected excerpts, URLs and verified facts are recorded in this JSON."
+    }
+  ]
+}
