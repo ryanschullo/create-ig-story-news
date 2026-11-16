@@ -1,0 +1,710 @@
+{
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "inner_bounds": [
+    104,
+    164,
+    961,
+    1536
+  ],
+  "minimum_authored_font_size_px": 33,
+  "minimum_body_font_size_px": 35,
+  "minimum_headline_font_size_px": 51,
+  "font_size_minimum_verified": true,
+  "renderer": "Chromium via Playwright; HTML/CSS screenshot",
+  "background_sha256": "e75bff68a8fe9d6ad9c662ca1c67d4686b08c9cbe9b330aed1d688b8c58df01c",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
+  "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
+  "georgia_redistributed": false,
+  "layout": {
+    "text": [
+      {
+        "id": "brand",
+        "text": "MONEYBERG NEWS BRIEF",
+        "bounds": {
+          "left": 118,
+          "top": 175,
+          "right": 562.109375,
+          "bottom": 217,
+          "width": 444.109375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 174,
+          "right": 562.109375,
+          "bottom": 218,
+          "width": 444.109375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "category",
+        "text": "OPTIONS INVESTING",
+        "bounds": {
+          "left": 118,
+          "top": 235,
+          "right": 459.078125,
+          "bottom": 275,
+          "width": 341.078125,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 234,
+          "right": 459.078125,
+          "bottom": 276,
+          "width": 341.078125,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "date",
+        "text": "NOVEMBER 16, 2026",
+        "bounds": {
+          "left": 118,
+          "top": 288,
+          "right": 443.5625,
+          "bottom": 328,
+          "width": 325.5625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 287,
+          "right": 443.5625,
+          "bottom": 329,
+          "width": 325.5625,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "headline-one",
+        "text": "NVIDIA OPTIONS",
+        "bounds": {
+          "left": 118,
+          "top": 390,
+          "right": 756.859375,
+          "bottom": 485,
+          "width": 638.859375,
+          "height": 95
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 390,
+          "right": 756.859375,
+          "bottom": 486,
+          "width": 638.859375,
+          "height": 96
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "79px"
+      },
+      {
+        "id": "headline-two",
+        "text": "SIGNAL A BIG MOVE",
+        "bounds": {
+          "left": 118,
+          "top": 488,
+          "right": 814.578125,
+          "bottom": 577,
+          "width": 696.578125,
+          "height": 89
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 488,
+          "right": 814.578125,
+          "bottom": 578,
+          "width": 696.578125,
+          "height": 90
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "74px"
+      },
+      {
+        "id": "implied-move",
+        "text": "\u00b18.27%",
+        "bounds": {
+          "left": 112,
+          "top": 610,
+          "right": 595.765625,
+          "bottom": 790,
+          "width": 483.765625,
+          "height": 180
+        },
+        "element_bounds": {
+          "left": 112,
+          "top": 610,
+          "right": 595.765625,
+          "bottom": 790,
+          "width": 483.765625,
+          "height": 180
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "150px"
+      },
+      {
+        "id": "move-label",
+        "text": "IMPLIED MOVE AROUND EARNINGS",
+        "bounds": {
+          "left": 118,
+          "top": 818,
+          "right": 697.3125,
+          "bottom": 858,
+          "width": 579.3125,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 817,
+          "right": 697.3125,
+          "bottom": 860,
+          "width": 579.3125,
+          "height": 43
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "direction",
+        "text": "In either direction.",
+        "bounds": {
+          "left": 118,
+          "top": 876,
+          "right": 467.09375,
+          "bottom": 924,
+          "width": 349.09375,
+          "height": 48
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 872,
+          "right": 467.09375,
+          "bottom": 928,
+          "width": 349.09375,
+          "height": 56
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "42px"
+      },
+      {
+        "id": "value",
+        "text": "ABOUT $341B",
+        "bounds": {
+          "left": 128,
+          "top": 984,
+          "right": 786.453125,
+          "bottom": 1104,
+          "width": 658.453125,
+          "height": 120
+        },
+        "element_bounds": {
+          "left": 128,
+          "top": 984,
+          "right": 786.453125,
+          "bottom": 1104,
+          "width": 658.453125,
+          "height": 120
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "100px"
+      },
+      {
+        "id": "value-detail-one",
+        "text": "Potential market-value change using",
+        "bounds": {
+          "left": 130,
+          "top": 1123,
+          "right": 742.640625,
+          "bottom": 1166,
+          "width": 612.640625,
+          "height": 43
+        },
+        "element_bounds": {
+          "left": 130,
+          "top": 1120,
+          "right": 742.640625,
+          "bottom": 1170,
+          "width": 612.640625,
+          "height": 50
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "38px"
+      },
+      {
+        "id": "value-detail-two",
+        "text": "Benzinga\u2019s reported $4.13T valuation.",
+        "bounds": {
+          "left": 130,
+          "top": 1177,
+          "right": 765.171875,
+          "bottom": 1220,
+          "width": 635.171875,
+          "height": 43
+        },
+        "element_bounds": {
+          "left": 130,
+          "top": 1174,
+          "right": 765.171875,
+          "bottom": 1224,
+          "width": 635.171875,
+          "height": 50
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "38px"
+      },
+      {
+        "id": "earnings",
+        "text": "NOV. 17 EARNINGS \u2022 AFTER THE CLOSE",
+        "bounds": {
+          "left": 126,
+          "top": 1311,
+          "right": 781.359375,
+          "bottom": 1353,
+          "width": 655.359375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 126,
+          "top": 1310,
+          "right": 781.359375,
+          "bottom": 1355,
+          "width": 655.359375,
+          "height": 45
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "qualifier",
+        "text": "Actual move may differ from options pricing.",
+        "bounds": {
+          "left": 118,
+          "top": 1398,
+          "right": 811.921875,
+          "bottom": 1438,
+          "width": 693.921875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1395,
+          "right": 811.921875,
+          "bottom": 1441,
+          "width": 693.921875,
+          "height": 46
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "source-one",
+        "text": "Benzinga / Benzinga Pro \u2022 Nov. 15",
+        "bounds": {
+          "left": 118,
+          "top": 1453,
+          "right": 614.171875,
+          "bottom": 1490,
+          "width": 496.171875,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1450,
+          "right": 614.171875,
+          "bottom": 1493,
+          "width": 496.171875,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      },
+      {
+        "id": "source-two",
+        "text": "Earnings date: NVIDIA Investor Relations",
+        "bounds": {
+          "left": 118,
+          "top": 1495,
+          "right": 733.84375,
+          "bottom": 1532,
+          "width": 615.84375,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1492,
+          "right": 733.84375,
+          "bottom": 1535,
+          "width": 615.84375,
+          "height": 43
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      }
+    ],
+    "panels": [
+      {
+        "id": "value-panel",
+        "bounds": {
+          "left": 104,
+          "top": 965,
+          "right": 961,
+          "bottom": 1252,
+          "width": 857,
+          "height": 287
+        }
+      },
+      {
+        "id": "earnings-panel",
+        "bounds": {
+          "left": 104,
+          "top": 1289,
+          "right": 961,
+          "bottom": 1375,
+          "width": 857,
+          "height": 86
+        }
+      },
+      {
+        "id": "source-panel",
+        "bounds": {
+          "left": 104,
+          "top": 1389,
+          "right": 961,
+          "bottom": 1536,
+          "width": 857,
+          "height": 147
+        }
+      }
+    ],
+    "scene_elements": [
+      {
+        "id": "coin-installation",
+        "bounds": {
+          "left": 774,
+          "top": 144,
+          "right": 1014,
+          "bottom": 384,
+          "width": 240,
+          "height": 240
+        },
+        "box_shadow": "rgb(47, 33, 26) 4px 5px 10px 0px inset, rgba(5, 4, 10, 0.733) 3px 4px 8px 0px, rgb(222, 201, 161) -1px -1px 2px 0px",
+        "background": "linear-gradient(135deg, rgb(191, 167, 123), rgb(68, 52, 37) 57%, rgb(160, 134, 78))"
+      },
+      {
+        "id": "coin-contact",
+        "bounds": {
+          "left": 774,
+          "top": 144,
+          "right": 1014,
+          "bottom": 384,
+          "width": 240,
+          "height": 240
+        },
+        "box_shadow": "rgba(44, 33, 58, 0.467) 4px 5px 9px 0px inset, rgba(198, 229, 197, 0.267) -2px -2px 3px 0px inset",
+        "background": "linear-gradient(125deg, rgba(234, 215, 178, 0.067), rgba(0, 0, 0, 0) 46%, rgba(27, 118, 90, 0.125))"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Moneyberg Lato Black",
+        "weight": "900",
+        "status": "loaded"
+      },
+      {
+        "family": "Moneyberg Georgia",
+        "weight": "400",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "id": "background",
+        "natural_width": 941,
+        "natural_height": 1672,
+        "object_fit": "cover",
+        "clip_path": "none",
+        "bounds": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        }
+      },
+      {
+        "id": "coin",
+        "natural_width": 2084,
+        "natural_height": 2084,
+        "object_fit": "contain",
+        "clip_path": "none",
+        "bounds": {
+          "left": 774,
+          "top": 144,
+          "right": 1014,
+          "bottom": 384,
+          "width": 240,
+          "height": 240
+        }
+      }
+    ],
+    "document_width": 1080,
+    "document_height": 1920
+  },
+  "platform_fonts": [
+    {
+      "id": "brand",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "category",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 17
+        }
+      ]
+    },
+    {
+      "id": "date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 17
+        }
+      ]
+    },
+    {
+      "id": "headline-one",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 14
+        }
+      ]
+    },
+    {
+      "id": "headline-two",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 17
+        }
+      ]
+    },
+    {
+      "id": "implied-move",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 6
+        }
+      ]
+    },
+    {
+      "id": "move-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 28
+        }
+      ]
+    },
+    {
+      "id": "direction",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "value",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 11
+        }
+      ]
+    },
+    {
+      "id": "value-detail-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 35
+        }
+      ]
+    },
+    {
+      "id": "value-detail-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 37
+        }
+      ]
+    },
+    {
+      "id": "earnings",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 34
+        }
+      ]
+    },
+    {
+      "id": "qualifier",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 44
+        }
+      ]
+    },
+    {
+      "id": "source-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 33
+        }
+      ]
+    },
+    {
+      "id": "source-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 40
+        }
+      ]
+    }
+  ],
+  "coin_bounds": {
+    "left": 774,
+    "top": 144,
+    "right": 1014,
+    "bottom": 384,
+    "width": 240,
+    "height": 240
+  },
+  "whole_coin_upper_75_percent_verified": true,
+  "integration": {
+    "method": "Exact original coin PNG seated in an upper-right brass recess in a plum-and-teal GPU hardware scene, with compatible lighting and contact shading",
+    "artwork": "Original uniformly scaled PNG; original portrait, lettering and circular rim preserved",
+    "image_generation_role": "Text-free conceptual unbranded GPU hardware and options-focused plum-and-teal backdrop only",
+    "topic": "Benzinga reports options implying an 8.27% Nvidia earnings move in either direction",
+    "category_badge": "OPTIONS INVESTING",
+    "background_credit_on_graphic": false,
+    "background_provenance": "Conceptual unbranded hardware imagery, not evidence of a particular Nvidia product or future stock-market result"
+  },
+  "generation_prompts": [
+    "Create a premium editorial Instagram Story BACKGROUND ONLY, portrait 9:16 for final 1080x1920. Subject is NVIDIA stock options and earnings volatility, not a market crash. Distinct OPTIONS INVESTING visual identity: very deep indigo and plum-black, restrained crisp teal highlights, small warm brass accents. Make a beautiful cinematic conceptual computing-and-derivatives environment with tactile midnight anodized metal, subtle smoked glass, understated fine structural lines. Along the bottom20 percent, show a sophisticated GPU accelerator board and cooling fins, a dark unbranded silicon chip with a restrained teal edge glow, and two balanced sculptural translucent ribbon forms diverging symmetrically to suggest uncertainty in either direction; these are abstract physical forms, NOT a plotted graph or price path. Keep all imagery conceptual: no actual performance data, chart axes, tickers, numerical displays, fake trading screens, company logos, words or letters. The central upper80 percent must be elegantly dark and very quiet for exceptionally legible large editorial text. All final authored news content will be separately typeset within x104\u2013961,y164\u20131536 on1080x1920. Leave that entire region free of busy hardware or competing highlights. Reserve an empty simple circular brass mounting recess in the upper-right dark industrial panel, centered approximately x925,y270 with diameter200px, facing the camera directly. It must be physically recessed into a surface with a realistic rim, compatible teal ambient spill and warm upper-left contact light. The user's exact original Moneyberg coin artwork will be composited there unchanged and uniformly scaled; do NOT generate any coin portrait, face, rim lettering, logo or replacement emblem. Wholecoin will stay within y0\u20131440, upper75%, separate from news text. Production context only, DO NOT RENDER: exact recurring brand MONEYBERG NEWS BRIEF on one compact line35px, separate OPTIONS INVESTING category; actual Lato Black900 for headings/brand/dates/numeric labels and actual Georgia400 for summaries/sources/qualifiers. Authored type minimum33px overall,35px body,51px headlines. No background-production footer. Target polished high-end financial magazine art direction: rich plum and teal depth, clear negative space, realistic metal material, an unbranded GPU/chip composition at bottom, subtle symmetrical abstract volatility motif. Background only, no generated words, numbers, charts, logos or coin."
+  ],
+  "sources": [
+    "https://www.benzinga.com/markets/options/26/11/63277522/nvidia-earnings-without-jensen-huang-could-trigger-341-billion-stock-swing-as-options-traders-brace-for-volatility",
+    "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter-Financial-Results/default.aspx"
+  ],
+  "source_access": "Read the full public Benzinga report and NVIDIA investor-relations release schedule. The options estimate is attributed to Benzinga Pro as reported by Benzinga; the underlying options chain was not independently retrieved.",
+  "reporting_scope": {
+    "edition_date": "2026-11-16",
+    "article_published_chicago": "2026-11-15T14:00:30-06:00",
+    "options_implied_move_percent_either_direction": 8.27,
+    "market_cap_effect_usd_approx": 341000000000,
+    "article_market_cap_usd_approx": 4130000000000,
+    "market_cap_effect_basis": "Approximate magnitude at the article\u2019s valuation; not the value of option contracts or a directional forecast.",
+    "estimate_attribution": "Benzinga Pro, as reported by Benzinga",
+    "options_chain_independently_retrieved": false,
+    "option_expiration_disclosed": false,
+    "confidence_level_disclosed": false,
+    "implied_move_method_disclosed": false,
+    "underlying_chain_as_of_time_disclosed": false,
+    "not_guaranteed_or_directional_move": true,
+    "earnings_release_date": "2026-11-17",
+    "earnings_release_time_us_pacific": "13:20",
+    "earnings_release_time_approximate": true,
+    "earnings_release_scope": "Tuesday after the U.S. stock-market close",
+    "company_schedule_published": "2026-10-28",
+    "no_source_chart": true
+  },
+  "output_sha256": "782b3233c1be98623c9fa6e5a4aec76e1ca2f3c7438a4e9961810e55cf06240e"
+}
