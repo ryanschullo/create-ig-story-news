@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><base href="__ASSET_BASE_URI__">
+<title>Nasdaq leads Wall Street lower — November 16 close, November 17 edition</title>
+<style>
+@font-face{font-family:"Moneyberg Lato Black";src:url("fonts/lato/Lato-Black.ttf") format("truetype");font-weight:900;font-style:normal}
+@font-face{font-family:"Moneyberg Georgia";src:url("__GEORGIA_FONT_URI__") format("truetype");font-weight:400;font-style:normal}
+*{box-sizing:border-box}html,body{margin:0;width:1080px;height:1920px;overflow:hidden;background:#06101c}
+#stage{position:relative;width:1080px;height:1920px;isolation:isolate;overflow:hidden}
+#background{position:absolute;inset:0;width:1080px;height:1920px;object-fit:cover;object-position:50% 0}
+.text{position:absolute;margin:0;z-index:5;font-synthesis:none;text-rendering:geometricPrecision;-webkit-font-smoothing:antialiased;white-space:nowrap}
+.lato{font-family:"Moneyberg Lato Black";font-weight:900;color:#f6f7f8}
+.georgia{font-family:"Moneyberg Georgia";font-weight:400;color:#e0e6ed}
+#header-shade{position:absolute;left:104px;top:164px;width:645px;height:169px;background:linear-gradient(100deg,#06101cf0,#06101cc4 82%,transparent);z-index:2}
+#brand{left:118px;top:174px;font-size:35px;line-height:44px;letter-spacing:.25px}
+#category{left:118px;top:232px;font-size:33px;line-height:42px;letter-spacing:1px;color:#abc6e0}
+#date{left:118px;top:284px;font-size:33px;line-height:42px;color:#d4dce5}
+.headline{left:118px;line-height:92px;letter-spacing:-.8px}
+#headline-one{top:361px;font-size:79px}
+#headline-two{top:454px;font-size:66px;color:#ff858b}
+#summary-one,#summary-two{left:118px;font-size:38px;line-height:51px}
+#summary-one{top:570px}#summary-two{top:621px}
+.index-panel{position:absolute;left:104px;width:857px;height:218px;z-index:3;background:linear-gradient(105deg,rgba(21,29,43,.97),rgba(11,21,33,.96));border-top:1px solid #748394;border-left:4px solid #bc4656;box-shadow:0 10px 25px #0007}
+.index-panel:before{content:"";position:absolute;left:319px;top:28px;bottom:28px;width:1px;background:#415263}
+#nasdaq-panel{top:706px}#sp-panel{top:936px}#dow-panel{top:1166px}
+.index-label{left:457px;font-size:38px;line-height:47px;letter-spacing:.2px;color:#f1f5f9}
+#nasdaq-label-one{top:725px}#nasdaq-label-two{top:772px}
+#sp-label{top:982px}
+#dow-label-one{top:1185px}#dow-label-two{top:1232px;font-size:35px;line-height:45px}
+.index-loss{left:129px;font-size:87px;line-height:108px;letter-spacing:-2px;color:#ff858b}
+#nasdaq-loss{top:753px}#sp-loss{top:983px}#dow-loss{top:1213px}
+.index-close{left:457px;font-size:37px;line-height:49px;color:#dbe4ee}
+#nasdaq-close{top:842px}#sp-close{top:1072px}#dow-close{top:1302px}
+#source-panel{position:absolute;left:104px;top:1410px;width:857px;height:115px;background:rgba(6,16,28,.96);z-index:3;border-top:1px solid #526475}
+#source,#source-date{left:118px;font-size:33px;line-height:43px;color:#d0dce6}
+#source{top:1424px}#source-date{top:1467px}
+#coin-installation{position:absolute;left:805px;top:109px;width:237px;height:237px;z-index:2;border-radius:50%;background:linear-gradient(135deg,#b99a60,#40342a 55%,#b28b49);box-shadow:inset 4px 5px 10px #1b1813,3px 4px 8px #020509cc,-1px -1px 2px #d6b77a}
+#coin{position:absolute;inset:0;width:237px;height:237px;object-fit:contain;filter:saturate(.78) brightness(.88)}
+#coin-contact{position:absolute;inset:0;border-radius:50%;pointer-events:none;box-shadow:inset 4px 5px 8px #191c2077,inset -2px -2px 4px #efc77755;background:linear-gradient(125deg,#ccddee11,transparent 46%,#1d344c18)}
+</style></head><body><main id="stage" aria-label="November 16, 2026 final U.S. market close. Nasdaq Composite falls 2.5 percent to 24,509.76. S&amp;P 500 falls 1.9 percent to 7,416.59. Dow Jones Industrial Average falls 1.4 percent to 51,608.17. Nvidia falls 4.1 percent ahead of earnings. AP. November 17 edition.">
+<img id="background" src="us-market-selloff-2026-11-17-background.png" alt="">
+<div id="header-shade" aria-hidden="true"></div>
+<div id="coin-installation" data-scene-element aria-hidden="true"><img id="coin" src="moneyberg-coin-original.png" alt=""><div id="coin-contact" data-scene-element></div></div>
+<div id="brand" class="text lato" data-news-text>MONEYBERG NEWS BRIEF</div>
+<div id="category" class="text lato" data-news-text>STOCK MARKET</div>
+<div id="date" class="text lato" data-news-text>NOV. 16, 2026 • FINAL CLOSE</div>
+<div id="headline-one" class="text lato headline" data-news-text data-text-role="headline">NASDAQ LEADS</div>
+<div id="headline-two" class="text lato headline" data-news-text data-text-role="headline">WALL STREET LOWER</div>
+<div id="summary-one" class="text georgia" data-news-text data-text-role="body">Nvidia falls 4.1% ahead of earnings.</div>
+<div id="summary-two" class="text georgia" data-news-text data-text-role="body">AI shares weigh on the broader market.</div>
+<div id="nasdaq-panel" class="index-panel" data-news-panel></div>
+<div id="sp-panel" class="index-panel" data-news-panel></div>
+<div id="dow-panel" class="index-panel" data-news-panel></div>
+<div id="nasdaq-label-one" class="text lato index-label" data-news-text>NASDAQ</div>
+<div id="nasdaq-label-two" class="text lato index-label" data-news-text>COMPOSITE</div>
+<div id="nasdaq-loss" class="text lato index-loss" data-news-text data-text-role="headline">−2.5%</div>
+<div id="nasdaq-close" class="text georgia index-close" data-news-text data-text-role="body">Close: 24,509.76</div>
+<div id="sp-label" class="text lato index-label" data-news-text>S&amp;P 500</div>
+<div id="sp-loss" class="text lato index-loss" data-news-text data-text-role="headline">−1.9%</div>
+<div id="sp-close" class="text georgia index-close" data-news-text data-text-role="body">Close: 7,416.59</div>
+<div id="dow-label-one" class="text lato index-label" data-news-text>DOW JONES</div>
+<div id="dow-label-two" class="text lato index-label" data-news-text>INDUSTRIAL AVERAGE</div>
+<div id="dow-loss" class="text lato index-loss" data-news-text data-text-role="headline">−1.4%</div>
+<div id="dow-close" class="text georgia index-close" data-news-text data-text-role="body">Close: 51,608.17</div>
+<div id="source-panel" data-news-panel></div>
+<div id="source" class="text georgia" data-news-text data-text-role="source">Source: Associated Press • Nov. 16, 2026</div>
+<div id="source-date" class="text georgia" data-news-text data-text-role="source">November 17 edition • All figures final</div>
+</main></body></html>

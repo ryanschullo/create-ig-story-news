@@ -1,0 +1,23 @@
+{
+  "edition_date": "2026-11-17",
+  "trading_date": "2026-11-16",
+  "category": "STOCK MARKET",
+  "source": "Associated Press",
+  "source_url": "https://apnews.com/article/stocks-markets-ai-nvidia-oil-us-35786b8f539ec95f16ae0500f71cfcc7",
+  "corroborating_url": "https://apnews.com/article/stock-markets-ai-earnings-oil-4d5a35288288389d894e63e6bebe8240",
+  "source_updated_chicago": "2026-11-16T16:16:00-06:00",
+  "source_access": "Both full public AP reports were read. The rolling article was updated November 16 Central and describes the final Monday cash-market close. Live widgets and Tuesday futures were not substituted for the same-date final index values.",
+  "same_final_session_for_all_indexes": true,
+  "index_results": [
+    {"name": "Nasdaq Composite", "instrument": "cash index", "closing_level": 24509.76, "daily_percentage_change": -2.5, "verified_point_change_not_displayed": -626.52, "trading_date": "2026-11-16"},
+    {"name": "S&P 500", "instrument": "cash index", "closing_level": 7416.59, "daily_percentage_change": -1.9, "verified_point_change_not_displayed": -145.08, "trading_date": "2026-11-16"},
+    {"name": "Dow Jones Industrial Average", "instrument": "cash index", "closing_level": 51608.17, "daily_percentage_change": -1.4, "verified_point_change_not_displayed": -739.38, "trading_date": "2026-11-16"}
+  ],
+  "percentage_precision": "One decimal, as explicitly reported by AP; not derived from rounded levels.",
+  "nvidia_final_daily_percentage_change": -4.1,
+  "nvidia_earnings_context": "AP reports investors awaited Tuesday November 17 earnings. No alleged personal misconduct or causal claim about it is used.",
+  "no_source_chart_requested": true,
+  "no_invented_chart_or_quantitative_decoration": true,
+  "original_coin_master": "assets/moneyberg-coin-original.png",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716"
+}
