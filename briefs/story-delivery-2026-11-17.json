@@ -1,0 +1,60 @@
+{
+  "edition": "2026-11-17",
+  "selection_numbers": [
+    1,
+    2,
+    4
+  ],
+  "verified_at_utc": "2026-11-17T08:29:21.529412+00:00",
+  "deliverables_commit": "bae7bac56557f751d4bebe876c939d8784c5f337",
+  "downloads": [
+    {
+      "filename": "extended-hours-options-2026-11-17.png",
+      "url": "https://github.com/ryanschullo/create-ig-story-news/releases/download/stories-2026-11-17/extended-hours-options-2026-11-17.png",
+      "http_status": 200,
+      "content_disposition": "attachment; filename=extended-hours-options-2026-11-17.png",
+      "bytes": 1410355,
+      "sha256": "08875d0022cc0b6f5407e2b05056e99b1c33c43a9c67a4a35e03f1d5376d4db9",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "matches_local": true,
+      "authenticated": false,
+      "workflow_run": "https://github.com/ryanschullo/create-ig-story-news/actions/runs/44046875776",
+      "workflow_conclusion": "success"
+    },
+    {
+      "filename": "us-market-selloff-2026-11-17.png",
+      "url": "https://github.com/ryanschullo/create-ig-story-news/releases/download/stories-2026-11-17/us-market-selloff-2026-11-17.png",
+      "http_status": 200,
+      "content_disposition": "attachment; filename=us-market-selloff-2026-11-17.png",
+      "bytes": 1906586,
+      "sha256": "aa56c66020802e6a34200ae1e25a503c54fdf4dab4053d8d6ae8a08c296a1d3e",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "matches_local": true,
+      "authenticated": false,
+      "workflow_run": "https://github.com/ryanschullo/create-ig-story-news/actions/runs/44046619551",
+      "workflow_conclusion": "success"
+    },
+    {
+      "filename": "oil-surplus-fears-2026-11-17.png",
+      "url": "https://github.com/ryanschullo/create-ig-story-news/releases/download/stories-2026-11-17/oil-surplus-fears-2026-11-17.png",
+      "http_status": 200,
+      "content_disposition": "attachment; filename=oil-surplus-fears-2026-11-17.png",
+      "bytes": 1851218,
+      "sha256": "252cb7905193d9e220e3ae87df92197721bbb7edf9cd5b21efe5d4f0ec7ab35e",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "matches_local": true,
+      "authenticated": false,
+      "workflow_run": "https://github.com/ryanschullo/create-ig-story-news/actions/runs/44046990006",
+      "workflow_conclusion": "success"
+    }
+  ]
+}
