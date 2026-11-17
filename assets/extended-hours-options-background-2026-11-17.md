@@ -1,0 +1,15 @@
+# Extended-hours options background — November 17, 2026
+
+Created with the image-generation tool for the November 17 OPTIONS INVESTING graphic. This is conceptual decorative trading-office scenery, not a photograph of an identified exchange. No generated data, source chart, text or coin artwork is used.
+
+Original generated file: `/workspace/generated_images/exec-9a0724ed-6258-4d4b-a7e6-b6bbf2df10ea.png`, 941 × 1672. Archived unchanged as `assets/extended-hours-options-background-2026-11-17.png`. The browser covers the 1080 × 1920 canvas proportionally. The blank brass recess receives the canonical original coin PNG at x=800, y=150, 207 × 207, with compatible color, contact shadow, and reflected ambient tone. The entire coin is above y=1440.
+
+## Generation prompt
+
+```text
+Create a brand-new vertical 9:16 editorial background plate for a premium Instagram Story about EXTENDED-HOURS OPTIONS TRADING. No text, numbers, chart marks, logos, or coin portraits anywhere. This is conceptual decorative imagery, not a photograph of a real exchange. A beautiful late-night trading office viewed straight-on: deep ink and plum-violet interior, smoked glass wall, thin restrained teal architectural light strips, night skyline visible in the lower third, a glossy desk silhouette low in the frame. Sophisticated and realistic materials, premium understated financial editorial aesthetic. Large quiet near-black indigo area across the central 80% width and the upper 80% height so verified typography and a real chart will be composed later. Keep details especially subdued in the entire area x=104..961 and y=164..1536 on a 1080x1920 planning canvas. At upper right, centered around x=927 y=190, put one small completely blank circular dark metal wall recess approximately 200 pixels in diameter, seen exactly front-on as a true circle, with subtle brushed brass bevel and contact shading. This will receive the actual original Moneyberg coin later; DO NOT draw any coin artwork, faces, lettering, insignia, or symbols in the recess. Leave blank space around that recess, all of it above y=1440. The future overlaid brand will read exactly MONEYBERG NEWS BRIEF in one compact line at 35px Lato Black, headline at least51px Lato Black, body Georgia at least35px, all other authored text at least33px, but DO NOT render any lettering in this background plate. The official original coin and original Cboe chart will be composited separately without redrawing. Main trading-office detail concentrated below y=1560 and around outer margins. No other circular objects, clocks, emblems, or coins. Rich ink/plum with restrained teal, no red market-crash lighting. Output full-bleed 9:16 composition.
+```
+
+## Compositing
+
+Actual Lato Black (900) and Georgia (400) font files are verified at runtime. Georgia is not redistributed. The complete original Cboe chart is placed at full usable width, with its title, axes, dates, legend and original embedded font intact. The headline figure is explicitly weekly while the chart is explicitly daily. No background-production credit appears in the finished graphic.

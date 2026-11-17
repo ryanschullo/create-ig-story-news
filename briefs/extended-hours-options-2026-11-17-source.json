@@ -1,0 +1,42 @@
+{
+  "article_url": "https://www.cboe.com/insights/posts/option-volume-during-global-trading-hours-continues-to-build",
+  "title": "Option Volume During Global Trading Hours Continues to Build",
+  "author": "Henry Schwartz",
+  "publisher": "Cboe Global Markets",
+  "published_date": "2026-11-16",
+  "reporting_scope": {
+    "edition_date": "2026-11-17",
+    "article_date": "2026-11-16",
+    "industry_scope": "Combined new Global Trading Hours and Curb sessions, 24 single stocks and 5 ETFs",
+    "weekly_observation_period": "2026-11-09 through 2026-11-13",
+    "weekly_contract_volume": 2090000,
+    "approximate_launch_week_volume": 180000,
+    "source_chart_period": "2026-10-19 through 2026-11-13",
+    "source_chart_frequency": "Daily",
+    "not_Cboe_only_volume": true,
+    "not_all_US_options_volume": true,
+    "not_24_hour_sessions": true,
+    "primary_exchange_authored_report": true,
+    "original_chart_preserved": true,
+    "raw_transactions_independently_reconstructed": false
+  },
+  "chart": {
+    "exhibit": 1,
+    "url": "https://cdn.cboe.com/insights/a0b1115e545141c49240c1a62f3f79ef",
+    "path": "assets/source-charts/extended-hours-options-2026-11-17.png",
+    "sha256": "5de17419a5ce9bdcb1733d56ebc5ff6135f120e56f751cf8d848f9a22f796507",
+    "dimensions": [
+      1291,
+      691
+    ],
+    "bytes": 92945,
+    "full_original_artwork": true,
+    "source_caption_external_to_image": "Source: Cboe (retained in authored footer)"
+  },
+  "editorial_notes": [
+    "Weekly 2.09M and daily bars visibly distinguished.",
+    "Do not generalize the 29 eligible products to the whole U.S. options market.",
+    "Do not call the 29 products 24-hour trading.",
+    "Original chart font retained; all authored text uses current minimums."
+  ]
+}

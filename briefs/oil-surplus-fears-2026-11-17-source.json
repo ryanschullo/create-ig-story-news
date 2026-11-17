@@ -1,0 +1,40 @@
+{
+  "edition_date": "2026-11-17",
+  "category": "OIL & GAS",
+  "main_source": {
+    "publisher": "OilPrice",
+    "title": "Oil Prices Slide as Global Glut Fears Eclipse Hormuz Attacks",
+    "author": "Irina Slav",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Slide-as-Global-Glut-Fears-Eclipse-Hormuz-Attacks.html",
+    "publication_chicago": "2026-11-17T00:10:00-06:00",
+    "full_body_read": true,
+    "quote": "At the time of writing, Brent crude was trading at $91.70 per barrel, and West Texas Intermediate was trading at $85.03 per barrel, both down from Monday\u2019s close."
+  },
+  "benchmarks": [
+    {
+      "name": "Brent",
+      "price_usd_per_barrel": 91.7,
+      "contract_month": null,
+      "daily_change": null
+    },
+    {
+      "name": "WTI",
+      "price_usd_per_barrel": 85.03,
+      "contract_month": null,
+      "daily_change": null
+    }
+  ],
+  "price_basis": "Common time-of-writing reported snapshot from the selected article, not a final settlement.",
+  "exact_observation_time": null,
+  "exact_observation_time_disclosed_missing_on_graphic": true,
+  "publication_time_not_treated_as_observation_time": true,
+  "daily_change_not_invented": true,
+  "source_scope": "Prices were lower while traders focused on projected oversupply; Gulf shipping attacks and safety risks continued. Forecasts of surplus are not certain future outcomes.",
+  "corroboration": {
+    "url": "https://www.investing.com/news/commodities-news/oil-slips-on-supply-surplus-outlook-despite-gulf-tensions-5031433",
+    "publisher": "Reuters via Investing.com",
+    "full_body_read": true,
+    "role": "Corroborates surplus expectations and continuing Gulf attacks. Its earlier Brent92.00/WTI85.28 pair at01:02GMT is not used in this graphic."
+  },
+  "no_chart": "Selected price article has no original quantitative chart needed for this graphic. No decorative numbers or invented chart."
+}

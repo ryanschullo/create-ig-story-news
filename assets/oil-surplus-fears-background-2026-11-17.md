@@ -1,0 +1,13 @@
+# Oil surplus fears background — November 17, 2026
+
+Text-free generated petroleum infrastructure. Conceptual illustration, not evidence of an actual terminal or attack. Exact approved coin is composited later from the original source PNG.
+
+## Generation prompt
+
+```text
+Create a premium editorial Instagram Story BACKGROUND ONLY, portrait 9:16, designed for a final 1080×1920 canvas. Theme: OIL & GAS — crude prices slide as fears of a global surplus outweigh ongoing tanker and shipping attacks. Petroleum charcoal, midnight blue, burnished amber, realistic industrial refinement. A vast oil storage terminal and refinery at blue hour, dense pipelines, massive cylindrical storage tanks and a distant tanker; no fire, no explosions, no combat imagery. Sophisticated high-contrast editorial photography style, photorealistic textures. Keep the upper half (x104–961, y164–1000) very dark calm negative space, subtly textured charcoal atmosphere, to accept clearly legible news typography. The refinery machinery is mostly in lower half and along the far right/lower edges. In the right-middle region, integrate a front-facing dark brushed-steel equipment housing with a single EMPTY circular brass recessed socket centered around x900 y1220, about 240px diameter (scaled proportionally). It will receive the user's exact original Moneyberg coin later in HTML; do NOT draw any coin, portrait, logo, inscription or emblem. Socket must appear as a real flat front-facing equipment inset with surrounding warm amber lighting and shadow, not a floating circular badge, and stay entirely above y1440. Lower left y1100–1390 stays dark enough for a short white explanation. Beautiful oil infrastructure silhouettes and amber utility lighting below y1570 to the bottom. No letters, no charts, no graphs, no price numbers, no watermark, NO TYPOGRAPHY rendered. In final assembly all news stays within x104–961 and y164–1536; brand MONEYBERG NEWS BRIEF will be a compact one-line 35px label, headings Lato Black 900 at least51px, other authored labels at least33px, and body/sources Georgia400 at least35/33px. These font instructions are for composition planning, leave the generated background text-free.
+```
+
+## Generated file and assembly
+
+Source: `/workspace/generated_images/exec-a564d0a8-286b-4d62-b9f2-6a02c45220ae.png`, 941 × 1672. Copied unchanged to the background PNG. Chromium places it at 1080 × 1920 using proportional `object-fit: cover`. The exact original Moneyberg coin is seated inside the generated brass equipment recess with a shallow contact shadow and compatible amber illumination. The full coin remains circular and above y=1440; its original portrait and inscriptions are retained. No generated coin artwork is used.
