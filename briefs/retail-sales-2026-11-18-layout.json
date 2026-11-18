@@ -1,0 +1,849 @@
+{
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "inner_bounds": [
+    104,
+    164,
+    961,
+    1536
+  ],
+  "minimum_authored_font_size_px": 33,
+  "minimum_body_font_size_px": 35,
+  "minimum_headline_font_size_px": 51,
+  "font_size_minimum_verified": true,
+  "renderer": "Chromium via Playwright; HTML/CSS screenshot",
+  "background_sha256": "55a4a6649bf066fc4e3caee4fd71188ce90db948748a67130542ebc2901b07b9",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
+  "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
+  "georgia_redistributed": false,
+  "layout": {
+    "text": [
+      {
+        "id": "brand",
+        "text": "MONEYBERG NEWS BRIEF",
+        "bounds": {
+          "left": 118,
+          "top": 175,
+          "right": 559.109375,
+          "bottom": 217,
+          "width": 441.109375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 174,
+          "right": 559.109375,
+          "bottom": 218,
+          "width": 441.109375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "category",
+        "text": "CONSUMER SENTIMENT",
+        "bounds": {
+          "left": 118,
+          "top": 239,
+          "right": 513.09375,
+          "bottom": 279,
+          "width": 395.09375,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 238,
+          "right": 513.09375,
+          "bottom": 280,
+          "width": 395.09375,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "date",
+        "text": "NOVEMBER 18, 2026",
+        "bounds": {
+          "left": 118,
+          "top": 291,
+          "right": 443.5625,
+          "bottom": 331,
+          "width": 325.5625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 290,
+          "right": 443.5625,
+          "bottom": 332,
+          "width": 325.5625,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "headline-one",
+        "text": "RETAIL SALES",
+        "bounds": {
+          "left": 112,
+          "top": 406,
+          "right": 694.5,
+          "bottom": 519,
+          "width": 582.5,
+          "height": 113
+        },
+        "element_bounds": {
+          "left": 112,
+          "top": 406,
+          "right": 694.5,
+          "bottom": 519,
+          "width": 582.5,
+          "height": 113
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "94px"
+      },
+      {
+        "id": "headline-two",
+        "text": "GROWTH COOLS",
+        "bounds": {
+          "left": 112,
+          "top": 528,
+          "right": 862.953125,
+          "bottom": 641,
+          "width": 750.953125,
+          "height": 113
+        },
+        "element_bounds": {
+          "left": 112,
+          "top": 528,
+          "right": 862.953125,
+          "bottom": 641,
+          "width": 750.953125,
+          "height": 113
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "94px"
+      },
+      {
+        "id": "deck",
+        "text": "Ahead of the holiday shopping season.",
+        "bounds": {
+          "left": 118,
+          "top": 668,
+          "right": 777.328125,
+          "bottom": 713,
+          "width": 659.328125,
+          "height": 45
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 665,
+          "right": 777.328125,
+          "bottom": 717,
+          "width": 659.328125,
+          "height": 52
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "39px"
+      },
+      {
+        "id": "comparison-label",
+        "text": "MONTHLY SALES GROWTH \u2022 2026",
+        "bounds": {
+          "left": 118,
+          "top": 742,
+          "right": 660.75,
+          "bottom": 782,
+          "width": 542.75,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 741,
+          "right": 660.75,
+          "bottom": 784,
+          "width": 542.75,
+          "height": 43
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "september-label",
+        "text": "SEPTEMBER",
+        "bounds": {
+          "left": 129,
+          "top": 829,
+          "right": 339.90625,
+          "bottom": 871,
+          "width": 210.90625,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 129,
+          "top": 827,
+          "right": 339.90625,
+          "bottom": 873,
+          "width": 210.90625,
+          "height": 46
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "october-label",
+        "text": "OCTOBER",
+        "bounds": {
+          "left": 570,
+          "top": 829,
+          "right": 743.296875,
+          "bottom": 871,
+          "width": 173.296875,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 570,
+          "top": 827,
+          "right": 743.296875,
+          "bottom": 873,
+          "width": 173.296875,
+          "height": 46
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "september-value",
+        "text": "+0.8%",
+        "bounds": {
+          "left": 126,
+          "top": 887,
+          "right": 427.359375,
+          "bottom": 1021,
+          "width": 301.359375,
+          "height": 134
+        },
+        "element_bounds": {
+          "left": 126,
+          "top": 889,
+          "right": 427.359375,
+          "bottom": 1019,
+          "width": 301.359375,
+          "height": 130
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "111px"
+      },
+      {
+        "id": "october-value",
+        "text": "+0.2%",
+        "bounds": {
+          "left": 567,
+          "top": 887,
+          "right": 868.359375,
+          "bottom": 1021,
+          "width": 301.359375,
+          "height": 134
+        },
+        "element_bounds": {
+          "left": 567,
+          "top": 889,
+          "right": 868.359375,
+          "bottom": 1019,
+          "width": 301.359375,
+          "height": 130
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "111px"
+      },
+      {
+        "id": "scope",
+        "text": "U.S. retail and food-services sales.",
+        "bounds": {
+          "left": 124,
+          "top": 1111,
+          "right": 650.921875,
+          "bottom": 1151,
+          "width": 526.921875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 124,
+          "top": 1107,
+          "right": 650.921875,
+          "bottom": 1155,
+          "width": 526.921875,
+          "height": 48
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "adjustment",
+        "text": "Seasonally adjusted.",
+        "bounds": {
+          "left": 124,
+          "top": 1159,
+          "right": 437.953125,
+          "bottom": 1199,
+          "width": 313.953125,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 124,
+          "top": 1155,
+          "right": 437.953125,
+          "bottom": 1203,
+          "width": 313.953125,
+          "height": 48
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "estimate",
+        "text": "Advance estimate",
+        "bounds": {
+          "left": 124,
+          "top": 1216,
+          "right": 404.03125,
+          "bottom": 1258,
+          "width": 280.03125,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 124,
+          "top": 1213,
+          "right": 404.03125,
+          "bottom": 1261,
+          "width": 280.03125,
+          "height": 48
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "inflation",
+        "text": "Not adjusted for inflation.",
+        "bounds": {
+          "left": 124,
+          "top": 1264,
+          "right": 525.3125,
+          "bottom": 1304,
+          "width": 401.3125,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 124,
+          "top": 1260,
+          "right": 525.3125,
+          "bottom": 1308,
+          "width": 401.3125,
+          "height": 48
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "uncertainty",
+        "text": "OCTOBER: \u00b10.4 PERCENTAGE POINTS",
+        "bounds": {
+          "left": 124,
+          "top": 1325,
+          "right": 709.03125,
+          "bottom": 1365,
+          "width": 585.03125,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 124,
+          "top": 1324,
+          "right": 709.03125,
+          "bottom": 1367,
+          "width": 585.03125,
+          "height": 43
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "confidence",
+        "text": "90% confidence interval includes zero.",
+        "bounds": {
+          "left": 124,
+          "top": 1371,
+          "right": 684.78125,
+          "bottom": 1408,
+          "width": 560.78125,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 124,
+          "top": 1368,
+          "right": 684.78125,
+          "bottom": 1411,
+          "width": 560.78125,
+          "height": 43
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      },
+      {
+        "id": "source",
+        "text": "Source: Census Bureau \u2022 Nov. 17, 2026",
+        "bounds": {
+          "left": 124,
+          "top": 1448,
+          "right": 688.390625,
+          "bottom": 1485,
+          "width": 564.390625,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 124,
+          "top": 1445,
+          "right": 688.390625,
+          "bottom": 1488,
+          "width": 564.390625,
+          "height": 43
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      }
+    ],
+    "panels": [
+      {
+        "id": "september-panel",
+        "bounds": {
+          "left": 104,
+          "top": 800,
+          "right": 520,
+          "bottom": 1046,
+          "width": 416,
+          "height": 246
+        }
+      },
+      {
+        "id": "october-panel",
+        "bounds": {
+          "left": 545,
+          "top": 800,
+          "right": 961,
+          "bottom": 1046,
+          "width": 416,
+          "height": 246
+        }
+      },
+      {
+        "id": "context-panel",
+        "bounds": {
+          "left": 104,
+          "top": 1084,
+          "right": 961,
+          "bottom": 1512,
+          "width": 857,
+          "height": 428
+        }
+      }
+    ],
+    "scene_elements": [
+      {
+        "id": "coin-installation",
+        "bounds": {
+          "left": 719,
+          "top": 110,
+          "right": 953,
+          "bottom": 344,
+          "width": 234,
+          "height": 234
+        },
+        "box_shadow": "rgb(99, 75, 36) 3px 3px 7px 0px inset, rgba(56, 35, 8, 0.48) 2px 4px 6px 0px, rgb(241, 220, 162) -1px -1px 2px 0px",
+        "background": "linear-gradient(135deg, rgb(199, 156, 81), rgb(126, 90, 38) 53%, rgb(229, 195, 122))"
+      },
+      {
+        "id": "coin-contact",
+        "bounds": {
+          "left": 719,
+          "top": 110,
+          "right": 953,
+          "bottom": 344,
+          "width": 234,
+          "height": 234
+        },
+        "box_shadow": "rgba(64, 43, 13, 0.32) 3px 4px 7px 0px inset, rgba(253, 227, 168, 0.2) -2px -2px 3px 0px inset",
+        "background": "linear-gradient(125deg, rgba(255, 223, 155, 0.04), rgba(0, 0, 0, 0) 50%, rgba(51, 35, 14, 0.06))"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Moneyberg Lato Black",
+        "weight": "900",
+        "status": "loaded"
+      },
+      {
+        "family": "Moneyberg Georgia",
+        "weight": "400",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "id": "background",
+        "natural_width": 916,
+        "natural_height": 1717,
+        "object_fit": "cover",
+        "clip_path": "none",
+        "bounds": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        }
+      },
+      {
+        "id": "coin",
+        "natural_width": 2084,
+        "natural_height": 2084,
+        "object_fit": "contain",
+        "clip_path": "none",
+        "bounds": {
+          "left": 719,
+          "top": 110,
+          "right": 953,
+          "bottom": 344,
+          "width": 234,
+          "height": 234
+        }
+      }
+    ],
+    "document_width": 1080,
+    "document_height": 1920
+  },
+  "platform_fonts": [
+    {
+      "id": "brand",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "category",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 18
+        }
+      ]
+    },
+    {
+      "id": "date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 17
+        }
+      ]
+    },
+    {
+      "id": "headline-one",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 12
+        }
+      ]
+    },
+    {
+      "id": "headline-two",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 12
+        }
+      ]
+    },
+    {
+      "id": "deck",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 37
+        }
+      ]
+    },
+    {
+      "id": "comparison-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 27
+        }
+      ]
+    },
+    {
+      "id": "september-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 9
+        }
+      ]
+    },
+    {
+      "id": "october-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 7
+        }
+      ]
+    },
+    {
+      "id": "september-value",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 5
+        }
+      ]
+    },
+    {
+      "id": "october-value",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 5
+        }
+      ]
+    },
+    {
+      "id": "scope",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 36
+        }
+      ]
+    },
+    {
+      "id": "adjustment",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "estimate",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 15
+        }
+      ]
+    },
+    {
+      "id": "inflation",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 27
+        }
+      ]
+    },
+    {
+      "id": "uncertainty",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 31
+        }
+      ]
+    },
+    {
+      "id": "confidence",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 38
+        }
+      ]
+    },
+    {
+      "id": "source",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 37
+        }
+      ]
+    }
+  ],
+  "coin_bounds": {
+    "left": 719,
+    "top": 110,
+    "right": 953,
+    "bottom": 344,
+    "width": 234,
+    "height": 234
+  },
+  "whole_coin_upper_75_percent_verified": true,
+  "integration": {
+    "method": "Exact original coin PNG seated inside the brass wall recess of a boutique checkout, with compatible warm light and contact shadow",
+    "artwork": "Original uniformly scaled PNG; original portrait, lettering and circular rim preserved",
+    "image_generation_role": "Text-free conceptual boutique checkout setting only",
+    "topic": "U.S. monthly retail and food-services sales growth estimates: September +0.8%, October +0.2%",
+    "category_badge": "CONSUMER SENTIMENT",
+    "background_credit_on_graphic": false,
+    "background_provenance": "Conceptual retail setting, not documentary evidence of an event or a quantitative data chart"
+  },
+  "generation_prompts": [
+    "Create a sophisticated premium financial editorial BACKGROUND ONLY for a vertical 1080x1920 Instagram Story about U.S. retail-sales growth slowing ahead of the holidays. Warm ivory plaster, cream paper, very dark ink and restrained burgundy details, with tactile brass and soft natural winter window light. A beautiful contemporary boutique checkout setting: keep the upper and central 80 percent of the composition mostly quiet warm-cream wall and softly lit empty space. Along the bottom quarter below y1540, arrange unbranded burgundy and kraft shopping bags, a folded cream sweater, a small wrapped plain gift, a dark payment terminal with a blank screen and an elegantly curling blank paper receipt on a polished stone counter. No legible words, numbers, price tags, logos, plotted data, charts or dramatic distress imagery. Along the extreme margins, subtle shop shelving may add depth but should not compete with text. In the upper-right cream wall, centered approximately x900,y265 with diameter220 pixels on final1080x1920, create one empty front-facing perfectly circular brushed brass mounting recess with a narrow physical rim, gentle contact shadow and compatible warm lighting. The user's exact original gold Moneyberg coin will be separately composited there; DO NOT generate a coin, portrait, emblem or inscription. Whole coin will remain above y1440. Final authored news content will be composited only within x104\u2013961,y164\u20131536. It includes the exact compact one-line brand MONEYBERG NEWS BRIEF, separate CONSUMER SENTIMENT category, and a large retail-growth headline with two large month comparison panels. Production context only, DO NOT RENDER TEXT: use actual Lato Black weight900 for headlines/brand/labels and Georgia weight400 for body/notes; minimum33px all text,35px body,51px headlines. Keep the entire content area uncluttered and high contrast for later dark ink lettering. No background-production credits. This is a conceptual editorial retail illustration, not an actual event photograph. High-end magazine art direction, coherent materials, natural light, no charts or text. Full bleed 9:16 portrait."
+  ],
+  "source_record": {
+    "edition_date": "2026-11-18",
+    "category": "CONSUMER SENTIMENT",
+    "headline": "Retail sales growth cools",
+    "primary_source": {
+      "publisher": "U.S. Census Bureau",
+      "title": "Advance Monthly Sales for Retail and Food Services, October 2026",
+      "release": "CB26-181",
+      "published_at": "2026-11-17T08:30:00-05:00",
+      "url": "https://www.census.gov/retail/marts/www/marts_current.pdf",
+      "evidence_local": "/tmp/nov18-consumer/census-retail.pdf",
+      "pdf_sha256": "c82b44e93a987d774c7aaabdcfd0131c5f02e6edcf00a2c421a9522bd5dde730",
+      "read_full_text": true
+    },
+    "reporting_source": {
+      "publisher": "AP via PBS NewsHour",
+      "title": "Retail spending slowed in October as high prices gave shoppers pause",
+      "author": "Anne D\u2019Innocenzio",
+      "published_date": "2026-11-17",
+      "url": "https://www.pbs.org/newshour/economy/retail-spending-slowed-in-october-as-high-prices-gave-shoppers-pause",
+      "evidence_local": "/tmp/nov18-consumer/b3.txt",
+      "read_full_text": true
+    },
+    "series": "U.S. retail and food-services sales",
+    "units": "Percent change from previous month",
+    "seasonally_adjusted": true,
+    "adjusted_for_holidays_and_trading_days": true,
+    "inflation_adjusted": false,
+    "data": [
+      {
+        "month": "2026-09",
+        "month_over_month_percent": 0.8,
+        "sales_usd_billions": 746.6,
+        "label": "September revised sales; reported monthly growth unchanged at +0.8%"
+      },
+      {
+        "month": "2026-10",
+        "month_over_month_percent": 0.2,
+        "sales_usd_billions": 748.2,
+        "status": "Advance estimate",
+        "margin_of_error_percentage_points": 0.4,
+        "confidence_level_percent": 90,
+        "confidence_interval_percent": [
+          -0.2,
+          0.6
+        ],
+        "statistically_distinguishable_from_zero": false
+      }
+    ],
+    "interpretation": "Point estimate of monthly retail-sales growth eased. October change is not statistically distinguishable from zero at 90% confidence. Do not infer consumer collapse or declining inflation-adjusted spending.",
+    "visualization": "Two large numeric month panels, not a reconstructed source chart. Equal panel size conveys labels only, not data magnitude.",
+    "authored_qualifiers": [
+      "Advance estimate",
+      "Not adjusted for inflation.",
+      "Seasonally adjusted.",
+      "OCTOBER: \u00b10.4 PERCENTAGE POINTS",
+      "90% confidence interval includes zero."
+    ],
+    "as_of": "Primary release November 17, 2026; edition date November 18, 2026; October observation."
+  },
+  "output_sha256": "c01c4a2c71e856a7e2c66be2cdf9849f552b571f670d22cc13c145775d079b72"
+}

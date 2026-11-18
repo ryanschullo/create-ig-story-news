@@ -1,0 +1,60 @@
+{
+  "edition_date": "2026-11-18",
+  "category": "CONSUMER SENTIMENT",
+  "headline": "Retail sales growth cools",
+  "primary_source": {
+    "publisher": "U.S. Census Bureau",
+    "title": "Advance Monthly Sales for Retail and Food Services, October 2026",
+    "release": "CB26-181",
+    "published_at": "2026-11-17T08:30:00-05:00",
+    "url": "https://www.census.gov/retail/marts/www/marts_current.pdf",
+    "evidence_local": "/tmp/nov18-consumer/census-retail.pdf",
+    "pdf_sha256": "c82b44e93a987d774c7aaabdcfd0131c5f02e6edcf00a2c421a9522bd5dde730",
+    "read_full_text": true
+  },
+  "reporting_source": {
+    "publisher": "AP via PBS NewsHour",
+    "title": "Retail spending slowed in October as high prices gave shoppers pause",
+    "author": "Anne D’Innocenzio",
+    "published_date": "2026-11-17",
+    "url": "https://www.pbs.org/newshour/economy/retail-spending-slowed-in-october-as-high-prices-gave-shoppers-pause",
+    "evidence_local": "/tmp/nov18-consumer/b3.txt",
+    "read_full_text": true
+  },
+  "series": "U.S. retail and food-services sales",
+  "units": "Percent change from previous month",
+  "seasonally_adjusted": true,
+  "adjusted_for_holidays_and_trading_days": true,
+  "inflation_adjusted": false,
+  "data": [
+    {
+      "month": "2026-09",
+      "month_over_month_percent": 0.8,
+      "sales_usd_billions": 746.6,
+      "label": "September revised sales; reported monthly growth unchanged at +0.8%"
+    },
+    {
+      "month": "2026-10",
+      "month_over_month_percent": 0.2,
+      "sales_usd_billions": 748.2,
+      "status": "Advance estimate",
+      "margin_of_error_percentage_points": 0.4,
+      "confidence_level_percent": 90,
+      "confidence_interval_percent": [
+        -0.2,
+        0.6
+      ],
+      "statistically_distinguishable_from_zero": false
+    }
+  ],
+  "interpretation": "Point estimate of monthly retail-sales growth eased. October change is not statistically distinguishable from zero at 90% confidence. Do not infer consumer collapse or declining inflation-adjusted spending.",
+  "visualization": "Two large numeric month panels, not a reconstructed source chart. Equal panel size conveys labels only, not data magnitude.",
+  "authored_qualifiers": [
+    "Advance estimate",
+    "Not adjusted for inflation.",
+    "Seasonally adjusted.",
+    "OCTOBER: ±0.4 PERCENTAGE POINTS",
+    "90% confidence interval includes zero."
+  ],
+  "as_of": "Primary release November 17, 2026; edition date November 18, 2026; October observation."
+}
