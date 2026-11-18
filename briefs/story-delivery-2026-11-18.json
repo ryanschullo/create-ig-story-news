@@ -1,0 +1,66 @@
+{
+  "edition": "2026-11-18",
+  "selection_numbers": [
+    8,
+    10,
+    12
+  ],
+  "verified_at_utc": "2026-11-18T07:43:58.867336+00:00",
+  "deliverables_commit": "8df43e3b876f4d62b7c78caab52554b766b4de32",
+  "downloads": [
+    {
+      "filename": "retail-sales-2026-11-18.png",
+      "url": "https://github.com/ryanschullo/create-ig-story-news/releases/download/stories-2026-11-18/retail-sales-2026-11-18.png",
+      "http_status": 200,
+      "content_disposition": "attachment; filename=retail-sales-2026-11-18.png",
+      "bytes": 1941237,
+      "sha256": "c01c4a2c71e856a7e2c66be2cdf9849f552b571f670d22cc13c145775d079b72",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "matches_local": true,
+      "authenticated": false,
+      "verified_at_utc": "2026-11-18T07:41:51.113554+00:00",
+      "workflow_run": "https://github.com/ryanschullo/create-ig-story-news/actions/runs/44260654463",
+      "workflow_conclusion": "success",
+      "deliverables_commit": "d0da8384e11444f5f01a19f59748dfaa95e2fc40"
+    },
+    {
+      "filename": "oklo-fuel-prepayments-2026-11-18.png",
+      "url": "https://github.com/ryanschullo/create-ig-story-news/releases/download/stories-2026-11-18/oklo-fuel-prepayments-2026-11-18.png",
+      "http_status": 200,
+      "content_disposition": "attachment; filename=oklo-fuel-prepayments-2026-11-18.png",
+      "bytes": 2047855,
+      "sha256": "630ccb7e33609302ba34e1042c59f7619c8ce2a7766ae41d5afdf407ff57a5f6",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "matches_local": true,
+      "authenticated": false,
+      "verified_at_utc": "2026-11-18T07:43:04.783116+00:00",
+      "workflow_run": "https://github.com/ryanschullo/create-ig-story-news/actions/runs/44260955256",
+      "workflow_conclusion": "success",
+      "deliverables_commit": "8df43e3b876f4d62b7c78caab52554b766b4de32"
+    },
+    {
+      "filename": "intel-layoffs-2026-11-18.png",
+      "url": "https://github.com/ryanschullo/create-ig-story-news/releases/download/stories-2026-11-18/intel-layoffs-2026-11-18.png",
+      "http_status": 200,
+      "content_disposition": "attachment; filename=intel-layoffs-2026-11-18.png",
+      "bytes": 1940238,
+      "sha256": "702bc59dee84984cd62bff81ab1659829058feb06494331a15b35d00da74c157",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "matches_local": true,
+      "authenticated": false,
+      "verified_at_utc": "2026-11-18T07:43:44.746219+00:00",
+      "workflow_run": "https://github.com/ryanschullo/create-ig-story-news/actions/runs/44261056534",
+      "workflow_conclusion": "success",
+      "deliverables_commit": "8df43e3b876f4d62b7c78caab52554b766b4de32"
+    }
+  ]
+}
