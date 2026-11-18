@@ -1,0 +1,105 @@
+{
+  "requested_url": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html",
+  "article_title": "Stock futures rise as Nvidia gains on earnings beat and solid outlook: Live updates",
+  "article_published_utc": "2026-11-17T23:04:13+00:00",
+  "article_read_via": "https://r.jina.ai/https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html",
+  "access_note": "CNBC ordinary and AMP URLs returned403; publicly accessible Jina reader returned200 with full report, canonical URL and source publication timestamp. Full AP corroboration independently read.",
+  "observed_at_utc": "2026-11-18T08:52:53.773497+00:00",
+  "primary_focus_date": "2026-11-18",
+  "primary_focus": "Wednesday morning stock-index futures advance following Nvidia earnings; not a final U.S. market close.",
+  "opening_paragraph": "Stock futures climbed Wednesday morning after the S&P 500 fell for a fourth straight day. Traders also weighed Nvidia\u2019s better-than-expected earnings report.",
+  "futures_snapshot": [
+    {
+      "name": "Nasdaq-100 futures",
+      "daily_percentage_change": 0.8
+    },
+    {
+      "name": "S&P 500 futures",
+      "daily_percentage_change": 0.48
+    },
+    {
+      "name": "Dow Jones Industrial Average futures",
+      "daily_percentage_change": 0.2
+    }
+  ],
+  "futures_timing_note": "CNBC body says Wednesday morning, but no exact timestamp for these quotes was independently exposed in reader output. Do not equate Nasdaq-100 futures with Nasdaq Composite cash index, and do not present as final results.",
+  "extended_trading_equities": [
+    {
+      "name": "Nvidia",
+      "percentage_change": 4,
+      "scope": "extended trading after better-than-expected Q3 profit/revenue"
+    },
+    {
+      "name": "CoreWeave",
+      "percentage_change": 8,
+      "scope": "extended trading"
+    },
+    {
+      "name": "Nebius",
+      "percentage_change": 10,
+      "scope": "extended trading"
+    }
+  ],
+  "prior_final_close": {
+    "trading_date": "2026-11-17",
+    "same_final_session_for_all_indexes": true,
+    "index_results": [
+      {
+        "name": "Nasdaq Composite",
+        "instrument": "cash index",
+        "closing_level": 24328.38,
+        "point_change": -181.37,
+        "daily_percentage_change": -0.7
+      },
+      {
+        "name": "S&P 500",
+        "instrument": "cash index",
+        "closing_level": 7340.53,
+        "point_change": -76.06,
+        "daily_percentage_change": -1.0
+      },
+      {
+        "name": "Dow Jones Industrial Average",
+        "instrument": "cash index",
+        "closing_level": 50759.42,
+        "point_change": -848.75,
+        "daily_percentage_change": -1.6
+      }
+    ],
+    "percent_precision_note": "One decimal as published by AP; do not derive extra precision from rounded figures.",
+    "sources": [
+      {
+        "url": "https://www.bnnbloomberg.ca/markets/dow-jones/2026/11/17/world-markets-mostly-drop-as-ai-stocks-remain-under-pressure/",
+        "publisher": "Associated Press via BNN Bloomberg",
+        "headline": "Wall Street shakes again as Nvidia and other jittery AI stocks swing lower",
+        "updated": "November17,2026 at4:45p.m.EST"
+      },
+      {
+        "url": "https://www.washingtonpost.com/business/2026/11/17/wall-street-stocks-dow-nasdaq/9f975f00-e2cf-11f1-a99e-b3e3805c6b8b_story.html",
+        "publisher": "Associated Press via Washington Post",
+        "headline": "How major US stock indexes fared Tuesday11/17/2026",
+        "published": "November17,2026 at4:41p.m.EST"
+      }
+    ],
+    "exact_source_block": "On Tuesday: The S&P 500 fell76.06 points, or1%, to7,340.53. The Dow Jones Industrial Average fell848.75 points, or1.6%, to50,759.42. The Nasdaq composite fell181.37 points, or0.7%, to24,328.38."
+  },
+  "graphic_guidance": [
+    "Focus headline on futures lifting after Nvidia earnings; do not rewrite selected source as a current final-market selloff.",
+    "Include previous final cash-market results under explicit NOV17 FINAL CLOSE / PREVIOUS SESSION section if following the standing three-index rule.",
+    "Omit unverified exact-time futures percentages or label Wednesday-morning report snapshot; source retrieval time is not quote time.",
+    "Do not add unrelated personal allegations from article to financial graphic.",
+    "User asked for graphic, no specific chart requested; no chart needs to be invented."
+  ],
+  "raw_evidence_files": [
+    "/tmp/cnbc-research-jina.html",
+    "/tmp/cnbc-research-bnn.html",
+    "/tmp/cnbc-research-bnn.txt",
+    "/tmp/cnbc-research-wapo.html",
+    "/tmp/cnbc-research-wapo.txt"
+  ],
+  "edition_date": "2026-11-18",
+  "category": "STOCK MARKET",
+  "no_invented_chart": true,
+  "original_coin_master": "assets/moneyberg-coin-original.png",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716"
+}

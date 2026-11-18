@@ -1,0 +1,82 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><base href="__ASSET_BASE_URI__"><style>
+@font-face{font-family:"Moneyberg Lato Black";src:url("fonts/lato/Lato-Black.ttf") format("truetype");font-weight:900}
+@font-face{font-family:"Moneyberg Georgia";src:url("__GEORGIA_FONT_URI__") format("truetype");font-weight:400}
+*{box-sizing:border-box}html,body{margin:0;width:1080px;height:1920px;overflow:hidden}#stage{position:relative;width:1080px;height:1920px;background:#ddceb9}
+#background{position:absolute;inset:0;width:1080px;height:1920px;object-fit:cover}
+.text{position:absolute;z-index:4;white-space:nowrap}.lato{font-family:"Moneyberg Lato Black";font-weight:900;color:#09202c}.georgia{font-family:"Moneyberg Georgia";font-weight:400;color:#162b35}
+#brand{left:118px;top:174px;font-size:35px;line-height:44px}
+#category{left:118px;top:232px;font-size:33px;line-height:42px;color:#1b544d;letter-spacing:1px}
+#date{left:118px;top:285px;font-size:33px;line-height:42px}
+#headline-one{left:113px;top:370px;font-size:96px;line-height:119px;letter-spacing:-1px}
+#headline-two{left:110px;top:499px;font-size:132px;line-height:148px;letter-spacing:-3px;color:#0a634e}
+#summary-one,#summary-two{left:118px;font-size:37px;line-height:48px}
+#summary-one{top:661px}#summary-two{top:709px}
+#futures-title{left:118px;top:778px;font-size:33px;line-height:43px}
+.future-panel{position:absolute;top:830px;width:275px;height:206px;background:rgba(249,247,237,.96);border-top:5px solid #0a634e;box-shadow:0 7px 15px #29221722;z-index:2}
+#future-nasdaq-panel{left:104px}#future-sp-panel{left:395px}#future-dow-panel{left:686px}
+.future-label,.future-word{font-size:33px;line-height:42px}
+#future-nasdaq-label,#future-nasdaq-word{left:121px}#future-sp-label,#future-sp-word{left:412px}#future-dow-label,#future-dow-word{left:703px}
+.future-label{top:848px}.future-word{top:888px;color:#4f675d}
+.future-gain{top:941px;font-size:71px;line-height:80px;color:#0a634e;letter-spacing:-2px}
+#future-nasdaq-gain{left:120px}#future-sp-gain{left:405px}#future-dow-gain{left:703px}
+#previous-title{left:118px;top:1060px;font-size:33px;line-height:43px}
+.close-panel{position:absolute;left:104px;width:857px;height:90px;background:rgba(249,247,237,.96);z-index:2;border-bottom:1px solid #b1b9b0}
+#nasdaq-panel{top:1115px}#sp-panel{top:1209px}#dow-panel{top:1303px}
+.close-label{left:120px;font-size:33px;line-height:40px}
+#nasdaq-label-one{top:1118px}#nasdaq-label-two{top:1158px}
+#sp-label{top:1232px}
+#dow-label-one{top:1308px}#dow-label-two{top:1348px}
+.close-loss{left:485px;font-size:51px;line-height:64px;color:#9b3541;letter-spacing:-1px}
+#nasdaq-loss{top:1128px}#sp-loss{top:1222px}#dow-loss{top:1316px}
+.close-value{left:692px;font-size:34px;line-height:44px}
+#nasdaq-close{top:1139px}#sp-close{top:1233px}#dow-close{top:1327px}
+#source-panel{position:absolute;left:104px;top:1405px;width:857px;height:131px;background:rgba(249,247,237,.97);z-index:2}
+.source{left:118px;font-size:33px;line-height:41px}
+#source{top:1407px}#source-date{top:1448px}#source-time{top:1489px}
+#coin-installation{position:absolute;left:608px;top:322px;width:316px;height:316px;z-index:2;border-radius:50%;background:linear-gradient(135deg,#d1ad65,#4d3718 55%,#bb934b);box-shadow:inset 4px 5px 10px #40311e,3px 4px 9px #35271799,-1px -1px 2px #e3c987}
+#coin{position:absolute;inset:0;width:316px;height:316px;object-fit:contain;filter:saturate(.83) brightness(.94)}
+#coin-contact{position:absolute;inset:0;border-radius:50%;pointer-events:none;box-shadow:inset 4px 5px 8px #3f2b1555,inset -2px -2px 4px #efc77755;background:linear-gradient(125deg,#fff0c911,transparent 46%,#65431818)}
+</style></head><body><main id="stage" aria-label="November 18 morning U.S. stock futures rise after Nvidia earnings. Futures are not final results. Previous November 17 cash closes are shown separately.">
+<img id="background" src="us-stock-futures-2026-11-18-background.png" alt="">
+<div id="coin-installation" data-scene-element aria-hidden="true"><img id="coin" src="moneyberg-coin-original.png" alt=""><div id="coin-contact" data-scene-element></div></div>
+<div id="brand" class="text lato" data-news-text>MONEYBERG NEWS BRIEF</div>
+<div id="category" class="text lato" data-news-text>STOCK MARKET</div>
+<div id="date" class="text lato" data-news-text>NOVEMBER 18, 2026</div>
+<div id="headline-one" class="text lato" data-news-text data-text-role="headline">FUTURES</div>
+<div id="headline-two" class="text lato" data-news-text data-text-role="headline">RISE</div>
+<div id="summary-one" class="text georgia" data-news-text data-text-role="body">Nvidia gains 4% in extended trading</div>
+<div id="summary-two" class="text georgia" data-news-text data-text-role="body">after its earnings beat.</div>
+<div id="futures-title" class="text lato" data-news-text>NOV. 18 MORNING SNAPSHOT • FUTURES</div>
+<div id="future-nasdaq-panel" class="future-panel" data-news-panel></div>
+<div id="future-sp-panel" class="future-panel" data-news-panel></div>
+<div id="future-dow-panel" class="future-panel" data-news-panel></div>
+<div id="future-nasdaq-label" class="text lato future-label" data-news-text>NASDAQ-100</div>
+<div id="future-sp-label" class="text lato future-label" data-news-text>S&amp;P 500</div>
+<div id="future-dow-label" class="text lato future-label" data-news-text>DOW</div>
+<div id="future-nasdaq-word" class="text lato future-word" data-news-text>FUTURES</div>
+<div id="future-sp-word" class="text lato future-word" data-news-text>FUTURES</div>
+<div id="future-dow-word" class="text lato future-word" data-news-text>FUTURES</div>
+<div id="future-nasdaq-gain" class="text lato future-gain" data-news-text data-text-role="headline">+0.8%</div>
+<div id="future-sp-gain" class="text lato future-gain" data-news-text data-text-role="headline">+0.48%</div>
+<div id="future-dow-gain" class="text lato future-gain" data-news-text data-text-role="headline">+0.2%</div>
+<div id="previous-title" class="text lato" data-news-text>PREVIOUS CASH CLOSE • NOV. 17</div>
+<div id="nasdaq-panel" class="close-panel" data-news-panel></div>
+<div id="sp-panel" class="close-panel" data-news-panel></div>
+<div id="dow-panel" class="close-panel" data-news-panel></div>
+<div id="nasdaq-label-one" class="text lato close-label" data-news-text>NASDAQ</div>
+<div id="nasdaq-label-two" class="text lato close-label" data-news-text>COMPOSITE</div>
+<div id="sp-label" class="text lato close-label" data-news-text>S&amp;P 500</div>
+<div id="dow-label-one" class="text lato close-label" data-news-text>DOW JONES</div>
+<div id="dow-label-two" class="text lato close-label" data-news-text>INDUSTRIALS</div>
+<div id="nasdaq-loss" class="text lato close-loss" data-news-text data-text-role="headline">−0.7%</div>
+<div id="sp-loss" class="text lato close-loss" data-news-text data-text-role="headline">−1.0%</div>
+<div id="dow-loss" class="text lato close-loss" data-news-text data-text-role="headline">−1.6%</div>
+<div id="nasdaq-close" class="text georgia close-value" data-news-text>24,328.38</div>
+<div id="sp-close" class="text georgia close-value" data-news-text>7,340.53</div>
+<div id="dow-close" class="text georgia close-value" data-news-text>50,759.42</div>
+<div id="source-panel" data-news-panel></div>
+<div id="source" class="text georgia source" data-news-text>Futures: CNBC • Wednesday morning</div>
+<div id="source-date" class="text georgia source" data-news-text>Closing results: AP • November 17, 2026</div>
+<div id="source-time" class="text georgia source" data-news-text>Exact futures quote time not supplied.</div>
+</main></body></html>
