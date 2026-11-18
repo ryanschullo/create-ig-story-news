@@ -1,0 +1,46 @@
+{
+  "edition": "2026-11-18",
+  "requested_sources": [
+    "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html",
+    "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027"
+  ],
+  "verified_at_utc": "2026-11-18T08:59:21.772781+00:00",
+  "downloads": [
+    {
+      "filename": "us-stock-futures-2026-11-18.png",
+      "url": "https://github.com/ryanschullo/create-ig-story-news/releases/download/stories-2026-11-18/us-stock-futures-2026-11-18.png",
+      "http_status": 200,
+      "content_disposition": "attachment; filename=us-stock-futures-2026-11-18.png",
+      "bytes": 2222847,
+      "sha256": "9eccae3ad9e47acf472c101451f2b5784de6081089db5b57d59814a815ec9452",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "matches_local": true,
+      "authenticated": false,
+      "verified_at_utc": "2026-11-18T08:57:29.215740+00:00",
+      "workflow_run": "https://github.com/ryanschullo/create-ig-story-news/actions/runs/44271374217",
+      "workflow_conclusion": "success",
+      "deliverables_commit": "ab04f78c62fd52b981125cff7615a0ba2da3bcb8"
+    },
+    {
+      "filename": "nvidia-earnings-2026-11-18.png",
+      "url": "https://github.com/ryanschullo/create-ig-story-news/releases/download/stories-2026-11-18/nvidia-earnings-2026-11-18.png",
+      "http_status": 200,
+      "content_disposition": "attachment; filename=nvidia-earnings-2026-11-18.png",
+      "bytes": 1980957,
+      "sha256": "f3433c6f3d194121fcf7370f743c9185e6b2f34b4c105c2a081df48f83ff96c9",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "matches_local": true,
+      "authenticated": false,
+      "verified_at_utc": "2026-11-18T08:59:20.416528+00:00",
+      "workflow_run": "https://github.com/ryanschullo/create-ig-story-news/actions/runs/44271601820",
+      "workflow_conclusion": "success",
+      "deliverables_commit": "4ee14ca968d85442647c735d53fee79e3b61df37"
+    }
+  ]
+}
