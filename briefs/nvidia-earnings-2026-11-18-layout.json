@@ -1,0 +1,960 @@
+{
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "inner_bounds": [
+    104,
+    164,
+    961,
+    1536
+  ],
+  "minimum_authored_font_size_px": 33,
+  "minimum_body_font_size_px": 35,
+  "minimum_headline_font_size_px": 51,
+  "font_size_minimum_verified": true,
+  "renderer": "Chromium via Playwright; HTML/CSS screenshot",
+  "background_sha256": "c08e771dbc686af0eb1d4cb8e903c639815da523191f21d4087a54570d86dbdc",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
+  "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
+  "georgia_redistributed": false,
+  "layout": {
+    "text": [
+      {
+        "id": "brand",
+        "text": "MONEYBERG NEWS BRIEF",
+        "bounds": {
+          "left": 118,
+          "top": 175,
+          "right": 561.109375,
+          "bottom": 217,
+          "width": 443.109375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 174,
+          "right": 561.109375,
+          "bottom": 218,
+          "width": 443.109375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px",
+        "color": "rgb(247, 249, 244)"
+      },
+      {
+        "id": "category",
+        "text": "AI INVESTING",
+        "bounds": {
+          "left": 118,
+          "top": 234,
+          "right": 346.1875,
+          "bottom": 274,
+          "width": 228.1875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 233,
+          "right": 346.1875,
+          "bottom": 275,
+          "width": 228.1875,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px",
+        "color": "rgb(173, 243, 59)"
+      },
+      {
+        "id": "date",
+        "text": "NOVEMBER 18, 2026",
+        "bounds": {
+          "left": 118,
+          "top": 285,
+          "right": 443.5625,
+          "bottom": 325,
+          "width": 325.5625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 284,
+          "right": 443.5625,
+          "bottom": 326,
+          "width": 325.5625,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px",
+        "color": "rgb(217, 229, 208)"
+      },
+      {
+        "id": "headline-one",
+        "text": "REVENUE MORE",
+        "bounds": {
+          "left": 118,
+          "top": 452,
+          "right": 746.921875,
+          "bottom": 550,
+          "width": 628.921875,
+          "height": 98
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 454,
+          "right": 746.921875,
+          "bottom": 548,
+          "width": 628.921875,
+          "height": 94
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "82px",
+        "color": "rgb(247, 249, 244)"
+      },
+      {
+        "id": "headline-two",
+        "text": "THAN DOUBLES",
+        "bounds": {
+          "left": 118,
+          "top": 550,
+          "right": 738.921875,
+          "bottom": 648,
+          "width": 620.921875,
+          "height": 98
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 552,
+          "right": 738.921875,
+          "bottom": 646,
+          "width": 620.921875,
+          "height": 94
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "82px",
+        "color": "rgb(247, 249, 244)"
+      },
+      {
+        "id": "revenue-label",
+        "text": "QUARTERLY REVENUE",
+        "bounds": {
+          "left": 118,
+          "top": 660,
+          "right": 480.53125,
+          "bottom": 700,
+          "width": 362.53125,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 659,
+          "right": 480.53125,
+          "bottom": 701,
+          "width": 362.53125,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px",
+        "color": "rgb(207, 225, 189)"
+      },
+      {
+        "id": "revenue",
+        "text": "$115.8B",
+        "bounds": {
+          "left": 110,
+          "top": 705,
+          "right": 576.8125,
+          "bottom": 863,
+          "width": 466.8125,
+          "height": 158
+        },
+        "element_bounds": {
+          "left": 110,
+          "top": 704,
+          "right": 576.8125,
+          "bottom": 864,
+          "width": 466.8125,
+          "height": 160
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "132px",
+        "color": "rgb(181, 252, 58)"
+      },
+      {
+        "id": "revenue-growth",
+        "text": "+103% YEAR OVER YEAR",
+        "bounds": {
+          "left": 118,
+          "top": 871,
+          "right": 619.171875,
+          "bottom": 922,
+          "width": 501.171875,
+          "height": 51
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 870,
+          "right": 619.171875,
+          "bottom": 924,
+          "width": 501.171875,
+          "height": 54
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "43px",
+        "color": "rgb(181, 252, 58)"
+      },
+      {
+        "id": "period",
+        "text": "Q3 FY2027 \u2022 ENDED OCT. 25, 2026",
+        "bounds": {
+          "left": 118,
+          "top": 930,
+          "right": 657.484375,
+          "bottom": 970,
+          "width": 539.484375,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 929,
+          "right": 657.484375,
+          "bottom": 971,
+          "width": 539.484375,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px",
+        "color": "rgb(226, 235, 219)"
+      },
+      {
+        "id": "dc-label",
+        "text": "DATA CENTER REVENUE",
+        "bounds": {
+          "left": 128,
+          "top": 995,
+          "right": 514.15625,
+          "bottom": 1035,
+          "width": 386.15625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 128,
+          "top": 994,
+          "right": 514.15625,
+          "bottom": 1036,
+          "width": 386.15625,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px",
+        "color": "rgb(227, 239, 213)"
+      },
+      {
+        "id": "dc-value",
+        "text": "$107.6B",
+        "bounds": {
+          "left": 125,
+          "top": 1036,
+          "right": 396.125,
+          "bottom": 1126,
+          "width": 271.125,
+          "height": 90
+        },
+        "element_bounds": {
+          "left": 125,
+          "top": 1036,
+          "right": 396.125,
+          "bottom": 1127,
+          "width": 271.125,
+          "height": 91
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "75px",
+        "color": "rgb(247, 249, 244)"
+      },
+      {
+        "id": "dc-growth",
+        "text": "UP 110%",
+        "bounds": {
+          "left": 530,
+          "top": 1045,
+          "right": 695.96875,
+          "bottom": 1093,
+          "width": 165.96875,
+          "height": 48
+        },
+        "element_bounds": {
+          "left": 530,
+          "top": 1045,
+          "right": 695.96875,
+          "bottom": 1094,
+          "width": 165.96875,
+          "height": 49
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "40px",
+        "color": "rgb(181, 252, 58)"
+      },
+      {
+        "id": "dc-growth-label",
+        "text": "YEAR OVER YEAR",
+        "bounds": {
+          "left": 530,
+          "top": 1095,
+          "right": 804.296875,
+          "bottom": 1135,
+          "width": 274.296875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 530,
+          "top": 1094,
+          "right": 804.296875,
+          "bottom": 1136,
+          "width": 274.296875,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px",
+        "color": "rgb(227, 239, 213)"
+      },
+      {
+        "id": "outlook-label",
+        "text": "Q4 FY2027 REVENUE OUTLOOK",
+        "bounds": {
+          "left": 128,
+          "top": 1183,
+          "right": 635.203125,
+          "bottom": 1223,
+          "width": 507.203125,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 128,
+          "top": 1182,
+          "right": 635.203125,
+          "bottom": 1224,
+          "width": 507.203125,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px",
+        "color": "rgb(181, 252, 58)"
+      },
+      {
+        "id": "outlook-value",
+        "text": "$130B \u00b13%",
+        "bounds": {
+          "left": 124,
+          "top": 1223,
+          "right": 501.8125,
+          "bottom": 1314,
+          "width": 377.8125,
+          "height": 91
+        },
+        "element_bounds": {
+          "left": 124,
+          "top": 1225,
+          "right": 501.8125,
+          "bottom": 1313,
+          "width": 377.8125,
+          "height": 88
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "76px",
+        "color": "rgb(247, 249, 244)"
+      },
+      {
+        "id": "outlook-detail-one",
+        "text": "Includes an extra week; assumes no",
+        "bounds": {
+          "left": 128,
+          "top": 1321,
+          "right": 679.453125,
+          "bottom": 1361,
+          "width": 551.453125,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 128,
+          "top": 1320,
+          "right": 679.453125,
+          "bottom": 1363,
+          "width": 551.453125,
+          "height": 43
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px",
+        "color": "rgb(227, 235, 220)"
+      },
+      {
+        "id": "outlook-detail-two",
+        "text": "China data-center compute revenue.",
+        "bounds": {
+          "left": 128,
+          "top": 1364,
+          "right": 689.5625,
+          "bottom": 1404,
+          "width": 561.5625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 128,
+          "top": 1363,
+          "right": 689.5625,
+          "bottom": 1406,
+          "width": 561.5625,
+          "height": 43
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px",
+        "color": "rgb(227, 235, 220)"
+      },
+      {
+        "id": "source-one",
+        "text": "Source: NVIDIA earnings release \u2022 Nov. 17, 2026",
+        "bounds": {
+          "left": 118,
+          "top": 1443,
+          "right": 827.984375,
+          "bottom": 1480,
+          "width": 709.984375,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1441,
+          "right": 827.984375,
+          "bottom": 1483,
+          "width": 709.984375,
+          "height": 42
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px",
+        "color": "rgb(228, 236, 221)"
+      },
+      {
+        "id": "source-two",
+        "text": "Company-reported results \u2022 November 18 edition",
+        "bounds": {
+          "left": 118,
+          "top": 1485,
+          "right": 835.34375,
+          "bottom": 1522,
+          "width": 717.34375,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1483,
+          "right": 835.34375,
+          "bottom": 1525,
+          "width": 717.34375,
+          "height": 42
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px",
+        "color": "rgb(228, 236, 221)"
+      }
+    ],
+    "panels": [
+      {
+        "id": "dc-panel",
+        "bounds": {
+          "left": 104,
+          "top": 981,
+          "right": 961,
+          "bottom": 1146,
+          "width": 857,
+          "height": 165
+        }
+      },
+      {
+        "id": "outlook-panel",
+        "bounds": {
+          "left": 104,
+          "top": 1169,
+          "right": 961,
+          "bottom": 1415,
+          "width": 857,
+          "height": 246
+        }
+      },
+      {
+        "id": "source-panel",
+        "bounds": {
+          "left": 104,
+          "top": 1437,
+          "right": 961,
+          "bottom": 1530,
+          "width": 857,
+          "height": 93
+        }
+      }
+    ],
+    "illustrations": [
+      {
+        "id": "nvidia-logo-viewport",
+        "bounds": {
+          "left": 118,
+          "top": 354,
+          "right": 530,
+          "bottom": 434,
+          "width": 412,
+          "height": 80
+        }
+      }
+    ],
+    "scene_elements": [
+      {
+        "id": "coin-installation",
+        "bounds": {
+          "left": 690,
+          "top": 111,
+          "right": 984,
+          "bottom": 405,
+          "width": 294,
+          "height": 294
+        },
+        "box_shadow": "rgb(21, 24, 17) 4px 6px 10px 0px inset, rgba(2, 5, 2, 0.8) 3px 4px 8px 0px, rgba(219, 196, 134, 0.467) -2px -2px 3px 0px",
+        "background": "linear-gradient(135deg, rgb(171, 143, 67), rgb(54, 44, 28) 55%, rgb(181, 152, 76))"
+      },
+      {
+        "id": "coin-contact",
+        "bounds": {
+          "left": 690,
+          "top": 111,
+          "right": 984,
+          "bottom": 405,
+          "width": 294,
+          "height": 294
+        },
+        "box_shadow": "rgba(17, 27, 13, 0.4) 4px 6px 10px 0px inset, rgba(210, 238, 116, 0.333) -2px -2px 4px 0px inset",
+        "background": "linear-gradient(125deg, rgba(211, 238, 179, 0.133), rgba(0, 0, 0, 0) 46%, rgba(14, 40, 13, 0.094))"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Moneyberg Lato Black",
+        "weight": "900",
+        "status": "loaded"
+      },
+      {
+        "family": "Moneyberg Georgia",
+        "weight": "400",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "id": "background",
+        "natural_width": 941,
+        "natural_height": 1672,
+        "object_fit": "cover",
+        "clip_path": "none",
+        "filter": "none",
+        "transform": "none",
+        "opacity": "1",
+        "bounds": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        }
+      },
+      {
+        "id": "coin",
+        "natural_width": 2084,
+        "natural_height": 2084,
+        "object_fit": "contain",
+        "clip_path": "none",
+        "filter": "saturate(0.85) brightness(0.88)",
+        "transform": "none",
+        "opacity": "1",
+        "bounds": {
+          "left": 690,
+          "top": 111,
+          "right": 984,
+          "bottom": 405,
+          "width": 294,
+          "height": 294
+        }
+      },
+      {
+        "id": "nvidia-logo",
+        "natural_width": 3840,
+        "natural_height": 2160,
+        "object_fit": "contain",
+        "clip_path": "none",
+        "filter": "none",
+        "transform": "none",
+        "opacity": "1",
+        "bounds": {
+          "left": 36.28125,
+          "top": 232.125,
+          "right": 611.71875,
+          "bottom": 555.796875,
+          "width": 575.4375,
+          "height": 323.671875
+        }
+      }
+    ],
+    "document_width": 1080,
+    "document_height": 1920
+  },
+  "platform_fonts": [
+    {
+      "id": "brand",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "category",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 12
+        }
+      ]
+    },
+    {
+      "id": "date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 17
+        }
+      ]
+    },
+    {
+      "id": "headline-one",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 12
+        }
+      ]
+    },
+    {
+      "id": "headline-two",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 12
+        }
+      ]
+    },
+    {
+      "id": "revenue-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 17
+        }
+      ]
+    },
+    {
+      "id": "revenue",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 7
+        }
+      ]
+    },
+    {
+      "id": "revenue-growth",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "period",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 31
+        }
+      ]
+    },
+    {
+      "id": "dc-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 19
+        }
+      ]
+    },
+    {
+      "id": "dc-value",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 7
+        }
+      ]
+    },
+    {
+      "id": "dc-growth",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 7
+        }
+      ]
+    },
+    {
+      "id": "dc-growth-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 14
+        }
+      ]
+    },
+    {
+      "id": "outlook-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 25
+        }
+      ]
+    },
+    {
+      "id": "outlook-value",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 9
+        }
+      ]
+    },
+    {
+      "id": "outlook-detail-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 34
+        }
+      ]
+    },
+    {
+      "id": "outlook-detail-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 34
+        }
+      ]
+    },
+    {
+      "id": "source-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 47
+        }
+      ]
+    },
+    {
+      "id": "source-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 46
+        }
+      ]
+    }
+  ],
+  "coin_bounds": {
+    "left": 690,
+    "top": 111,
+    "right": 984,
+    "bottom": 405,
+    "width": 294,
+    "height": 294
+  },
+  "whole_coin_upper_75_percent_verified": true,
+  "integration": {
+    "method": "Exact original coin PNG seated in an upper-right brass recess in a NVIDIA-green and carbon-black GPU hardware scene, with compatible lighting and contact shading",
+    "artwork": "Original uniformly scaled PNG; original portrait, lettering and circular rim preserved",
+    "image_generation_role": "Text-free conceptual unbranded GPU hardware with NVIDIA-green edge light against carbon-black metal; the official NVIDIA logo is composited separately from its unchanged original asset",
+    "topic": "NVIDIA reports Q3 FY2027 revenue of $115.8 billion, up103% year over year; Q4 outlook separately labeled",
+    "category_badge": "AI INVESTING",
+    "background_credit_on_graphic": false,
+    "background_provenance": "Conceptual unbranded hardware imagery, not evidence of a particular Nvidia product or future stock-market result"
+  },
+  "generation_prompts": [
+    "Create a premium cinematic BACKGROUND ONLY for a 1080x1920 portrait financial-news Instagram Story about NVIDIA quarterly earnings. This is an editorial concept, not a documentary photo of a real facility. Palette: deep carbon black, graphite, NVIDIA-like vivid lime green accent lighting (#76b900), sophisticated near-black materials. The left and center upper 80 percent should be a calm matte-black architectural wall with extremely subtle diagonal brushed-metal grain: a quiet uncluttered area from x104 to961,y164 to1536 for large precise text and three financial statistics that will be composited afterward. Below y1550, show a dramatic close-up of a generic AI computing chip on an intricate dark circuit board, with a soft pool of green light, and farther behind on the bottom right a short row of dark data-center cabinets with restrained vertical green indicators. No brand logos, no fabricated chart, no text, no numbers, no letters, no arrows. Reserve a perfectly round, front-facing empty recessed architectural seal socket on the upper-right wall, centered x872,y246, diameter238 pixels at1080x1920. The socket has a subtle brass inner edge, metal mounting groove, contact shadow, and warm reflection ready for the user's exact original gold coin to be seated there. Do not render a coin, portrait, logo or inscription. The coin will be added unchanged later and remain entirely within the top75percent. Header and logo will be on upper left; headline around y480; main $115.8B stat around y700; two information panels below; sources finish by y1536. Leave this area clean and dark with gentle luminous green architectural edging only at the extreme sides. Typography planned for later: actual Lato Black900 headings/labels and Georgia400 copy/sources; minimum33px, body35px, headline51px. Render only the atmospheric environment. Full bleed9:16 portrait, highly polished photoreal materials, sharp realistic chip below the safe content area, no distracting illustrative clutter."
+  ],
+  "nvidia_logo": {
+    "path": "assets/logos/nvidia/nvidia-logo-horiz-wht-original.png",
+    "sha256": "b4937f65c1f3a07536507865c2947d9c65a66131f2f137c661bb41aa43fce2ca",
+    "original_dimensions": [
+      3840,
+      2160
+    ],
+    "original_bytes": 63664,
+    "original_art_bounds_xywh": [
+      552,
+      820,
+      2736,
+      520
+    ],
+    "rendered_art_bounds": {
+      "left": 119.000390625,
+      "top": 355.0048828125,
+      "width": 409.99921874999995,
+      "height": 77.923828125,
+      "right": 528.999609375,
+      "bottom": 432.9287109375
+    },
+    "viewport_bounds": {
+      "left": 118,
+      "top": 354,
+      "right": 530,
+      "bottom": 434,
+      "width": 412,
+      "height": 80
+    },
+    "uniform_scale_verified": true,
+    "only_unused_solid_black_padding_excluded": true,
+    "source_has_alpha_channel_but_is_fully_opaque": true,
+    "official_gallery": "https://nvidianews.nvidia.com/multimedia/corporate/nvidia-logos",
+    "original_asset_url": "https://iprsoftwaremedia.com/219/files/202512/nvidia-logo-horiz-wht-16x9.png?download=true",
+    "master_unchanged": true
+  },
+  "source_access": "Full primary NVIDIA earnings release read via ordinary HTTPS, HTTP200 on November18,2026.",
+  "sources": [
+    "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027"
+  ],
+  "reporting_scope": {
+    "edition_date": "2026-11-18",
+    "category": "AI INVESTING",
+    "source": "NVIDIA Newsroom primary earnings release",
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+    "source_date": "2026-11-17",
+    "retrieved_at_utc": "2026-11-18T08:56:16.584450+00:00",
+    "http_status": 200,
+    "full_source_html_sha256": "595d2f53a2624ca6907d66930240aa81c480c8071e0b9c68e365ba8336585d40",
+    "fiscal_period": "Q3 FY2027",
+    "period_end": "2026-10-25",
+    "actuals": {
+      "revenue_usd_billions": 115.8,
+      "revenue_growth_yoy_percent": 103,
+      "data_center_revenue_usd_billions": 107.6,
+      "data_center_growth_yoy_percent": 110
+    },
+    "outlook": {
+      "period": "Q4 FY2027",
+      "revenue_usd_billions": 130.0,
+      "range_plus_minus_percent": 3,
+      "includes_additional_week": true,
+      "assumes_no_china_data_center_compute_revenue": true,
+      "not_actual_revenue": true
+    },
+    "source_excerpts": [
+      "NVIDIA (NASDAQ: NVDA) today reported revenue for the third quarter ended October25,2026, of $115.8 billion, up20% from the previous quarter and up103% from a year ago.",
+      "Data Center: Third-quarter revenue was $107.6 billion, up21% from the previous quarter and up110% from a year ago.",
+      "NVIDIA\u2019s outlook for the fourth quarter of fiscal2027, which includes an additional week, is as follows: Revenue is expected to be $130.0 billion, plus or minus3%. NVIDIA is not assuming any Data Center compute revenue from China in its outlook."
+    ],
+    "no_market_price_claims": true,
+    "no_implied_guaranteed_future_results": true,
+    "no_source_chart_requested_or_omitted": true,
+    "official_logo": "assets/logos/nvidia/nvidia-logo-horiz-wht-original.png",
+    "official_logo_sha256": "b4937f65c1f3a07536507865c2947d9c65a66131f2f137c661bb41aa43fce2ca",
+    "original_coin_master": "assets/moneyberg-coin-original.png",
+    "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+    "independent_copy_review": "Passed by sibling nov18_cnbc_verify against primary-release excerpt; YoY metrics scoped correctly and Q4guidance labeled, with extra-week and China compute caveats."
+  },
+  "output_sha256": "f3433c6f3d194121fcf7370f743c9185e6b2f34b4c105c2a081df48f83ff96c9"
+}

@@ -1,0 +1,39 @@
+{
+  "edition_date": "2026-11-18",
+  "category": "AI INVESTING",
+  "source": "NVIDIA Newsroom primary earnings release",
+  "source_url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+  "source_date": "2026-11-17",
+  "retrieved_at_utc": "2026-11-18T08:56:16.584450+00:00",
+  "http_status": 200,
+  "full_source_html_sha256": "595d2f53a2624ca6907d66930240aa81c480c8071e0b9c68e365ba8336585d40",
+  "fiscal_period": "Q3 FY2027",
+  "period_end": "2026-10-25",
+  "actuals": {
+    "revenue_usd_billions": 115.8,
+    "revenue_growth_yoy_percent": 103,
+    "data_center_revenue_usd_billions": 107.6,
+    "data_center_growth_yoy_percent": 110
+  },
+  "outlook": {
+    "period": "Q4 FY2027",
+    "revenue_usd_billions": 130.0,
+    "range_plus_minus_percent": 3,
+    "includes_additional_week": true,
+    "assumes_no_china_data_center_compute_revenue": true,
+    "not_actual_revenue": true
+  },
+  "source_excerpts": [
+    "NVIDIA (NASDAQ: NVDA) today reported revenue for the third quarter ended October25,2026, of $115.8 billion, up20% from the previous quarter and up103% from a year ago.",
+    "Data Center: Third-quarter revenue was $107.6 billion, up21% from the previous quarter and up110% from a year ago.",
+    "NVIDIA\u2019s outlook for the fourth quarter of fiscal2027, which includes an additional week, is as follows: Revenue is expected to be $130.0 billion, plus or minus3%. NVIDIA is not assuming any Data Center compute revenue from China in its outlook."
+  ],
+  "no_market_price_claims": true,
+  "no_implied_guaranteed_future_results": true,
+  "no_source_chart_requested_or_omitted": true,
+  "official_logo": "assets/logos/nvidia/nvidia-logo-horiz-wht-original.png",
+  "official_logo_sha256": "b4937f65c1f3a07536507865c2947d9c65a66131f2f137c661bb41aa43fce2ca",
+  "original_coin_master": "assets/moneyberg-coin-original.png",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "independent_copy_review": "Passed by sibling nov18_cnbc_verify against primary-release excerpt; YoY metrics scoped correctly and Q4guidance labeled, with extra-week and China compute caveats."
+}
