@@ -1,0 +1,61 @@
+{
+  "edition_date": "2026-11-18",
+  "category": "NUCLEAR ENERGY INVESTING",
+  "selection": 10,
+  "source_article": {
+    "publisher": "Techi",
+    "url": "https://www.techi.com/oklo-centrus-haleu-fuel-contract-prepayment-cash/",
+    "published": "2026-11-17T16:48:47-06:00",
+    "role": "Discovery source; financial terms checked against SEC filing"
+  },
+  "primary_sources": [
+    {
+      "publisher": "U.S. Securities and Exchange Commission / Oklo Inc.",
+      "document": "Form 8-K filed November 17, 2026, Item 1.01",
+      "url": "https://www.sec.gov/Archives/edgar/data/1849056/000184905626000055/oklo-20261111.htm",
+      "evidence": "Oklo Power SODI LLC entered into a HALEU Supply Agreement with Centrus on November 11. It calls for two prepayments totaling $35 million, credited against future purchases and representing a portion of the amounts payable. Enrichment-service purchases for deliveries during 2029 through 2031 are on a take-or-pay basis subject to conditions. Prepayments are intended to support Centrus's commercial HALEU enrichment capacity at Piketon, Ohio."
+    },
+    {
+      "publisher": "U.S. Securities and Exchange Commission / Oklo Inc.",
+      "document": "Redacted HALEU Supply Agreement",
+      "url": "https://www.sec.gov/Archives/edgar/data/1849056/000184905626000055/redacted-oklohaleusupply.htm",
+      "evidence": "Underlying agreement; some commercial terms and payment timing are redacted."
+    }
+  ],
+  "verified_facts": {
+    "prepayments_usd_total": 35000000,
+    "number_of_prepayments": 2,
+    "supplier": "Centrus Energy Corp.",
+    "credited_against": "Future purchases under the fuel supply agreement",
+    "delivery_years": [2029, 2030, 2031],
+    "terms": "Take-or-pay, subject to conditions",
+    "facility_location": "Piketon, Ohio",
+    "capacity_status": "Commercial HALEU enrichment capacity under construction/development",
+    "agreement_signed": "2026-11-11",
+    "agreement_announced": "2026-11-12",
+    "sec_filing_date": "2026-11-17"
+  },
+  "factual_limits": [
+    "$35 million describes aggregate contractual prepayments, not the total contract value.",
+    "Actual payment status is not asserted; the first specified payment date is redacted and a second payment is linked to a commercial milestone.",
+    "No claim that fuel has been delivered, new capacity is completed, or an Oklo reactor is operating.",
+    "November 17 was the filing/new financial disclosure, not the agreement signing date.",
+    "No investment recommendation, stock-return claim, contract-profit estimate, or comparison with cash reserves."
+  ],
+  "graphic_copy": {
+    "headline": "OKLO COMMITS $35M IN FUEL PREPAYMENTS",
+    "deck": "Two prepayments to Centrus, credited toward future purchases.",
+    "delivery_window": "2029–2031",
+    "qualifier": "Take-or-pay, subject to conditions.",
+    "context": "Supports future U.S. uranium-enrichment capacity in Ohio.",
+    "source_credit": "Source: Oklo SEC filing • Nov. 17, 2026",
+    "agreement_date": "Agreement signed Nov. 11, 2026."
+  },
+  "visual_provenance": {
+    "background": "Fresh image_gen conceptual nuclear-fuel infrastructure; not a documentary photograph",
+    "coin": "Exact assets/moneyberg-coin-original.png, uniformly scaled into physical brass wall recess",
+    "coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+    "chart": "No chart requested or used",
+    "fonts": "Actual Lato Black 900 and runtime-only Georgia 400"
+  }
+}

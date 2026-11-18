@@ -1,0 +1,571 @@
+{
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "inner_bounds": [
+    104,
+    164,
+    961,
+    1536
+  ],
+  "minimum_authored_font_size_px": 33,
+  "minimum_body_font_size_px": 35,
+  "minimum_headline_font_size_px": 51,
+  "font_size_minimum_verified": true,
+  "renderer": "Chromium via Playwright; HTML/CSS screenshot",
+  "background_sha256": "7e0dc018ad749549dba54412963a7fbe5aff0e331d234319b96a3d50fe24fe31",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "official_intel_logo_sha256": "6d81b3bb7b058be27062fda520b5aaf23402db709af3d62d8593a39cad715fca",
+  "official_intel_logo_bounds": {
+    "left": 116,
+    "top": 364,
+    "right": 394,
+    "bottom": 473.609375,
+    "width": 278,
+    "height": 109.609375
+  },
+  "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
+  "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
+  "georgia_redistributed": false,
+  "layout": {
+    "text": [
+      {
+        "id": "brand",
+        "text": "MONEYBERG NEWS BRIEF",
+        "bounds": {
+          "left": 116,
+          "top": 175,
+          "right": 558.109375,
+          "bottom": 217,
+          "width": 442.109375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 116,
+          "top": 174,
+          "right": 558.109375,
+          "bottom": 218,
+          "width": 442.109375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "category",
+        "text": "JOBS & EMPLOYMENT",
+        "bounds": {
+          "left": 116,
+          "top": 236,
+          "right": 467.15625,
+          "bottom": 276,
+          "width": 351.15625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 116,
+          "top": 236,
+          "right": 467.15625,
+          "bottom": 276,
+          "width": 351.15625,
+          "height": 40
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "date",
+        "text": "NOV. 18, 2026",
+        "bounds": {
+          "left": 116,
+          "top": 286,
+          "right": 334.546875,
+          "bottom": 326,
+          "width": 218.546875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 116,
+          "top": 286,
+          "right": 334.546875,
+          "bottom": 326,
+          "width": 218.546875,
+          "height": 40
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "headline-one",
+        "text": "INTEL CUTS",
+        "bounds": {
+          "left": 110,
+          "top": 512,
+          "right": 649.84375,
+          "bottom": 634,
+          "width": 539.84375,
+          "height": 122
+        },
+        "element_bounds": {
+          "left": 110,
+          "top": 519,
+          "right": 649.84375,
+          "bottom": 627,
+          "width": 539.84375,
+          "height": 108
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "101px"
+      },
+      {
+        "id": "headline-two",
+        "text": "MORE JOBS",
+        "bounds": {
+          "left": 110,
+          "top": 643,
+          "right": 662.90625,
+          "bottom": 765,
+          "width": 552.90625,
+          "height": 122
+        },
+        "element_bounds": {
+          "left": 110,
+          "top": 650,
+          "right": 662.90625,
+          "bottom": 758,
+          "width": 552.90625,
+          "height": 108
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "101px"
+      },
+      {
+        "id": "summary",
+        "text": "The chipmaker confirms another round of layoffs as CEO Lip-Bu Tan\u2019s efficiency push continues.",
+        "bounds": {
+          "left": 116,
+          "top": 803,
+          "right": 900.4375,
+          "bottom": 965.625,
+          "width": 784.4375,
+          "height": 162.625
+        },
+        "element_bounds": {
+          "left": 116,
+          "top": 800,
+          "right": 929,
+          "bottom": 968.9375,
+          "width": 813,
+          "height": 168.9375
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "44px"
+      },
+      {
+        "id": "context",
+        "text": "Employees reported cuts in Intel\u2019s global IT workforce. Intel did not identify the teams affected.",
+        "bounds": {
+          "left": 116,
+          "top": 1005,
+          "right": 865.671875,
+          "bottom": 1149.8125,
+          "width": 749.671875,
+          "height": 144.8125
+        },
+        "element_bounds": {
+          "left": 116,
+          "top": 1003,
+          "right": 929,
+          "bottom": 1152.71875,
+          "width": 813,
+          "height": 149.71875
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "39px"
+      },
+      {
+        "id": "qualifier",
+        "text": "Number of affected jobs not disclosed.",
+        "bounds": {
+          "left": 139,
+          "top": 1210,
+          "right": 814.109375,
+          "bottom": 1256,
+          "width": 675.109375,
+          "height": 46
+        },
+        "element_bounds": {
+          "left": 139,
+          "top": 1209,
+          "right": 884,
+          "bottom": 1258.59375,
+          "width": 745,
+          "height": 49.59375
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "40px"
+      },
+      {
+        "id": "source",
+        "text": "Source: Business Insider",
+        "bounds": {
+          "left": 132,
+          "top": 1384,
+          "right": 491.140625,
+          "bottom": 1421,
+          "width": 359.140625,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 132,
+          "top": 1382,
+          "right": 491.140625,
+          "bottom": 1424,
+          "width": 359.140625,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      },
+      {
+        "id": "source-date",
+        "text": "Reported Nov. 17, 2026 \u2022 November 18 edition",
+        "bounds": {
+          "left": 132,
+          "top": 1427,
+          "right": 809.3125,
+          "bottom": 1464,
+          "width": 677.3125,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 132,
+          "top": 1425,
+          "right": 809.3125,
+          "bottom": 1467,
+          "width": 677.3125,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      }
+    ],
+    "panels": [
+      {
+        "id": "intel-logo",
+        "bounds": {
+          "left": 116,
+          "top": 364,
+          "right": 394,
+          "bottom": 473.609375,
+          "width": 278,
+          "height": 109.609375
+        }
+      },
+      {
+        "id": "qualifier-panel",
+        "bounds": {
+          "left": 110,
+          "top": 1188,
+          "right": 934,
+          "bottom": 1326,
+          "width": 824,
+          "height": 138
+        }
+      },
+      {
+        "id": "source-panel",
+        "bounds": {
+          "left": 110,
+          "top": 1368,
+          "right": 934,
+          "bottom": 1480,
+          "width": 824,
+          "height": 112
+        }
+      }
+    ],
+    "scene_elements": [
+      {
+        "id": "coin-installation",
+        "bounds": {
+          "left": 731,
+          "top": 176,
+          "right": 997,
+          "bottom": 442,
+          "width": 266,
+          "height": 266
+        },
+        "box_shadow": "rgba(40, 21, 0, 0.36) 0px 5px 15px 0px inset, rgba(13, 31, 41, 0.14) 1px 3px 7px 0px",
+        "background": "none"
+      },
+      {
+        "id": "coin-contact",
+        "bounds": {
+          "left": 730,
+          "top": 175,
+          "right": 998,
+          "bottom": 443,
+          "width": 268,
+          "height": 268
+        },
+        "box_shadow": "rgba(39, 25, 8, 0.42) 1px 5px 7px 0px, rgba(255, 248, 212, 0.45) 0px 1px 4px 0px inset",
+        "background": "none"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Moneyberg Lato Black",
+        "weight": "900",
+        "status": "loaded"
+      },
+      {
+        "family": "Moneyberg Georgia",
+        "weight": "400",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "id": "background",
+        "natural_width": 941,
+        "natural_height": 1672,
+        "object_fit": "cover",
+        "clip_path": "none",
+        "bounds": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        }
+      },
+      {
+        "id": "coin",
+        "natural_width": 2084,
+        "natural_height": 2084,
+        "object_fit": "contain",
+        "clip_path": "none",
+        "bounds": {
+          "left": 730,
+          "top": 175,
+          "right": 998,
+          "bottom": 443,
+          "width": 268,
+          "height": 268
+        }
+      },
+      {
+        "id": "intel-logo",
+        "natural_width": 300,
+        "natural_height": 118,
+        "object_fit": "contain",
+        "clip_path": "none",
+        "bounds": {
+          "left": 116,
+          "top": 364,
+          "right": 394,
+          "bottom": 473.609375,
+          "width": 278,
+          "height": 109.609375
+        }
+      }
+    ],
+    "document_width": 1080,
+    "document_height": 1920
+  },
+  "platform_fonts": [
+    {
+      "id": "brand",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "category",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 17
+        }
+      ]
+    },
+    {
+      "id": "date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 13
+        }
+      ]
+    },
+    {
+      "id": "headline-one",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 10
+        }
+      ]
+    },
+    {
+      "id": "headline-two",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 9
+        }
+      ]
+    },
+    {
+      "id": "summary",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 92
+        }
+      ]
+    },
+    {
+      "id": "context",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 96
+        }
+      ]
+    },
+    {
+      "id": "qualifier",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 38
+        }
+      ]
+    },
+    {
+      "id": "source",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 24
+        }
+      ]
+    },
+    {
+      "id": "source-date",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 44
+        }
+      ]
+    }
+  ],
+  "coin_bounds": {
+    "left": 730,
+    "top": 175,
+    "right": 998,
+    "bottom": 443,
+    "width": 268,
+    "height": 268
+  },
+  "whole_coin_upper_75_percent_verified": true,
+  "integration": {
+    "method": "Exact original coin PNG seated in the generated steel-wall circular architectural recess, with contact shadow and compatible reflected cool light",
+    "artwork": "Original uniformly scaled PNG; original portrait, lettering and circular rim preserved",
+    "image_generation_role": "Text-free conceptual semiconductor company workplace, silicon wafer and wall recess only",
+    "topic": "Intel confirms more layoffs in its ongoing efficiency push; number affected undisclosed",
+    "category_badge": "JOBS & EMPLOYMENT",
+    "background_credit_on_graphic": false,
+    "background_provenance": "Conceptual semiconductor workplace, not actual Intel premises or affected employees"
+  },
+  "generation_prompts": [
+    "Create a premium editorial BACKGROUND ONLY for a 1080 x 1920 portrait Instagram Story about new Intel layoffs and corporate restructuring. Use Intel-associated icy blue, clean white, slate steel and restrained navy. The scene is a conceptual modern semiconductor company workplace, NOT an actual photograph of Intel premises or affected employees. Quiet, polished, sober mood. In the bottom quarter show an empty precision-engineering workstation, a sculptural silicon wafer with blue iridescent facets, a small unbranded processor package, glass partitions and a softly blurred immaculate office corridor. No distressed people, no destruction, no dramatic crash arrows. The upper central region must be luminous pale blue-white, with nearly flat soft illumination and lots of empty space for very large dark navy typography. Keep x104\u2013961,y164\u20131536 mostly calm, with subject imagery concentrated below y1550 and subtly along the outer edges. At the upper right, build a simple perfectly circular front-facing recessed brass mounting socket into the pale brushed-metal wall, centered approximately x900,y245, diameter215px on the final canvas. The user's exact original Moneyberg gold coin will later be inserted unchanged into this socket; make it physically plausible with a fine lip, soft contact shadow and warm sidelight. DO NOT render a coin, portrait, letters or inscription. Keep the whole socket entirely within the top75% of the canvas. All text and logos will be added separately, so render NO words, numbers, logos, charts, labels or badges anywhere. Production guidance only, DO NOT RENDER: compact brand MONEYBERG NEWS BRIEF on one35px line; separate JOBS & EMPLOYMENT category; exact Lato Black900 for headlines/labels and Georgia400 for body/sources. All final authored text minimum33px, body35px, headlines51px, within x104\u2013961,y164\u20131536. Actual official Intel logo will be added at upper-left beneath date, in original navy and cyan, so leave that area pale and empty. No background-production footer. The image should feel like a contemporary business magazine cover with refined material texture, large negative space, natural blue reflections, and authentic conceptual semiconductor workplace props across the lower quarter. Background only, no text and no logos."
+  ],
+  "sources": [
+    "https://www.businessinsider.com/intel-layoffs-restructuring-ceo-lip-bu-tan-2026-11"
+  ],
+  "reporting_scope": {
+    "category": "JOBS & EMPLOYMENT",
+    "edition_date": "2026-11-18",
+    "source": {
+      "publisher": "Business Insider",
+      "url": "https://www.businessinsider.com/intel-layoffs-restructuring-ceo-lip-bu-tan-2026-11",
+      "title": "Intel cuts more jobs as CEO Lip-Bu Tan's efficiency push continues",
+      "authors": [
+        "Alice Tecotzky",
+        "Shubhangi Goel"
+      ],
+      "published_utc": "2026-11-18T02:00:47.204Z",
+      "published_chicago": "2026-11-17T20:00:47-06:00",
+      "evidence_read": "Full article retrieved and read from /tmp/nov18-consumer/a3.html and a3.txt"
+    },
+    "verified_facts": [
+      "Intel confirmed another round of job reductions as its restructuring continues.",
+      "Employees reported layoffs affecting Intel's global IT workforce.",
+      "Intel did not identify the teams involved or disclose the number of employees affected.",
+      "The layoffs are part of CEO Lip-Bu Tan's drive for a more focused and efficient company."
+    ],
+    "source_quote": "As part of our broader strategy to become a more focused and efficient company, we continually assess our workforce to ensure priorities and resources are appropriately aligned.",
+    "required_visible_qualification": "Number of affected jobs not disclosed.",
+    "omitted_to_prevent_misinterpretation": [
+      "September headcount of 81,100 is not this round's layoff count.",
+      "The difference from 85,100 at year-end 2025 is not this round's layoff count.",
+      "The source does not establish AI as the cause of these layoffs."
+    ],
+    "official_intel_logo": {
+      "path": "assets/logos/intel-wordmark-original.svg",
+      "url": "https://www.intel.com/content/dam/logos/intel-header-logo.svg",
+      "sha256": "6d81b3bb7b058be27062fda520b5aaf23402db709af3d62d8593a39cad715fca"
+    },
+    "source_chart": "No original chart required for this company layoffs article."
+  },
+  "output_sha256": "702bc59dee84984cd62bff81ab1659829058feb06494331a15b35d00da74c157"
+}

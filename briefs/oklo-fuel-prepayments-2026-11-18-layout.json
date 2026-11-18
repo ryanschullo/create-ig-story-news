@@ -1,0 +1,760 @@
+{
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "inner_bounds": [
+    104,
+    164,
+    961,
+    1536
+  ],
+  "minimum_authored_font_size_px": 33,
+  "minimum_body_font_size_px": 35,
+  "minimum_headline_font_size_px": 51,
+  "font_size_minimum_verified": true,
+  "renderer": "Chromium via Playwright; HTML/CSS screenshot",
+  "background_sha256": "ea1d984213e14801bb7760057f0020fcf099e086482f6e94e0af72dbd2c8fca6",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
+  "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
+  "georgia_redistributed": false,
+  "layout": {
+    "text": [
+      {
+        "id": "brand",
+        "text": "MONEYBERG NEWS BRIEF",
+        "bounds": {
+          "left": 118,
+          "top": 175,
+          "right": 562.109375,
+          "bottom": 217,
+          "width": 444.109375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 174,
+          "right": 562.109375,
+          "bottom": 218,
+          "width": 444.109375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px"
+      },
+      {
+        "id": "category",
+        "text": "NUCLEAR ENERGY INVESTING",
+        "bounds": {
+          "left": 118,
+          "top": 237,
+          "right": 599.15625,
+          "bottom": 277,
+          "width": 481.15625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 236,
+          "right": 599.15625,
+          "bottom": 278,
+          "width": 481.15625,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "date",
+        "text": "NOVEMBER 18, 2026",
+        "bounds": {
+          "left": 118,
+          "top": 288,
+          "right": 443.5625,
+          "bottom": 328,
+          "width": 325.5625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 287,
+          "right": 443.5625,
+          "bottom": 329,
+          "width": 325.5625,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "headline",
+        "text": "OKLO COMMITS",
+        "bounds": {
+          "left": 118,
+          "top": 429,
+          "right": 704.046875,
+          "bottom": 520,
+          "width": 586.046875,
+          "height": 91
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 428,
+          "right": 704.046875,
+          "bottom": 522,
+          "width": 586.046875,
+          "height": 94
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "76px"
+      },
+      {
+        "id": "amount",
+        "text": "$35M",
+        "bounds": {
+          "left": 110,
+          "top": 531,
+          "right": 554.328125,
+          "bottom": 740,
+          "width": 444.328125,
+          "height": 209
+        },
+        "element_bounds": {
+          "left": 110,
+          "top": 537,
+          "right": 554.328125,
+          "bottom": 734,
+          "width": 444.328125,
+          "height": 197
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "174px"
+      },
+      {
+        "id": "amount-label",
+        "text": "IN FUEL PREPAYMENTS",
+        "bounds": {
+          "left": 118,
+          "top": 743,
+          "right": 615.578125,
+          "bottom": 795,
+          "width": 497.578125,
+          "height": 52
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 742,
+          "right": 615.578125,
+          "bottom": 796,
+          "width": 497.578125,
+          "height": 54
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "44px"
+      },
+      {
+        "id": "deck-one",
+        "text": "Two prepayments to Centrus,",
+        "bounds": {
+          "left": 118,
+          "top": 841,
+          "right": 625.59375,
+          "bottom": 886,
+          "width": 507.59375,
+          "height": 45
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 837,
+          "right": 625.59375,
+          "bottom": 890,
+          "width": 507.59375,
+          "height": 53
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "39px"
+      },
+      {
+        "id": "deck-two",
+        "text": "credited toward future purchases.",
+        "bounds": {
+          "left": 118,
+          "top": 894,
+          "right": 698.234375,
+          "bottom": 939,
+          "width": 580.234375,
+          "height": 45
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 890,
+          "right": 698.234375,
+          "bottom": 943,
+          "width": 580.234375,
+          "height": 53
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "39px"
+      },
+      {
+        "id": "years",
+        "text": "2029\u20132031",
+        "bounds": {
+          "left": 129,
+          "top": 1008,
+          "right": 511.5,
+          "bottom": 1098,
+          "width": 382.5,
+          "height": 90
+        },
+        "element_bounds": {
+          "left": 129,
+          "top": 1006,
+          "right": 511.5,
+          "bottom": 1100,
+          "width": 382.5,
+          "height": 94
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "75px"
+      },
+      {
+        "id": "schedule-label",
+        "text": "ENRICHMENT DELIVERY WINDOW",
+        "bounds": {
+          "left": 131,
+          "top": 1109,
+          "right": 680.359375,
+          "bottom": 1149,
+          "width": 549.359375,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 131,
+          "top": 1108,
+          "right": 680.359375,
+          "bottom": 1150,
+          "width": 549.359375,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px"
+      },
+      {
+        "id": "terms",
+        "text": "Take-or-pay, subject to conditions.",
+        "bounds": {
+          "left": 131,
+          "top": 1160,
+          "right": 668.125,
+          "bottom": 1200,
+          "width": 537.125,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 131,
+          "top": 1158,
+          "right": 668.125,
+          "bottom": 1203,
+          "width": 537.125,
+          "height": 45
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px"
+      },
+      {
+        "id": "context-one",
+        "text": "Supports future U.S. uranium-",
+        "bounds": {
+          "left": 118,
+          "top": 1267,
+          "right": 617.5625,
+          "bottom": 1309,
+          "width": 499.5625,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1264,
+          "right": 617.5625,
+          "bottom": 1313,
+          "width": 499.5625,
+          "height": 49
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "37px"
+      },
+      {
+        "id": "context-two",
+        "text": "enrichment capacity in Ohio.",
+        "bounds": {
+          "left": 118,
+          "top": 1316,
+          "right": 590.359375,
+          "bottom": 1358,
+          "width": 472.359375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1313,
+          "right": 590.359375,
+          "bottom": 1362,
+          "width": 472.359375,
+          "height": 49
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "37px"
+      },
+      {
+        "id": "source",
+        "text": "Source: Oklo SEC filing \u2022 Nov. 17, 2026",
+        "bounds": {
+          "left": 118,
+          "top": 1433,
+          "right": 687.109375,
+          "bottom": 1470,
+          "width": 569.109375,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1430,
+          "right": 687.109375,
+          "bottom": 1473,
+          "width": 569.109375,
+          "height": 43
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      },
+      {
+        "id": "agreement-date",
+        "text": "Agreement signed Nov. 11, 2026.",
+        "bounds": {
+          "left": 118,
+          "top": 1481,
+          "right": 595.59375,
+          "bottom": 1518,
+          "width": 477.59375,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1478,
+          "right": 595.59375,
+          "bottom": 1521,
+          "width": 477.59375,
+          "height": 43
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px"
+      }
+    ],
+    "panels": [
+      {
+        "id": "reading-light",
+        "bounds": {
+          "left": 104,
+          "top": 414,
+          "right": 961,
+          "bottom": 1394,
+          "width": 857,
+          "height": 980
+        }
+      },
+      {
+        "id": "schedule-panel",
+        "bounds": {
+          "left": 104,
+          "top": 988,
+          "right": 961,
+          "bottom": 1214,
+          "width": 857,
+          "height": 226
+        }
+      },
+      {
+        "id": "context-panel",
+        "bounds": {
+          "left": 104,
+          "top": 1244,
+          "right": 961,
+          "bottom": 1388,
+          "width": 857,
+          "height": 144
+        }
+      },
+      {
+        "id": "source-panel",
+        "bounds": {
+          "left": 104,
+          "top": 1418,
+          "right": 961,
+          "bottom": 1536,
+          "width": 857,
+          "height": 118
+        }
+      }
+    ],
+    "scene_elements": [
+      {
+        "id": "coin-installation",
+        "bounds": {
+          "left": 746,
+          "top": 124,
+          "right": 1004,
+          "bottom": 382,
+          "width": 258,
+          "height": 258
+        },
+        "box_shadow": "rgb(56, 42, 19) 3px 5px 8px 0px inset, rgba(8, 11, 9, 0.8) 2px 4px 9px 0px, rgb(221, 189, 127) -1px -1px 2px 0px",
+        "background": "linear-gradient(135deg, rgb(226, 188, 114), rgb(81, 64, 29) 55%, rgb(187, 153, 80))"
+      },
+      {
+        "id": "coin-contact",
+        "bounds": {
+          "left": 746,
+          "top": 124,
+          "right": 1004,
+          "bottom": 382,
+          "width": 258,
+          "height": 258
+        },
+        "box_shadow": "rgba(45, 30, 12, 0.62) 4px 6px 9px 0px inset, rgba(246, 217, 158, 0.25) -2px -2px 3px 0px inset",
+        "background": "linear-gradient(125deg, rgba(246, 187, 103, 0.09), rgba(0, 0, 0, 0) 47%, rgba(8, 26, 29, 0.16))"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Moneyberg Lato Black",
+        "weight": "900",
+        "status": "loaded"
+      },
+      {
+        "family": "Moneyberg Georgia",
+        "weight": "400",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "id": "background",
+        "natural_width": 941,
+        "natural_height": 1672,
+        "object_fit": "cover",
+        "clip_path": "none",
+        "bounds": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        }
+      },
+      {
+        "id": "coin",
+        "natural_width": 2084,
+        "natural_height": 2084,
+        "object_fit": "contain",
+        "clip_path": "none",
+        "bounds": {
+          "left": 746,
+          "top": 124,
+          "right": 1004,
+          "bottom": 382,
+          "width": 258,
+          "height": 258
+        }
+      }
+    ],
+    "document_width": 1080,
+    "document_height": 1920
+  },
+  "platform_fonts": [
+    {
+      "id": "brand",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "category",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 24
+        }
+      ]
+    },
+    {
+      "id": "date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 17
+        }
+      ]
+    },
+    {
+      "id": "headline",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 12
+        }
+      ]
+    },
+    {
+      "id": "amount",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 4
+        }
+      ]
+    },
+    {
+      "id": "amount-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 19
+        }
+      ]
+    },
+    {
+      "id": "deck-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 27
+        }
+      ]
+    },
+    {
+      "id": "deck-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 33
+        }
+      ]
+    },
+    {
+      "id": "years",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 9
+        }
+      ]
+    },
+    {
+      "id": "schedule-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 26
+        }
+      ]
+    },
+    {
+      "id": "terms",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 35
+        }
+      ]
+    },
+    {
+      "id": "context-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 29
+        }
+      ]
+    },
+    {
+      "id": "context-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 28
+        }
+      ]
+    },
+    {
+      "id": "source",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 39
+        }
+      ]
+    },
+    {
+      "id": "agreement-date",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 31
+        }
+      ]
+    }
+  ],
+  "coin_bounds": {
+    "left": 746,
+    "top": 124,
+    "right": 1004,
+    "bottom": 382,
+    "width": 258,
+    "height": 258
+  },
+  "whole_coin_upper_75_percent_verified": true,
+  "integration": {
+    "method": "Exact original coin PNG seated inside a physical brass medallion recess in the nuclear-facility wall, with compatible lighting and contact shading",
+    "artwork": "Original uniformly scaled PNG; original portrait, lettering and circular rim preserved",
+    "image_generation_role": "Text-free conceptual uranium-enrichment facility and fuel transport cask only",
+    "topic": "Oklo contract calls for two prepayments totaling $35 million, credited toward future Centrus purchases",
+    "category_badge": "NUCLEAR ENERGY INVESTING",
+    "background_credit_on_graphic": false,
+    "background_provenance": "Conceptual nuclear-fuel infrastructure, not documentary evidence of an existing plant, delivered fuel, or operating reactor"
+  },
+  "generation_prompts": [
+    "Create a premium editorial BACKGROUND ONLY for a 1080 by 1920 vertical Instagram Story about a commercial nuclear fuel supply investment. Subject-specific graphite, midnight navy and restrained luminous teal, with muted warm brass accents. Conceptual nuclear-enrichment and advanced-reactor facility architecture: immaculate stainless-steel cylindrical process equipment, clean pipes, controlled industrial lighting, and sophisticated heavy protective housings. Compose an elegant broad dark graphite architectural wall over the upper central 80 percent with very quiet negative space for readable editorial typography. Show most recognizable machinery and a closed ribbed nuclear-fuel transport cask across the bottom quarter, below y1540, with teal edge lighting and subtle polished-floor reflections. No missiles, weapons, explosions, radioactive green glow, hazard symbols, people, numbers or technical diagrams. This is an illustration, not a documentary image of an actual Oklo or Centrus plant. Reserve a front-facing, perfectly circular empty brass medallion recess physically built into the upper-right metal wall around x900,y250, diameter210px on final1080x1920. It should have convincing mounting depth, a thin metal rim and subtle contact shadow; the exact original gold Moneyberg coin will be composited into it later unchanged. Do not generate any coin, portrait, face, lettering or replacement emblem. Maintain clear dark space for all final news content within x104\u2013961,y164\u20131536. Production context only, do not render text: exact small one-line label MONEYBERG NEWS BRIEF in actual Lato Black90035px; separate NUCLEAR ENERGY INVESTING category; large headline about Oklo's $35 million of future fuel prepayments and 2029\u20132031 enrichment purchase commitments; actual Lato Black900 for headings/dates/labels and Georgia400 for body/sources. Minimum authored text33px, body35px, headline51px. The whole original coin will remain in upper75 percent, with all rim visible. Final scene must feel calm, tactile, precise and expensive, not a generic stock dashboard. No text or logos whatsoever. Full-bleed 9:16 portrait background."
+  ],
+  "source_record": {
+    "edition_date": "2026-11-18",
+    "category": "NUCLEAR ENERGY INVESTING",
+    "selection": 10,
+    "source_article": {
+      "publisher": "Techi",
+      "url": "https://www.techi.com/oklo-centrus-haleu-fuel-contract-prepayment-cash/",
+      "published": "2026-11-17T16:48:47-06:00",
+      "role": "Discovery source; financial terms checked against SEC filing"
+    },
+    "primary_sources": [
+      {
+        "publisher": "U.S. Securities and Exchange Commission / Oklo Inc.",
+        "document": "Form 8-K filed November 17, 2026, Item 1.01",
+        "url": "https://www.sec.gov/Archives/edgar/data/1849056/000184905626000055/oklo-20261111.htm",
+        "evidence": "Oklo Power SODI LLC entered into a HALEU Supply Agreement with Centrus on November 11. It calls for two prepayments totaling $35 million, credited against future purchases and representing a portion of the amounts payable. Enrichment-service purchases for deliveries during 2029 through 2031 are on a take-or-pay basis subject to conditions. Prepayments are intended to support Centrus's commercial HALEU enrichment capacity at Piketon, Ohio."
+      },
+      {
+        "publisher": "U.S. Securities and Exchange Commission / Oklo Inc.",
+        "document": "Redacted HALEU Supply Agreement",
+        "url": "https://www.sec.gov/Archives/edgar/data/1849056/000184905626000055/redacted-oklohaleusupply.htm",
+        "evidence": "Underlying agreement; some commercial terms and payment timing are redacted."
+      }
+    ],
+    "verified_facts": {
+      "prepayments_usd_total": 35000000,
+      "number_of_prepayments": 2,
+      "supplier": "Centrus Energy Corp.",
+      "credited_against": "Future purchases under the fuel supply agreement",
+      "delivery_years": [
+        2029,
+        2030,
+        2031
+      ],
+      "terms": "Take-or-pay, subject to conditions",
+      "facility_location": "Piketon, Ohio",
+      "capacity_status": "Commercial HALEU enrichment capacity under construction/development",
+      "agreement_signed": "2026-11-11",
+      "agreement_announced": "2026-11-12",
+      "sec_filing_date": "2026-11-17"
+    },
+    "factual_limits": [
+      "$35 million describes aggregate contractual prepayments, not the total contract value.",
+      "Actual payment status is not asserted; the first specified payment date is redacted and a second payment is linked to a commercial milestone.",
+      "No claim that fuel has been delivered, new capacity is completed, or an Oklo reactor is operating.",
+      "November 17 was the filing/new financial disclosure, not the agreement signing date.",
+      "No investment recommendation, stock-return claim, contract-profit estimate, or comparison with cash reserves."
+    ],
+    "graphic_copy": {
+      "headline": "OKLO COMMITS $35M IN FUEL PREPAYMENTS",
+      "deck": "Two prepayments to Centrus, credited toward future purchases.",
+      "delivery_window": "2029\u20132031",
+      "qualifier": "Take-or-pay, subject to conditions.",
+      "context": "Supports future U.S. uranium-enrichment capacity in Ohio.",
+      "source_credit": "Source: Oklo SEC filing \u2022 Nov. 17, 2026",
+      "agreement_date": "Agreement signed Nov. 11, 2026."
+    },
+    "visual_provenance": {
+      "background": "Fresh image_gen conceptual nuclear-fuel infrastructure; not a documentary photograph",
+      "coin": "Exact assets/moneyberg-coin-original.png, uniformly scaled into physical brass wall recess",
+      "coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+      "chart": "No chart requested or used",
+      "fonts": "Actual Lato Black 900 and runtime-only Georgia 400"
+    }
+  },
+  "output_sha256": "630ccb7e33609302ba34e1042c59f7619c8ce2a7766ae41d5afdf407ff57a5f6"
+}

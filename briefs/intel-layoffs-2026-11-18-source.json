@@ -1,0 +1,32 @@
+{
+  "category": "JOBS & EMPLOYMENT",
+  "edition_date": "2026-11-18",
+  "source": {
+    "publisher": "Business Insider",
+    "url": "https://www.businessinsider.com/intel-layoffs-restructuring-ceo-lip-bu-tan-2026-11",
+    "title": "Intel cuts more jobs as CEO Lip-Bu Tan's efficiency push continues",
+    "authors": ["Alice Tecotzky", "Shubhangi Goel"],
+    "published_utc": "2026-11-18T02:00:47.204Z",
+    "published_chicago": "2026-11-17T20:00:47-06:00",
+    "evidence_read": "Full article retrieved and read from /tmp/nov18-consumer/a3.html and a3.txt"
+  },
+  "verified_facts": [
+    "Intel confirmed another round of job reductions as its restructuring continues.",
+    "Employees reported layoffs affecting Intel's global IT workforce.",
+    "Intel did not identify the teams involved or disclose the number of employees affected.",
+    "The layoffs are part of CEO Lip-Bu Tan's drive for a more focused and efficient company."
+  ],
+  "source_quote": "As part of our broader strategy to become a more focused and efficient company, we continually assess our workforce to ensure priorities and resources are appropriately aligned.",
+  "required_visible_qualification": "Number of affected jobs not disclosed.",
+  "omitted_to_prevent_misinterpretation": [
+    "September headcount of 81,100 is not this round's layoff count.",
+    "The difference from 85,100 at year-end 2025 is not this round's layoff count.",
+    "The source does not establish AI as the cause of these layoffs."
+  ],
+  "official_intel_logo": {
+    "path": "assets/logos/intel-wordmark-original.svg",
+    "url": "https://www.intel.com/content/dam/logos/intel-header-logo.svg",
+    "sha256": "6d81b3bb7b058be27062fda520b5aaf23402db709af3d62d8593a39cad715fca"
+  },
+  "source_chart": "No original chart required for this company layoffs article."
+}
