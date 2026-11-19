@@ -1,0 +1,98 @@
+{
+  "edition": "2026-11-19",
+  "selected_article_numbers": [
+    2,
+    3,
+    7
+  ],
+  "article_options": "briefs/article-options-2026-11-19.md",
+  "verified_at_utc": "2026-11-19T09:47:45.877223+00:00",
+  "review": "Final Story PNGs visually reviewed; font, content bounds, original branding and source facts verified.",
+  "scope_notes": [
+    "Fed graphic reports the October 27\u201328 minutes released November 18, not a new rate decision.",
+    "Market graphic shows November 18 final cash-index closes in the November 19 edition.",
+    "Nvidia graphic reports November 18 options trading volume. Its unchanged, complete Moomoo infographic is a separate native-resolution companion."
+  ],
+  "downloads": [
+    {
+      "filename": "fed-minutes-2026-11-19.png",
+      "url": "https://github.com/ryanschullo/create-ig-story-news/releases/download/stories-2026-11-19/fed-minutes-2026-11-19.png",
+      "role": "Story graphic",
+      "http_status": 200,
+      "content_disposition": "attachment; filename=fed-minutes-2026-11-19.png",
+      "bytes": 2145157,
+      "sha256": "1f807c182116e80e4de66a34c55230d14f4ad2c764b9f449410f09595d7102ff",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "matches_local": true,
+      "authenticated": false,
+      "verified_at_utc": "2026-11-19T09:43:41.760128+00:00",
+      "selection": 2,
+      "workflow_run": "https://github.com/ryanschullo/create-ig-story-news/actions/runs/44498886743",
+      "workflow_conclusion": "success",
+      "deliverables_commit": "5ad865c831b17e1ba1fd3ae54070270118297339"
+    },
+    {
+      "filename": "us-market-close-2026-11-19.png",
+      "url": "https://github.com/ryanschullo/create-ig-story-news/releases/download/stories-2026-11-19/us-market-close-2026-11-19.png",
+      "role": "Story graphic",
+      "http_status": 200,
+      "content_disposition": "attachment; filename=us-market-close-2026-11-19.png",
+      "bytes": 1875992,
+      "sha256": "ce6fab7424550e19188e66f06ac1485ed7826882288ac7c92112bf1665a088fa",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "matches_local": true,
+      "authenticated": false,
+      "verified_at_utc": "2026-11-19T09:44:19.196745+00:00",
+      "selection": 3,
+      "workflow_run": "https://github.com/ryanschullo/create-ig-story-news/actions/runs/44499051684",
+      "workflow_conclusion": "success",
+      "deliverables_commit": "f49ba2149757f2b143b4566e587625b8c3e12a81"
+    },
+    {
+      "filename": "nvidia-options-volume-2026-11-19.png",
+      "url": "https://github.com/ryanschullo/create-ig-story-news/releases/download/stories-2026-11-19/nvidia-options-volume-2026-11-19.png",
+      "role": "Story graphic",
+      "http_status": 200,
+      "content_disposition": "attachment; filename=nvidia-options-volume-2026-11-19.png",
+      "bytes": 1545517,
+      "sha256": "d7be38f48f50ea9bef9f0333230b1deec71da370530c6fcb5603ff69d1d007a0",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "matches_local": true,
+      "authenticated": false,
+      "verified_at_utc": "2026-11-19T09:47:32.379373+00:00",
+      "selection": 7,
+      "workflow_run": "https://github.com/ryanschullo/create-ig-story-news/actions/runs/44499527089",
+      "workflow_conclusion": "success",
+      "deliverables_commit": "cf5aee4e1eabfcf2b810fba9ca7c277d5b79763a"
+    },
+    {
+      "filename": "nvidia-options-volume-source-2026-11-19.png",
+      "url": "https://github.com/ryanschullo/create-ig-story-news/releases/download/stories-2026-11-19/nvidia-options-volume-source-2026-11-19.png",
+      "role": "unchanged source companion",
+      "http_status": 200,
+      "content_disposition": "attachment; filename=nvidia-options-volume-source-2026-11-19.png",
+      "bytes": 411897,
+      "sha256": "220f93ba596de056afc20a9536c70538fe1a2ae83dd7e326b66986614dae1a5c",
+      "dimensions": [
+        750,
+        3053
+      ],
+      "matches_local": true,
+      "authenticated": false,
+      "verified_at_utc": "2026-11-19T09:47:32.785979+00:00",
+      "selection": 7,
+      "workflow_run": "https://github.com/ryanschullo/create-ig-story-news/actions/runs/44499527089",
+      "workflow_conclusion": "success",
+      "deliverables_commit": "5ad865c831b17e1ba1fd3ae54070270118297339"
+    }
+  ]
+}
