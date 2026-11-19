@@ -1,0 +1,881 @@
+{
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "inner_bounds": [
+    104,
+    164,
+    961,
+    1536
+  ],
+  "minimum_authored_font_size_px": 33,
+  "minimum_body_font_size_px": 35,
+  "minimum_headline_font_size_px": 51,
+  "font_size_minimum_verified": true,
+  "renderer": "Chromium via Playwright; HTML/CSS screenshot",
+  "background_sha256": "d6d301513350368e89dec04ecb7a725a4165ffe69ea6af07fc9661b2af8ade43",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "lato_black_sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
+  "georgia_runtime_sha256": "7d0bb20c632bb59e81a0885f573bd2173f71f73204de9058feb68ce032227072",
+  "georgia_redistributed": false,
+  "layout": {
+    "text": [
+      {
+        "id": "brand",
+        "text": "MONEYBERG NEWS BRIEF",
+        "bounds": {
+          "left": 118,
+          "top": 175,
+          "right": 561.109375,
+          "bottom": 217,
+          "width": 443.109375,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 174,
+          "right": 561.109375,
+          "bottom": 218,
+          "width": 443.109375,
+          "height": 44
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px",
+        "color": "rgb(247, 249, 244)"
+      },
+      {
+        "id": "category",
+        "text": "OPTIONS INVESTING",
+        "bounds": {
+          "left": 118,
+          "top": 234,
+          "right": 465.875,
+          "bottom": 274,
+          "width": 347.875,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 233,
+          "right": 465.875,
+          "bottom": 275,
+          "width": 347.875,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px",
+        "color": "rgb(182, 243, 62)"
+      },
+      {
+        "id": "date",
+        "text": "NOVEMBER 19, 2026",
+        "bounds": {
+          "left": 118,
+          "top": 285,
+          "right": 443.5625,
+          "bottom": 325,
+          "width": 325.5625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 284,
+          "right": 443.5625,
+          "bottom": 326,
+          "width": 325.5625,
+          "height": 42
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px",
+        "color": "rgb(217, 229, 208)"
+      },
+      {
+        "id": "headline",
+        "text": "OPTIONS VOLUME",
+        "bounds": {
+          "left": 118,
+          "top": 471,
+          "right": 607.921875,
+          "bottom": 536,
+          "width": 489.921875,
+          "height": 65
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 470,
+          "right": 607.921875,
+          "bottom": 538,
+          "width": 489.921875,
+          "height": 68
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "54px",
+        "color": "rgb(247, 249, 244)"
+      },
+      {
+        "id": "volume",
+        "text": "6.43M",
+        "bounds": {
+          "left": 110,
+          "top": 543,
+          "right": 541.15625,
+          "bottom": 728,
+          "width": 431.15625,
+          "height": 185
+        },
+        "element_bounds": {
+          "left": 110,
+          "top": 542,
+          "right": 541.15625,
+          "bottom": 730,
+          "width": 431.15625,
+          "height": 188
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "154px",
+        "color": "rgb(184, 248, 61)"
+      },
+      {
+        "id": "volume-label",
+        "text": "CONTRACTS TRADED",
+        "bounds": {
+          "left": 118,
+          "top": 746,
+          "right": 698.6875,
+          "bottom": 815,
+          "width": 580.6875,
+          "height": 69
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 744,
+          "right": 698.6875,
+          "bottom": 818,
+          "width": 580.6875,
+          "height": 74
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "58px",
+        "color": "rgb(247, 249, 244)"
+      },
+      {
+        "id": "period",
+        "text": "NOVEMBER 18 SESSION",
+        "bounds": {
+          "left": 118,
+          "top": 833,
+          "right": 504.484375,
+          "bottom": 873,
+          "width": 386.484375,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 832,
+          "right": 504.484375,
+          "bottom": 875,
+          "width": 386.484375,
+          "height": 43
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "33px",
+        "color": "rgb(207, 223, 197)"
+      },
+      {
+        "id": "call-value",
+        "text": "63.77%",
+        "bounds": {
+          "left": 125,
+          "top": 933,
+          "right": 390.578125,
+          "bottom": 1031,
+          "width": 265.578125,
+          "height": 98
+        },
+        "element_bounds": {
+          "left": 125,
+          "top": 928,
+          "right": 390.578125,
+          "bottom": 1036,
+          "width": 265.578125,
+          "height": 108
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "82px",
+        "color": "rgb(239, 245, 232)"
+      },
+      {
+        "id": "call-label-one",
+        "text": "CALL SHARE",
+        "bounds": {
+          "left": 500,
+          "top": 926,
+          "right": 705.1875,
+          "bottom": 968,
+          "width": 205.1875,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 500,
+          "top": 925,
+          "right": 705.1875,
+          "bottom": 970,
+          "width": 205.1875,
+          "height": 45
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px",
+        "color": "rgb(184, 248, 61)"
+      },
+      {
+        "id": "call-label-two",
+        "text": "OF VOLUME",
+        "bounds": {
+          "left": 500,
+          "top": 971,
+          "right": 703.53125,
+          "bottom": 1013,
+          "width": 203.53125,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 500,
+          "top": 970,
+          "right": 703.53125,
+          "bottom": 1015,
+          "width": 203.53125,
+          "height": 45
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px",
+        "color": "rgb(227, 239, 213)"
+      },
+      {
+        "id": "average-value",
+        "text": "70.84%",
+        "bounds": {
+          "left": 125,
+          "top": 1141,
+          "right": 390.578125,
+          "bottom": 1239,
+          "width": 265.578125,
+          "height": 98
+        },
+        "element_bounds": {
+          "left": 125,
+          "top": 1136,
+          "right": 390.578125,
+          "bottom": 1244,
+          "width": 265.578125,
+          "height": 108
+        },
+        "text_role": "headline",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "82px",
+        "color": "rgb(184, 248, 61)"
+      },
+      {
+        "id": "average-label-one",
+        "text": "ABOVE THE",
+        "bounds": {
+          "left": 500,
+          "top": 1133,
+          "right": 695.515625,
+          "bottom": 1175,
+          "width": 195.515625,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 500,
+          "top": 1132,
+          "right": 695.515625,
+          "bottom": 1177,
+          "width": 195.515625,
+          "height": 45
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px",
+        "color": "rgb(247, 249, 244)"
+      },
+      {
+        "id": "average-label-two",
+        "text": "30-DAY AVERAGE",
+        "bounds": {
+          "left": 500,
+          "top": 1178,
+          "right": 789.1875,
+          "bottom": 1220,
+          "width": 289.1875,
+          "height": 42
+        },
+        "element_bounds": {
+          "left": 500,
+          "top": 1177,
+          "right": 789.1875,
+          "bottom": 1222,
+          "width": 289.1875,
+          "height": 45
+        },
+        "text_role": "label",
+        "font_family": "\"Moneyberg Lato Black\"",
+        "font_weight": "900",
+        "font_size": "35px",
+        "color": "rgb(227, 239, 213)"
+      },
+      {
+        "id": "ratio-one",
+        "text": "Volume was 170.84% of its",
+        "bounds": {
+          "left": 118,
+          "top": 1326,
+          "right": 530.9375,
+          "bottom": 1366,
+          "width": 412.9375,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1324,
+          "right": 530.9375,
+          "bottom": 1369,
+          "width": 412.9375,
+          "height": 45
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px",
+        "color": "rgb(226, 235, 221)"
+      },
+      {
+        "id": "ratio-two",
+        "text": "30-day average.",
+        "bounds": {
+          "left": 118,
+          "top": 1371,
+          "right": 363.390625,
+          "bottom": 1411,
+          "width": 245.390625,
+          "height": 40
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1369,
+          "right": 363.390625,
+          "bottom": 1414,
+          "width": 245.390625,
+          "height": 45
+        },
+        "text_role": "body",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "35px",
+        "color": "rgb(226, 235, 221)"
+      },
+      {
+        "id": "source-one",
+        "text": "Source: Moomoo \u2022 Nov. 18, 2026 activity",
+        "bounds": {
+          "left": 118,
+          "top": 1442,
+          "right": 712.890625,
+          "bottom": 1479,
+          "width": 594.890625,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1440,
+          "right": 712.890625,
+          "bottom": 1482,
+          "width": 594.890625,
+          "height": 42
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px",
+        "color": "rgb(228, 236, 221)"
+      },
+      {
+        "id": "source-two",
+        "text": "November 19 edition \u2022 Options trading volume",
+        "bounds": {
+          "left": 118,
+          "top": 1484,
+          "right": 797.046875,
+          "bottom": 1521,
+          "width": 679.046875,
+          "height": 37
+        },
+        "element_bounds": {
+          "left": 118,
+          "top": 1482,
+          "right": 797.046875,
+          "bottom": 1524,
+          "width": 679.046875,
+          "height": 42
+        },
+        "text_role": "source",
+        "font_family": "\"Moneyberg Georgia\"",
+        "font_weight": "400",
+        "font_size": "33px",
+        "color": "rgb(228, 236, 221)"
+      }
+    ],
+    "panels": [
+      {
+        "id": "call-panel",
+        "bounds": {
+          "left": 104,
+          "top": 901,
+          "right": 961,
+          "bottom": 1078,
+          "width": 857,
+          "height": 177
+        }
+      },
+      {
+        "id": "average-panel",
+        "bounds": {
+          "left": 104,
+          "top": 1105,
+          "right": 961,
+          "bottom": 1291,
+          "width": 857,
+          "height": 186
+        }
+      },
+      {
+        "id": "source-panel",
+        "bounds": {
+          "left": 104,
+          "top": 1434,
+          "right": 961,
+          "bottom": 1530,
+          "width": 857,
+          "height": 96
+        }
+      }
+    ],
+    "illustrations": [
+      {
+        "id": "nvidia-logo-viewport",
+        "bounds": {
+          "left": 118,
+          "top": 354,
+          "right": 530,
+          "bottom": 434,
+          "width": 412,
+          "height": 80
+        }
+      }
+    ],
+    "scene_elements": [
+      {
+        "id": "coin-installation",
+        "bounds": {
+          "left": 652,
+          "top": 231,
+          "right": 1006,
+          "bottom": 585,
+          "width": 354,
+          "height": 354
+        },
+        "box_shadow": "rgb(35, 27, 17) 4px 6px 10px 0px inset, rgba(2, 5, 2, 0.8) 3px 4px 8px 0px, rgba(219, 196, 134, 0.467) -2px -2px 3px 0px",
+        "background": "linear-gradient(135deg, rgb(189, 157, 80), rgb(73, 48, 24) 55%, rgb(202, 166, 89))"
+      },
+      {
+        "id": "coin-contact",
+        "bounds": {
+          "left": 652,
+          "top": 231,
+          "right": 1006,
+          "bottom": 585,
+          "width": 354,
+          "height": 354
+        },
+        "box_shadow": "rgba(29, 26, 18, 0.4) 4px 6px 10px 0px inset, rgba(234, 210, 153, 0.333) -2px -2px 4px 0px inset",
+        "background": "linear-gradient(125deg, rgba(230, 222, 182, 0.133), rgba(0, 0, 0, 0) 46%, rgba(14, 40, 13, 0.094))"
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Moneyberg Lato Black",
+        "weight": "900",
+        "status": "loaded"
+      },
+      {
+        "family": "Moneyberg Georgia",
+        "weight": "400",
+        "status": "loaded"
+      }
+    ],
+    "images": [
+      {
+        "id": "background",
+        "natural_width": 941,
+        "natural_height": 1672,
+        "object_fit": "cover",
+        "clip_path": "none",
+        "filter": "none",
+        "transform": "none",
+        "opacity": "1",
+        "bounds": {
+          "left": 0,
+          "top": 0,
+          "right": 1080,
+          "bottom": 1920,
+          "width": 1080,
+          "height": 1920
+        }
+      },
+      {
+        "id": "coin",
+        "natural_width": 2084,
+        "natural_height": 2084,
+        "object_fit": "contain",
+        "clip_path": "none",
+        "filter": "saturate(0.82) brightness(0.89)",
+        "transform": "none",
+        "opacity": "1",
+        "bounds": {
+          "left": 652,
+          "top": 231,
+          "right": 1006,
+          "bottom": 585,
+          "width": 354,
+          "height": 354
+        }
+      },
+      {
+        "id": "nvidia-logo",
+        "natural_width": 3840,
+        "natural_height": 2160,
+        "object_fit": "contain",
+        "clip_path": "none",
+        "filter": "none",
+        "transform": "none",
+        "opacity": "1",
+        "bounds": {
+          "left": 36.28125,
+          "top": 232.125,
+          "right": 611.71875,
+          "bottom": 555.796875,
+          "width": 575.4375,
+          "height": 323.671875
+        }
+      }
+    ],
+    "document_width": 1080,
+    "document_height": 1920
+  },
+  "platform_fonts": [
+    {
+      "id": "brand",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 20
+        }
+      ]
+    },
+    {
+      "id": "category",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 17
+        }
+      ]
+    },
+    {
+      "id": "date",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 17
+        }
+      ]
+    },
+    {
+      "id": "headline",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 14
+        }
+      ]
+    },
+    {
+      "id": "volume",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 5
+        }
+      ]
+    },
+    {
+      "id": "volume-label",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 16
+        }
+      ]
+    },
+    {
+      "id": "period",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 19
+        }
+      ]
+    },
+    {
+      "id": "call-value",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 6
+        }
+      ]
+    },
+    {
+      "id": "call-label-one",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 10
+        }
+      ]
+    },
+    {
+      "id": "call-label-two",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 9
+        }
+      ]
+    },
+    {
+      "id": "average-value",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 6
+        }
+      ]
+    },
+    {
+      "id": "average-label-one",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 9
+        }
+      ]
+    },
+    {
+      "id": "average-label-two",
+      "fonts": [
+        {
+          "familyName": "Lato",
+          "postScriptName": "Lato-Black",
+          "isCustomFont": true,
+          "glyphCount": 14
+        }
+      ]
+    },
+    {
+      "id": "ratio-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 25
+        }
+      ]
+    },
+    {
+      "id": "ratio-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 15
+        }
+      ]
+    },
+    {
+      "id": "source-one",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 39
+        }
+      ]
+    },
+    {
+      "id": "source-two",
+      "fonts": [
+        {
+          "familyName": "Georgia",
+          "postScriptName": "Georgia",
+          "isCustomFont": true,
+          "glyphCount": 44
+        }
+      ]
+    }
+  ],
+  "coin_bounds": {
+    "left": 652,
+    "top": 231,
+    "right": 1006,
+    "bottom": 585,
+    "width": 354,
+    "height": 354
+  },
+  "whole_coin_upper_75_percent_verified": true,
+  "integration": {
+    "method": "Exact original coin PNG seated in an upper-right brass recess in a NVIDIA-green and black-glass trading workstation scene, with compatible lighting and contact shading",
+    "artwork": "Original uniformly scaled PNG; original portrait, lettering and circular rim preserved",
+    "image_generation_role": "Text-free conceptual professional electronic-trading workstation with NVIDIA-green edge lighting against black glass; the official logo is composited separately unchanged",
+    "topic": "NVIDIA options traded 6.43 million contracts on November 18; calls were 63.77% of volume; total volume was 70.84% above the reported 30-day average",
+    "category_badge": "OPTIONS INVESTING",
+    "background_credit_on_graphic": false,
+    "background_provenance": "Conceptual trading architecture, not an actual market-data display or evidence of future stock-market direction"
+  },
+  "generation_prompts": [
+    "Create an original sophisticated BACKGROUND ONLY for a 1080x1920 Instagram Story about Nvidia stock-options trading activity. Full bleed 9:16 portrait, no letters, no numbers, no logos, no coins, no portraits, no arrows, no charts or fake tickers. Use a restrained Nvidia-inspired black-and-lime-green color scheme, with charcoal black-glass architecture, faint deep teal reflections and a very subtle plum undertone appropriate to financial options trading. A premium professional trading workstation seen from a slightly low angle occupies only the bottom quarter below y1550: dark monitor backs, beautifully machined desk hardware, subtle green edge lighting, a keyboard and a fine circuit-board motif embedded in the desk. The large central upper area is a clean matte black glass architectural wall, very dark and quiet, suitable for crisp light news text. All eventual authored content fits x104-961 y164-1536 with margins. At upper-right center x865 y265, design an EMPTY front-facing perfectly circular architectural recessed mount with 244px inside diameter, inset into the black wall with an understated bronze metal perimeter and compatible warm contact light. It must be a real physical circular niche, not a floating badge. Do NOT render a coin inside: the user's exact original gold Moneyberg coin will be composited later unchanged. Keep the entire mounting socket in the upper75% and visible. The header later will read MONEYBERG NEWS BRIEF in one compact line, separate OPTIONS INVESTING category, plus official Nvidia logo and large verified trading statistics. These are instructions for reserved space only, render none of the text. Planned authored typography uses actual Lato Black900 for headlines/labels and Georgia400 for source/body; minimum33px all,35body,51headline. Preserve enough dark negative space for a huge 6.43M hero and two large metric panels at y850-1300; reserve y1390-1530 for sources. Make the workstation recognizably about electronic financial markets without screens displaying invented prices or graphs. Elegant cinematic illumination and precise tactile materials, not cyberpunk clutter, not the same semiconductor-package hero as an earnings announcement."
+  ],
+  "nvidia_logo": {
+    "path": "assets/logos/nvidia/nvidia-logo-horiz-wht-original.png",
+    "sha256": "b4937f65c1f3a07536507865c2947d9c65a66131f2f137c661bb41aa43fce2ca",
+    "original_dimensions": [
+      3840,
+      2160
+    ],
+    "original_bytes": 63664,
+    "original_art_bounds_xywh": [
+      552,
+      820,
+      2736,
+      520
+    ],
+    "rendered_art_bounds": {
+      "left": 119.000390625,
+      "top": 355.0048828125,
+      "width": 409.99921874999995,
+      "height": 77.923828125,
+      "right": 528.999609375,
+      "bottom": 432.9287109375
+    },
+    "viewport_bounds": {
+      "left": 118,
+      "top": 354,
+      "right": 530,
+      "bottom": 434,
+      "width": 412,
+      "height": 80
+    },
+    "uniform_scale_verified": true,
+    "only_unused_solid_black_padding_excluded": true,
+    "source_has_alpha_channel_but_is_fully_opaque": true,
+    "official_gallery": "https://nvidianews.nvidia.com/multimedia/corporate/nvidia-logos",
+    "original_asset_url": "https://iprsoftwaremedia.com/219/files/202512/nvidia-logo-horiz-wht-16x9.png?download=true",
+    "master_unchanged": true
+  },
+  "source_access": "Full Moomoo report read through its public reader representation after the original site redirected to HTTP 403; original infographic downloaded unchanged and reviewed on November 19, 2026.",
+  "sources": [
+    "https://www.moomoo.com/news/post/1005082970/nvidia-options-spot-on-on-november-18th-6-43-million"
+  ],
+  "reporting_scope": {
+    "edition_date": "2026-11-19",
+    "activity_date": "2026-11-18",
+    "category": "OPTIONS INVESTING",
+    "source": "Moomoo",
+    "source_url": "https://www.moomoo.com/news/post/1005082970/nvidia-options-spot-on-on-november-18th-6-43-million",
+    "full_source_read_via": "https://r.jina.ai/https://www.moomoo.com/news/post/1005082970/nvidia-options-spot-on-on-november-18th-6-43-million",
+    "original_page_access": "Original site redirected to HTTP 403; full publicly accessible reader body and original infographic read.",
+    "volume_million_contracts": 6.43,
+    "call_share_of_volume_percent": 63.77,
+    "put_share_of_volume_percent": 36.23,
+    "source_chart_volume_over_30_day_average_percent": 170.84,
+    "derived_percent_above_30_day_average": 70.84,
+    "derivation": "170.84% of average minus 100% = 70.84% above average. Preserve chart period label 30-Day Average; do not infer 30 sessions.",
+    "open_interest_million_not_displayed": 19.97,
+    "no_directional_flow_inference": true,
+    "no_volume_open_interest_conflation": true,
+    "source_infographic_dimensions": [
+      750,
+      3053
+    ],
+    "source_infographic_sha256": "220f93ba596de056afc20a9536c70538fe1a2ae83dd7e326b66986614dae1a5c",
+    "source_infographic_url": "https://usnewsfile.moomoo.com/public/MM-PersistNewsContentImage/7781/20261119/MMHotOptionDailySummaryAutoNews_20261118_202597_1795037401_en",
+    "source_infographic_companion": "exports/nvidia-options-volume-source-2026-11-19.png",
+    "source_infographic_handling": "Full original preserved at native resolution as companion download; this Story summarizes selected verified metrics without cropping or redrawing source artwork.",
+    "source_infographic_created_est": "2026-11-18T16:30:00-05:00",
+    "official_logo": "assets/logos/nvidia/nvidia-logo-horiz-wht-original.png",
+    "official_logo_sha256": "b4937f65c1f3a07536507865c2947d9c65a66131f2f137c661bb41aa43fce2ca",
+    "original_coin_master": "assets/moneyberg-coin-original.png",
+    "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+    "independent_copy_review": "Passed by nov19_options against the full body and chart; percentage conversion, literal 30-day period label and scope checked."
+  },
+  "output_sha256": "d7be38f48f50ea9bef9f0333230b1deec71da370530c6fcb5603ff69d1d007a0"
+}

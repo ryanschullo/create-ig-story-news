@@ -1,0 +1,32 @@
+{
+  "edition_date": "2026-11-19",
+  "activity_date": "2026-11-18",
+  "category": "OPTIONS INVESTING",
+  "source": "Moomoo",
+  "source_url": "https://www.moomoo.com/news/post/1005082970/nvidia-options-spot-on-on-november-18th-6-43-million",
+  "full_source_read_via": "https://r.jina.ai/https://www.moomoo.com/news/post/1005082970/nvidia-options-spot-on-on-november-18th-6-43-million",
+  "original_page_access": "Original site redirected to HTTP 403; full publicly accessible reader body and original infographic read.",
+  "volume_million_contracts": 6.43,
+  "call_share_of_volume_percent": 63.77,
+  "put_share_of_volume_percent": 36.23,
+  "source_chart_volume_over_30_day_average_percent": 170.84,
+  "derived_percent_above_30_day_average": 70.84,
+  "derivation": "170.84% of average minus 100% = 70.84% above average. Preserve chart period label 30-Day Average; do not infer 30 sessions.",
+  "open_interest_million_not_displayed": 19.97,
+  "no_directional_flow_inference": true,
+  "no_volume_open_interest_conflation": true,
+  "source_infographic_dimensions": [
+    750,
+    3053
+  ],
+  "source_infographic_sha256": "220f93ba596de056afc20a9536c70538fe1a2ae83dd7e326b66986614dae1a5c",
+  "source_infographic_url": "https://usnewsfile.moomoo.com/public/MM-PersistNewsContentImage/7781/20261119/MMHotOptionDailySummaryAutoNews_20261118_202597_1795037401_en",
+  "source_infographic_companion": "exports/nvidia-options-volume-source-2026-11-19.png",
+  "source_infographic_handling": "Full original preserved at native resolution as companion download; this Story summarizes selected verified metrics without cropping or redrawing source artwork.",
+  "source_infographic_created_est": "2026-11-18T16:30:00-05:00",
+  "official_logo": "assets/logos/nvidia/nvidia-logo-horiz-wht-original.png",
+  "official_logo_sha256": "b4937f65c1f3a07536507865c2947d9c65a66131f2f137c661bb41aa43fce2ca",
+  "original_coin_master": "assets/moneyberg-coin-original.png",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "independent_copy_review": "Passed by nov19_options against the full body and chart; percentage conversion, literal 30-day period label and scope checked."
+}
