@@ -1,0 +1,44 @@
+{
+  "edition_date": "2026-11-19",
+  "trading_date": "2026-11-18",
+  "category": "STOCK MARKET",
+  "source": "Associated Press",
+  "source_url": "https://apnews.com/article/stock-markets-ai-earnings-oil-apec-shenzhen-dad5715bc91b4aba23a567a40e22b1fc",
+  "source_updated_chicago": "2026-11-18T15:39:00-06:00",
+  "source_access": "Full original public AP report read. Same final cash-market session for all indices. No intraday widgets or later futures substituted.",
+  "source_html_sha256": "61b612a88142e889ddc9d634aa30df33f4e07119a62ada0276b3c15b0cbbd2ab",
+  "same_final_session_for_all_indexes": true,
+  "index_results": [
+    {
+      "name": "S&P 500",
+      "instrument": "cash index",
+      "closing_level": 7323.63,
+      "daily_percentage_change": -0.2,
+      "verified_point_change_not_displayed": -16.9,
+      "trading_date": "2026-11-18"
+    },
+    {
+      "name": "Nasdaq Composite",
+      "instrument": "cash index",
+      "closing_level": 24429.88,
+      "daily_percentage_change": 0.4,
+      "verified_point_change_not_displayed": 101.5,
+      "trading_date": "2026-11-18"
+    },
+    {
+      "name": "Dow Jones Industrial Average",
+      "instrument": "cash index",
+      "closing_level": 50198.17,
+      "daily_percentage_change": -1.1,
+      "verified_point_change_not_displayed": -561.25,
+      "trading_date": "2026-11-18"
+    }
+  ],
+  "percentage_precision": "One decimal, directly reported by AP; no percentage derived from rounded levels.",
+  "headline_scope": "S&P 500 fifth consecutive daily loss; longest losing streak since June. Not five losses for all three indexes.",
+  "no_source_chart_requested": true,
+  "no_invented_chart_or_quantitative_decoration": true,
+  "original_coin_master": "assets/moneyberg-coin-original.png",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "independent_copy_review": "nov19_editorial_review independently reread full AP body and passed headline, date and all three final results."
+}
