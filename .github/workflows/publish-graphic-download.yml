@@ -11,6 +11,16 @@ on:
         description: Approved PNG filename inside exports
         required: true
         type: string
+      source_filename:
+        description: Optional unchanged source PNG companion inside exports
+        required: false
+        default: ''
+        type: string
+      source_sha256:
+        description: Required SHA-256 when including a source companion
+        required: false
+        default: ''
+        type: string
 
 permissions:
   contents: write
@@ -26,6 +36,8 @@ jobs:
     env:
       STORY_EDITION: ${{ inputs.edition }}
       STORY_FILENAME: ${{ inputs.filename }}
+      STORY_SOURCE_FILENAME: ${{ inputs.source_filename }}
+      STORY_SOURCE_SHA256: ${{ inputs.source_sha256 }}
     steps:
       - uses: actions/checkout@v5
 
@@ -34,6 +46,7 @@ jobs:
         run: |
           python3 - <<'PY'
           import datetime
+          import hashlib
           import os
           from pathlib import Path
           import re
@@ -52,9 +65,23 @@ jobs:
           assert data.startswith(b'\x89PNG\r\n\x1a\n'), 'Not a PNG'
           assert data[12:16] == b'IHDR', 'Missing PNG dimensions'
           assert struct.unpack('>II', data[16:24]) == (1080, 1920), 'Wrong story size'
+          source_filename = os.environ.get('STORY_SOURCE_FILENAME', '')
+          source_sha256 = os.environ.get('STORY_SOURCE_SHA256', '')
+          assert bool(source_filename) == bool(source_sha256), 'Source filename and hash must be supplied together'
+          if source_filename:
+              assert re.fullmatch(r'[a-z0-9][a-z0-9-]*-source-' + re.escape(edition) + r'\.png', source_filename), 'Invalid source filename'
+              assert re.fullmatch(r'[a-f0-9]{64}', source_sha256), 'Invalid source hash'
+              source_path = (export_dir / source_filename).resolve()
+              assert source_path.parent == export_dir, 'Source must remain inside exports'
+              source_data = source_path.read_bytes()
+              assert len(source_data) <= 32 * 1024 * 1024, 'Source exceeds size limit'
+              assert source_data.startswith(b'\x89PNG\r\n\x1a\n') and source_data[12:16] == b'IHDR', 'Source is not a PNG'
+              assert all(0 < size <= 8192 for size in struct.unpack('>II', source_data[16:24])), 'Invalid source dimensions'
+              assert hashlib.sha256(source_data).hexdigest() == source_sha256, 'Source differs from approved original'
           Path('download-release-notes.md').write_text(
               f'Moneyberg News Brief graphics for {edition}.\n\n'
-              'Download the original 1080 x 1920 PNG graphics from the assets below.\n'
+              'Download the original 1080 x 1920 PNG graphics from the assets below. '
+              'Files labeled source are unchanged companion artwork at their original dimensions.\n'
           )
           PY
 
@@ -65,10 +92,14 @@ jobs:
         shell: bash
         run: |
           release_tag="stories-$STORY_EDITION"
+          release_assets=("exports/$STORY_FILENAME")
+          if [ -n "$STORY_SOURCE_FILENAME" ]; then
+            release_assets+=("exports/$STORY_SOURCE_FILENAME")
+          fi
           if gh release view "$release_tag" >/dev/null 2>&1; then
-            gh release upload "$release_tag" "exports/$STORY_FILENAME" --clobber
+            gh release upload "$release_tag" "${release_assets[@]}" --clobber
           else
-            gh release create "$release_tag" "exports/$STORY_FILENAME" \
+            gh release create "$release_tag" "${release_assets[@]}" \
               --target "$GITHUB_SHA" \
               --title "Moneyberg News Brief — $STORY_EDITION" \
               --notes-file download-release-notes.md \

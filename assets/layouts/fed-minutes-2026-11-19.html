@@ -1,0 +1,46 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><base href="__ASSET_BASE_URI__"><style>
+@font-face{font-family:"Moneyberg Lato Black";src:url("fonts/lato/Lato-Black.ttf") format("truetype");font-weight:900}
+@font-face{font-family:"Moneyberg Georgia";src:url("__GEORGIA_FONT_URI__") format("truetype");font-weight:400}
+*{box-sizing:border-box}html,body{margin:0;width:1080px;height:1920px;overflow:hidden}#stage{position:relative;width:1080px;height:1920px;background:#13222c}
+#background{position:absolute;inset:0;width:1080px;height:1920px;object-fit:cover}
+.text{position:absolute;z-index:4;white-space:nowrap}.lato{font-family:"Moneyberg Lato Black";font-weight:900;color:#f5f2e9}.georgia{font-family:"Moneyberg Georgia";font-weight:400;color:#e6e8e7}
+#brand{left:118px;top:174px;font-size:35px;line-height:44px}
+#category{left:118px;top:232px;font-size:33px;line-height:42px;color:#c8b183}
+#date{left:118px;top:285px;font-size:33px;line-height:42px;color:#c3d1db}
+#headline-one{left:114px;top:436px;font-size:94px;line-height:111px;letter-spacing:-1px}
+#headline-two{left:112px;top:550px;font-size:94px;line-height:111px;letter-spacing:-1px;color:#dcc491}
+.body{left:118px;font-size:41px;line-height:55px}
+#body-one{top:708px}#body-two{top:765px}#body-three{top:822px}
+#move-panel{position:absolute;left:104px;top:926px;width:857px;height:355px;background:rgba(9,24,35,.94);border-top:1px solid #8c7851;border-left:4px solid #cbb07a;z-index:2}
+#move-label{left:131px;top:951px;font-size:45px;line-height:56px;color:#dcc491}
+#move-one,#move-two,#move-three,#move-four{left:131px;font-size:39px;line-height:53px}
+#move-one{top:1028px}#move-two{top:1081px}#move-three{top:1134px}#move-four{top:1187px}
+#source-panel{position:absolute;left:104px;top:1330px;width:857px;height:200px;background:rgba(9,24,35,.94);border-top:1px solid #687685;z-index:2}
+#meeting,#release,#source{left:118px;font-size:35px;line-height:47px}
+#meeting{top:1351px}#release{top:1398px}#source{top:1467px;font-size:33px;line-height:43px}
+#coin-installation{position:absolute;left:697px;top:112px;width:320px;height:320px;z-index:2;border-radius:50%;background:linear-gradient(135deg,#b99a60,#40342a 55%,#b28b49);box-shadow:inset 4px 5px 10px #1b1813,3px 4px 8px #020509cc,-1px -1px 2px #d6b77a}
+#coin{position:absolute;inset:0;width:320px;height:320px;object-fit:contain;filter:saturate(.75) brightness(.87)}
+#coin-contact{position:absolute;inset:0;border-radius:50%;pointer-events:none;box-shadow:inset 4px 5px 8px #191c2077,inset -2px -2px 4px #efc77755;background:linear-gradient(125deg,#ccddee11,transparent 46%,#1d344c18)}
+</style></head><body><main id="stage" aria-label="Federal Reserve October 27–28 meeting minutes, released November 18. Almost all participants saw further rate hikes as likely appropriate under baseline economic outlooks. A couple would consider more than 25 basis points if inflation data were unfavorable. November 19 edition.">
+<img id="background" src="fed-minutes-2026-11-19-background.png" alt="">
+<div id="coin-installation" data-scene-element aria-hidden="true"><img id="coin" src="moneyberg-coin-original.png" alt=""><div id="coin-contact" data-scene-element></div></div>
+<div id="brand" class="text lato" data-news-text>MONEYBERG NEWS BRIEF</div>
+<div id="category" class="text lato" data-news-text>FEDERAL RESERVE WATCH</div>
+<div id="date" class="text lato" data-news-text>NOVEMBER 19, 2026</div>
+<div id="headline-one" class="text lato" data-news-text data-text-role="headline">FED SEES</div>
+<div id="headline-two" class="text lato" data-news-text data-text-role="headline">MORE HIKES</div>
+<div id="body-one" class="text georgia body" data-news-text data-text-role="body">Almost all officials saw further rate</div>
+<div id="body-two" class="text georgia body" data-news-text data-text-role="body">increases as likely appropriate under</div>
+<div id="body-three" class="text georgia body" data-news-text data-text-role="body">their baseline economic outlook.</div>
+<div id="move-panel" data-news-panel></div>
+<div id="move-label" class="text lato" data-news-text>A BIGGER MOVE?</div>
+<div id="move-one" class="text georgia" data-news-text data-text-role="body">A couple would consider more than</div>
+<div id="move-two" class="text georgia" data-news-text data-text-role="body">25 basis points at the next meeting</div>
+<div id="move-three" class="text georgia" data-news-text data-text-role="body">if incoming inflation data</div>
+<div id="move-four" class="text georgia" data-news-text data-text-role="body">were unfavorable.</div>
+<div id="source-panel" data-news-panel></div>
+<div id="meeting" class="text georgia" data-news-text>October 27–28 meeting</div>
+<div id="release" class="text georgia" data-news-text>Minutes released November 18, 2026</div>
+<div id="source" class="text georgia" data-news-text>Sources: Federal Reserve minutes • AP</div>
+</main></body></html>

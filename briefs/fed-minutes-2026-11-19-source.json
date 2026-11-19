@@ -1,0 +1,29 @@
+{
+  "edition_date": "2026-11-19",
+  "category": "FEDERAL RESERVE WATCH",
+  "source": "Federal Reserve October 27\u201328 FOMC minutes, corroborated by Associated Press",
+  "primary_url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20261028.htm",
+  "news_url": "https://abcnews.com/US/wireStory/fed-minutes-higher-interest-rates-needed-december-inflation-138258781",
+  "meeting_dates": [
+    "2026-10-27",
+    "2026-10-28"
+  ],
+  "minutes_release_date": "2026-11-18",
+  "publication_date": "2026-11-18",
+  "source_access": "Full AP report and relevant original FOMC minutes paragraphs were read over public HTTPS and retained in research evidence; original source paragraph rechecked for graphic.",
+  "primary_source_html_sha256": "939151f377d148c72dbd4cf9757108be0389bb5021d72a548bb0c8d84fce77e6",
+  "primary_scope": {
+    "further_hikes": "Almost all participants judged further increases likely appropriate under baseline inflation/labor-market outlooks.",
+    "larger_hike": "A couple noted more than 25 basis points could warrant consideration at next meeting if incoming inflation data were unfavorable.",
+    "conditional_not_new_decision": true,
+    "no_new_rate_decision_claim": true,
+    "no_odds_or_predicted_certainty": true
+  },
+  "no_source_chart_requested_or_invented": true,
+  "original_coin_master": "assets/moneyberg-coin-original.png",
+  "original_coin_sha256": "4881cdd23eb81a8bd14be818e7b7d0b5f7a27f101402abebf42be7f07b9f5716",
+  "primary_passage_summaries": [
+    "Almost all participants judged that, under their baseline outlooks for inflation and the labor market, further action to raise the target range for the federal funds rate would likely be appropriate.",
+    "A couple of participants noted that an increase of more than 25 basis points could warrant consideration at the next meeting if incoming inflation data were unfavorable."
+  ]
+}

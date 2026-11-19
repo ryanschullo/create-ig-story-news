@@ -514,6 +514,14 @@ uses GitHub's workflow token; direct uploads from this cloud session previously
 returned HTTP 401 even though repository pushes worked. The historical October
 30 batch workflow and its six PNGs/ZIP remain available separately.
 
+The workflow also accepts an optional `source_filename` and matching
+`source_sha256` for an unchanged source PNG companion in `exports/`. Name it
+`TOPIC-source-YYYY-MM-DD.png`. Its original dimensions are preserved; the main
+Story remains subject to the 1080 × 1920 check. Use this for separately delivered
+source artwork when appropriate, and verify its original bytes, dimensions and
+source attribution. This delivery option does not replace a requested on-Story
+chart or the standing requirement to include Kobeissi charts in the Story slides.
+
 Before giving a download link, fetch it without authentication and verify
 HTTP 200, `Content-Disposition: attachment`, the expected filename, dimensions,
 and bytes against the local approved export. A ZIP can be added for batch
